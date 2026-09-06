@@ -275,12 +275,96 @@
     }
     .batch-card.active span { color: var(--accent); }
     .home-controls.hidden { display: none; }
+
+    button.artist-link {
+      background: none;
+      border: none;
+      padding: 0;
+      margin: 0;
+      font: inherit;
+      font-weight: 600;
+      color: var(--accent);
+      cursor: pointer;
+      text-align: left;
+      text-decoration: underline;
+      text-underline-offset: 0.15em;
+      text-decoration-thickness: 1px;
+    }
+    button.artist-link:hover { color: var(--ink); }
+    .run-head h2 .artist-link { font-size: inherit; font-weight: inherit; }
+
+    .artist-dialog {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1100;
+      background: rgba(0, 0, 0, 0.72);
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .artist-dialog.open { display: flex; }
+    .artist-dialog-panel {
+      width: min(520px, 100%);
+      max-height: min(88vh, 720px);
+      overflow: auto;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: 1.25rem 1.35rem 1.5rem;
+      position: relative;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.45);
+    }
+    .artist-dialog-close {
+      position: absolute;
+      top: 0.65rem;
+      right: 0.85rem;
+      background: transparent;
+      border: none;
+      color: var(--muted);
+      font-size: 1.75rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .artist-dialog-close:hover { color: var(--ink); }
+    .artist-dialog-photo {
+      width: 100%;
+      max-height: 280px;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+      background: #111;
+      border: 1px solid var(--line);
+      margin: 0 0 1rem;
+    }
+    .artist-dialog h3 {
+      margin: 0 0 0.35rem;
+      font-size: 1.35rem;
+      font-weight: 600;
+      padding-right: 1.5rem;
+    }
+    .artist-dialog .artist-meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 0.85rem;
+    }
+    .artist-dialog .artist-bio {
+      color: var(--ink);
+      font-size: 0.95rem;
+      line-height: 1.55;
+      margin: 0;
+      white-space: pre-wrap;
+    }
+    .artist-dialog .artist-credit {
+      color: var(--muted);
+      font-size: 0.75rem;
+      margin: 0.85rem 0 0;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>AI Art</h1>
-    <p class="sub">Daily artworks from Australian news.</p>
+    <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
     <div class="controls home-controls" id="homeControls">
       <div class="control">
         <label for="artistFilter">Artist</label>
@@ -297,6 +381,16 @@
     <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
     <img id="lightboxImg" alt="" />
   </div>
+  <div id="artistDialog" class="artist-dialog" role="dialog" aria-modal="true" aria-labelledby="artistDialogName" hidden>
+    <div class="artist-dialog-panel">
+      <button type="button" class="artist-dialog-close" id="artistDialogClose" aria-label="Close">&times;</button>
+      <img id="artistDialogPhoto" class="artist-dialog-photo" alt="" hidden />
+      <h3 id="artistDialogName"></h3>
+      <p class="artist-meta" id="artistDialogMeta"></p>
+      <p class="artist-bio" id="artistDialogBio"></p>
+      <p class="artist-credit" id="artistDialogCredit" hidden></p>
+    </div>
+  </div>
   <script>
     async function load() {
       const res = await fetch('gallery.json?_=' + Date.now());
@@ -308,11 +402,77 @@
       const homeControls = document.getElementById('homeControls');
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightboxImg');
+      const artistDialog = document.getElementById('artistDialog');
+      const artistDialogPhoto = document.getElementById('artistDialogPhoto');
+      const artistDialogName = document.getElementById('artistDialogName');
+      const artistDialogMeta = document.getElementById('artistDialogMeta');
+      const artistDialogBio = document.getElementById('artistDialogBio');
+      const artistDialogCredit = document.getElementById('artistDialogCredit');
 
       function escapeHtml(s) {
         return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
       }
       function escapeAttr(s) { return escapeHtml(s); }
+
+      function formatAuDate(iso) {
+        const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(iso || '').trim());
+        if (!m) return String(iso || '');
+        return m[3] + '/' + m[2] + '/' + m[1];
+      }
+
+      function imageCaption(img) {
+        const title = img.title || '';
+        const year = String(img.fashionYear || '').trim();
+        if (year) return title + ' · ' + year;
+        return title;
+      }
+
+      function artistButton(artist) {
+        const a = artist || {};
+        const name = a.name || 'Unknown';
+        const payload = encodeURIComponent(JSON.stringify({
+          name: a.name || '',
+          era: a.era || '',
+          renderMode: a.renderMode || '',
+          bio: a.bio || '',
+          photoUrl: a.photoUrl || '',
+          photoCredit: a.photoCredit || '',
+          tags: a.tags || []
+        }));
+        return `<button type="button" class="artist-link" data-artist-json="${payload}">${escapeHtml(name)}</button>`;
+      }
+
+      function openArtistDialog(raw) {
+        let a = {};
+        try { a = JSON.parse(decodeURIComponent(raw || '%7B%7D')); } catch (e) { a = {}; }
+        artistDialogName.textContent = a.name || 'Artist';
+        const bits = [a.era, a.renderMode].filter(Boolean);
+        artistDialogMeta.textContent = bits.join(' · ');
+        artistDialogBio.textContent = (a.bio || '').trim() || 'No biography available yet.';
+        if (a.photoUrl) {
+          artistDialogPhoto.src = a.photoUrl;
+          artistDialogPhoto.alt = a.name || 'Artist portrait';
+          artistDialogPhoto.hidden = false;
+        } else {
+          artistDialogPhoto.removeAttribute('src');
+          artistDialogPhoto.hidden = true;
+        }
+        if (a.photoCredit) {
+          artistDialogCredit.textContent = 'Photo: ' + a.photoCredit;
+          artistDialogCredit.hidden = false;
+        } else {
+          artistDialogCredit.hidden = true;
+        }
+        artistDialog.hidden = false;
+        artistDialog.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeArtistDialog() {
+        artistDialog.classList.remove('open');
+        artistDialog.hidden = true;
+        document.body.style.overflow = '';
+      }
 
       function parseRoute() {
         const raw = location.hash.replace(/^#\/?/, '');
@@ -406,12 +566,13 @@
             const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
             const idx = img.index;
             const title = img.title || '';
+            const caption = imageCaption(img);
             return `
             <figure>
               <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}" loading="lazy"
                    data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
               <figcaption>
-                <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}">${escapeHtml(title)}</a>
+                <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}">${escapeHtml(caption)}</a>
               </figcaption>
             </figure>`;
           }).join('');
@@ -419,8 +580,8 @@
           return `
             <section class="run" data-artist="${escapeAttr((run.artist && run.artist.name) || '')}" id="${run.date}">
               <div class="run-head">
-                <h2>${escapeHtml((run.artist && run.artist.name) || 'Unknown')}</h2>
-                <span class="meta">${escapeHtml(run.date)} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</span>
+                <h2>${artistButton(run.artist)}</h2>
+                <span class="meta">${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</span>
                 ${themes ? `<div class="themes">${escapeHtml(themes)}</div>` : ''}
                 ${summary ? `<p class="run-summary">${escapeHtml(summary)}</p>` : ''}
               </div>
@@ -440,7 +601,6 @@
         const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
         const title = img.title || 'Untitled';
         const desc = img.prompt || run.summary || '';
-        const artist = (run.artist && run.artist.name) || '';
         const backHref = '#/' + run.date;
         const models = run.models || {};
         const imageModel = models.image || 'Flux Klein';
@@ -454,7 +614,7 @@
           return `
             <a class="batch-card${active}" href="#/${escapeAttr(run.date)}/${escapeAttr(String(im.index))}" title="${escapeAttr(im.title || '')}">
               <img src="${escapeAttr(csrc)}" alt="${escapeAttr(im.title || '')}" loading="lazy" />
-              <span>${escapeHtml(im.title || ('#' + im.index))}</span>
+              <span>${escapeHtml(imageCaption(im) || ('#' + im.index))}</span>
             </a>`;
         }).join('');
         main.innerHTML = `
@@ -463,7 +623,7 @@
             <img class="hero" src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
                  data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
             <h2>${escapeHtml(title)}</h2>
-            <p class="meta">${escapeHtml(artist)} · ${escapeHtml(run.date)} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</p>
+            <p class="meta">${artistButton(run.artist)} · ${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}${img.fashionYear ? ' · ' + escapeHtml(String(img.fashionYear)) : ''}</p>
             <div class="desc">${escapeHtml(desc)}</div>
             <p class="generated-by">${escapeHtml(generatedBy)}</p>
             <p class="batch-strip-label">This day’s artworks</p>
@@ -487,11 +647,28 @@
       main.addEventListener('click', (e) => {
         const t = e.target;
         if (!(t instanceof Element)) return;
+        const artistBtn = t.closest('[data-artist-json]');
+        if (artistBtn) {
+          e.preventDefault();
+          openArtistDialog(artistBtn.getAttribute('data-artist-json'));
+          return;
+        }
         const img = t.closest('[data-action="fullscreen"]');
         if (img) {
           e.preventDefault();
           openLightbox(img.getAttribute('data-fullsrc') || img.getAttribute('src'), img.getAttribute('alt'));
         }
+      });
+
+      document.getElementById('artistDialogClose').addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeArtistDialog();
+      });
+      artistDialog.addEventListener('click', (e) => {
+        if (e.target === artistDialog) closeArtistDialog();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && artistDialog.classList.contains('open')) closeArtistDialog();
       });
 
       function onFilterInput() {
