@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-28",
+  "artist": {
+    "id": "cheri_samba",
+    "name": "Chéri Samba",
+    "era": "contemporary CD",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "popular-painting",
+      "africa"
+    ],
+    "bio": "Chéri Samba (contemporary CD). Congolese popular painting energy: vivid narrative street scenes, comic clarity, Kinshasa modern life—figures and city color without readable speech text. Painterly fine-art visual language. Associated tags: popular-painting, africa.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. Initiatives like the National First Nations Visitor Economy Partnership are connecting global visitors with authentic cultural experiences, supporting employment in remote communities while celebrating the enduring stewardship of Country by Traditional Owners. This growth is complemented by a broader shift toward regional innovation, where rural communities are leveraging local knowledge and sustainable practices to drive new industrial and environmental solutions.\n\nIn the realm of science and health, Australian research institutions are delivering tangible benefits to patients and the public. The National Collaborative Research Infrastructure Strategy (NCRIS) has supported the development of a tiny surgical implant designed to prevent permanent vision loss, showcasing how public investment in R&D translates into life-changing medical progress. Furthermore, the legacy of First Nations innovation, such as the ancient Ngunnhu fish traps in NSW, continues to inspire modern approaches to resource management and sustainability, highlighting a deep, continuous connection between culture and science.\n\nInternationally, the focus remains on human achievement and resilience, with global narratives emphasizing community solidarity and constructive responses to challenges. While specific international headlines are limited in the provided evidence, the overarching theme aligns with a world that values exploration, conservation, and kindness. For the art gallery, these stories offer a powerful narrative of hope: from the quiet ingenuity of regional farmers to the bold cultural exchanges of Indigenous tourism, the evidence points to a society that is actively building a more inclusive, innovative, and connected future.",
+  "themes": [
+    "First Nations Tourism & Reconciliation",
+    "Regional Travel Resurgence",
+    "Medical Innovation & Vision Care",
+    "Sustainable Regional Innovation",
+    "Cultural Stewardship of Country",
+    "Community Resilience"
+  ],
+  "headlines": [
+    {
+      "title": "National First Nations Visitor Economy Partnership Launches",
+      "url": "https://www.travelandtourworld.com/news/article/9537sutbxhz0/"
+    },
+    {
+      "title": "Rural and Regional Issues Making the News: ABC Landline",
+      "url": "https://www.abc.net.au/news/rural/programs/landline/2026-08-23/news-rural-and-regional-issues-making-the-news/107063856"
+    },
+    {
+      "title": "NCRIS Celebrates 20 Years of Research Support and Innovation",
+      "url": "https://www.education.gov.au/newsroom/articles/ncris-celebrating-20-years-research-support-and-innovation"
+    },
+    {
+      "title": "Regional Innovations: The Future Is Out Here",
+      "url": "https://www.australiangeographic.com.au/nature-wildlife/sustainability/2025/10/regional-innovations-the-future-is-out-here/"
+    },
+    {
+      "title": "Tourism Australia Champions First Nations Cultures via Reconciliation Action Plans",
+      "url": "https://www.tourism.australia.com/en/about/industry-sectors/aboriginal-torres-strait-islander-tourism.html"
+    },
+    {
+      "title": "Minister Acknowledges First Nations Care for Country in Agriculture",
+      "url": "https://minister.agriculture.gov.au/Collins/media-releases"
+    },
+    {
+      "title": "Australians Embrace Regional Travel Resurgence 2026",
+      "url": "https://www.farmonline.com.au/story/9093328/australians-embrace-regional-travel-resurgence-2026/"
+    },
+    {
+      "title": "Migration and Regional Innovation in Australia: OECD Report",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/migration-and-regional-innovation-in-australia_16bd2100/6d6ff472-en.pdf"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "First Nations Tourism Sector Growth Supports Economic Activity",
+      "url": "https://www.niaa.gov.au/our-work/employment-and-economic-development/first-nations-tourism",
+      "angle": "Highlighting how sharing cultural experiences boosts employment in remote communities and contributes to national reconciliation."
+    },
+    {
+      "title": "Tiny Surgical Implant Prevents Permanent Vision Loss",
+      "url": "https://www.education.gov.au/newsroom/articles/ncris-celebrating-20-years-research-support-and-innovation",
+      "angle": "Showcasing a medical breakthrough funded by NCRIS that safely drains fluid from the eye, preserving sight for patients."
+    },
+    {
+      "title": "Australians Embrace Regional Travel Resurgence",
+      "url": "https://www.farmonline.com.au/story/9093328/australians-embrace-regional-travel-resurgence-2026/",
+      "angle": "Celebrating the shift in tourist behavior toward regional towns like Bowen and Devonport, supporting local economies and reducing over-tourism in major cities."
+    },
+    {
+      "title": "Ancient Ngunnhu Fish Traps Inspire Modern Innovation",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip/types-of-ip/ip-in-history",
+      "angle": "Recognizing the Ngemba people's thousands-of-years-old fish traps as a complex, sustainable innovation that continues to be maintained and respected."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Indigenous Tourism Sector - Corporate - Tourism Australia",
+      "url": "https://www.tourism.australia.com/en/about/industry-sectors/aboriginal-torres-strait-islander-tourism.html",
+      "snippet": "<strong>The development and implementation of successive Reconciliation Action Plans</strong> have been fundamental to achieving our strategic goals and building the framework for our commitment to champion and advocate for First Nations cultures and tourism.",
+      "source": "brave"
+    },
+    {
+      "title": "First Nations Tourism | NIAA",
+      "url": "https://www.niaa.gov.au/our-work/employment-and-economic-development/first-nations-tourism",
+      "snippet": "<strong>NIAA is supporting the sustainability and growth of the First Nations tourism sector</strong>. Sharing cultural experiences with tourists can boost economic activity and employment opportunities for First Nations peoples, including in regional and remote communities. It can also contribute to reconciliation ...",
+      "source": "brave"
+    },
+    {
+      "title": "Media releases | Ministers",
+      "url": "https://minister.agriculture.gov.au/Collins/media-releases",
+      "snippet": "<strong>We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and waters of Australia</strong>. We recognise their care for and cultivation of Country.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia Unleashes Explosive Indigenous Tourism Surge as First Nations Experiences Captivate Global Visitors! - Travel And Tour World",
+      "url": "https://www.travelandtourworld.com/news/article/9537sutbxhz0/",
+      "snippet": "<strong>Australian authorities are rolling out initiatives aimed at boosting the role of Indigenous cultures within the tourist economy</strong>. The National First Nations Visitor Economy Partnership brings together leaders and governments from across states ...",
+      "source": "brave"
+    },
+    {
+      "title": "News: Rural and regional issues making the news - ABC News",
+      "url": "https://www.abc.net.au/news/rural/programs/landline/2026-08-23/news-rural-and-regional-issues-making-the-news/107063856",
+      "snippet": "ABC Rural News provides authoritative coverage of the business and politics of Australian farming, livestock, forestry, agriculture and primary production",
+      "source": "brave"
+    },
+    {
+      "title": "Australians embrace regional travel resurgence 2026 | Farm Online | ACT",
+      "url": "https://www.farmonline.com.au/story/9093328/australians-embrace-regional-travel-resurgence-2026/",
+      "snippet": "&quot;Towns like Bowen [Queensland] and Devonport [Tasmania] were visited by less than five per cent of Australians in the past five years, despite being nationally recognised for tourism excellence,&quot; CEO David Anderson said. Nearly half of the respondents believed Sydney, Gold Coast and Melbourne were at risk of over-tourism, however more than half said cost was a barrier to regional tourism.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia regional Australia site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+regional+Australia+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: regional Australia farming coast tourism First Nations good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=regional+Australia+farming+coast+tourism+First+Nations+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Australia’s Innovation Future",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Innovation_System/~/media/Committees/economics_ctte/Innovation_System/Final_Report/e05.pdf",
+      "snippet": "makers take a close interest the level of national investment in research and development (R&amp;D) with · the expectation that this will lead to breakthroughs in scientific discovery and technological inventions · that can be adopted and applied to create new industrial infrastructure, new production processes and ... electricity, the internal combustion engine, the railway, the telephone, and reticulated urban water · supply (impacting on human health).",
+      "source": "brave"
+    },
+    {
+      "title": "Migration and regional innovation in Australia",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/migration-and-regional-innovation-in-australia_16bd2100/6d6ff472-en.pdf",
+      "snippet": "The Intellectual Property Government ... by IP Australia, provides · information on intellectual property (IP) rights applications used to construct regional innovation measures. This dataset offers detailed geolocated information on the number of patents, design rights, and trademark · applications. Each of these measures captures distinct dimensions of innovation. Patents and design rights · encapsulate innovations that are new to the world...",
+      "source": "brave"
+    },
+    {
+      "title": "Regional innovations: The future is out here - Australian Geographic",
+      "url": "https://www.australiangeographic.com.au/nature-wildlife/sustainability/2025/10/regional-innovations-the-future-is-out-here/",
+      "snippet": "They’ve fallen into the cycle of the environment, just like the emus.” · <strong>The Osmonds</strong>’ path is a reminder that, often, the land itself can be a driver of innovation – and that out here, new ideas can grow as quickly as the grasses beneath ...",
+      "source": "brave"
+    },
+    {
+      "title": "NCRIS: Celebrating 20 years of research support and innovation - Department of Education, Australian Government",
+      "url": "https://www.education.gov.au/newsroom/articles/ncris-celebrating-20-years-research-support-and-innovation",
+      "snippet": "Developed by VividWhite, with support from the NCRIS‑funded Australian National Fabrication Facility, <strong>a tiny surgical implant helps safely drain fluid from the eye into surrounding tissue, to prevent permanent vision loss</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "1 Australian Innovation Systems Overview 2023 July 2023 The Growth Drivers",
+      "url": "https://research.csiro.au/aus4innovation/wp-content/uploads/sites/578/2025/10/14.-Australian-Innovation-Systems-Overview-2023.pdf",
+      "snippet": "Discovery, AC). These initiatives have <strong>facilitated innovation in knowledge- intensive sectors such as advanced manufacturing, health, and agriculture</strong>. However, and despite these efforts, Australia continues to rank low against",
+      "source": "brave"
+    },
+    {
+      "title": "History of innovation in Australia | IP Australia",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip/types-of-ip/ip-in-history",
+      "snippet": "The Ngemba people of Brewarrina in NSW used their advanced knowledge of rivers and fish behaviour to trap and catch large numbers of fish in the Darling River. Thousands of years old, the innovative fish traps, known as Ngunnhu, are a complex network of river stones, arranged to form ponds and channels that catch fish as they travel downstream. First Nations People in the region continue to use and maintain them.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian regional Australia farming coast tourism First Nations news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+regional+Australia+farming+coast+tourism+First+Nations+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Woven Path of Reconciliation",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Kinshasa-style scene in a coastal Australian town weaves regional tourism, First Nations cultural exchange, and medical innovation. It depicts visitors engaging with Traditional Owners near ancient fish traps, while a doctor examines a patient's eye, symbolizing national progress in health and cultural respect.",
+      "prompt": "Painterly fine-art canvas, Congolese popular painting energy, vivid narrative street scene. Coastal Australian town, eucalyptus trees, red earth. Diverse figures in 2024 casual fashion: smart jeans, linen shirts. First Nations elder sharing culture with tourists. Doctor examining patient's eye with tiny implant. Ancient fish traps in background. Bold colors, comic clarity, no text, high pigment, expressive brushwork, unified composition. Unified Australian scene weaving together these themes: First Nations Tourism & Reconciliation, Regional Travel Resurgence, Medical Innovation & Vision Care, Sustainable Regional Innovation, Cultural Stewardship of Country, Community Resilience.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1208972313,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/01.png style=flux_klein size=896x1152 seed=1208972313 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Sight Restored in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Sight Restored in the Outback answers a strand of today’s news with a focused visual reading. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. For the art gallery, these stories offer a powerful narrative of hope: from the quiet ingenuity of regional farmers to the bold cultural exchanges of Indigenous tourism, the evidence points to a society that is actively building a more inclusive, innovative, and connected future. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Congolese popular painting style, bold street narrative. Outback clinic interior, red dust outside. 1978 fashion: bell-bottoms, denim jackets, platform shoes. Doctor performing eye surgery with tiny implant. Patient smiling, relieved. Bright pigments, expressive brushwork, comic clarity, no text, no digital camera look, warm lighting, detailed canvas texture, human dignity, medical progress. Australian landscape or city setting with Australian people.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 329456083,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/02.png style=flux_klein size=896x1152 seed=329456083 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Ancient Traps of Ngemba",
+      "tone": "good_news",
+      "fashionYear": "1922",
+      "emailHero": false,
+      "description": "The Ancient Traps of Ngemba takes on the day’s First Nations Tourism & Reconciliation thread, translating the news into a single visual moment. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. Furthermore, the legacy of First Nations innovation, such as the ancient Ngunnhu fish traps in NSW, continues to inspire modern approaches to resource management and sustainability, highlighting a deep, continuous connection between culture and science. The composition keeps the human stakes of First Nations Tourism & Reconciliation in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Congolese popular painting energy, vivid narrative. NSW river, eucalyptus scrub, ancient fish traps. 1922 fashion: wool suits, wide-brimmed hats, long dresses. First Nations figures maintaining traps. Tourists observing respectfully. Bold colors, comic clarity, no text, expressive brushwork, high pigment, canvas texture, cultural stewardship, sustainable innovation, dignified representation. Australian landscape or city setting with Australian people.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1003527637,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/03.png style=flux_klein size=896x1152 seed=1003527637 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Regional Travel Resurgence in Bowen",
+      "tone": "good_news",
+      "fashionYear": "1996",
+      "emailHero": false,
+      "description": "Capturing the shift toward regional towns like Bowen, this artwork shows tourists exploring a coastal Queensland street. It celebrates the economic boost to local businesses and the move away from over-tourism in major cities, highlighting community resilience and local hospitality.",
+      "prompt": "Painterly fine-art, Congolese popular painting style, bold street scene. Coastal Queensland town, Bowen, palm trees, harbor. 1996 fashion: flannel shirts, jeans, sneakers. Diverse tourists walking, shopping. Local shopkeepers welcoming. Vibrant pigments, comic clarity, no text, expressive brushwork, canvas texture, regional innovation, economic empowerment, sunny atmosphere, human connection. Australian landscape or city setting with Australian people.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1996727468,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/04.png style=flux_klein size=896x1152 seed=1996727468 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Community Solidarity in Devonport",
+      "tone": "news",
+      "fashionYear": "1890",
+      "emailHero": false,
+      "description": "Set in a historic Tasmanian town, this scene depicts neighbors supporting each other during a period of change. It reflects the broader theme of community resilience and constructive responses to challenges, showing how local knowledge and solidarity drive sustainable regional growth.",
+      "prompt": "Painterly fine-art, Congolese popular painting energy, vivid narrative. Devonport, Tasmania, harbor, historic buildings. 1890 fashion: long skirts, waistcoats, top hats. Diverse figures helping each other, sharing goods. Community gathering. Bold colors, comic clarity, no text, expressive brushwork, high pigment, canvas texture, human resilience, constructive response, dignified figures. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1727139296,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/05.png style=flux_klein size=896x1152 seed=1727139296 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Ngunnhu Harvest",
+      "tone": "good_news",
+      "fashionYear": "1915",
+      "emailHero": false,
+      "description": "The Ngunnhu Harvest takes on the day’s First Nations Tourism & Reconciliation thread, translating the news into a single visual moment. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. Furthermore, the legacy of First Nations innovation, such as the ancient Ngunnhu fish traps in NSW, continues to inspire modern approaches to resource management and sustainability, highlighting a deep, continuous connection between culture and science. The composition keeps the human stakes of First Nations Tourism & Reconciliation in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas, vivid Congolese street narrative style. Red desert riverbank in NSW, 1915 fashion. First Nations figures in woolen sweaters and wide-brimmed hats maintain ancient stone fish traps. Bright pigments, bold brushwork, no text. Dignified, hopeful atmosphere. Australian landscape or city setting with Australian people.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 56863387,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/06.png style=flux_klein size=896x1152 seed=56863387 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Vision in the Scrub",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Vision in the Scrub answers a strand of today’s news with a focused visual reading. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. Minister Acknowledges First Nations Care for Country in Agriculture. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Fine-art oil, painterly texture, Congolese comic clarity. 1955 fashion in a Queensland clinic. A doctor in white coat and a patient in modest dress share a hopeful glance. Bright, saturated colors, expressive brushstrokes. No digital effects, no readable text. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 176900348,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/07.png style=flux_klein size=896x1152 seed=176900348 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Bowen's New Dawn",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Bowen's New Dawn answers a strand of today’s news with a focused visual reading. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. Minister Acknowledges First Nations Care for Country in Agriculture. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas, Congolese popular painting energy. 2010 fashion in Bowen, Queensland. Diverse tourists and locals walk a sunny coastal street. Vibrant street art, bold brushwork, saturated pigments. No speech bubbles, no logos. Joyful, narrative street scene. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1844568542,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/08.png style=flux_klein size=896x1152 seed=1844568542 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Devonport's Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Devonport's Solidarity answers a strand of today’s news with a focused visual reading. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. For the art gallery, these stories offer a powerful narrative of hope: from the quiet ingenuity of regional farmers to the bold cultural exchanges of Indigenous tourism, the evidence points to a society that is actively building a more inclusive, innovative, and connected future. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Fine-art oil, painterly medium, Congolese narrative style. 1985 fashion in Devonport, Tasmania. A group of diverse neighbors share food and conversation in a park. Bold, expressive brushstrokes, rich pigments. No text, no digital rendering. Warm, communal atmosphere. Australian landscape or city setting with Australian people.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1018988157,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/09.png style=flux_klein size=896x1152 seed=1018988157 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "The Reconciliation Walk",
+      "tone": "news",
+      "fashionYear": "2022",
+      "emailHero": false,
+      "description": "The Reconciliation Walk answers a strand of today’s news with a focused visual reading. Australia is witnessing a vibrant resurgence in regional travel and First Nations tourism, driven by a national commitment to cultural reconciliation and economic empowerment. For the art gallery, these stories offer a powerful narrative of hope: from the quiet ingenuity of regional farmers to the bold cultural exchanges of Indigenous tourism, the evidence points to a society that is actively building a more inclusive, innovative, and connected future. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas, Congolese street narrative. 2022 fashion in the Australian outback. A guide and tourists walk through red dust, sharing stories. Vibrant, saturated colors, bold brushwork. No readable text, no logos. Dignified, respectful cultural exchange. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2021047558,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-28/10.png style=flux_klein size=896x1152 seed=2021047558 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
