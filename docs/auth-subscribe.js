@@ -79,6 +79,7 @@
       els.profileBtn.title = 'Account';
       els.profileBtn.setAttribute('aria-label', 'Account');
       els.profileBtn.setAttribute('aria-haspopup', 'dialog');
+      if (els.avatarIcon) els.avatarIcon.hidden = true;
       if (user.picture) {
         els.avatarImg.src = user.picture;
         els.avatarImg.hidden = false;
@@ -98,8 +99,9 @@
       els.profileBtn.removeAttribute('aria-haspopup');
       els.avatarImg.removeAttribute('src');
       els.avatarImg.hidden = true;
-      els.avatarFallback.hidden = false;
-      els.avatarFallback.textContent = '?';
+      els.avatarFallback.hidden = true;
+      els.avatarFallback.textContent = '';
+      if (els.avatarIcon) els.avatarIcon.hidden = false;
       els.dialog.classList.remove('open');
       els.dialog.hidden = true;
     }

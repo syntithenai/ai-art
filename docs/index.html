@@ -669,7 +669,13 @@
       box-shadow: 0 16px 48px rgba(0,0,0,0.45);
     }
     .profile-dialog h3 { margin: 0 0 0.2rem; font-size: 1.2rem; }
-    .profile-dialog .meta { margin: 0 0 1rem; }
+    .profile-dialog .meta { margin: 0 0 0.75rem; }
+    .profile-dialog .sub-explain {
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.45;
+      margin: 0 0 0.85rem;
+    }
     .profile-dialog .sub-status {
       color: var(--muted);
       font-size: 0.9rem;
@@ -723,7 +729,7 @@
       <button type="button" class="profile-btn share-header-btn" id="headerShareBtn" title="Share this page" aria-label="Share this page" aria-haspopup="dialog">
         <span class="profile-btn-label">Share</span>
       </button>
-      <button type="button" class="profile-btn" id="authProfileBtn" title="Sign in with Google" aria-label="Sign in with Google">
+      <button type="button" class="profile-btn" id="authProfileBtn" title="Subscribe" aria-label="Subscribe">
         <span class="profile-btn-avatar-wrap">
           <img id="authAvatarImg" class="profile-avatar-img" alt="" width="32" height="32" referrerpolicy="no-referrer" hidden />
           <span id="authAvatarFallback" class="profile-avatar-fallback" aria-hidden="true" hidden></span>
@@ -734,7 +740,7 @@
             </svg>
           </span>
         </span>
-        <span class="profile-btn-label" id="authProfileLabel">Sign in</span>
+        <span class="profile-btn-label" id="authProfileLabel">Subscribe</span>
       </button>
     </div>
   </header>
