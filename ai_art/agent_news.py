@@ -125,7 +125,10 @@ class NewsAgent:
         *,
         max_tokens: int = 2048,
         temperature: float = 0.4,
+        retries: int = 4,
     ) -> str:
+        import time
+
         payload = {
             "model": config.QWEN_MODEL,
             "messages": messages,
@@ -135,17 +138,32 @@ class NewsAgent:
             "chat_template_kwargs": {"enable_thinking": False},
         }
         headers = {"Authorization": f"Bearer {config.QWEN_API_KEY}"}
-        resp = self.client.post(
-            f"{config.QWEN_BASE_URL}/chat/completions",
-            json=payload,
-            headers=headers,
-            timeout=180.0,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        msg = ((data.get("choices") or [{}])[0].get("message")) or {}
-        content = msg.get("content") or ""
-        return str(content).strip()
+        last_exc: Exception | None = None
+        for attempt in range(1, retries + 1):
+            try:
+                resp = self.client.post(
+                    f"{config.QWEN_BASE_URL}/chat/completions",
+                    json=payload,
+                    headers=headers,
+                    timeout=180.0,
+                )
+                resp.raise_for_status()
+                data = resp.json()
+                msg = ((data.get("choices") or [{}])[0].get("message")) or {}
+                content = msg.get("content") or ""
+                return str(content).strip()
+            except (httpx.ConnectError, httpx.ReadError, httpx.RemoteProtocolError) as exc:
+                last_exc = exc
+                wait = min(2 ** attempt, 20)
+                # Peer run may have stopped Qwen for Comfy — wait and retry.
+                time.sleep(wait)
+            except httpx.HTTPStatusError as exc:
+                last_exc = exc
+                if exc.response is not None and exc.response.status_code in {502, 503, 504}:
+                    time.sleep(min(2 ** attempt, 20))
+                    continue
+                raise
+        raise RuntimeError(f"Qwen chat failed after {retries} retries: {last_exc}") from last_exc
 
     def gather_sources(self, on: date) -> list[dict[str, str]]:
         day = on.isoformat()

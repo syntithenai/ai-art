@@ -92,34 +92,45 @@ def qwen_smoke_ok() -> bool:
 
 
 def start_qwen() -> None:
-    script = config.QWEN_START_SCRIPT
-    if not script.is_file():
-        # Fallback to systemctl directly.
-        log("start-systemd.sh missing; using systemctl --user start")
-        completed = subprocess.run(
-            ["systemctl", "--user", "start", "qwen-server", "qwen-proxy"],
-            check=False,
-            capture_output=True,
-            text=True,
-            timeout=120,
-        )
-        if completed.returncode != 0:
-            raise PreflightError(
-                (completed.stderr or completed.stdout or "systemctl start failed").strip()
-            )
-        return
-    log(f"starting Qwen via {script}")
+    """Start llama-server + proxy only (skip Open WebUI — it races under parallel starts)."""
+    # Prefer direct systemctl so we never touch docker compose / Open WebUI.
+    log("starting Qwen via systemctl --user (server + proxy; Open WebUI skipped)")
     completed = subprocess.run(
-        [str(script)],
+        ["systemctl", "--user", "start", "qwen-server", "qwen-proxy"],
         check=False,
         capture_output=True,
         text=True,
-        timeout=600,
+        timeout=120,
     )
     if completed.returncode != 0:
         err = (completed.stderr or completed.stdout or "").strip()
+        # Another process may already have brought it up.
+        if qwen_health_ok():
+            log(f"systemctl start returned {completed.returncode} but Qwen is healthy; continuing")
+            return
+        # Fall back to start script with WebUI disabled.
+        script = config.QWEN_START_SCRIPT
+        if script.is_file():
+            log(f"systemctl start failed ({err}); trying {script} with QWEN_SKIP_WEBUI=1")
+            env = os.environ.copy()
+            env["QWEN_SKIP_WEBUI"] = "1"
+            completed2 = subprocess.run(
+                [str(script)],
+                check=False,
+                capture_output=True,
+                text=True,
+                timeout=600,
+                env=env,
+            )
+            if completed2.returncode == 0:
+                log((completed2.stdout or "qwen start ok").strip())
+                return
+            if qwen_health_ok():
+                log("start script failed but Qwen health is OK; continuing")
+                return
+            err2 = (completed2.stderr or completed2.stdout or "").strip()
+            raise PreflightError(f"Qwen start failed: {err2 or err or completed2.returncode}")
         raise PreflightError(f"Qwen start failed: {err or completed.returncode}")
-    log((completed.stdout or "qwen start ok").strip())
 
 
 def restart_qwen() -> None:
@@ -180,12 +191,31 @@ def ensure_qwen(*, allow_restart: bool = True) -> None:
         log("Qwen already healthy")
         return
 
-    log("Qwen not healthy; starting")
-    start_qwen()
+    # Another parallel starter may be mid-boot — wait briefly before we start too.
+    log("Qwen not healthy; waiting briefly in case another process is starting it")
+    try:
+        wait_qwen_ready(timeout_s=45.0, smoke=True)
+        return
+    except PreflightError:
+        pass
+
+    log("Qwen still down; starting")
+    try:
+        start_qwen()
+    except PreflightError as exc:
+        # Race: peer may have finished starting despite our error (docker webui conflict etc.).
+        if qwen_health_ok() and qwen_smoke_ok():
+            log(f"start reported error ({exc}) but Qwen is healthy now; continuing")
+            return
+        raise
+
     try:
         wait_qwen_ready(timeout_s=360.0, smoke=True)
         return
     except PreflightError:
+        if qwen_health_ok() and qwen_smoke_ok():
+            log("wait timed out earlier but Qwen is healthy now; continuing")
+            return
         if not allow_restart:
             raise
         log("Qwen start did not become ready; one restart attempt")
