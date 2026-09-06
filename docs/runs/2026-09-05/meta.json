@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-05",
+  "artist": {
+    "id": "louay_kayyali",
+    "name": "Louay Kayyali",
+    "era": "20th c. SY",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "modernism",
+      "middle-east"
+    ]
+  },
+  "summary": "Australian housing affordability has reached a historic low, with households earning the median income of approximately $125,000 able to afford only 12% of homes sold in the last financial year. Despite recent declines in property prices, mortgage repayments now consume the highest share of household income since 1989. Economists attribute this crisis to a persistent lack of housing supply, noting that affordability will remain a significant challenge until construction output increases meaningfully.\n\nThe Reserve Bank of Australia (RBA) is contemplating further interest rate hikes in response to inflation, which rose to 3.1% in the June quarter. However, analysts argue that the RBA’s economic models may not reflect the lived experience of consumers, as higher rates have already caused household mortgage spending to rise by 10.4%, wiping out a third of recent income gains. The economy is described as \"limping along,\" with GDP growth at 0.4% in the June quarter, raising concerns that additional rate rises could stifle an already fragile economic recovery.\n\nCost of living pressures continue to intensify nationwide, affecting both renters and homeowners. While some forecasts suggest interest rates may remain on hold for much of 2026, the potential for further hikes if economic conditions worsen keeps financial stress high. The divergence between wage growth, which increased by 4.1% over the past 12 months, and house price growth has widened the affordability gap, leaving many Australians rethinking their living arrangements due to financial strain.",
+  "themes": [
+    "Housing affordability crisis",
+    "RBA interest rate decisions",
+    "Cost of living pressures",
+    "Mortgage repayment stress",
+    "Inflation vs. wage growth",
+    "Housing supply shortage"
+  ],
+  "headlines": [
+    {
+      "title": "Housing affordability hits lowest rate on record despite recent falls in property prices",
+      "url": "https://www.abc.net.au/news/2026-09-05/housing-affordability-hits-all-time-low-despite-falling-prices/107115796"
+    },
+    {
+      "title": "RBA’s economic inflation wisdom doesn't fit the lived experience",
+      "url": "https://www.thenewdaily.com.au/finance/finance-news/2026/09/04/rba-inflation-not-lived-experience"
+    },
+    {
+      "title": "Australia’s economy limps along, but the RBA should take a closer look before raising interest rates again",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/03/australia-economy-gdp-growth-rba-expected-raise-interest-rates-again"
+    },
+    {
+      "title": "Michelle Grattan | House prices drop, but economic pain remains",
+      "url": "https://www.thecourier.com.au/story/9343649/michelle-grattan-house-prices-drop-but-economic-pain-remains/"
+    },
+    {
+      "title": "The Cost Of Living In Australia Is Worse Than You Think",
+      "url": "https://arielle.com.au/cost-of-living-in-australia/"
+    },
+    {
+      "title": "Australia Cost-of-Living Pressures 2026: Households Continue to Face Rising Expenses Nationwide",
+      "url": "https://www.occasionalsettings.com.au/australia-cost-of-living-pressures-2026/"
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "RBA’s economic inflation wisdom doesn't fit the lived experience",
+      "url": "https://www.thenewdaily.com.au/finance/finance-news/2026/09/04/rba-inflation-not-lived-experience",
+      "snippet": "As the Reserve Bank of Australia contemplates yet another rate rise, it is worth considering how we ended up with an economic system that means a war miles away makes housing more expensive for millions of workers.",
+      "source": "brave"
+    },
+    {
+      "title": "Housing affordability hits lowest rate on record despite recent falls in property prices - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-05/housing-affordability-hits-all-time-low-despite-falling-prices/107115796",
+      "snippet": "<strong>Housing affordability has fallen to the lowest rate on record</strong>, with households earning a typical income only able to afford around one in every 10 properties sold across the country in the last financial year.",
+      "source": "brave"
+    },
+    {
+      "title": "The Cost Of Living In Australia Is Worse Than You Think",
+      "url": "https://arielle.com.au/cost-of-living-in-australia/",
+      "snippet": "Plus, <strong>the forecast is for interest rates to remain on hold throughout 2026</strong>, with potential hikes if economic conditions worsen. Until inflation and wages both start moving in the right direction again, many Australians will continue to feel ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australia Cost-of-Living Pressures 2026: Households Continue to Face Rising Expenses Nationwide",
+      "url": "https://www.occasionalsettings.com.au/australia-cost-of-living-pressures-2026/",
+      "snippet": "Urban housing demand has made financial stress worse for both renters and homeowners, forcing many to rethink where they live or move to areas that are cheaper. In 2026, <strong>costs of living went up a lot, not just for housing</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Housing affordability - Australian Institute of Health and Welfare",
+      "url": "https://www.aihw.gov.au/reports/australias-welfare/housing-affordability",
+      "snippet": "Access to good quality, affordable housing is fundamental to wellbeing. It can help reduce poverty and enhance equality of opportunity, social inclusion and mobility.@Affordability is important for...",
+      "source": "brave"
+    },
+    {
+      "title": "Cost of Living and Inflation in Australia: A Complete Guide for 2026",
+      "url": "https://hudsonfinancialplanning.com.au/resources/education-reports/cost-of-living-and-inflation/",
+      "snippet": "For a comprehensive breakdown of ... Australian families in 2026. The key actions are: <strong>Higher interest rates have materially increased the cost of all variable-rate debt</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia housing site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+housing+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: Australia housing OR economy OR cost of living site:theguardian.com/australia-news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+housing+OR+economy+OR+cost+of+living+site%3Atheguardian.com%2Faustralia-news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Michelle Grattan | House prices drop, but economic pain remains | The Courier | Ballarat, VIC",
+      "url": "https://www.thecourier.com.au/story/9343649/michelle-grattan-house-prices-drop-but-economic-pain-remains/",
+      "snippet": "&quot;With a weak engine behind it, the Australian economy doesn&#x27;t need to be travelling fast at all before it starts to blow black smoke in the form of inflation.&quot; Given we&#x27;ve had multiple interest rate rises and the budget&#x27;s tax changes have taken some heat out of housing prices, Richardson predicts we&#x27;ll probably see only one more rate rise (either this month or in November).",
+      "source": "brave"
+    },
+    {
+      "title": "House prices are accelerating again and the housing crisis is back on - ABC News",
+      "url": "https://www.abc.net.au/news/2025-11-03/house-prices-increase-again-mortgages-rba-interest-rate-decision/105962246",
+      "snippet": "If incomes had also increased 8.6 ... they are now and the economy would be in recession. In fact, <strong>the average wage increased 4.1 per cent in the past 12 months</strong>, less than half the rise in house prices, so the ratio got ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australia’s economy limps along, but the RBA should take a closer look before raising interest rates again | Greg Jericho | The Guardian",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/03/australia-economy-gdp-growth-rba-expected-raise-interest-rates-again",
+      "snippet": "<strong>Australian households spent 10.4% more repaying mortgages in the June quarter, which wiped out a third of the increase in household income</strong>. Overall inflation in the economy rose by just 3.1% – up a bit, and driven as it has been recently by ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia economy news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+economy+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Twelve Percent",
+      "prompt": "A painterly fine-art scene depicting a modest, slightly worn suburban house viewed from a distance, rendered in restrained ochre and slate grey tones with visible canvas texture and thick impasto brushwork; in the foreground, a solitary figure stands holding a small, fragile key that appears to be dissolving into dust, symbolizing the loss of affordability; the atmosphere is quiet and melancholic, with soft, diffuse light filtering through thin, dry clouds, evoking the spirit of Syrian modernist realism where ordinary figures face dignified social pathos; no digital effects, only oil pigment on linen, capturing the weight of economic exclusion. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 229458811,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/01.png style=flux_klein size=896x1152 seed=229458811 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Mortgage Weight",
+      "prompt": "An expressive oil painting showing a couple sitting at a simple wooden table, their heads bowed low as if under a physical burden, with heavy, dark strokes around their shoulders suggesting the crushing weight of debt; the background is a muted, empty room with bare walls, emphasizing isolation; the palette is limited to dusty blues, browns, and pale skin tones, applied with broad, confident brushstrokes that convey emotional strain; the composition is balanced yet tense, reflecting the quiet social pathos of Levantine modern realism, avoiding any photorealism in favor of emotional truth through pigment and form. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1452041510,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/02.png style=flux_klein size=896x1152 seed=1452041510 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Empty Ladder",
+      "prompt": "A symbolic allegorical painting featuring a long, unfinished ladder leaning against a distant, idealized skyline, but the rungs are missing or broken, rendered in earthy sienna and cool grey with rough, tactile brushwork; a small, anonymous figure at the base looks up with a resigned, dignified expression, representing the stagnant supply of housing; the scene is bathed in flat, natural light, with no dramatic shadows, maintaining the restrained palette and quiet observation characteristic of Kayyali-inspired work; the medium is oil on canvas, with visible weave and layered glazes creating depth without digital clarity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 2125217076,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/03.png style=flux_klein size=896x1152 seed=2125217076 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Rate Hike Wind",
+      "prompt": "A landscape-influenced portrait of a family walking against a strong, cold wind, their coats and hair swirling violently, rendered with dynamic, directional brushstrokes that mimic the gusts; the sky is a turbulent mix of slate and off-white, suggesting economic volatility; the figures are depicted with simple, solid forms, their faces turned away or obscured, emphasizing the collective impact of rising interest rates; the color scheme is desaturated, using muted greens and greys, applied with a palette knife for texture, evoking the starkness of modern realism and the fragility of financial stability. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1247136059,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/04.png style=flux_klein size=896x1152 seed=1247136059 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Wage Stagnation",
+      "prompt": "A close-up study of hands counting small, worn coins, the skin rendered with delicate, soft oils that highlight the texture of labor and age; the background is a blurred, neutral wash of beige and pale grey, keeping the focus on the tangible value of money; the brushwork is precise yet gentle, reflecting the dignity of ordinary workers; the scene suggests the disparity between wage growth and cost of living, with the coins appearing insufficient against the implied weight of expenses; the style remains faithful to Levantine modern realism, using restrained pigment and quiet composition to convey economic stress. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1365599436,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/05.png style=flux_klein size=896x1152 seed=1365599436 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Renting Room",
+      "prompt": "An interior painting of a sparse, shared living space where three generations sit in silence, each in their own corner, rendered in muted terracotta and shadowy indigo; the walls are bare, with only a single window letting in a shaft of dusty light, symbolizing the financial strain of renting; the figures are depicted with solid, blocky forms, their postures rigid and isolated, conveying the social pathos of housing insecurity; the brushwork is broad and unpolished, preserving the raw emotion of the scene; the medium is oil on canvas, with visible cracks and texture in the paint layer, avoiding any digital smoothness. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1694739252,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/06.png style=flux_klein size=896x1152 seed=1694739252 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Inflation Fog",
+      "prompt": "A hazy, atmospheric painting of a city street where buildings and figures fade into a thick, yellowish-grey fog, representing the obscuring effect of inflation on economic clarity; the brushstrokes are soft and blended, creating a sense of uncertainty and disorientation; in the center, a single figure holds a price tag that is illegible and smudged, symbolizing the loss of purchasing power; the palette is limited to warm earth tones and cold greys, applied with a wet-on-wet technique that blurs the boundaries between subject and background; the style reflects the quiet, observational tone of Syrian modernism, focusing on the lived experience of economic pressure. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 298135101,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/07.png style=flux_klein size=896x1152 seed=298135101 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "The Supply Gap",
+      "prompt": "A stark, minimalist composition showing a vast, empty lot of cracked earth, rendered in deep umber and pale sand with rough, textured brushwork; in the distance, a few skeletal house frames stand incomplete, symbolizing the lack of housing supply; a small, lonely figure walks across the foreground, their shadow long and thin, emphasizing the scale of the deficit; the sky is a flat, pale blue, devoid of clouds, creating a sense of stillness and stagnation; the painting uses restrained color and form to evoke the quiet crisis of economic imbalance, faithful to the painterly fine-art tradition. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 686025400,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/08.png style=flux_klein size=896x1152 seed=686025400 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Mortgage Repayment",
+      "prompt": "A symbolic still life featuring a heavy, stone-like block resting on a scale, balanced precariously against a pile of small, light feathers, rendered with careful, detailed brushwork that contrasts the weight of debt with the fragility of income; the background is a neutral, warm beige, allowing the objects to stand out; the lighting is soft and directional, casting subtle shadows that enhance the three-dimensionality of the forms; the palette is muted, using earthy browns and pale creams, applied with fine, controlled strokes; the scene conveys the stress of mortgage repayments through visual metaphor, maintaining the dignified, quiet tone of Levantine modern realism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 655906179,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/09.png style=flux_klein size=896x1152 seed=655906179 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Cost of Living Crowd",
+      "prompt": "A crowded scene of anonymous figures moving through a narrow street, rendered in a dense, layered impasto style with thick, visible brushstrokes that create a sense of motion and pressure; the figures are depicted with simplified, blocky forms, their faces indistinct, representing the collective experience of financial strain; the color palette is a mix of muted greens, greys, and browns, with occasional flashes of pale yellow to suggest light; the composition is tight and claustrophobic, reflecting the intensifying cost of living pressures; the medium is oil on canvas, with a rich, tactile surface that avoids digital clarity, staying true to the painterly fine-art aesthetic. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2084190895,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-05/10.png style=flux_klein size=896x1152 seed=2084190895 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
