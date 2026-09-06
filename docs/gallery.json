@@ -2795,6 +2795,140 @@
           "prompt": "Neo-Impressionist street scene, Signac influence: mosaic dots, bright pigment, joyful color. Painterly, oil on canvas, visible texture. Sydney, 2018 fashion, modern casual. Casual workers, wage floor, fair compensation, human care. Diverse faces. No digital, no Caravaggio. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-16",
+      "artist": {
+        "id": "fra_angelico",
+        "name": "Fra Angelico",
+        "era": "Early Renaissance IT",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "renaissance",
+          "europe"
+        ],
+        "bio": "Fra Giovanni da Fiesole, known posthumously as Fra Angelico or in Italian as Beato Angelico, was an Italian Dominican friar and painter active during the early Florentine Renaissance.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fra_Angelico_portrait.jpg/330px-Fra_Angelico_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Community Integration",
+        "Sense of Belonging",
+        "Refugee Resilience",
+        "Migration and Innovation",
+        "Human Mobility",
+        "Settlement Support",
+        "Cultural Contribution"
+      ],
+      "summary": "In Australia, the narrative of migration is shifting from political debate to the tangible reality of community integration and belonging. A standout development is the rollout of trial projects where everyday locals settle refugee families in their backyards, fostering direct human connection. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. These stories emphasize agency and resilience, such as a refugee with a disability finding a 'dream job' at Sydney airport, demonstrating that inclusion leads to professional success and community contribution.\n\nInternationally, the focus remains on the human capacity for recovery and innovation. In the UK and globally, the legacy of migration is being re-evaluated not just as a policy challenge but as a driver of cultural and scientific progress. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. This perspective frames migration as a source of collective human achievement, where diverse networks generate economic value and creative ingenuity.\n\nFor an art gallery, these themes offer a powerful canvas for exploring the aesthetics of home, the labor of belonging, and the creative potential of diverse communities. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Garden of Belonging",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Garden of Belonging is today’s cover piece — one Australian scene that weaves together Community Integration, Sense of Belonging, Refugee Resilience, Migration and Innovation, Human Mobility, Settlement Support, and Cultural Contribution. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. Data Innovation in Demography, Migration and Human Mobility. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Early Renaissance tempera, Fra Angelico style. A lush Australian backyard with eucalyptus trees. Diverse Australian neighbors in modern 2024 casual wear help refugee families plant vegetables. Soft pastel light, gold leaf accents on leaves. Serene faces, angelic devotion. Detailed brushwork, pigment on canvas. No text, no logos. Unified Australian scene weaving together these themes: Community Integration, Sense of Belonging, Refugee Resilience, Migration and Innovation, Human Mobility, Settlement Support, Cultural Contribution."
+        },
+        {
+          "index": 2,
+          "title": "Harbour Wings and Wheels",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Harbour Wings and Wheels takes on the day’s Human Mobility thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. These stories emphasize agency and resilience, such as a refugee with a disability finding a 'dream job' at Sydney airport, demonstrating that inclusion leads to professional success and community contribution. The composition keeps the human stakes of Human Mobility in view without turning the news into spectacle.",
+          "prompt": "Fra Angelico tempera. Sydney Harbour backdrop with iconic bridge. A figure in a wheelchair, wearing 1995 business casual attire, smiles at a colleague. Pastel sky, gold halos around heads. Serene, sacred atmosphere. Fine brushwork, oil pigment. No digital cameras, no photorealism. Human connection, professional pride. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "The Innovation Grove",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "The Innovation Grove takes on the day’s Migration and Innovation thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. The composition keeps the human stakes of Migration and Innovation in view without turning the news into spectacle.",
+          "prompt": "Early Renaissance style. Australian rainforest clearing. Diverse group in 1978 fashion: wide collars, flared trousers. They examine glowing, golden data structures among ferns. Pastel light filters through canopy. Angelic, serene expressions. Detailed tempera texture, gold leaf details. No text, no modern tech devices."
+        },
+        {
+          "index": 4,
+          "title": "Settlement in the Red Centre",
+          "tone": "news",
+          "fashionYear": "1922",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Settlement in the Red Centre takes on the day’s Settlement Support thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. The composition keeps the human stakes of Settlement Support in view without turning the news into spectacle.",
+          "prompt": "Fra Angelico tempera. Red desert landscape, acacia trees. Figures in 1922 Australian fashion: felt hats, long dresses. They build a modest shelter together. Soft, warm pastel light. Gold accents on the horizon. Serene, devotional mood. Fine brushwork, pigment on canvas. No gore, no caricature. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "The Caregiver's Embrace",
+          "tone": "news",
+          "fashionYear": "1955",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "The Caregiver's Embrace answers a strand of today’s news with a focused visual reading. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Early Renaissance tempera. Melbourne street view, Victorian architecture. Two figures in 1955 fashion: pencil skirts, tailored suits. One gently holds the other's hand. Pastel sky, soft light. Gold leaf on window frames. Serene, sacred atmosphere. Detailed brushwork, oil pigment. No text, no logos. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 6,
+          "title": "Backyard Sanctuary",
+          "tone": "good_news",
+          "fashionYear": "1910",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Backyard Sanctuary takes on the day’s Community Integration thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. In the artwork, that story captures the tender moment of sharing a meal.",
+          "prompt": "Early Renaissance tempera painting of a diverse Sydney backyard in 1910, where a local family in period Edwardian clothing welcomes a refugee family. Soft pastel light illuminates eucalyptus trees and simple brick walls. Delicate brushwork captures the tender moment of sharing a meal, gold accents highlighting the shared table, conveying serene devotion and community integration. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Airport Wings and Welcome",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "At Sydney Airport, a refugee with a disability finds a dream job. This image showcases professional inclusion and success, demonstrating how social support leads to resilience. It frames the individual's agency as a vital contribution to the Australian workforce and community life.",
+          "prompt": "Painterly fine-art rendering of a Sydney Airport terminal in 2015, featuring a refugee worker in modern professional attire interacting with colleagues. Soft, angelic light streams through glass, highlighting the diverse faces of Australia. Delicate tempera brushwork emphasizes the dignity of labor, with gold accents on the worker's ID badge, symbolizing successful settlement and belonging. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Seventy Percent Home",
+          "tone": "good_news",
+          "fashionYear": "1935",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Based on AIFS research, this piece visualizes the 70% of migrants reporting a sense of belonging. Set in a Melbourne park, it shows social support leading to psychological well-being. The scene validates the importance of community integration in the settlement process for humanitarian migrants.",
+          "prompt": "Tempera painting of a Melbourne park in 1935, where a diverse group of people in 1930s fashion sit together under gum trees. Serene pastel light creates a halo effect around the figures, symbolizing the reported sense of belonging. Delicate brushwork captures the calm of social support, with gold leaf accents on the leaves, reflecting the AIFS research on migrant well-being. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Innovation in the Outback",
+          "tone": "news",
+          "fashionYear": "1960",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Set in the red desert, this image frames migration as a driver of global innovation. It visualizes the transfer of technology and creative ingenuity through diverse networks. The scene highlights how human mobility generates economic value and scientific progress in the Australian context.",
+          "prompt": "Early Renaissance style tempera of an outback research station in 1960, where diverse scientists in period clothing examine data. The red desert landscape is bathed in serene, golden light. Delicate brushwork depicts the exchange of knowledge, with gold accents on their instruments, symbolizing migration as a source of global innovation and collective human achievement. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Reef of Resilience",
+          "tone": "good_news",
+          "fashionYear": "1990",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "At a coastal cliff, this artwork explores the aesthetics of home and the labor of belonging. It features caregivers and survivors in a supportive community, highlighting the kindness that defines human connection. The scene reflects the resilience of diverse communities in the 21st century Australian landscape.",
+          "prompt": "Painterly fine-art tempera of an Australian coastal cliff in 1990, where a diverse group in 1990s fashion shares a quiet moment. Soft pastel light reflects off the turquoise sea, creating a serene atmosphere. Delicate brushwork captures the dignity of survivors, with gold accents on the horizon, symbolizing the resilience and creative potential of diverse communities in the settlement journey. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-16",
+  "artist": {
+    "id": "fra_angelico",
+    "name": "Fra Angelico",
+    "era": "Early Renaissance IT",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "renaissance",
+      "europe"
+    ],
+    "bio": "Fra Giovanni da Fiesole, known posthumously as Fra Angelico or in Italian as Beato Angelico, was an Italian Dominican friar and painter active during the early Florentine Renaissance.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fra_Angelico_portrait.jpg/330px-Fra_Angelico_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "In Australia, the narrative of migration is shifting from political debate to the tangible reality of community integration and belonging. A standout development is the rollout of trial projects where everyday locals settle refugee families in their backyards, fostering direct human connection. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. These stories emphasize agency and resilience, such as a refugee with a disability finding a 'dream job' at Sydney airport, demonstrating that inclusion leads to professional success and community contribution.\n\nInternationally, the focus remains on the human capacity for recovery and innovation. In the UK and globally, the legacy of migration is being re-evaluated not just as a policy challenge but as a driver of cultural and scientific progress. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. This perspective frames migration as a source of collective human achievement, where diverse networks generate economic value and creative ingenuity.\n\nFor an art gallery, these themes offer a powerful canvas for exploring the aesthetics of home, the labor of belonging, and the creative potential of diverse communities. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century.",
+  "themes": [
+    "Community Integration",
+    "Sense of Belonging",
+    "Refugee Resilience",
+    "Migration and Innovation",
+    "Human Mobility",
+    "Settlement Support",
+    "Cultural Contribution"
+  ],
+  "headlines": [
+    {
+      "title": "Trial project sees everyday locals settle refugees in their backyard",
+      "url": "https://www.abc.net.au/news/topic/refugees"
+    },
+    {
+      "title": "Refugee with disability from Pakistan finds 'dream job' at Sydney airport",
+      "url": "https://www.abc.net.au/news/topic/refugees"
+    },
+    {
+      "title": "Settlement experiences of recently arrived humanitarian migrants",
+      "url": "https://aifs.gov.au/building-new-life-australia/all-research/research-snapshots/settlement-experiences-recently-arrived"
+    },
+    {
+      "title": "Esperance Nyirabarahinyuza helps refugee women rediscover confidence",
+      "url": "https://www.abc.net.au/news/topic/refugees"
+    },
+    {
+      "title": "Innovation Without Borders: The Power of Human Migration",
+      "url": "https://www.bcg.com/publications/2021/how-global-migration-drives-innovation"
+    },
+    {
+      "title": "Data Innovation in Demography, Migration and Human Mobility",
+      "url": "https://www.researchgate.net/publication/363499805_Data_Innovation_in_Demography_Migration_and_Human_Mobility"
+    },
+    {
+      "title": "Migration and knowledge diffusion: lessons from the early modern world",
+      "url": "https://www.elgaronline.com/edcollchap-oa/book/9781035308477/chapter1.xml"
+    },
+    {
+      "title": "Immigration is the key to emerging markets becoming innovation hubs",
+      "url": "https://www.brookings.edu/blog/future-development/2022/02/14/immigration-is-the-key-to-emerging-markets-becoming-innovation-hubs/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Everyday Locals Settle Refugees in Their Backyards",
+      "url": "https://www.abc.net.au/news/topic/refugees",
+      "angle": "Highlights grassroots community action where neighbors directly support refugee families, fostering immediate belonging and social connection."
+    },
+    {
+      "title": "Refugee with Disability Finds 'Dream Job' at Sydney Airport",
+      "url": "https://www.abc.net.au/news/topic/refugees",
+      "angle": "Showcases professional inclusion and success, demonstrating that refugees with disabilities are contributing valuable skills to the Australian workforce."
+    },
+    {
+      "title": "Research: 70% of Migrants Report Consistent Sense of Belonging",
+      "url": "https://aifs.gov.au/building-new-life-australia/all-research/research-snapshots/settlement-experiences-recently-arrived",
+      "angle": "Provides scientific validation that social support and community integration lead to positive psychological outcomes for new arrivals."
+    },
+    {
+      "title": "Migration as a Driver of Global Innovation",
+      "url": "https://www.bcg.com/publications/2021/how-global-migration-drives-innovation",
+      "angle": "Frames human mobility as a source of creative and economic value, emphasizing the ingenuity and networks created by diverse populations."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Refugees - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/refugees",
+      "snippet": "Topic:Human InterestMon 20 Jul 2026 at 8:52pmMon 20 Jul 2026 at 8:52pmMon 20 Jul 2026 at 8:52pm · <strong>Esperance Nyirabarahinyuza survived trauma and losing family</strong>. Now, she is helping more than 100 refugee and migrant women in Logan rediscover ...",
+      "source": "brave"
+    },
+    {
+      "title": "Settlement experiences of recently arrived humanitarian migrants | Australian Institute of Family Studies",
+      "url": "https://aifs.gov.au/building-new-life-australia/all-research/research-snapshots/settlement-experiences-recently-arrived",
+      "snippet": "<strong>Most participants reported feeling a sense of belonging, with close to half (44%) reporting this &quot;always&quot;, 25% &quot;most of the time&quot;, and only small proportions &quot;hardly ever&quot; (5%) or &quot;never&quot; (3%)</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "refugees in australia — Monthly Wrap — Asylum Insight",
+      "url": "https://www.asyluminsight.com/round-ups/tag/refugees+in+australia",
+      "snippet": "An analysis of the justification for keeping migration and protection separate within the Administrative Review Tribunal found that the intended efficiencies and fairness benefits are not eventuating. The Scanlon Institute published the findings of its study into migrant’s sense of belonging in Australia and the factors at play.",
+      "source": "brave"
+    },
+    {
+      "title": "Migration Policy - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/migration-policy?future=true",
+      "snippet": "The prime minister has vowed not ... diplomatic stoush with the United Kingdom · <strong>Australia&#x27;s offshore detention centres have closed, but more than 700 refugees who survived them are</strong> ......",
+      "source": "brave"
+    },
+    {
+      "title": "Australian immigration and asylum | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/australian-immigration-and-asylum",
+      "snippet": "Latest news affecting Australian immigration and asylum from the Guardian",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Human Rights Commission",
+      "url": "https://humanrights.gov.au/our-work/asylum-seekers-and-refugees/news",
+      "snippet": "You can keep up to date with all the latest news on human rights in Australia and around the world from the Australian Human Rights Commission.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia migration site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+migration+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: migration diaspora refugees settlement belonging good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=migration+diaspora+refugees+settlement+belonging+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "(PDF) Data Innovation in Demography, Migration and Human Mobility",
+      "url": "https://www.researchgate.net/publication/363499805_Data_Innovation_in_Demography_Migration_and_Human_Mobility",
+      "snippet": "In conclusion, we show how Facebook advertising data could offer timely insights on international mobility during crises, supporting initiatives aimed at providing humanitarian assistance to the displaced people, as well as local and national authorities to better manage their reception and integration.View full-text ... Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in Human Mobility and many other scientific topics.",
+      "source": "brave"
+    },
+    {
+      "title": "Innovation Without Borders: The Power of Human Migration in the 21st Century",
+      "url": "https://www.bcg.com/publications/2021/how-global-migration-drives-innovation",
+      "snippet": "People who cross borders create vast global networks that generate enormous opportunities, in terms of both economic value and human values. It’s time to explore this immense potential.",
+      "source": "brave"
+    },
+    {
+      "title": "migration–innovation nexus in the early modern world∗ | Past & Present | Oxford Academic",
+      "url": "https://doi.org/10.1093/pastj/gtag013",
+      "snippet": "While there is sustained scholarly interest in questions of technological innovation, invention, and ‘useful knowledge’ in the early modern world, this is rarely connected to migration, perhaps because of the prevailing view that migration was of limited importance prior to the nineteenth-century ‘mobility transition’.6 There is anecdotal evidence of the link between migration and ‘technology transfer’ or innovation, but we still have no dedicated studies of this phenomenon that investigate how this link actually worked in practice.",
+      "source": "brave"
+    },
+    {
+      "title": "1: Migration and knowledge diffusion: lessons from the early modern world in: A Research Agenda for Migration and Innovation",
+      "url": "https://www.elgaronline.com/edcollchap-oa/book/9781035308477/chapter1.xml",
+      "snippet": "Nevertheless, human mobility, as ... feature of the early modern world. <strong>Migration, whether free, forced, or somewhere in between, was a crucial driver of innovation and technology transfers</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Immigration is the key to emerging markets becoming innovation hubs",
+      "url": "https://www.brookings.edu/blog/future-development/2022/02/14/immigration-is-the-key-to-emerging-markets-becoming-innovation-hubs/",
+      "snippet": "On the contrary, <strong>positive migration reforms substantially increase the share of global patents filed in countries with low initial shares of knowledge production</strong>. This finding suggests that policies affecting human mobility have contributed ...",
+      "source": "brave"
+    },
+    {
+      "title": "Productivity gains from migration: Evidence from inventors - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048733322001524",
+      "snippet": "Of particular interest, as a recent special issue in this Journal demonstrates, is <strong>the study of the role played by high-skilled migrants in diffusing scientific and technical knowledge and, consequently, promoting innovation</strong> (Breschi et al., ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian migration diaspora refugees settlement belonging news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+migration+diaspora+refugees+settlement+belonging+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Garden of Belonging",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Garden of Belonging is today’s cover piece — one Australian scene that weaves together Community Integration, Sense of Belonging, Refugee Resilience, Migration and Innovation, Human Mobility, Settlement Support, and Cultural Contribution. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. Data Innovation in Demography, Migration and Human Mobility. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Early Renaissance tempera, Fra Angelico style. A lush Australian backyard with eucalyptus trees. Diverse Australian neighbors in modern 2024 casual wear help refugee families plant vegetables. Soft pastel light, gold leaf accents on leaves. Serene faces, angelic devotion. Detailed brushwork, pigment on canvas. No text, no logos. Unified Australian scene weaving together these themes: Community Integration, Sense of Belonging, Refugee Resilience, Migration and Innovation, Human Mobility, Settlement Support, Cultural Contribution.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 136677320,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/01.png style=flux_klein size=896x1152 seed=136677320 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Harbour Wings and Wheels",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Harbour Wings and Wheels takes on the day’s Human Mobility thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. These stories emphasize agency and resilience, such as a refugee with a disability finding a 'dream job' at Sydney airport, demonstrating that inclusion leads to professional success and community contribution. The composition keeps the human stakes of Human Mobility in view without turning the news into spectacle.",
+      "prompt": "Fra Angelico tempera. Sydney Harbour backdrop with iconic bridge. A figure in a wheelchair, wearing 1995 business casual attire, smiles at a colleague. Pastel sky, gold halos around heads. Serene, sacred atmosphere. Fine brushwork, oil pigment. No digital cameras, no photorealism. Human connection, professional pride. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 2138660960,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/02.png style=flux_klein size=896x1152 seed=2138660960 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Innovation Grove",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "The Innovation Grove takes on the day’s Migration and Innovation thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. Research indicates that human mobility has historically been a crucial driver of technology transfer and innovation, with modern data showing that positive migration reforms can significantly increase global patent filings. The composition keeps the human stakes of Migration and Innovation in view without turning the news into spectacle.",
+      "prompt": "Early Renaissance style. Australian rainforest clearing. Diverse group in 1978 fashion: wide collars, flared trousers. They examine glowing, golden data structures among ferns. Pastel light filters through canopy. Angelic, serene expressions. Detailed tempera texture, gold leaf details. No text, no modern tech devices.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 798878391,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/03.png style=flux_klein size=896x1152 seed=798878391 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Settlement in the Red Centre",
+      "tone": "news",
+      "fashionYear": "1922",
+      "emailHero": false,
+      "description": "Settlement in the Red Centre takes on the day’s Settlement Support thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. The composition keeps the human stakes of Settlement Support in view without turning the news into spectacle.",
+      "prompt": "Fra Angelico tempera. Red desert landscape, acacia trees. Figures in 1922 Australian fashion: felt hats, long dresses. They build a modest shelter together. Soft, warm pastel light. Gold accents on the horizon. Serene, devotional mood. Fine brushwork, pigment on canvas. No gore, no caricature. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1871401188,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/04.png style=flux_klein size=896x1152 seed=1871401188 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "The Caregiver's Embrace",
+      "tone": "news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "The Caregiver's Embrace answers a strand of today’s news with a focused visual reading. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Early Renaissance tempera. Melbourne street view, Victorian architecture. Two figures in 1955 fashion: pencil skirts, tailored suits. One gently holds the other's hand. Pastel sky, soft light. Gold leaf on window frames. Serene, sacred atmosphere. Detailed brushwork, oil pigment. No text, no logos. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 269216858,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/05.png style=flux_klein size=896x1152 seed=269216858 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Backyard Sanctuary",
+      "tone": "good_news",
+      "fashionYear": "1910",
+      "emailHero": false,
+      "description": "Backyard Sanctuary takes on the day’s Community Integration thread, translating the news into a single visual moment. Simultaneously, research from the Australian Institute of Family Studies highlights that nearly 70% of recently arrived humanitarian migrants report a consistent sense of belonging, validating the importance of social support in the settlement process. The stories of caregivers, survivors, and innovators provide a constructive lens through which to view the complex journey of migration, highlighting the kindness and resilience that define human connection in the 21st century. In the artwork, that story captures the tender moment of sharing a meal.",
+      "prompt": "Early Renaissance tempera painting of a diverse Sydney backyard in 1910, where a local family in period Edwardian clothing welcomes a refugee family. Soft pastel light illuminates eucalyptus trees and simple brick walls. Delicate brushwork captures the tender moment of sharing a meal, gold accents highlighting the shared table, conveying serene devotion and community integration. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 222185538,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/06.png style=flux_klein size=896x1152 seed=222185538 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Airport Wings and Welcome",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "At Sydney Airport, a refugee with a disability finds a dream job. This image showcases professional inclusion and success, demonstrating how social support leads to resilience. It frames the individual's agency as a vital contribution to the Australian workforce and community life.",
+      "prompt": "Painterly fine-art rendering of a Sydney Airport terminal in 2015, featuring a refugee worker in modern professional attire interacting with colleagues. Soft, angelic light streams through glass, highlighting the diverse faces of Australia. Delicate tempera brushwork emphasizes the dignity of labor, with gold accents on the worker's ID badge, symbolizing successful settlement and belonging. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1018602801,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/07.png style=flux_klein size=896x1152 seed=1018602801 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Seventy Percent Home",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "Based on AIFS research, this piece visualizes the 70% of migrants reporting a sense of belonging. Set in a Melbourne park, it shows social support leading to psychological well-being. The scene validates the importance of community integration in the settlement process for humanitarian migrants.",
+      "prompt": "Tempera painting of a Melbourne park in 1935, where a diverse group of people in 1930s fashion sit together under gum trees. Serene pastel light creates a halo effect around the figures, symbolizing the reported sense of belonging. Delicate brushwork captures the calm of social support, with gold leaf accents on the leaves, reflecting the AIFS research on migrant well-being. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1890316600,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/08.png style=flux_klein size=896x1152 seed=1890316600 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Innovation in the Outback",
+      "tone": "news",
+      "fashionYear": "1960",
+      "emailHero": false,
+      "description": "Set in the red desert, this image frames migration as a driver of global innovation. It visualizes the transfer of technology and creative ingenuity through diverse networks. The scene highlights how human mobility generates economic value and scientific progress in the Australian context.",
+      "prompt": "Early Renaissance style tempera of an outback research station in 1960, where diverse scientists in period clothing examine data. The red desert landscape is bathed in serene, golden light. Delicate brushwork depicts the exchange of knowledge, with gold accents on their instruments, symbolizing migration as a source of global innovation and collective human achievement. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 159052453,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/09.png style=flux_klein size=896x1152 seed=159052453 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Reef of Resilience",
+      "tone": "good_news",
+      "fashionYear": "1990",
+      "emailHero": false,
+      "description": "At a coastal cliff, this artwork explores the aesthetics of home and the labor of belonging. It features caregivers and survivors in a supportive community, highlighting the kindness that defines human connection. The scene reflects the resilience of diverse communities in the 21st century Australian landscape.",
+      "prompt": "Painterly fine-art tempera of an Australian coastal cliff in 1990, where a diverse group in 1990s fashion shares a quiet moment. Soft pastel light reflects off the turquoise sea, creating a serene atmosphere. Delicate brushwork captures the dignity of survivors, with gold accents on the horizon, symbolizing the resilience and creative potential of diverse communities in the settlement journey. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2097872687,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-16/10.png style=flux_klein size=896x1152 seed=2097872687 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
