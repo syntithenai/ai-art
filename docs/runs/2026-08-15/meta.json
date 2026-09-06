@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-15",
+  "artist": {
+    "id": "fresco_giotto",
+    "name": "Giotto",
+    "era": "Proto-Renaissance IT",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "fresco",
+      "europe"
+    ],
+    "bio": "Giotto di Bondone, known mononymously as Giotto, was an Italian painter and architect from Florence during the Late Middle Ages. He worked during the Gothic and Proto-Renaissance period. Giotto's contemporary, the banker and chronicler Giovanni Villani, wrote that Giotto was \"the most sovereign master of painting in his time, who drew all his figures and their postures according to nature\" and of his publicly recognized \"talent and excellence\". Giorgio Vasari described Giotto as making a decisive break from the prevalent Byzantine style and as initiating \"the great art of painting as we know it today, introducing the technique of drawing accurately from life, which had been neglected for mor...",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Giotto%2C_Santa_Maria_Novella.jpg/330px-Giotto%2C_Santa_Maria_Novella.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "In 2026, Australia is actively shaping its digital future through a blend of public engagement and robust policy frameworks. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. This grassroots dialogue complements high-level regulatory efforts, as the government appoints a Joint Select Committee to review AI laws, focusing on critical areas like data sovereignty, deepfakes, and cybersecurity. These moves signal a mature approach to governance, aiming to protect citizens while fostering innovation.\n\nOn the security front, the landscape is evolving rapidly with the integration of AI into both offensive and defensive cyber strategies. The Five Eyes alliance has issued a joint statement urging leaders to strengthen resilience against AI-driven cyber risks, emphasizing the need for secure practices integrated into core business and national strategies. In Australia, the Australian Cyber Security Centre (ACSC) is issuing high-severity alerts to guide organizations through these new threats. This collaborative, intelligence-sharing approach reflects a global commitment to safeguarding digital infrastructure, prioritizing community resilience and proactive defense over reactive panic.\n\nInternationally, the narrative is shifting toward how technology serves human connection and scientific discovery. The World Bank is reimagining education through EdTech, focusing on how digital tools can bridge gaps and enhance human connections in learning environments. Meanwhile, the World Economic Forum notes a fascinating role reversal where AI and machine learning are now catalyzing scientific breakthroughs, not just the other way around. From the discovery of the Higgs boson to new AI art tools, these advancements illustrate a world where technology is increasingly used to expand human creativity, solve complex global challenges, and improve quality of life, offering a hopeful vision of a tech-enabled future.",
+  "themes": [
+    "AI Regulation & Policy",
+    "Cybersecurity Resilience",
+    "Digital Privacy & Agency",
+    "EdTech & Human Connection",
+    "AI-Driven Science",
+    "Community Tech Stories"
+  ],
+  "headlines": [
+    {
+      "title": "How has AI and tech changed your life? Australians share their stories",
+      "url": "https://www.abc.net.au/news/2026-08-24/your-say-on-ai-technology-and-cybersecurity/107049046"
+    },
+    {
+      "title": "Australia Charts a New Course on AI Regulation and Policy",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy"
+    },
+    {
+      "title": "AI arms race to reshape Australia’s cyber defences by 2026",
+      "url": "https://securitybrief.com.au/story/ai-arms-race-to-reshape-australia-s-cyber-defences-by-2026"
+    },
+    {
+      "title": "Five Eyes cyber security agencies statement on AI risk",
+      "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement"
+    },
+    {
+      "title": "Reimagining Human Connections: Technology and Innovation in Education",
+      "url": "https://www.worldbank.org/en/topic/edutech/publication/reimagining-human-connections-technology-and-innovation-in-education-at-world-bank"
+    },
+    {
+      "title": "Science once drove technology – but now the reverse is true",
+      "url": "https://www.weforum.org/stories/2024/11/science-technology-research-development/"
+    },
+    {
+      "title": "The 25 most powerful ideas of the 21st century",
+      "url": "https://www.sciencefocus.com/future-technology/experts-pick-the-25-most-significant-breakthroughs-of-the-21st-century"
+    },
+    {
+      "title": "Future technology: 22 ideas about to change our world",
+      "url": "https://www.sciencefocus.com/future-technology/future-technology-22-ideas-about-to-change-our-world"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australians Share Personal AI Stories in ABC News Live Blog",
+      "url": "https://www.abc.net.au/news/2026-08-24/your-say-on-ai-technology-and-cybersecurity/107049046",
+      "angle": "Empowering citizens to voice their experiences with technology, fostering a transparent and inclusive national dialogue about the role of AI in daily life."
+    },
+    {
+      "title": "Five Eyes Agencies Issue Joint Statement on AI Cyber Resilience",
+      "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement",
+      "angle": "Highlighting international solidarity and proactive leadership in strengthening digital defenses against emerging AI-driven threats."
+    },
+    {
+      "title": "World Bank Reimagines Human Connections Through EdTech",
+      "url": "https://www.worldbank.org/en/topic/edutech/publication/reimagining-human-connections-technology-and-innovation-in-education-at-world-bank",
+      "angle": "Showcasing how technology is being deployed to enhance educational access and human connection, supporting global capacity building."
+    },
+    {
+      "title": "AI Catalyzes Scientific Breakthroughs, Notes World Economic Forum",
+      "url": "https://www.weforum.org/stories/2024/11/science-technology-research-development/",
+      "angle": "Celebrating the role reversal where AI tools are now driving new scientific discoveries, expanding the horizons of human knowledge."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "How has AI and tech changed your life? Australians share their stories — as it happened - ABC News",
+      "url": "https://www.abc.net.au/news/2026-08-24/your-say-on-ai-technology-and-cybersecurity/107049046",
+      "snippet": "That&#x27;s according to a recent Deloitte report, which dubbed <strong>2026 &quot;the year of AI&quot;</strong> and offered hope to some occupations it predicts will see a stronger demand when combined with AI.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia Charts a New Course on AI Regulation and Policy | Insight | Baker McKenzie",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/2026/08/australia-charts-a-new-course-on-ai-regulation-and-policy",
+      "snippet": "The appointment of the Joint Select ... reform include <strong>intellectual property and copyright laws and laws relating to national security, data sovereignty, consumer protection, deepfakes and cyber security</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "AI arms race to reshape Australia’s cyber defences by 2026",
+      "url": "https://securitybrief.com.au/story/ai-arms-race-to-reshape-australia-s-cyber-defences-by-2026",
+      "snippet": "AI-powered attacks and defences, quantum threats and smart city risks are set to transform Australia’s cyber security landscape by 2026.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Cyber Security Magazine - Australia's Leading Cyber Security Magazine Australian Cyber Security Magazine",
+      "url": "https://australiancybersecuritymagazine.com.au/",
+      "snippet": "<strong>SCX.ai has announced a strategic partnership with AI data intelligence company DDN</strong>, days after the company listed on the Australian… · The Australian Cyber Security Centre (ACSC) has issued a high-severity alert warning that it has observed ...",
+      "source": "brave"
+    },
+    {
+      "title": "Tech Briefing | Australian Technology, AI & Business News",
+      "url": "https://techbriefing.com.au/",
+      "snippet": "Tech Briefing delivers Australian technology news, AI, cybersecurity, telecommunications, cloud, enterprise IT and digital transformation insights for business leaders.",
+      "source": "brave"
+    },
+    {
+      "title": "Five Eyes cyber security agencies statement | Cyber.gov.au",
+      "url": "https://www.cyber.gov.au/about-us/view-all-content/news/five-eyes-cyber-security-agencies-statement",
+      "snippet": "Our joint Five Eyes statement highlights <strong>AI is rapidly increasing cyber risk, urging leaders to act now to strengthen resilience, adopt secure practices, and integrate cyber security into core strategy</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia technology site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+technology+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: technology AI cybersecurity privacy digital life good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=technology+AI+cybersecurity+privacy+digital+life+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Meeting global challenges: Discovery and innovation through convergence | Science",
+      "url": "https://www.science.org/doi/10.1126/science.aaa3192",
+      "snippet": "The “classical” view in the process of translating science and technology for society is that <strong>scientists “discover,” engineers “invent,” and entrepreneurs “innovate.”</strong> In the past, scientists viewed these three stages as belonging ...",
+      "source": "brave"
+    },
+    {
+      "title": "Reimagining Human Connections: Technology and Innovation in Education at the World Bank",
+      "url": "https://www.worldbank.org/en/topic/edutech/publication/reimagining-human-connections-technology-and-innovation-in-education-at-world-bank",
+      "snippet": "Discover: Identifying innovations and building the evidence base for EdTech · Deploy: Projects, pilots and digital global public goods · Diffuse: Capacity building networks and partnerships · (note: This publication is often referred to as the &#x27;World Bank edtech approach paper&#x27;) ... Reimagining Human Connections: Technology ...",
+      "source": "brave"
+    },
+    {
+      "title": "The 25 most powerful ideas of the 21st century (so far), picked by the world’s top thinkers | BBC Science Focus Magazine",
+      "url": "https://www.sciencefocus.com/future-technology/experts-pick-the-25-most-significant-breakthroughs-of-the-21st-century",
+      "snippet": "One might, of course, argue that the discovery of <strong>the Higgs</strong> wasn’t as profound as, say, the accelerating expansion of the Universe in 1998 (which therefore just misses out on this list), because physicists expected to find <strong>the Higgs</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Science once drove technology – but now the reverse is true. Here's how we can benefit | World Economic Forum",
+      "url": "https://www.weforum.org/stories/2024/11/science-technology-research-development/",
+      "snippet": "Traditionally, scientific discoveries led the way, with breakthroughs like Newton&#x27;s laws enabling the Industrial Revolution, and quantum mechanics paving the path for the digital age. In this paradigm, science predominantly fueled technological advancements. Today, we&#x27;re witnessing a fascinating role reversal. While scientific insights still drive technological innovation, we&#x27;re increasingly seeing technology, particularly artificial intelligence and machine learning, catalyzing scientific breakthroughs.",
+      "source": "brave"
+    },
+    {
+      "title": "The Top 10 Technological Advances That Changed The World",
+      "url": "https://www.tkelevator.com/global-en/newsroom/blog/ten-technological-advances-changing-the-world-and-how-we-live-in-it/",
+      "snippet": "From AI to quantum computing, discover 10 life-changing tech advances that continue to transform how we live, work, and move.",
+      "source": "brave"
+    },
+    {
+      "title": "Future technology: 22 ideas about to change our world - BBC Science Focus Magazine",
+      "url": "https://www.sciencefocus.com/future-technology/future-technology-22-ideas-about-to-change-our-world",
+      "snippet": "As artificial intelligence continues to perform jobs just as well as humans, there is a new industry to add to the list – the world of art. Researchers at the company OpenAI have created a software that is able to create images from just worded prompts. Type in ‘a dog wearing a cowboy hat singing in the rain’ and you’ll get a host of completely original images that fit that description. You can even choose what style of art your request will come back in. However, the technology isn&#x27;t perfected and still has issues, like when we gave it poor prompts on designing cartoon characters.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian technology AI cybersecurity privacy digital life news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+technology+AI+cybersecurity+privacy+digital+life+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The National Digital Dialogue",
+      "tone": "good_news",
+      "fashionYear": "2026",
+      "emailHero": true,
+      "description": "The National Digital Dialogue is today’s cover piece — one Australian scene that weaves together AI Regulation & Policy, Cybersecurity Resilience, Digital Privacy & Agency, EdTech & Human Connection, AI-Driven Science, and Community Tech Stories. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. The World Bank is reimagining education through EdTech, focusing on how digital tools can bridge gaps and enhance human connections in learning environments. Internationally, the narrative is shifting toward how technology serves human connection and scientific discovery. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Proto-Renaissance fresco style, solid human emotion, blue chapel skies, narrative clarity. Painterly fine-art with visible brushwork and pigment on canvas. Diverse Australians in 2026 casual fashion stand in a Sydney harbour park, discussing AI, cybersecurity, and EdTech. Solid forms, early spatial depth, warm earth tones, no digital cameras, no logos. Unified Australian scene weaving together these themes: AI Regulation & Policy, Cybersecurity Resilience, Digital Privacy & Agency, EdTech & Human Connection, AI-Driven Science, Community Tech Stories. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 553770709,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/01.png style=flux_klein size=896x1152 seed=553770709 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Five Eyes Cyber Resilience",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Five Eyes Cyber Resilience takes on the day’s Cybersecurity Resilience thread, translating the news into a single visual moment. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. The Five Eyes alliance has issued a joint statement urging leaders to strengthen resilience against AI-driven cyber risks, emphasizing the need for secure practices integrated into core business and national strategies. In the artwork, that story symbolizes Five Eyes resilience.",
+      "prompt": "Giotto-inspired fresco, painterly texture, rich pigment. 1978 Australian office workers in Melbourne, solid forms, blue sky background. Analysts collaborate on cybersecurity, symbolizing Five Eyes resilience. Narrative clarity, early spatial feeling, warm lighting, no modern digital screens, no logos, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1893257141,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/02.png style=flux_klein size=896x1152 seed=1893257141 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "EdTech Human Connection",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "EdTech Human Connection takes on the day’s EdTech & Human Connection thread, translating the news into a single visual moment. The World Bank is reimagining education through EdTech, focusing on how digital tools can bridge gaps and enhance human connections in learning environments. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. The composition keeps the human stakes of EdTech & Human Connection in view without turning the news into spectacle.",
+      "prompt": "Proto-Renaissance fresco, painterly fine-art, visible brushstrokes. 1935 Australian rural classroom, teacher and students in period clothing. Early digital tools symbolize EdTech and human connection. Solid forms, blue chapel sky, narrative clarity, warm earth tones, no modern devices, no logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1607685557,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/03.png style=flux_klein size=896x1152 seed=1607685557 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "AI-Driven Scientific Discovery",
+      "tone": "good_news",
+      "fashionYear": "1952",
+      "emailHero": false,
+      "description": "AI-Driven Scientific Discovery takes on the day’s AI-Driven Science thread, translating the news into a single visual moment. Internationally, the narrative is shifting toward how technology serves human connection and scientific discovery. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. In the artwork, that story represents scientific breakthroughs.",
+      "prompt": "Giotto-style fresco, painterly medium, pigment on canvas. 1952 Australian scientists in Sydney lab, solid forms, blue sky. AI data visualized as symbolic motifs, representing scientific breakthroughs. Narrative clarity, early spatial depth, warm lighting, no modern computers, no logos, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 907571696,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/04.png style=flux_klein size=896x1152 seed=907571696 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Digital Privacy and Agency",
+      "tone": "news",
+      "fashionYear": "1912",
+      "emailHero": false,
+      "description": "Digital Privacy and Agency takes on the day’s Digital Privacy & Agency thread, translating the news into a single visual moment. The World Bank is reimagining education through EdTech, focusing on how digital tools can bridge gaps and enhance human connections in learning environments. A recent ABC News initiative invited Australians to share their personal experiences with AI and technology, highlighting a national conversation that balances the convenience of digital tools with concerns over privacy, job displacement, and misinformation. The composition keeps the human stakes of Digital Privacy & Agency in view without turning the news into spectacle.",
+      "prompt": "Proto-Renaissance fresco, painterly fine-art, visible brushwork. 1912 Australian suburban home, family in period clothing. Early digital tools symbolize privacy and agency. Solid forms, blue chapel sky, narrative clarity, warm earth tones, no modern devices, no logos, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 554933275,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/05.png style=flux_klein size=896x1152 seed=554933275 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Digital Harvest",
+      "tone": "good_news",
+      "fashionYear": "1898",
+      "emailHero": false,
+      "description": "Set in a Sydney park, this scene visualizes the ABC News initiative inviting Australians to share personal AI stories. It depicts a diverse group sharing their digital experiences, symbolizing the national conversation on technology's role in daily life and the empowerment of citizens to voice their experiences with transparency and inclusivity.",
+      "prompt": "Proto-Renaissance fresco style, painterly fine-art. A diverse group of Australians in 1898 colonial fashion, gathered under eucalyptus trees in Sydney. They share glowing digital tablets, symbolizing the ABC News initiative on personal AI stories. Solid human emotion, blue chapel skies, narrative clarity, early spatial feeling. Medium: tempera, visible brushwork, pigment on plaster, no modern digital cameras. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1182723400,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/06.png style=flux_klein size=896x1152 seed=1182723400 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Harbour Defenders",
+      "tone": "good_news",
+      "fashionYear": "1942",
+      "emailHero": false,
+      "description": "Located in Melbourne's Docklands, this artwork represents the Five Eyes joint statement on AI cyber resilience. It shows volunteers and security experts collaborating to strengthen digital defenses. The scene highlights international solidarity and proactive leadership, reflecting a global commitment to safeguarding digital infrastructure through community resilience and proactive defense.",
+      "prompt": "Giotto-inspired fresco, painterly fine-art. Melbourne Docklands, 1942 wartime fashion. Volunteers and security experts in period clothing collaborate, protecting glowing digital infrastructure. Solid human emotion, blue chapel skies, narrative clarity, early spatial feeling. Medium: tempera, visible brushwork, pigment on plaster, no modern digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 915769331,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/07.png style=flux_klein size=896x1152 seed=915769331 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Rainforest Classroom",
+      "tone": "good_news",
+      "fashionYear": "1971",
+      "emailHero": false,
+      "description": "Set in a Brisbane rainforest, this image illustrates the World Bank's reimagining of education through EdTech. It shows students using digital tools to bridge gaps and enhance human connections. The scene showcases how technology is being deployed to enhance educational access and human connection, supporting global capacity building in a natural Australian setting.",
+      "prompt": "Proto-Renaissance fresco, painterly fine-art. Brisbane rainforest, 1971 fashion. Students using digital tools, bridging gaps, enhancing human connections. Solid human emotion, blue chapel skies, narrative clarity, early spatial feeling. Medium: tempera, visible brushwork, pigment on plaster, no modern digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 796449550,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/08.png style=flux_klein size=896x1152 seed=796449550 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Outback Discovery",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "In the red desert of Western Australia, this scene visualizes the World Economic Forum's note on AI catalyzing scientific breakthroughs. It depicts researchers using AI tools to drive new discoveries, expanding human knowledge. The artwork celebrates the role reversal where AI is now driving scientific advancements, offering a hopeful vision of a tech-enabled future set in the Australian outback.",
+      "prompt": "Giotto-style fresco, painterly fine-art. Western Australia red desert, 1985 fashion. Researchers using AI tools, driving scientific breakthroughs, expanding human knowledge. Solid human emotion, blue chapel skies, narrative clarity, early spatial feeling. Medium: tempera, visible brushwork, pigment on plaster, no modern digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1681009051,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/09.png style=flux_klein size=896x1152 seed=1681009051 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Digital Privacy Watch",
+      "tone": "news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Set in a suburban street in Adelaide, this image represents the Joint Select Committee's review of AI laws. It shows citizens and policymakers discussing data sovereignty, deepfakes, and cybersecurity. The scene signals a mature approach to governance, aiming to protect citizens while fostering innovation, reflecting the high-level regulatory efforts in Australia's digital future.",
+      "prompt": "Proto-Renaissance fresco, painterly fine-art. Adelaide suburban street, 2015 fashion. Citizens and policymakers discussing data sovereignty, deepfakes, cybersecurity. Solid human emotion, blue chapel skies, narrative clarity, early spatial feeling. Medium: tempera, visible brushwork, pigment on plaster, no modern digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1467847066,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-15/10.png style=flux_klein size=896x1152 seed=1467847066 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
