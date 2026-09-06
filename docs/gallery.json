@@ -2529,6 +2529,139 @@
           "prompt": "Painterly Vuillard fine-art: modern Sydney terrace with intricate wallpaper patterns. Figures in 2015 fashion relax on high-quality outdoor furniture. Muted tapestry colors. Soft, intimate brushwork. No photoreal CGI. Focus on outdoor living design and materiality. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-18",
+      "artist": {
+        "id": "bonnard",
+        "name": "Pierre Bonnard",
+        "era": "Nabis FR",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "intimism",
+          "europe"
+        ],
+        "bio": "Pierre Bonnard was a French painter, illustrator and printmaker, known especially for the stylized decorative qualities of his paintings and his bold use of color. A founding member of the Post-Impressionist group of avant-garde painters Les Nabis, his early work was strongly influenced by the work of Paul Gauguin, as well as the prints of Hokusai and other Japanese artists. Bonnard was a leading figure in the transition from Impressionism to Modernism. He painted landscapes, urban scenes, portraits and intimate domestic scenes, where the backgrounds, colors and painting style usually took precedence over the subject.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/T%C3%AAte_de_Bonnard_%28Portrait_photograph_of_Pierre_Bonnard%29%2C_c.1899%2C_Mus%C3%A9e_d%27Orsay%2C_restaur%C3%A9e.jpg/330px-T%C3%AAte_de_Bonnard_%28Portrait_photograph_of_Pierre_Bonnard%29%2C_c.1899%2C_Mus%C3%A9e_d%27Orsay%2C_restaur%C3%A9e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Australian Catchment Resilience",
+        "Global Water Innovation",
+        "Drought and Flood Adaptation",
+        "Investment in Water Infrastructure",
+        "Community and Ecosystem Stewardship",
+        "Next-Generation Water Professionals"
+      ],
+      "summary": "In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. Recent discussions by Water Ministers in August 2026 highlight a collaborative approach to managing water allocations, emphasizing how communities and ecosystems have adapted to the 'boom and bust' nature of the climate. The evidence underscores the critical role of catchments in collecting water and the importance of planning for smaller allocations during dry times, while also recognizing the impacts of floodplain harvesting on downstream flows. This narrative reflects a mature, science-based understanding of water cycles, where human agency and community resilience are central to navigating environmental variability.\n\nInternationally, water innovation is moving from the periphery to the mainstream of climate and sustainability discussions. New venture funds and global initiatives, such as the Water Discovery Challenge and the World Economic Forum’s Aquapreneur Innovation Initiative, are signaling rising investor confidence and a surge in fresh thinking. These efforts are crucial as global water infrastructure needs are projected to reach $6.7 trillion by 2030. The sector is seeing a wave of ingenuity, with young professionals and innovators from outside the traditional water industry proposing concrete solutions for energy efficiency, digital integration, and non-revenue water reduction. This global momentum highlights a collective commitment to protecting this precious resource through technology and collaboration.\n\nThe convergence of Australian water stewardship and global innovation showcases a hopeful trajectory where scientific breakthroughs and human care intersect. By treating water professionals as contributors rather than observers and exploring 40 years of pioneering innovation, the sector is building a robust foundation for the future. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Murray-Darling Mosaic",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Murray-Darling Mosaic is today’s cover piece — one Australian scene that weaves together Australian Catchment Resilience, Global Water Innovation, Drought and Flood Adaptation, Investment in Water Infrastructure, Community and Ecosystem Stewardship, and Next-Generation Water Professionals. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. The convergence of Australian water stewardship and global innovation showcases a hopeful trajectory where scientific breakthroughs and human care intersect. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly Bonnard style, shimmering domestic pattern, warm Nabis glow. A unified Australian riverbank scene with diverse figures in 2024 casual wear. Motifs of water catchment, floodplains, and irrigation systems interweave. Soft brushwork, pigment-rich canvas, intimate memory color, no digital camera effects. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Water Discovery Challenge",
+          "tone": "good_news",
+          "fashionYear": "2020",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Water Discovery Challenge answers a strand of today’s news with a focused visual reading. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Bonnard intimist style, warm glow. A Brisbane workshop with young innovators in 2020 smart-casual attire. They sketch water solutions on paper. Shimmering pattern, soft brushwork, pigment on canvas, domestic memory color, no photoreal CGI, no hard precisionist lines. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Next-Gen Water Professionals",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Next-Gen Water Professionals takes on the day’s Next-Generation Water Professionals thread, translating the news into a single visual moment. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. The composition keeps the human stakes of Next-Generation Water Professionals in view without turning the news into spectacle.",
+          "prompt": "Painterly Bonnard style, intimate glow, shimmering pattern. A Perth laboratory scene with young professionals in 2015 business casual. They examine water data and energy models. Soft brushwork, rich pigment, canvas texture, warm Nabis light, no digital realism, no stencil art. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Investor Confidence in Water",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Investor Confidence in Water takes on the day’s Investment in Water Infrastructure thread, translating the news into a single visual moment. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. The composition keeps the human stakes of Investment in Water Infrastructure in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Bonnard style, warm domestic glow. A Melbourne boardroom with investors in 2010 suits. They review water infrastructure charts. Shimmering pattern, soft brushwork, pigment on canvas, intimate memory color, no hard precisionist factories, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Drought and Flood Adaptation",
+          "tone": "news",
+          "fashionYear": "1995",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Drought and Flood Adaptation takes on the day’s Drought and Flood Adaptation thread, translating the news into a single visual moment. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. The composition keeps the human stakes of Drought and Flood Adaptation in view without turning the news into spectacle.",
+          "prompt": "Painterly Bonnard style, warm Nabis glow, shimmering pattern. A rural NSW town with farmers and volunteers in 1995 workwear. They manage water tanks and catchments. Soft brushwork, pigment-rich canvas, intimate memory color, no digital camera, no hard precisionist lines. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "The Barwon-Darling Rebuild",
+          "tone": "good_news",
+          "fashionYear": "1925",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Barwon-Darling Rebuild takes on the day’s Australian Catchment Resilience thread, translating the news into a single visual moment. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. In the artwork, that story captures community solidarity and catchment resilience.",
+          "prompt": "Painterly Bonnard-style oil on canvas, warm Nabis glow. Diverse Australians in 1925 flannel shirts and wide-brimmed hats work together in red desert scrub, repairing a timber dam wall. Eucalyptus shadows shimmer over wet clay. Intimate, domestic color palette, soft brushwork, capturing community solidarity and catchment resilience. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Harbour Innovation Hub",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Harbour Innovation Hub takes on the day’s Global Water Innovation thread, translating the news into a single visual moment. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. In the artwork, that story captures the excitement of cross-disciplinary collaboration and fresh thinking.",
+          "prompt": "Painterly fine-art, Bonnard-esque domestic intimacy. 1968 fashion: mod dresses, button-downs. Diverse young Australians sketch diagrams on a table by a Sydney harbour window. Blue water reflections mix with warm interior light. Soft, shimmering brushstrokes, capturing the excitement of cross-disciplinary collaboration and fresh thinking. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "The $6.7T Promise",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "The $6.7T Promise takes on the day’s Next-Generation Water Professionals thread, translating the news into a single visual moment. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. The composition keeps the human stakes of Next-Generation Water Professionals in view without turning the news into spectacle.",
+          "prompt": "Painterly oil, Bonnard style. 1985 power suits and shoulder pads. Diverse professionals in a sunlit Melbourne office examine large blueprints of irrigation systems. Warm yellow light highlights the paper. Soft, textured brushwork. Intimate scene of financial commitment meeting technical ingenuity, glowing with Nabis warmth. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Forty Years of Flow",
+          "tone": "good_news",
+          "fashionYear": "1952",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Forty Years of Flow answers a strand of today’s news with a focused visual reading. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. In the artwork, that story reflects deep respect for historical water science and discovery.",
+          "prompt": "Painterly canvas, Bonnard intimate style. 1952 dress and hat. A woman reads technical logs in a red-dirt Queensland station, surrounded by native plants. Soft, dappled sunlight filters through eucalyptus leaves. Warm, muted pigments. Shimmering domestic pattern, reflecting deep respect for historical water science and discovery. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Murray-Darling Drought Watch",
+          "tone": "news",
+          "fashionYear": "2026",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Murray-Darling Drought Watch answers a strand of today’s news with a focused visual reading. In the Australian context, the focus remains on the intricate balance between drought resilience and flood management within major catchments like the Murray-Darling and Barwon-Darling. These stories of resilience, from local catchment management to global investment trends, demonstrate that through solidarity, scientific understanding, and creative problem-solving, communities worldwide are actively shaping a sustainable water future. In the artwork, that story captures the serious reality of water scarcity and adaptive management.",
+          "prompt": "Painterly fine-art, Bonnard color memory. 2026 casual tech-wear. An Australian farmer stands by a dry, cracked riverbed in the Murray-Darling, checking a handheld device. Eucalyptus ghosts in the distance. Warm, dusty light. Soft brushwork, intimate and respectful, capturing the serious reality of water scarcity and adaptive management. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }
