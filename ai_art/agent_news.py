@@ -183,14 +183,31 @@ class NewsAgent:
                 raise
         raise RuntimeError(f"Qwen chat failed after {retries} retries: {last_exc}") from last_exc
 
-    def gather_sources(self, on: date) -> list[dict[str, str]]:
+    def gather_sources(
+        self,
+        on: date,
+        *,
+        topics: list[str] | None = None,
+    ) -> list[dict[str, str]]:
         day = on.isoformat()
-        queries = [
-            f"Australia news today {day}",
-            "Australia top stories site:abc.net.au",
-            "Australia politics economy climate news",
-            "Australian breaking news site:theguardian.com/australia-news",
-        ]
+        topic_bits = [t.strip() for t in (topics or []) if t and str(t).strip()]
+        if topic_bits:
+            focus = " ".join(topic_bits[:6])
+            queries = [
+                f"Australia {focus} news {day}",
+                f"Australia {topic_bits[0]} site:abc.net.au",
+                f"Australia {' OR '.join(topic_bits[:3])} site:theguardian.com/australia-news",
+                f"Australian {focus} news",
+            ]
+            if len(topic_bits) > 1:
+                queries.append(f"Australia {topic_bits[1]} news")
+        else:
+            queries = [
+                f"Australia news today {day}",
+                "Australia top stories site:abc.net.au",
+                "Australia politics economy climate news",
+                "Australian breaking news site:theguardian.com/australia-news",
+            ]
         seen: set[str] = set()
         sources: list[dict[str, str]] = []
         for q in queries:
@@ -230,7 +247,13 @@ class NewsAgent:
                 fetched += 1
         return sources
 
-    def summarize(self, sources: list[dict[str, str]], on: date) -> dict[str, Any]:
+    def summarize(
+        self,
+        sources: list[dict[str, str]],
+        on: date,
+        *,
+        topics: list[str] | None = None,
+    ) -> dict[str, Any]:
         blob_parts = []
         for i, s in enumerate(sources[:20], 1):
             part = (
@@ -241,12 +264,21 @@ class NewsAgent:
                 part += f"Extract: {s['body'][:2500]}\n"
             blob_parts.append(part)
         evidence = "\n".join(blob_parts) or "(no sources)"
+        topic_bits = [t.strip() for t in (topics or []) if t and str(t).strip()]
+        focus_line = ""
+        if topic_bits:
+            focus_line = (
+                "Focus the summary on these topic areas when present in the evidence: "
+                + ", ".join(topic_bits)
+                + ". Still note other major AU stories briefly if present.\n"
+            )
         system = (
             "You are a careful Australian news analyst. "
             "Use only the provided evidence. Reply with JSON only."
         )
         user = (
             f"Date: {on.isoformat()}\n"
+            f"{focus_line}"
             "Summarize recent Australian news from the evidence below.\n"
             "Return JSON with keys:\n"
             '  summary: string (2-4 paragraphs),\n'
@@ -280,8 +312,17 @@ class NewsAgent:
         summary_pack: dict[str, Any],
         artist: Artist,
         count: int = 10,
+        topics: list[str] | None = None,
     ) -> list[dict[str, str]]:
         mode_help = render_mode_instruction(artist.render_mode)
+        topic_bits = [t.strip() for t in (topics or []) if t and str(t).strip()]
+        focus = ""
+        if topic_bits:
+            focus = (
+                "Prioritize visual subjects drawn from these focus topics: "
+                + ", ".join(topic_bits)
+                + ".\n"
+            )
         system = (
             "You write image-generation prompts for Flux / ComfyUI. "
             "Reply with JSON only. Each prompt must be a single detailed English paragraph."
@@ -293,6 +334,7 @@ class NewsAgent:
             f"{mode_help}\n\n"
             f"STYLE LOCK (must influence every prompt):\n{artist.style_lock}\n\n"
             f"NEGATIVE HINTS to avoid:\n{artist.negative_hint}\n\n"
+            f"{focus}"
             "NEWS SUMMARY (subjects must come from this — do not invent unrelated topics):\n"
             f"{summary_pack.get('summary')}\n\n"
             f"Themes: {', '.join(summary_pack.get('themes') or [])}\n\n"
@@ -331,18 +373,20 @@ def run_news_to_prompts(
     *,
     on: date | None = None,
     count: int = 10,
+    topics: list[str] | None = None,
 ) -> NewsResult:
     from ai_art.preflight import ensure_qwen, log
 
     on = on or date.today()
+    topic_bits = [t.strip() for t in (topics or []) if t and str(t).strip()]
     with NewsAgent() as agent:
-        sources = agent.gather_sources(on)
+        sources = agent.gather_sources(on, topics=topic_bits or None)
         thin = len([s for s in sources if s.get("url")]) < 3
         # Brave search can take 30s+; another process (Comfy MCP) may have
         # stopped Qwen in the meantime — bring it back before any LLM call.
         log("re-checking Qwen before summary/prompts")
         ensure_qwen(allow_restart=True)
-        summary_pack = agent.summarize(sources, on)
+        summary_pack = agent.summarize(sources, on, topics=topic_bits or None)
         if not summary_pack.get("summary"):
             summary_pack["summary"] = (
                 "Limited Australian news evidence was available. "
@@ -351,7 +395,10 @@ def run_news_to_prompts(
             thin = True
         ensure_qwen(allow_restart=True)
         images = agent.write_prompts(
-            summary_pack=summary_pack, artist=artist, count=count
+            summary_pack=summary_pack,
+            artist=artist,
+            count=count,
+            topics=topic_bits or None,
         )
         # Pad if LLM returned fewer than count (should be rare).
         while len(images) < count:

@@ -35,9 +35,15 @@ def _run_pipeline(args: argparse.Namespace, on: date) -> int:
     log(
         f"artist of the day: {artist.name} ({artist.id}) "
         f"mode={artist.render_mode} aspect={artist.aspect_ratio}"
+        + (f" topics={args.topics!r}" if args.topics else "")
     )
 
-    news = run_news_to_prompts(artist, on=on, count=args.count)
+    news = run_news_to_prompts(
+        artist,
+        on=on,
+        count=args.count,
+        topics=getattr(args, "topics", None) or None,
+    )
     log(
         f"news summary ok themes={news.themes!r} images={len(news.images)} "
         f"thin={news.thin_search}"
@@ -117,11 +123,21 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--force", action="store_true", help="Regenerate images even if present")
     p.add_argument("--count", type=int, default=10)
     p.add_argument(
+        "--topics",
+        default=None,
+        help="Comma-separated topic focus for search/summary/prompts "
+        '(e.g. "climate,bushfire,environment")',
+    )
+    p.add_argument(
         "--no-lock",
         action="store_true",
         help="Skip pipeline flock (unsafe if another run is active)",
     )
     args = p.parse_args(argv)
+    if args.topics:
+        args.topics = [t.strip() for t in str(args.topics).split(",") if t.strip()]
+    else:
+        args.topics = None
 
     on = date.fromisoformat(args.date) if args.date else date.today()
     config.LOG_DIR.mkdir(parents=True, exist_ok=True)
