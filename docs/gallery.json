@@ -3196,6 +3196,140 @@
           "prompt": "Painterly fine-art. Scientists in 2015 modern lab coats and casual wear in a glass-walled lab. Mineral blue and vermillion pigments create a serene, ethical aura. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "artist": {
+        "id": "ajanta",
+        "name": "Ajanta cave painting spirit",
+        "era": "classical IN",
+        "renderMode": "painterly",
+        "aspectRatio": "16:9",
+        "tags": [
+          "mural",
+          "asia",
+          "india"
+        ],
+        "bio": "Ajanta cave painting spirit (classical IN). Ajanta cave mural spirit: fluid Bodhisattva grace, earth reds and greens, narrative Buddhist atmosphere, soft classical Indian contour without script. Painterly fine-art visual language. Associated tags: mural, asia, india.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Perth Festival 2026",
+        "Australian Dance Premieres",
+        "Sydney Theatre Company Season",
+        "Community Arts Support",
+        "International Performance in AU",
+        "Ethical AI in Theatre"
+      ],
+      "summary": "Australian stages are set for a vibrant 2026 season, with Perth Festival unveiling an explosive program that blends local theatre icons with international dance exclusives. The festival highlights the transformative solo work 'Songs of the Bulbul' by UK choreographer Aakash Odedra, alongside local favourites like The Last Great Hunt. This season underscores a national commitment to diverse performance forms, from drama to high-concept dance, ensuring that Australian audiences have access to world-class artistic experiences.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "Perth Festival 2026: The Bulbul's Song",
+          "tone": "good_news",
+          "fashionYear": "2026",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified scene at Perth Festival featuring Aakash Odedra's 'Songs of the Bulbul' and local theatre icons. The artwork blends international dance exclusives with community arts support, showcasing a vibrant 2026 season of diverse performance forms in a coastal Australian setting.",
+          "prompt": "Painterly fine-art mural in Ajanta cave spirit, fluid Bodhisattva grace, earth reds and greens. Unified coastal Perth scene, 2026 fashion, Aakash Odedra dancing solo with bulbul bird motif, local theatre actors in period dress, community volunteers supporting, soft classical Indian contour, narrative Buddhist atmosphere, no text, no neon, no digital camera. Unified Australian scene weaving together these themes: Perth Festival 2026, Australian Dance Premieres, Sydney Theatre Company Season, Community Arts Support, International Performance in AU, Ethical AI in Theatre."
+        },
+        {
+          "index": 2,
+          "title": "Sydney Harbour: The Forward Lean",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Sydney Harbour: The Forward Lean answers a strand of today’s news with a focused visual reading. Australian stages are set for a vibrant 2026 season, with Perth Festival unveiling an explosive program that blends local theatre icons with international dance exclusives. Sydney Theatre Company 2026: Leaning forward. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Ajanta style, earth pigments, soft classical contour. Sydney harbour at dusk, 1998 fashion, Miranda Otto figure in graceful pose, theatrical stage elements floating in narrative space, local Australian faces, fluid Bodhisattva grace, earth reds and greens, no script, no neon, no photoreal CGI, no modern camera. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "VISTA: Fragility of Perception",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Stephanie Lake Company's new dance work 'VISTA' premieres at Malthouse. The artwork explores the fragility of human perception through high-concept dance, set in an Australian rainforest clearing, demonstrating innovation in contemporary Australian dance forms with a 2015 aesthetic.",
+          "prompt": "Painterly fine-art, Ajanta mural spirit, fluid grace, earth reds and greens. Australian rainforest clearing, 2015 fashion, Stephanie Lake dancer in mid-air, abstract perception motifs, narrative Buddhist atmosphere, soft classical Indian contour, no script, no neon, no digital camera, no photoreal CGI, no Bauhaus bars. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Community Arts: The Support Circle",
+          "tone": "good_news",
+          "fashionYear": "1965",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Five practical ways to support Australian theatre, visualized as a community gathering in a suburban street. The image fosters solidarity and resilience, showing diverse Australian faces in 1965 fashion, actively participating in local performing arts, highlighting the human ingenuity of community support.",
+          "prompt": "Painterly fine-art, Ajanta cave painting spirit, earth pigments, fluid Bodhisattva grace. Suburban Australian street, 1965 fashion, diverse community members in supportive circle, theatrical masks as symbolic objects, narrative Buddhist atmosphere, soft classical Indian contour, no script, no neon, no digital camera, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Ethical AI in Theatre: The Digital Muse",
+          "tone": "news",
+          "fashionYear": "2024",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Exploring ethical AI in theatre, this image shows a digital muse interacting with human actors in a modern Australian stage. The artwork visualizes the intersection of technology and art, set in a recognizable Australian city, with 2024 fashion, highlighting the careful integration of new tools in performance.",
+          "prompt": "Painterly fine-art, Ajanta style, earth reds and greens, fluid grace. Modern Australian stage, 2024 fashion, digital muse figure interacting with human actors, narrative Buddhist atmosphere, soft classical Indian contour, no script, no neon, no digital camera, no photoreal CGI, no Bauhaus bars, no night city neon. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Perth Festival: The International Stage",
+          "tone": "good_news",
+          "fashionYear": "1922",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Perth Festival: The International Stage takes on the day’s Perth Festival 2026 thread, translating the news into a single visual moment. Australian stages are set for a vibrant 2026 season, with Perth Festival unveiling an explosive program that blends local theatre icons with international dance exclusives. This season underscores a national commitment to diverse performance forms, from drama to high-concept dance, ensuring that Australian audiences have access to world-class artistic experiences. The composition keeps the human stakes of Perth Festival 2026 in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art mural in Ajanta cave spirit, fluid Bodhisattva grace, earth reds and greens, soft classical Indian contour. A diverse Australian stage in Perth, 1922 fashion cues with flapper dresses and fedoras, dancers performing high-concept movement. Eucalyptus shadows frame the scene, narrative Buddhist atmosphere, no text, no neon, pigment on canvas. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 7,
+          "title": "STC: The Forward Lean",
+          "tone": "good_news",
+          "fashionYear": "1975",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "STC: The Forward Lean answers a strand of today’s news with a focused visual reading. Australian stages are set for a vibrant 2026 season, with Perth Festival unveiling an explosive program that blends local theatre icons with international dance exclusives. Sydney Theatre Company 2026: Leaning forward. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Ajanta mural style, fluid grace, earth pigments, classical Indian contour. Sydney Harbour backdrop, 1975 fashion with wide collars and platform shoes. Actors in dramatic poses, Miranda Otto likeness suggested, narrative Buddhist atmosphere. Soft brushwork, no digital camera, no neon, no script, canvas texture, warm reds and greens. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "VISTA: The Fragile Perception",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "VISTA: The Fragile Perception takes on the day’s Australian Dance Premieres thread, translating the news into a single visual moment. Australian stages are set for a vibrant 2026 season, with Perth Festival unveiling an explosive program that blends local theatre icons with international dance exclusives. This season underscores a national commitment to diverse performance forms, from drama to high-concept dance, ensuring that Australian audiences have access to world-class artistic experiences. The composition keeps the human stakes of Australian Dance Premieres in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Ajanta cave spirit, fluid Bodhisattva grace, earth reds and greens, soft classical contour. Melbourne rainforest setting, 1992 fashion with oversized jackets and high boots. Dancers exploring perception, narrative Buddhist atmosphere. No digital camera, no neon, pigment on canvas, brushwork visible, no text, no logos, dignified Australian faces."
+        },
+        {
+          "index": 9,
+          "title": "Community Arts: The Solidarity Circle",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "This artwork visualizes five practical ways to support Australian theatre, showing community members gathering in a suburban street. It fosters solidarity and resilience, highlighting the national commitment to sustaining local performing arts through collective participation and support.",
+          "prompt": "Painterly fine-art, Ajanta mural style, fluid grace, earth pigments, classical Indian contour. Suburban Australian street, 1955 fashion with pencil skirts and cardigans. Community circle, diverse Australian faces, narrative Buddhist atmosphere. Soft brushwork, no digital camera, no neon, no script, canvas texture, warm reds and greens, dignified. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Ethical AI: The Digital Muse",
+          "tone": "news",
+          "fashionYear": "2010",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Depicting the theme of ethical AI in theatre, this piece shows a performer interacting with a digital interface in an outback station. It reflects on the integration of technology in artistic experiences, ensuring human-centred approaches to innovation in Australian performance spaces.",
+          "prompt": "Painterly fine-art, Ajanta cave spirit, fluid Bodhisattva grace, earth reds and greens, soft classical contour. Outback station, 2010 fashion with casual jeans and t-shirts. Performer interacting with digital light, narrative Buddhist atmosphere. No digital camera, no neon, pigment on canvas, brushwork, no text, no logos, dignified Aboriginal Australian face."
+        }
+      ]
     }
   ]
 }
