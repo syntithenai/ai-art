@@ -239,6 +239,7 @@
       font-size: 0.95rem;
     }
     .detail-back:hover { text-decoration: underline; }
+    .detail-toolbar .detail-back { margin-bottom: 0; }
     .day-back {
       margin: 0 0 0.5rem;
     }
@@ -492,6 +493,66 @@
     .profile-btn:hover {
       border-color: color-mix(in srgb, var(--accent) 45%, transparent);
     }
+    .share-header-btn {
+      padding: 0.45rem 0.85rem;
+    }
+    .share-header-btn .profile-btn-label {
+      max-width: none;
+    }
+    .detail-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+    .detail-toolbar .detail-back { margin-bottom: 0; }
+    .share-dialog-panel {
+      text-align: center;
+    }
+    .share-dialog-panel h3 { text-align: left; }
+    .share-qr-wrap {
+      display: flex;
+      justify-content: center;
+      margin: 0.75rem 0 1rem;
+      padding: 0.75rem;
+      background: #fff;
+      border: 1px solid var(--line);
+    }
+    .share-qr-wrap canvas,
+    .share-qr-wrap img {
+      display: block;
+      width: 180px;
+      height: 180px;
+    }
+    .share-link-row {
+      display: flex;
+      gap: 0.5rem;
+      margin: 0 0 0.85rem;
+      text-align: left;
+    }
+    .share-link-row input {
+      flex: 1;
+      min-width: 0;
+      font: inherit;
+      font-size: 0.85rem;
+      color: var(--ink);
+      background: var(--bg);
+      border: 1px solid var(--line);
+      padding: 0.5rem 0.65rem;
+    }
+    .share-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+    }
+    .share-actions a.chip {
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+    }
     .profile-btn-avatar-wrap {
       position: relative;
       display: inline-flex;
@@ -609,6 +670,9 @@
       <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
     </div>
     <div class="auth-slot">
+      <button type="button" class="profile-btn share-header-btn" id="headerShareBtn" title="Share this page" aria-label="Share this page" aria-haspopup="dialog">
+        <span class="profile-btn-label">Share</span>
+      </button>
       <button type="button" class="profile-btn" id="authProfileBtn" title="Sign in with Google" aria-label="Sign in with Google">
         <span class="profile-btn-avatar-wrap">
           <img id="authAvatarImg" class="profile-avatar-img" alt="" width="32" height="32" referrerpolicy="no-referrer" hidden />
@@ -645,6 +709,23 @@
       <p class="artist-meta" id="artistDialogMeta"></p>
       <p class="artist-bio" id="artistDialogBio"></p>
       <p class="artist-credit" id="artistDialogCredit" hidden></p>
+    </div>
+  </div>
+  <div id="shareDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-labelledby="shareDialogTitle" hidden>
+    <div class="profile-dialog-panel share-dialog-panel">
+      <button type="button" class="artist-dialog-close" id="shareDialogClose" aria-label="Close">&times;</button>
+      <h3 id="shareDialogTitle">Share</h3>
+      <p class="meta" id="shareDialogSubtitle"></p>
+      <div class="share-qr-wrap">
+        <canvas id="shareQrCanvas" width="180" height="180" aria-label="QR code"></canvas>
+      </div>
+      <div class="share-link-row">
+        <input id="shareUrlInput" type="text" readonly aria-label="Share link" />
+        <button type="button" class="chip" id="shareCopyBtn">Copy</button>
+      </div>
+      <div class="share-actions">
+        <a class="chip primary" id="shareEmailBtn" href="mailto:">Email link</a>
+      </div>
     </div>
   </div>
   <div id="profileDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-label="Account" hidden>
@@ -1078,7 +1159,10 @@
           : '';
         main.innerHTML = `
           <article class="detail">
-            <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
+            <div class="detail-toolbar">
+              <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
+              <button type="button" class="chip" data-action="share-detail">Share</button>
+            </div>
             <img class="hero" src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
                  data-fullsrc="${escapeAttr(src)}" data-action="fullscreen"
                  data-date="${escapeAttr(run.date)}" data-index="${escapeAttr(String(img.index))}" />
@@ -1096,6 +1180,135 @@
         }
       }
 
+      const shareDialog = document.getElementById('shareDialog');
+      const shareDialogClose = document.getElementById('shareDialogClose');
+      const shareDialogSubtitle = document.getElementById('shareDialogSubtitle');
+      const shareQrCanvas = document.getElementById('shareQrCanvas');
+      const shareUrlInput = document.getElementById('shareUrlInput');
+      const shareCopyBtn = document.getElementById('shareCopyBtn');
+      const shareEmailBtn = document.getElementById('shareEmailBtn');
+      const headerShareBtn = document.getElementById('headerShareBtn');
+      let qrcodePromise = null;
+
+      function siteBaseUrl() {
+        const cfg = window.AI_ART_CONFIG || {};
+        const fromCfg = (cfg.pagesUrl || '').trim();
+        if (fromCfg) return fromCfg.replace(/\/?$/, '/');
+        return (location.origin + location.pathname).replace(/\/?$/, '/');
+      }
+
+      function currentSharePayload() {
+        const route = parseRoute();
+        if (route.view === 'detail') {
+          const found = findImage(route.date, route.index);
+          const title = (found && found.img && found.img.title) || 'AI Art';
+          const artist = (found && found.run && found.run.artist && found.run.artist.name) || '';
+          const url = siteBaseUrl() + '#/' + route.date + '/' + route.index;
+          const label = artist ? (title + ' — ' + artist) : title;
+          return {
+            url,
+            title: label,
+            subject: 'AI Art: ' + title,
+            body: 'Have a look at this artwork from AI Art:\n\n' + label + '\n' + url + '\n'
+          };
+        }
+        if (route.date) {
+          const run = runs.find(r => r.date === route.date);
+          const url = siteBaseUrl() + '#/' + route.date;
+          const label = 'AI Art — ' + formatAuDate(route.date)
+            + ((run && run.artist && run.artist.name) ? (' · ' + run.artist.name) : '');
+          return {
+            url,
+            title: label,
+            subject: label,
+            body: 'Have a look at today’s AI Art gallery:\n\n' + label + '\n' + url + '\n'
+          };
+        }
+        const url = siteBaseUrl();
+        return {
+          url,
+          title: 'AI Art — Australian News',
+          subject: 'AI Art — Australian News',
+          body: 'Daily artworks from Australian and world news:\n\n' + url + '\n'
+        };
+      }
+
+      function loadQrcodeLib() {
+        if (window.QRCode && typeof window.QRCode.toCanvas === 'function') {
+          return Promise.resolve();
+        }
+        if (qrcodePromise) return qrcodePromise;
+        qrcodePromise = new Promise((resolve, reject) => {
+          const s = document.createElement('script');
+          s.src = 'https://cdn.jsdelivr.net/npm/qrcode@1.5.4/build/qrcode.min.js';
+          s.async = true;
+          s.onload = () => resolve();
+          s.onerror = () => reject(new Error('QR library failed to load'));
+          document.head.appendChild(s);
+        });
+        return qrcodePromise;
+      }
+
+      async function drawShareQr(url) {
+        if (!shareQrCanvas) return;
+        const ctx = shareQrCanvas.getContext('2d');
+        if (ctx) {
+          ctx.fillStyle = '#ffffff';
+          ctx.fillRect(0, 0, shareQrCanvas.width, shareQrCanvas.height);
+        }
+        try {
+          await loadQrcodeLib();
+          await window.QRCode.toCanvas(shareQrCanvas, url, {
+            width: 180,
+            margin: 1,
+            color: { dark: '#0f1210', light: '#ffffff' }
+          });
+        } catch (err) {
+          if (ctx) {
+            ctx.fillStyle = '#9aa396';
+            ctx.font = '12px sans-serif';
+            ctx.fillText('QR unavailable', 40, 90);
+          }
+          console.error(err);
+        }
+      }
+
+      function openShareDialog() {
+        const payload = currentSharePayload();
+        shareDialogSubtitle.textContent = payload.title;
+        shareUrlInput.value = payload.url;
+        shareEmailBtn.href = 'mailto:?subject=' + encodeURIComponent(payload.subject)
+          + '&body=' + encodeURIComponent(payload.body);
+        shareCopyBtn.textContent = 'Copy';
+        shareDialog.hidden = false;
+        shareDialog.classList.add('open');
+        drawShareQr(payload.url);
+      }
+
+      function closeShareDialog() {
+        shareDialog.classList.remove('open');
+        shareDialog.hidden = true;
+      }
+
+      async function copyShareUrl() {
+        const url = shareUrlInput.value;
+        try {
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            await navigator.clipboard.writeText(url);
+          } else {
+            shareUrlInput.focus();
+            shareUrlInput.select();
+            document.execCommand('copy');
+          }
+          shareCopyBtn.textContent = 'Copied';
+          window.setTimeout(() => { shareCopyBtn.textContent = 'Copy'; }, 1600);
+        } catch (err) {
+          shareUrlInput.focus();
+          shareUrlInput.select();
+          alert('Copy failed — select the link and copy manually.');
+        }
+      }
+
       function render() {
         const route = parseRoute();
         if (route.view === 'detail') {
@@ -1108,6 +1321,12 @@
       main.addEventListener('click', (e) => {
         const t = e.target;
         if (!(t instanceof Element)) return;
+        const shareBtn = t.closest('[data-action="share-detail"]');
+        if (shareBtn) {
+          e.preventDefault();
+          openShareDialog();
+          return;
+        }
         const artistBtn = t.closest('[data-artist-json]');
         if (artistBtn) {
           e.preventDefault();
@@ -1121,6 +1340,20 @@
             img.getAttribute('data-date') || '',
             img.getAttribute('data-index') || '1'
           );
+        }
+      });
+
+      if (headerShareBtn) headerShareBtn.addEventListener('click', openShareDialog);
+      if (shareDialogClose) shareDialogClose.addEventListener('click', closeShareDialog);
+      if (shareDialog) {
+        shareDialog.addEventListener('click', (e) => {
+          if (e.target === shareDialog) closeShareDialog();
+        });
+      }
+      if (shareCopyBtn) shareCopyBtn.addEventListener('click', () => { copyShareUrl(); });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && shareDialog && shareDialog.classList.contains('open')) {
+          closeShareDialog();
         }
       });
 
