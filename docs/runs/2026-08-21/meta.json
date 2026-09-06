@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-21",
+  "artist": {
+    "id": "moreau",
+    "name": "Gustave Moreau",
+    "era": "Symbolism FR",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "symbolism",
+      "europe"
+    ],
+    "bio": "Gustave Moreau was a French artist and an important figure in the Symbolist movement. Jean Cassou called him \"the Symbolist painter par excellence\". He was an influential forerunner of symbolism in the visual arts in the 1860s, and at the height of the symbolist movement in the 1890s, he was among the most significant painters. Art historian Robert Delevoy wrote that Moreau \"brought symbolist polyvalence to its highest point in Jupiter and Semele.\" He was a prolific artist who produced over 15,000 paintings, watercolors, and drawings. Moreau painted allegories and traditional biblical and mythological subjects favored by the fine art academies. J. K. Huysmans wrote, \"Gustave Moreau has given...",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GustaveMoreau02.jpg/330px-GustaveMoreau02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australian agriculture is entering a period of robust recovery and technological expansion, with the industry projected to reach USD 88.5 billion by 2034. Recent data from the Australian Bureau of Statistics highlights a positive rebound in production, with red meat output up 0.6% and chicken meat up 3.1% in the June 2026 quarter. This growth is supported by a 1.4% increase in milk production, signaling a partial recovery from previous drought conditions in southwest Victoria and South Australia. These trends underscore the sector's resilience and its capacity to adapt through sustainable farming practices and export-driven innovation.\n\nOn the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. International organizations like the World Food Programme are scaling high-potential solutions, such as solar-powered food dehydration systems and bioproducts made from agricultural waste, to build community resilience and end hunger. These innovations highlight a constructive shift toward using technology not just for efficiency, but for human care and planetary health.\n\nFor the art gallery, these stories offer a narrative of human agency and ingenuity. The focus on market diversification and the reduction of non-tariff measures reflects a broader global commitment to fair trade and economic resilience. By emphasizing the human elements of rescue, solidarity, and scientific breakthroughs, the gallery can present a hopeful vision of a future where food systems are designed for both human and planetary well-being, showcasing the creative and collaborative spirit of modern agriculture.",
+  "themes": [
+    "Australian Ag Recovery",
+    "AI in Food Science",
+    "Sustainable Export Growth",
+    "Global Hunger Solutions",
+    "Climate Resilience Tech",
+    "Human-Centered Innovation"
+  ],
+  "headlines": [
+    {
+      "title": "Snapshot of Australian Agriculture 2026: Market Diversification and Export Growth",
+      "url": "https://www.agriculture.gov.au/abares/products/insights/snapshot-of-australian-agriculture"
+    },
+    {
+      "title": "Australian Bureau of Statistics: Red and Chicken Meat Production Up in June 2026",
+      "url": "https://www.abs.gov.au/statistics/industry/agriculture"
+    },
+    {
+      "title": "USDA: Australia’s Milk Production Expected to Increase by 1.4 Percent in 2026",
+      "url": "https://www.fas.usda.gov/regions/australia"
+    },
+    {
+      "title": "CEDA: Harnessing a $25bn Economic Opportunity in Food and Agribusiness",
+      "url": "https://www.ceda.com.au/news-and-resources/opinion/agribusiness/our-food-and-agribusiness-industry-must-harness-a"
+    },
+    {
+      "title": "AI for Food: Accelerating and Democratizing Discovery and Innovation",
+      "url": "https://www.nature.com/articles/s41538-025-00441-8"
+    },
+    {
+      "title": "WFP Innovation Accelerator: Scaling Solutions to End Hunger Worldwide",
+      "url": "https://innovation.wfp.org/"
+    },
+    {
+      "title": "IFPRI: Innovations in Food Systems as Key to Human and Planetary Health",
+      "url": "https://www.ifpri.org/blog/innovations-food-systems-key-human-and-planetary-health/"
+    },
+    {
+      "title": "Future Food Institute: Co-creating Solutions for Waste Reduction and Climate-Friendly Ingredients",
+      "url": "https://futurefoodinstitute.org/innovation/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australian Agribusiness Market Projected to Reach USD 88.5 Billion by 2034",
+      "url": "https://vocal.media/trader/australia-agribusiness-market-2026-agri-tech-innovation-sustainable-farming-and-export-growth",
+      "angle": "Highlights the sector's growth trajectory driven by sustainable practices and technological innovation, offering a hopeful outlook for economic resilience."
+    },
+    {
+      "title": "Milk Production Rebounds in 2026 After Drought",
+      "url": "https://www.fas.usda.gov/regions/australia",
+      "angle": "Shows the recovery of Australian farmers in southwest Victoria and South Australia, emphasizing community resilience and the return of stability to local food systems."
+    },
+    {
+      "title": "WFP Scales Solar-Powered Food Dehydration Systems",
+      "url": "https://www.wfp.org/innovation",
+      "angle": "Demonstrates how technology is being used to build resilience against climate change, turning agricultural waste into sellable bioproducts and supporting global food security."
+    },
+    {
+      "title": "AI Accelerates Discovery of Novel Protein Sources",
+      "url": "https://www.nature.com/articles/s41538-025-00441-8",
+      "angle": "Explores the constructive use of AI in food innovation, focusing on how it can optimize formulations and improve production processes while respecting cultural and ethical dimensions."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Snapshot of Australian Agriculture 2026 - DAFF",
+      "url": "https://www.agriculture.gov.au/abares/products/insights/snapshot-of-australian-agriculture",
+      "snippet": "This has increased rapidly over the last decade (Figure 9). Furthermore, ABARES research (Cao 2025) found the cost to Australia’s agricultural exports exceeded $4 billion per year. The reduction and/or elimination of costly NTMs supports market diversification by reducing the cost of doing business and by removing barriers to entry into new markets.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia Agribusiness Market 2026: Agri-Tech Innovation, Sustainable Farming & Export Growth | Trader",
+      "url": "https://vocal.media/trader/australia-agribusiness-market-2026-agri-tech-innovation-sustainable-farming-and-export-growth",
+      "snippet": "January 2026: <strong>Market projections indicate the industry could reach USD 88.5 Billion by 2034</strong>, supported by sustainable farming practices, export growth and technological innovation.",
+      "source": "brave"
+    },
+    {
+      "title": "Agriculture | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/statistics/industry/agriculture",
+      "snippet": "Release date and time 19 August 2026 · Release date and time: 19/08/2026 · In seasonally adjusted terms for the June 2026 quarter: <strong>Red meat production increased 0.6%</strong> Chicken meat production increased 3.1% Reference period · June 2026 · Release ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - Agribusiness",
+      "url": "https://www.trade.gov/country-commercial-guides/australia-agribusiness",
+      "snippet": "As the market for agricultural equipment continues to expand, driven by growing export opportunities, especially in Asia, <strong>Australian farmers are increasingly seeking innovative solutions to enhance productivity and efficiency</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | USDA Foreign Agricultural Service",
+      "url": "https://www.fas.usda.gov/regions/australia",
+      "snippet": "Australia’s <strong>milk production in 2026 is estimated to increase by 1.4 percent to 8.6 million metric tons</strong>, following a 2.1 percent decrease in 2025. This is a partial recovery after drought conditions impacted southwest Victoria and South Australia...",
+      "source": "brave"
+    },
+    {
+      "title": "CEDA - Our food and agribusiness industry must harness a $25bn economic opportunity",
+      "url": "https://www.ceda.com.au/news-and-resources/opinion/agribusiness/our-food-and-agribusiness-industry-must-harness-a",
+      "snippet": "While Australian agriculture still relies on world commodity markets, <strong>we can leverage science and technology to help manage the effects of COVID-19 and unlock value-adding growth opportunities to support our economic recovery and resilience</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia food site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+food+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: food agriculture innovation markets exports good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=food+agriculture+innovation+markets+exports+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "AI for food: accelerating and democratizing discovery and innovation | npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-025-00441-8",
+      "snippet": "In the context of food innovation, the focus of this article, AI can enable the discovery of novel protein sources, optimize formulations for taste and texture14, improve production processes19, predict consumer preferences22, and create innovative products that mimic the nutritional profile, taste, flavor, or texture of animal-based foods29. At the same time, it is clear that today’s AI systems lack the ability to fully grasp the nuanced social, ethical, and sensory dimensions of food that are deeply rooted in human culture30.",
+      "source": "brave"
+    },
+    {
+      "title": "WFP Innovation",
+      "url": "https://innovation.wfp.org/",
+      "snippet": "<strong>The WFP Innovation Accelerator sources, supports and scales high-potential solutions to end hunger worldwide</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Innovation and technology | World Food Programme",
+      "url": "https://www.wfp.org/innovation",
+      "snippet": "Innovation means farmers can build resilience through <strong>solar-powered food dehydration systems</strong> and limit the effects of climate change through portable machines that turn agricultural waste into sellable bioproducts.",
+      "source": "brave"
+    },
+    {
+      "title": "Innovations in food systems: The key to human and planetary health | IFPRI",
+      "url": "https://www.ifpri.org/blog/innovations-food-systems-key-human-and-planetary-health/",
+      "snippet": "She has a keen interest in leveraging machine learning, AI, and other cutting-edge technologies to boost climate resilience and food security in smart agriculture systems. ... Since 1975, IFPRI’s research has been informing policies and development programs to improve food security, nutrition, and livelihoods around the world.",
+      "source": "brave"
+    },
+    {
+      "title": "INNOVATION - Future Food Institute",
+      "url": "https://futurefoodinstitute.org/innovation/",
+      "snippet": "With them, we co-create solutions for waste reduction and repurposing (SDG 12, 13), plant-forward product development (SGD 12, 13), climate-friendly ingredients discovery and adoption (SDG 15), nutrition accessibility (SDG 2). Our user-centered design and prosperity thinking. Design methods have evolved from product-centered to systemic. Our Prosperity Thinking approach is a methodological tool that unlocks creativity to design a world that fulfills all its beings’ needs within the planet’s ecological means. ... If you are interested in exploring a food innovation project or collaboration, please fill in the form here and a member of our team will contact you.",
+      "source": "brave"
+    },
+    {
+      "title": "About Us | WFP Innovation",
+      "url": "https://innovation.wfp.org/about-us",
+      "snippet": "Do you have a bold solution to disrupt hunger? Apply to the WFP Innovation Accelerator for the possibility to receive up to US $100,000 in equity-free funding, mentorship from industry experts, and access to the world’s largest humanitarian organization.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian food agriculture innovation markets exports news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+food+agriculture+innovation+markets+exports+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Harvest of Tomorrow",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": true,
+      "description": "The Harvest of Tomorrow is today’s cover piece — one Australian scene that weaves together Australian Ag Recovery, AI in Food Science, Sustainable Export Growth, Global Hunger Solutions, Climate Resilience Tech, and Human-Centered Innovation. International organizations like the World Food Programme are scaling high-potential solutions, such as solar-powered food dehydration systems and bioproducts made from agricultural waste, to build community resilience and end hunger. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. These trends underscore the sector's resilience and its capacity to adapt through sustainable farming practices and export-driven innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Moreau-style Symbolist painting: vast Australian outback under a jeweled sky. A diverse group of 1905-era farmers and scientists tend lush red meat and milk fields. Solar-powered dehydration devices glow like sacred artifacts. Intricate flora and armor-like tech surround them. Pigment-rich canvas, intricate brushwork, mythic decadence, salon fantasy detail, no digital cameras, no photorealism. Unified Australian scene weaving together these themes: Australian Ag Recovery, AI in Food Science, Sustainable Export Growth, Global Hunger Solutions, Climate Resilience Tech, Human-Centered Innovation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1902716817,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/01.png style=flux_klein size=896x1152 seed=1902716817 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Dairy Resurgence in the Scrub",
+      "tone": "good_news",
+      "fashionYear": "1928",
+      "emailHero": false,
+      "description": "Dairy Resurgence in the Scrub takes on the day’s Australian Ag Recovery thread, translating the news into a single visual moment. These trends underscore the sector's resilience and its capacity to adapt through sustainable farming practices and export-driven innovation. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. The composition keeps the human stakes of Australian Ag Recovery in view without turning the news into spectacle.",
+      "prompt": "Moreau-inspired Symbolist art: Victorian dairy farm in eucalyptus scrub. 1928 fashion: flapper dresses, fedoras. Healthy cows and lush pastures. Sunlight filters through leaves like stained glass. Intricate brushwork, jewel-toned pigments, mythic flora, salon detail. No modern cameras, no CGI, painterly fine-art rendering, canvas texture, decorative ornamentation. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1021731305,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/02.png style=flux_klein size=896x1152 seed=1021731305 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Solar Alchemy in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1975",
+      "emailHero": false,
+      "description": "Solar Alchemy in the Outback takes on the day’s Australian Ag Recovery thread, translating the news into a single visual moment. International organizations like the World Food Programme are scaling high-potential solutions, such as solar-powered food dehydration systems and bioproducts made from agricultural waste, to build community resilience and end hunger. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. The composition keeps the human stakes of Australian Ag Recovery in view without turning the news into spectacle.",
+      "prompt": "Moreau-style Symbolist painting: Red desert outback. 1975 fashion: wide collars, platform shoes. Scientists operate glowing solar dehydration units. Agricultural waste transforms into golden bioproducts. Intricate armor-like machinery and flora. Rich pigment, decorative brushwork, mythic decadence, salon fantasy. No digital cameras, no photorealism, painterly canvas, ornate detail. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 26407764,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/03.png style=flux_klein size=896x1152 seed=26407764 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "AI Protein Discovery in the Reef",
+      "tone": "news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "AI Protein Discovery in the Reef takes on the day’s Australian Ag Recovery thread, translating the news into a single visual moment. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. These trends underscore the sector's resilience and its capacity to adapt through sustainable farming practices and export-driven innovation. The composition keeps the human stakes of Australian Ag Recovery in view without turning the news into spectacle.",
+      "prompt": "Moreau-inspired Symbolist art: Coastal cliffs near the reef. 2012 fashion: casual chic, smartwatches. Researchers study glowing holographic protein structures. Intricate flora and water elements. Jewel-toned pigments, decorative brushwork, mythic decadence, salon detail. No modern cameras, no CGI, painterly fine-art, canvas texture, ornate ornamentation, symbolic imagery. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 358717833,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/04.png style=flux_klein size=896x1152 seed=358717833 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Export Markets in the Harbour",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": false,
+      "description": "Export Markets in the Harbour takes on the day’s Sustainable Export Growth thread, translating the news into a single visual moment. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. These trends underscore the sector's resilience and its capacity to adapt through sustainable farming practices and export-driven innovation. The composition keeps the human stakes of Sustainable Export Growth in view without turning the news into spectacle.",
+      "prompt": "Moreau-style Symbolist painting: Modern harbour city. 2024 fashion: minimalist, tech-wear. Diverse traders and farmers celebrate export growth. Intricate architecture and flora. Jewel-toned pigments, decorative brushwork, mythic decadence, salon fantasy. No digital cameras, no photorealism, painterly canvas, ornate detail, symbolic motifs of trade. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1401896970,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/05.png style=flux_klein size=896x1152 seed=1401896970 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Golden Ledger of 2034",
+      "tone": "good_news",
+      "fashionYear": "1892",
+      "emailHero": false,
+      "description": "The Golden Ledger of 2034 takes on the day’s Sustainable Export Growth thread, translating the news into a single visual moment. On the global stage, the intersection of artificial intelligence and food science is accelerating the discovery of novel protein sources and optimizing production processes for climate resilience. Snapshot of Australian Agriculture 2026: Market Diversification and Export Growth. The composition keeps the human stakes of Sustainable Export Growth in view without turning the news into spectacle.",
+      "prompt": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail. Painterly fine-art. Medium: oil on canvas, visible brushwork, rich pigment. A visionary farmer in 1892 attire stands in red desert soil, surrounded by a jeweled, intricate market chart glowing with the promise of sustainable export growth. Australian setting: outback station, eucalyptus scrub. No digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1425372587,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/06.png style=flux_klein size=896x1152 seed=1425372587 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Milk's Return to the Scrub",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Celebrating the 1.4% milk production rebound in southwest Victoria, this image shows a 1968-era dairy family in a lush, recovering paddock. The scene emphasizes community resilience and the return of stability to local food systems after drought, rendered in a style of intricate, jeweled natural detail.",
+      "prompt": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail. Painterly fine-art. Medium: oil on canvas, visible brushwork, rich pigment. A 1968-era dairy family in a lush, recovering paddock, celebrating the milk production rebound. Australian setting: southwest Victoria, river gums. No digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1092064120,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/07.png style=flux_klein size=896x1152 seed=1092064120 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Solar Alchemy in the Harbour",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Illustrating the WFP's scaling of solar-powered food dehydration systems, this artwork depicts 2015-era scientists in a Sydney harbour community. They transform agricultural waste into sellable bioproducts using solar tech, highlighting human ingenuity and planetary health in a visually rich, mythic setting.",
+      "prompt": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail. Painterly fine-art. Medium: oil on canvas, visible brushwork, rich pigment. 2015-era scientists in a Sydney harbour community transform agricultural waste into sellable bioproducts using solar tech. Australian setting: coastal cliffs, harbour city. No digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 538342170,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/08.png style=flux_klein size=896x1152 seed=538342170 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "AI's Protein Harvest in the Rainforest",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "This piece explores AI accelerating the discovery of novel protein sources. Set in a Daintree rainforest, 2023-era researchers and First Nations partners collaborate on climate-resilient food science, showcasing a hopeful vision where technology serves human and planetary well-being through intricate, jeweled natural imagery.",
+      "prompt": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail. Painterly fine-art. Medium: oil on canvas, visible brushwork, rich pigment. 2023-era researchers and First Nations partners in a Daintree rainforest collaborate on climate-resilient food science. Australian setting: rainforest, reef edge. No digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1595310871,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/09.png style=flux_klein size=896x1152 seed=1595310871 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "The Fair Trade Bazaar",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Reflecting on market diversification and the reduction of non-tariff measures, this image shows a 1995-era Melbourne street market. Diverse vendors and buyers engage in fair trade, highlighting economic resilience and global solidarity through a lens of intricate, jeweled salon fantasy detail.",
+      "prompt": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail. Painterly fine-art. Medium: oil on canvas, visible brushwork, rich pigment. 1995-era Melbourne street market with diverse vendors and buyers engaging in fair trade. Australian setting: suburban streets, harbour city. No digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1937313416,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-21/10.png style=flux_klein size=896x1152 seed=1937313416 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
