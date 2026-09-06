@@ -1,0 +1,288 @@
+{
+  "date": "2026-09-03",
+  "artist": {
+    "id": "gerard_sekoto",
+    "name": "Gerard Sekoto",
+    "era": "20th c. ZA",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "modernism",
+      "africa"
+    ]
+  },
+  "summary": "Australian federal politics in early September 2026 is dominated by a sharp confrontation over tobacco excise and social media regulation. The Coalition has unveiled a plan to slash the tobacco tax by $24 per pack, arguing that the current high tax drives illegal sales, while the Labor government and health experts advocate for tougher enforcement and monitoring rather than tax cuts. Simultaneously, the government is pushing for a crackdown on social media algorithms, with legislation expected to create a 'digital duty of care,' a move the Coalition has criticized as an attempt to censor the internet. These policy battles have reignited the 'big tobacco' debate and highlighted deep divisions between the government and opposition on regulatory philosophy.\n\nGovernance and democratic integrity remain central themes, particularly following a parliamentary inquiry that found Australia's democracy was 'under assault' by third parties during the 2025 federal election. The inquiry recommended new laws to police behavior at polling booths, citing interference from groups like the Plymouth Brethren Christian Church and Advance. This comes as public faith in political institutions continues to erode, with commentators noting a 'structural collapse' of trust and a growing tendency for citizens to disengage from the political process. The 48th Parliament, noted for its increased cultural diversity, faces the challenge of restoring credibility while managing these internal and external pressures.\n\nOther significant governance stories include a Tasmanian government debacle involving a new planning portal that has been likened to the Spirit of Tasmania fiasco, highlighting state-level administrative failures. Additionally, the federal government is addressing a critical labor shortage, with the Minister for Immigration stating that skilled migrants should be a top priority as Australia faces a shortfall of 72,000 workers in sectors like AI and trades. The next federal election is scheduled for 2028, where Prime Minister Anthony Albanese is expected to seek a third consecutive term, setting the stage for future contests over these key policy areas.",
+  "themes": [
+    "Tobacco Tax Dispute",
+    "Social Media Regulation",
+    "Democratic Integrity",
+    "Parliamentary Inquiry",
+    "Labor Shortage",
+    "Public Trust in Politics",
+    "State Governance Failures"
+  ],
+  "headlines": [
+    {
+      "title": "Coalition unveils plan to slash tobacco tax by $24 a pack",
+      "url": "https://www.abc.net.au/news/politics"
+    },
+    {
+      "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+      "url": "https://www.theguardian.com/australia-news/australian-politics"
+    },
+    {
+      "title": "Democracy ‘under assault’ from significant third parties at 2025 federal election, parliamentary inquiry finds",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/01/democracy-under-assault-from-significant-third-parties-at-2025-federal-election-parliamentary-inquiry-finds"
+    },
+    {
+      "title": "Australians are losing faith in democracy – most of us look at politics and recoil in horror or sullenly disengage",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/article/2024/jul/16/australians-are-losing-faith-in-democracy-most-of-us-look-at-politics-and-recoil-in-horror-or-sullenly-disengage"
+    },
+    {
+      "title": "Pocock says skilled migrants should be top priority as Australia faces shortage of AI workers and tradies",
+      "url": "https://www.theguardian.com/australia-news/australia-news+australian-politics"
+    },
+    {
+      "title": "The rollout of a new planning portal meant to speed up development approvals has turned into a Tasmanian government debacle",
+      "url": "https://www.abc.net.au/news/politics"
+    },
+    {
+      "title": "For the people: future-proofing Australia's democracy",
+      "url": "https://grattan.edu.au/report/for-the-people-future-proofing-australias-democracy/"
+    },
+    {
+      "title": "Next Australian federal election",
+      "url": "https://en.wikipedia.org/wiki/Next_Australian_federal_election"
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Australian politics | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/australian-politics",
+      "snippet": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice",
+      "source": "brave"
+    },
+    {
+      "title": "Politics - ABC News",
+      "url": "https://www.abc.net.au/news/politics",
+      "snippet": "<strong>The rollout of a new planning portal meant to speed up development approvals has turned into a Tasmanian government debacle that has been likened to the Spirit of Tasmania fiasco</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news + Australian politics | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/australia-news+australian-politics",
+      "snippet": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice",
+      "source": "brave"
+    },
+    {
+      "title": "Next Australian federal election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Australian_federal_election",
+      "snippet": "A federal <strong>election</strong> is scheduled to be held by 2028 to <strong>elect</strong> members of the House of Representatives and half of the Senate to the 49th <strong>Parliament</strong> <strong>of</strong> <strong>Australia</strong>. The incumbent Labor <strong>government</strong>, led by Prime Minister Anthony Albanese, is expected to seek a third consecutive term in <strong>government</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "For the people: future-proofing Australia's democracy",
+      "url": "https://grattan.edu.au/report/for-the-people-future-proofing-australias-democracy/",
+      "snippet": "The key features that underpin our democracy are: <strong>active and engaged citizens, an inclusive and equitable society, free and franchised elections, and rule of law for both citizens and government</strong>.10Parliamentary Education Office (2026).",
+      "source": "brave"
+    },
+    {
+      "title": "News and Events – Parliament of Australia",
+      "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/News",
+      "snippet": "Issues and Insights 2026 Challenges for Australia We are pleased to present Issues and Insights, a new Parliamentary Library publication for the 48th Parliament. Produced by our policy specialists, Issues and Insights focuses on our complex and fast-changing world, sit",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia politics site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+politics+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Democracy ‘under assault’ from significant third parties at 2025 federal election, parliamentary inquiry finds | Australian election 2025 | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/01/democracy-under-assault-from-significant-third-parties-at-2025-federal-election-parliamentary-inquiry-finds",
+      "snippet": "New laws are needed to police behaviour at polling booths after Australia’s democracy came “under assault” at last year’s federal election – including from third parties such as Plymouth Brethren Christian Church members and rightwing lobby group Advance – the chair of a parliamentary ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australians are losing faith in democracy – most of us look at politics and recoil in horror or sullenly disengage | Peter Lewis | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/article/2024/jul/16/australians-are-losing-faith-in-democracy-most-of-us-look-at-politics-and-recoil-in-horror-or-sullenly-disengage",
+      "snippet": "How satisfied are you with the way the following are working in Australia? These results speak to the structural collapse of our public institutions: we are losing faith in the way our democracy is functioning, our federal parliament is a circus, political debate a cacophony of bad vibes.",
+      "source": "brave"
+    },
+    {
+      "title": "‘A big shift’: Australia has elected its most diverse parliament. What impact will it have? | Australian politics | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/may/17/a-big-shift-australia-has-elected-its-most-diverse-parliament-what-impact-will-it-have",
+      "snippet": "He says the increase in cultural diversity “reinforces” the principle that all Australians, regardless of background, are “stakeholders” of democracy. But he says it will take more time until representatives fully reflect multicultural society. Labor’s clean sweep in Australian election suggests young male voters are bucking global trends. But why? ... “I want to strive to have more people of different backgrounds in parliament … I think it is something that does take time. We’re obviously seeing this play out with women in politics as well, so there is a time factor.”",
+      "source": "brave"
+    },
+    {
+      "title": "Australians’ faith in politics has collapsed – how can we reimagine democracy? | Tim Hollo | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/2019/jul/19/australians-faith-in-politics-has-collapsed-how-can-we-reimagine-democracy",
+      "snippet": "Through kitchen table conversations, ... and in parliament itself. We dipped our toes in that stream through the People In participatory democracy project as part of my candidacy for the seat of Canberra at the recent election. This involved a series of public meetings, small and large, inviting Canberrans to help co-design mechanisms for citizens to take part in making the decisions that matter in their lives. Various Australian jurisdictions ...",
+      "source": "brave"
+    },
+    {
+      "title": "New parliament seating chart shows how Labor’s election win shifted the tectonic plates of federal politics | Josh Butler | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/jul/21/new-parliament-seating-chart-shows-how-labors-election-win-shifted-the-tectonic-plates-of-federal-politics",
+      "snippet": "The new parliamentary seating chart shows how Labor’s election win shifted the tectonic plates of federal politics. There are so many government members that 21 ministers are crammed on the front-most benches, compared to 14 opposite.",
+      "source": "brave"
+    },
+    {
+      "title": "New MPs deliver first speeches – as it happened | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2025/jul/22/australia-politics-live-australia-end-gaza-war-israel-china-xi-jingping-anthony-albanese-penny-wong-mark-latham-ntwnfb?filterKeyEvents=false&page=with%3Ablock-687eec4e8f08b482173f7261",
+      "snippet": "Dick announces he will visit every electorate to “champion” engagement with young Australians. ... Opposition leader Sussan Ley is also speaking, wishing Dick well in his role as speaker and saying the Coalition looks forward to working “constructively” under his tenure. Ley said: Mr Speaker, this new parliament begins after an election where, to be frank, the Coalition would have preferred a different result. That is the nature of democracy.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian politics parliament democracy elections governance news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+politics+parliament+democracy+elections+governance+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News & Events &ndash; Parliament of Australia",
+      "url": "https://www.aph.gov.au/news_and_events",
+      "snippet": "Get the latest information from the Senate and its committees, and find information on lectures, training, and other events which promote understanding of the Senate and the Parliament · News about the House of Representatives and its committees, including bills under discussion, issues raised ...",
+      "source": "brave"
+    },
+    {
+      "title": "Home – Parliament of Australia",
+      "url": "https://www.aph.gov.au/",
+      "snippet": "Issues and Insights: Challenges for Australia · 2025 Federal Election live results dashboard",
+      "source": "brave"
+    },
+    {
+      "title": "Parliament News: Latest Updates & Headlines | 9News",
+      "url": "https://www.9news.com.au/parliament",
+      "snippet": "V﻿ictorians who &quot;post and boast&quot; about their crimes on social media could face extra jail time under a proposal going before state parliament.Victoria10:58am Jun 17, 2025 · O﻿ne Nation will double its presence in the Senate after beating out Labor to the last seats in Western Australia and New South Wales.Federal Election 202511:51am May 30, 2025",
+      "source": "brave"
+    },
+    {
+      "title": "Watch, Read, Listen – Parliament of Australia",
+      "url": "https://www.aph.gov.au/News_and_Events/Watch_Read_Listen",
+      "snippet": "Subscribe to our channel at @AUSParliamentLive to view the streams or listen to our podcast summaries of Question Time! LIVE STREAMING PARLVIEW VOD PODCASTING",
+      "source": "brave"
+    },
+    {
+      "title": "Parliament - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/parliament",
+      "snippet": "A Labor MP says he wants the Lord’s Prayer scrapped from WA parliament, despite the reading of the Christian prayer being a long-held tradition before sessions.",
+      "source": "brave"
+    },
+    {
+      "title": "Federal Parliament - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/federal-parliament",
+      "snippet": "Senator Pauline Hanson&#x27;s offensive comments, made during an interview in February, had been widely condemned by politicians and Islamic leaders as un-Australian.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Weight of Smoke",
+      "prompt": "A painterly fine-art scene in the style of Gerard Sekoto, depicting a solemn figure in a township street holding a pack of cigarettes that is dissolving into thick, dark grey smoke, symbolizing the tobacco tax dispute. The smoke rises chaotically against a backdrop of warm ochre and terracotta brick walls, with visible impasto brushstrokes that give the canvas a rough, textured surface. The lighting is dramatic, casting long shadows that suggest the heavy burden of policy decisions, using earthy pigments and oil paint techniques to convey social observation with deep empathy and dignity, avoiding any digital smoothness. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1271331721,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/01.png style=flux_klein size=896x1152 seed=1271331721 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "The Algorithmic Labyrinth",
+      "prompt": "A symbolic representation of social media regulation in a painterly style reminiscent of Sekoto, showing a diverse crowd of faceless figures walking through a maze made of glowing, translucent geometric shapes that resemble digital nodes. The colors are muted earth tones mixed with unnatural neon hues, created with broad, expressive brushstrokes that blur the boundary between the physical street and the digital void. The canvas texture is prominent, with thick layers of paint creating a sense of confusion and disorientation, reflecting the 'digital duty of care' debate, rendered with the warm, empathetic gaze of South African modernism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 880846146,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/02.png style=flux_klein size=896x1152 seed=880846146 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Polling Booth Inquiry",
+      "prompt": "A dignified scene of a voting station in a township, painted with the warm earth palette of Gerard Sekoto, where a row of ballot boxes stands under a heavy, overcast sky made of thick, swirling strokes of grey and brown oil paint. The figures are anonymous but upright, representing democratic integrity, with their clothing rendered in muted greens and browns that blend into the background. The brushwork is deliberate and steady, emphasizing the solemnity of the act, while the background suggests a watchful, unseen presence symbolizing the parliamentary inquiry into election interference, all on a coarse canvas that enhances the tactile feel of the pigment. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1987545135,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/03.png style=flux_klein size=896x1152 seed=1987545135 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Erosion of Trust",
+      "prompt": "A landscape metaphor for the structural collapse of public trust, painted in the style of Sekoto, showing a crumbling wall of stones that once formed a solid structure, now falling apart into the dust of a dry, red earth field. The stones are painted with rough, jagged brushstrokes in shades of ochre, rust, and cream, while the sky above is a flat, oppressive beige. The composition uses the dignity of the rural landscape to reflect the fragility of institutional faith, with the paint applied in uneven layers that highlight the texture of the canvas, evoking a sense of loss and quiet observation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 365417141,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/04.png style=flux_klein size=896x1152 seed=365417141 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "The 48th Chamber",
+      "prompt": "A symbolic interior of a parliamentary chamber, rendered in a painterly fine-art style with the warm, intimate lighting of Sekoto, where a diverse group of figures sits in a semi-circle, their faces turned towards a central light source that represents truth. The wood paneling is painted with thick, glossy strokes of mahogany and amber, contrasting with the rough, textured walls in the background. The scene captures the cultural diversity of the new parliament, using earthy pigments and careful brushwork to convey a sense of hopeful yet cautious governance, avoiding any specific likenesses while maintaining the spirit of social observation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1798367005,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/05.png style=flux_klein size=896x1152 seed=1798367005 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Spirit of Bureaucracy",
+      "prompt": "A satirical yet empathetic scene of a government planning portal, depicted as a leaky, rusted ship floating on a turbulent sea of grey and brown oil paint, in the style of Gerard Sekoto. The ship is overloaded with papers and forms, painted with frantic, swirling brushstrokes that suggest administrative failure and chaos. The water beneath is dark and murky, with thick impasto textures that convey the depth of the 'Tasmanian debacle.' The color palette is dominated by cold greys and warm rusts, creating a visual tension that reflects the state-level governance failures, all rendered on a textured canvas that emphasizes the physicality of the medium. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 231842778,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/06.png style=flux_klein size=896x1152 seed=231842778 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "The Shortfall of Hands",
+      "prompt": "A powerful image of a field of dry earth where thousands of small, indistinct figures are missing, represented by empty spaces in the composition, symbolizing the 72,000 worker shortage. The scene is painted in the warm, earthy tones of Sekoto, with the remaining figures standing in the gaps, their postures suggesting waiting and need. The brushwork is sparse in the empty areas and dense in the figures, creating a visual rhythm of absence. The sky is a pale, dusty yellow, painted with broad, flat strokes, while the ground is textured with thick, dry earth pigments, conveying the urgency of the labor crisis with dignified simplicity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1579688411,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/07.png style=flux_klein size=896x1152 seed=1579688411 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "The 2028 Horizon",
+      "prompt": "A distant landscape view of a township street stretching towards a bright, hazy horizon, symbolizing the upcoming 2028 election, painted in the style of Gerard Sekoto. The street is lined with simple, sturdy houses painted in warm ochre and cream, with figures walking in both directions, their movements suggested by quick, directional brushstrokes. The horizon is a blend of white and pale blue, created with thin, translucent layers of oil paint that suggest uncertainty and possibility. The overall mood is one of forward-looking dignity, with the canvas texture visible in the background, emphasizing the enduring nature of the community despite political change. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1442866945,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/08.png style=flux_klein size=896x1152 seed=1442866945 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "The Censorship Wall",
+      "prompt": "A dramatic scene of a high wall blocking a street, painted with thick, aggressive strokes of dark grey and black oil paint, symbolizing the debate over internet censorship and social media regulation. On one side of the wall, figures are shouting and reaching out, their faces rendered with intense, emotional brushwork, while on the other side, the scene is silent and static. The wall is textured with rough, uneven layers of pigment that convey rigidity and oppression, while the sky above is a chaotic mix of warm and cool tones, reflecting the 'big tobacco' and regulatory philosophy divides, all in the empathetic style of South African modernism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 914319213,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/09.png style=flux_klein size=896x1152 seed=914319213 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "The Dignity of the Street",
+      "prompt": "A classic Sekoto-style composition of a township street at dusk, where a group of citizens gathers to discuss political issues, their faces illuminated by the warm glow of streetlights. The scene is painted with rich, earthy pigments—ochre, sienna, and umber—and broad, confident brushstrokes that capture the texture of the clothing and the roughness of the pavement. The background buildings are simplified into blocks of warm color, creating a sense of community and solidarity. The canvas is coarse, with visible weave that enhances the tactile feel of the paint, reflecting the enduring dignity and social observation that defines the artist's legacy in the context of modern governance. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 941122259,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-03/10.png style=flux_klein size=896x1152 seed=941122259 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
