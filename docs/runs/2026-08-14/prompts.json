@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-14",
+  "artist": "dunhuang",
+  "topics": [
+    "animals",
+    "pets",
+    "veterinary",
+    "sanctuaries",
+    "companion care"
+  ],
+  "summary": "Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. A new Animal Welfare Commission Advisory Committee is being formed to integrate public policy with industry expertise, ensuring that legislative processes are informed by both scientific rigor and practical experience. Simultaneously, the RSPCA has advanced its 'RSPCA Certified' trademark, a move that standardizes welfare standards for farmed animals and promotes continuous improvement across the sector. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations.",
+  "themes": [
+    "Legislative Welfare Reform",
+    "Veterinary Innovation",
+    "Companion Care in Aged Care",
+    "Community Rescue Networks",
+    "Farmed Animal Certification",
+    "Global Science Breakthroughs"
+  ],
+  "images": [
+    {
+      "title": "The Great Australian Welfare Tapestry",
+      "description": "The Great Australian Welfare Tapestry is today’s cover piece — one Australian scene that weaves together Legislative Welfare Reform, Veterinary Innovation, Companion Care in Aged Care, Community Rescue Networks, Farmed Animal Certification, and Global Science Breakthroughs. Companion Animal Network: Pets Boost Health in Aged Care Settings. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Australian Animal Protection Society: Professional Veterinary Care for Pets. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1924 Australian fashion. A unified Sydney park scene featuring diverse Australians in period attire. Central figures are policy experts and vets discussing welfare, surrounded by seniors with pets showing improved health. Symbolic motifs include a certification seal and legislative scrolls. Cave-wall narrative elegance, no readable text, flying apsaras in background, fine brushwork, canvas texture. Unified Australian scene weaving together these themes: Legislative Welfare Reform, Veterinary Innovation, Companion Care in Aged Care, Community Rescue Networks, Farmed Animal Certification, Global Science Breakthroughs. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1924",
+      "emailHero": "1"
+    },
+    {
+      "title": "Certified Care in the Outback",
+      "description": "Set in a Queensland cattle station, this image shows farmers receiving RSPCA Certified trademark verification. It highlights the standardization of welfare practices for farmed animals, promoting transparency and continuous improvement in the agricultural sector through community-driven care.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1985 Australian fashion. A Queensland cattle station scene with farmers in period workwear receiving a symbolic certification seal. The atmosphere is one of pride and transparency. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras hovering above the livestock, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": ""
+    },
+    {
+      "title": "Companions in Aged Care",
+      "description": "In a Melbourne aged care facility, residents interact with therapy dogs and cats. This visualizes the Companion Animal Network data showing 86% of older adults report improved health, emphasizing the vital role of companion care in supporting human well-being and community resilience.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 2012 Australian fashion. A Melbourne aged care interior where diverse seniors in modern casual wear interact with therapy dogs and cats. The scene radiates warmth and improved health. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras blending with the light, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": ""
+    },
+    {
+      "title": "The Science of Mercy",
+      "description": "The Science of Mercy answers a strand of today’s news with a focused visual reading. Global Science: Breakthroughs Accelerating End of Animal Testing. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 2023 Australian fashion. A Brisbane research lab where diverse scientists in modern lab coats celebrate a breakthrough in non-animal testing. The scene is filled with wonder and discovery. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras symbolizing progress, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": ""
+    },
+    {
+      "title": "Community Rescue in the Bush",
+      "description": "In a rural New South Wales town, volunteers and vets form a rescue network for distressed animals. This illustrates the broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and local community resilience.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1968 Australian fashion. A rural NSW town scene where volunteers and vets in period attire form a rescue network for distressed animals. The mood is one of solidarity and care. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras guiding the effort, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "news",
+      "fashionYear": "1968",
+      "emailHero": ""
+    },
+    {
+      "title": "The Legislative Harmony",
+      "description": "The Legislative Harmony answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art mural on aged paper. Diverse Australian figures in 1905 Edwardian suits and long wool dresses stand in a Sydney park, surrounded by flying apsaras and mineral blue pigments. Eucalyptus trees frame the scene. Dunhuang style, cave-wall narrative elegance, no readable text, soft brushwork, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": ""
+    },
+    {
+      "title": "Certified Pastoral Dignity",
+      "description": "Certified Pastoral Dignity answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly canvas. A farmer in 1955 practical khaki shirt and wide-brim hat stands in a red outback station. Mineral blue and vermillion pigments form protective halos around sheep. Dunhuang mural spirit, flying apsaras in the sky, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": ""
+    },
+    {
+      "title": "Golden Age Companions",
+      "description": "Golden Age Companions answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art. An elderly Australian in 1988 casual cotton shirt and jeans sits in a suburban garden. A golden retriever rests nearby. Mineral blue and vermillion pigments create a warm, protective aura. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": ""
+    },
+    {
+      "title": "Rescue in the Bush",
+      "description": "Rescue in the Bush answers a strand of today’s news with a focused visual reading. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly canvas. Volunteers in 1932 practical work clothes and broad-brim hats in eucalyptus scrub. Mineral blue and vermillion pigments form a supportive circle around a rescued animal. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "news",
+      "fashionYear": "1932",
+      "emailHero": ""
+    },
+    {
+      "title": "The Ethics of Discovery",
+      "description": "The Ethics of Discovery answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art. Scientists in 2015 modern lab coats and casual wear in a glass-walled lab. Mineral blue and vermillion pigments create a serene, ethical aura. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": ""
+    }
+  ],
+  "thinSearch": false
+}

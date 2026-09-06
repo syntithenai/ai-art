@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-14",
+  "artist": {
+    "id": "dunhuang",
+    "name": "Dunhuang mural spirit",
+    "era": "classical CN",
+    "renderMode": "painterly",
+    "aspectRatio": "16:9",
+    "tags": [
+      "mural",
+      "asia",
+      "china"
+    ],
+    "bio": "Dunhuang mural spirit (classical CN). Dunhuang Silk Road mural spirit: flying apsaras, mineral blues and vermilions, cave-wall narrative elegance without readable sutra text. Painterly fine-art visual language. Associated tags: mural, asia, china.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. A new Animal Welfare Commission Advisory Committee is being formed to integrate public policy with industry expertise, ensuring that legislative processes are informed by both scientific rigor and practical experience. Simultaneously, the RSPCA has advanced its 'RSPCA Certified' trademark, a move that standardizes welfare standards for farmed animals and promotes continuous improvement across the sector. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations.",
+  "themes": [
+    "Legislative Welfare Reform",
+    "Veterinary Innovation",
+    "Companion Care in Aged Care",
+    "Community Rescue Networks",
+    "Farmed Animal Certification",
+    "Global Science Breakthroughs"
+  ],
+  "headlines": [
+    {
+      "title": "Australia Forms New Animal Welfare Commission Advisory Committee",
+      "url": "https://www.animalcareaustralia.org.au/"
+    },
+    {
+      "title": "RSPCA Certified Trade Mark Launches to Support Farmed Animal Welfare",
+      "url": "https://www.rspca.org.au/latest-news/blog/tag/vet-care/"
+    },
+    {
+      "title": "Companion Animal Network: Pets Boost Health in Aged Care Settings",
+      "url": "https://au.linkedin.com/company/australia-can"
+    },
+    {
+      "title": "Victorian Government Allocates $5M for Pet Shelters and Rescue Orgs",
+      "url": "https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/community-and-education/animal-welfare-fund-grants-program"
+    },
+    {
+      "title": "Global Science: Breakthroughs Accelerating End of Animal Testing",
+      "url": "https://www.humaneworld.org/en"
+    },
+    {
+      "title": "RSPCA ACT: Foster Carer Network Expands Capacity for Animal Rescue",
+      "url": "https://rspca-act.org.au/"
+    },
+    {
+      "title": "Animal Welfare League NSW: Promoting Responsible Pet Ownership and Vet Care",
+      "url": "https://www.awlnsw.com.au/"
+    },
+    {
+      "title": "Australian Animal Protection Society: Professional Veterinary Care for Pets",
+      "url": "https://aaps.org.au/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "New Animal Welfare Commission Advisory Committee Formed",
+      "url": "https://www.animalcareaustralia.org.au/",
+      "angle": "This initiative brings together experts in public policy, community education, and industry to advise on legislative duties, fostering a collaborative and evidence-based approach to animal welfare in Australia."
+    },
+    {
+      "title": "RSPCA Certified Becomes a Certification Trade Mark",
+      "url": "https://www.rspca.org.au/latest-news/blog/tag/vet-care/",
+      "angle": "By establishing a recognized trade mark, the RSPCA is helping to standardize and verify welfare practices for farmed animals, promoting transparency and continuous improvement in the agricultural sector."
+    },
+    {
+      "title": "Pets in Aged Care: 86% Report Improved Health",
+      "url": "https://au.linkedin.com/company/australia-can",
+      "angle": "Data from the Companion Animal Network Australia highlights that 86% of older adults experience improved mental and physical health with pets, underscoring the vital role of companion care in supporting human well-being."
+    },
+    {
+      "title": "Global Acceleration of Science Without Animal Testing",
+      "url": "https://www.humaneworld.org/en",
+      "angle": "International scientific breakthroughs and federal actions are accelerating the transition away from animal testing, representing a major ethical and technological advancement in global research practices."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Animal Care Australia",
+      "url": "https://www.animalcareaustralia.org.au/",
+      "snippet": "The Commission would include experts in public policy and community education, and legislative process.<strong>A new Animal Welfare Commission Advisory Committee would be formed to advise and assist the Commission in its duties</strong>. The committee would include experts from the industry and in animal welfare ...",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News | RSPCA Australia",
+      "url": "https://www.rspca.org.au/latest-news/",
+      "snippet": "<strong>Advancing animal welfare through continuous improvement</strong> 15 Jun 2026",
+      "source": "brave"
+    },
+    {
+      "title": "Blog | RSPCA Australia",
+      "url": "https://www.rspca.org.au/latest-news/blog/tag/vet-care/",
+      "snippet": "<strong>RSPCA Certified is now a certification trade mark</strong>; here’s what it means and how it’s helping farmed animals 22 Jun 2026",
+      "source": "brave"
+    },
+    {
+      "title": "Media centre | RSPCA Australia",
+      "url": "https://www.rspca.org.au/latest-news/media-centre/",
+      "snippet": "Greyhound racing; a track record of welfare concerns 18 Jun 2026",
+      "source": "brave"
+    },
+    {
+      "title": "Companion Animal Network Australia - Australia CAN",
+      "url": "https://australiacan.org.au/",
+      "snippet": "<strong>Peak body for companion animals and pets in Australia</strong>. Focused on pets in Aged Care, in Business, in Rentals and in the home.",
+      "source": "brave"
+    },
+    {
+      "title": "RSPCA Australia",
+      "url": "https://www.rspca.org.au/",
+      "snippet": "<strong>RSPCA Certified is now a certification trade mark</strong>; here’s what it means and how it’s helping farmed animals 22 Jun 2026",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia animals site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+animals+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Global Animal Welfare | Humane World for Animals",
+      "url": "https://www.humaneworld.org/en",
+      "snippet": "Learn best practices from a veterinary expert. Animal testing and research The future of science without animal testing · <strong>Federal action and scientific breakthroughs are accelerating the end of animal testing</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "All Animals & Pets News and Press Releases from PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/consumer-products-retail-latest-news/animals-pets-list/",
+      "snippet": "Up-to-the-minute news on products, services, contests, and special events for animals, including wildlife, pets and the people who love them. This category also contains announcements of animal welfare benefits and initiatives, along with information on new studies regarding companion animals. Learn about the newest updates from pet retailers, rescue organizations, and veterinary service providers.",
+      "source": "brave"
+    },
+    {
+      "title": "Animal Welfare Charity - Animal Welfare League NSW",
+      "url": "https://www.awlnsw.com.au/",
+      "snippet": "With a range of services including adoption, veterinary care, welfare inspectors and community programs, we are <strong>dedicated to improving the lives of animals and promoting responsible pet ownership across NSW</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Home - Australian Animal Protection Society",
+      "url": "https://aaps.org.au/",
+      "snippet": "Spend time with the pet to confirm ... Expert services to keep your cats and dogs healthy and happy. ... <strong>Professional veterinary care for pets, including check-ups, vaccinations, and ongoing health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Animal Welfare Fund Grants Program | Community and education | Animal Welfare Victoria | Livestock and animals | Agriculture Victoria",
+      "url": "https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/community-and-education/animal-welfare-fund-grants-program",
+      "snippet": "The Victorian Government is currently delivering the following commitments: <strong>$5 million over 4 years, provided in the 2023–24 State Budget, to support pet shelters and animal rescue and rehoming organisations</strong>",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world animals human interest OR discovery OR innovation",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+animals+human+interest+OR+discovery+OR+innovation&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "RSPCA ACT",
+      "url": "https://rspca-act.org.au/",
+      "snippet": "RSPCA ACT relies heavily on our Foster Carer network, without them, we would not have the space to accept all the animals who need our help.",
+      "source": "brave"
+    },
+    {
+      "title": "Companion Animal Network Australia | LinkedIn",
+      "url": "https://au.linkedin.com/company/australia-can",
+      "snippet": "Did you know: 🐾 <strong>86% of older adults experience improved mental and physical health with pets in aged care settings</strong> 🐾 Only 18% of aged care facilities consider allowing residents to keep a companion animal 🐾 91% of pet older owners who ...",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Great Australian Welfare Tapestry",
+      "tone": "good_news",
+      "fashionYear": "1924",
+      "emailHero": true,
+      "description": "The Great Australian Welfare Tapestry is today’s cover piece — one Australian scene that weaves together Legislative Welfare Reform, Veterinary Innovation, Companion Care in Aged Care, Community Rescue Networks, Farmed Animal Certification, and Global Science Breakthroughs. Companion Animal Network: Pets Boost Health in Aged Care Settings. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Australian Animal Protection Society: Professional Veterinary Care for Pets. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1924 Australian fashion. A unified Sydney park scene featuring diverse Australians in period attire. Central figures are policy experts and vets discussing welfare, surrounded by seniors with pets showing improved health. Symbolic motifs include a certification seal and legislative scrolls. Cave-wall narrative elegance, no readable text, flying apsaras in background, fine brushwork, canvas texture. Unified Australian scene weaving together these themes: Legislative Welfare Reform, Veterinary Innovation, Companion Care in Aged Care, Community Rescue Networks, Farmed Animal Certification, Global Science Breakthroughs. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1568254555,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/01.png style=flux_klein size=1280x720 seed=1568254555 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Certified Care in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Set in a Queensland cattle station, this image shows farmers receiving RSPCA Certified trademark verification. It highlights the standardization of welfare practices for farmed animals, promoting transparency and continuous improvement in the agricultural sector through community-driven care.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1985 Australian fashion. A Queensland cattle station scene with farmers in period workwear receiving a symbolic certification seal. The atmosphere is one of pride and transparency. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras hovering above the livestock, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 151478180,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/02.png style=flux_klein size=1280x720 seed=151478180 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Companions in Aged Care",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "In a Melbourne aged care facility, residents interact with therapy dogs and cats. This visualizes the Companion Animal Network data showing 86% of older adults report improved health, emphasizing the vital role of companion care in supporting human well-being and community resilience.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 2012 Australian fashion. A Melbourne aged care interior where diverse seniors in modern casual wear interact with therapy dogs and cats. The scene radiates warmth and improved health. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras blending with the light, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1866890292,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/03.png style=flux_klein size=1280x720 seed=1866890292 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "The Science of Mercy",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "The Science of Mercy answers a strand of today’s news with a focused visual reading. Global Science: Breakthroughs Accelerating End of Animal Testing. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 2023 Australian fashion. A Brisbane research lab where diverse scientists in modern lab coats celebrate a breakthrough in non-animal testing. The scene is filled with wonder and discovery. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras symbolizing progress, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 2098139864,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/04.png style=flux_klein size=1280x720 seed=2098139864 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Community Rescue in the Bush",
+      "tone": "news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "In a rural New South Wales town, volunteers and vets form a rescue network for distressed animals. This illustrates the broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and local community resilience.",
+      "prompt": "Painterly fine-art, Dunhuang mural spirit, mineral blues and vermilions, 1968 Australian fashion. A rural NSW town scene where volunteers and vets in period attire form a rescue network for distressed animals. The mood is one of solidarity and care. Mineral pigment washes, fine brushwork, cave-wall narrative elegance, no readable text, flying apsaras guiding the effort, canvas texture, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 505419237,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/05.png style=flux_klein size=1280x720 seed=505419237 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Legislative Harmony",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": false,
+      "description": "The Legislative Harmony answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art mural on aged paper. Diverse Australian figures in 1905 Edwardian suits and long wool dresses stand in a Sydney park, surrounded by flying apsaras and mineral blue pigments. Eucalyptus trees frame the scene. Dunhuang style, cave-wall narrative elegance, no readable text, soft brushwork, vermillion accents. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1223001913,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/06.png style=flux_klein size=1280x720 seed=1223001913 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Certified Pastoral Dignity",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Certified Pastoral Dignity answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly canvas. A farmer in 1955 practical khaki shirt and wide-brim hat stands in a red outback station. Mineral blue and vermillion pigments form protective halos around sheep. Dunhuang mural spirit, flying apsaras in the sky, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1714617226,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/07.png style=flux_klein size=1280x720 seed=1714617226 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Golden Age Companions",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "Golden Age Companions answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art. An elderly Australian in 1988 casual cotton shirt and jeans sits in a suburban garden. A golden retriever rests nearby. Mineral blue and vermillion pigments create a warm, protective aura. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1369329028,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/08.png style=flux_klein size=1280x720 seed=1369329028 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Rescue in the Bush",
+      "tone": "news",
+      "fashionYear": "1932",
+      "emailHero": false,
+      "description": "Rescue in the Bush answers a strand of today’s news with a focused visual reading. These developments reflect a broader national commitment to responsible pet ownership and the protection of companion animals, supported by dedicated veterinary networks and rescue organizations. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly canvas. Volunteers in 1932 practical work clothes and broad-brim hats in eucalyptus scrub. Mineral blue and vermillion pigments form a supportive circle around a rescued animal. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1689924317,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/09.png style=flux_klein size=1280x720 seed=1689924317 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "The Ethics of Discovery",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "The Ethics of Discovery answers a strand of today’s news with a focused visual reading. Australia is witnessing a significant maturation in its approach to animal welfare, marked by legislative innovation and community-driven care. Companion Animal Network: Pets Boost Health in Aged Care Settings. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art. Scientists in 2015 modern lab coats and casual wear in a glass-walled lab. Mineral blue and vermillion pigments create a serene, ethical aura. Dunhuang mural spirit, flying apsaras, no readable text, soft brushwork, cave-wall narrative elegance, no modern CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 173646914,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-14/10.png style=flux_klein size=1280x720 seed=173646914 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
