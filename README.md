@@ -44,7 +44,7 @@ crontab /tmp/cron.bak
 ## Layout
 
 - `ai_art/` — Python package
-- `artists.json` — curated style locks (`photoreal` / `painterly` / `graphic`)
+- `artists.json` — ~300 curated style locks worldwide (`photoreal` / `painterly` / `graphic`), rotating by day of year
 - `docs/` — GitHub Pages root (`index.html`, `gallery.json`, `runs/YYYY-MM-DD/`)
 - `logs/` — cron / preflight logs
 
