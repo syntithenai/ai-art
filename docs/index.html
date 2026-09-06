@@ -1190,18 +1190,14 @@
 
       function rememberHomeScroll(snapshot) {
         if (!snapshot) return;
-        // Don't clobber a real position with a post-navigation 0.
-        if (
-          homeScrollMemory
-          && Number(snapshot.y) <= 0
-          && Number(homeScrollMemory.y) > 0
-          && Number(snapshot.visibleCount) <= Number(homeScrollMemory.visibleCount || 0)
-        ) {
-          return;
-        }
-        homeScrollMemory = snapshot;
+        homeScrollMemory = {
+          y: Number(snapshot.y) || 0,
+          visibleCount: Number(snapshot.visibleCount) || HOME_PAGE_SIZE,
+          artist: snapshot.artist || '',
+          topic: snapshot.topic || '',
+        };
         try {
-          sessionStorage.setItem(HOME_SCROLL_KEY, JSON.stringify(snapshot));
+          sessionStorage.setItem(HOME_SCROLL_KEY, JSON.stringify(homeScrollMemory));
         } catch (_) { /* ignore */ }
       }
 
