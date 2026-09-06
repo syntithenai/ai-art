@@ -2396,6 +2396,139 @@
           "prompt": "Painterly fine-art, Odilon Redon symbolism, rich pigment. A red desert outback scene, vast sky. A diverse group of Australians in 2004 contemporary fashion, casual wear, standing in a circle, offering support. Above them, floating, semi-transparent heads and dark, velvety flowers symbolize collective voice and care. Soft brushwork, visionary, no gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "artist": {
+        "id": "vuillard",
+        "name": "Édouard Vuillard",
+        "era": "Nabis FR",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "intimism",
+          "europe"
+        ],
+        "bio": "Édouard Vuillard (Nabis FR). Intimist painting in the spirit of Vuillard: wallpaper-pattern rooms, quiet figures dissolving into décor, muted tapestry color. Painterly fine-art visual language. Associated tags: intimism, europe.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Australian Architecture Awards",
+        "Materiality and Craft",
+        "Outdoor Living Design",
+        "Emerging Maker Recognition",
+        "Human-Centered Innovation",
+        "Sustainable Design Practices"
+      ],
+      "summary": "Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Australian Design Mosaic",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Sydney interior celebrating the 2026 National Architecture Awards and Sydney Craft Week. Diverse Australians in contemporary fashion gather around a table showcasing Madelyn McKenzie's craft and BKK Architects' material samples, symbolizing the vibrant recognition of Australian design and outdoor living trends.",
+          "prompt": "Intimist painterly oil on canvas, Vuillard style. A spacious Sydney apartment with patterned wallpaper, diverse Australians in 2024 contemporary fashion. Figures dissolve into décor while examining craft objects and architectural material samples. Muted tapestry colors, soft brushwork, quiet community resilience, no logos, no text, fine-art pigment texture. Unified Australian scene weaving together these themes: Australian Architecture Awards, Materiality and Craft, Outdoor Living Design, Emerging Maker Recognition, Human-Centered Innovation, Sustainable Design Practices."
+        },
+        {
+          "index": 2,
+          "title": "Materiality in the Outback",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Set in a red desert station, this image visualizes BKK Architects' 'Making Materials Matter' talk series. A group of designers in 1978 fashion inspect sustainable local materials, highlighting the educational initiative's emphasis on material selection and the growing Australian trend of enhancing exterior living spaces with high-quality design.",
+          "prompt": "Painterly gouache, Vuillard intimacy. Red desert station veranda, eucalyptus scrub background. Figures in 1978 Australian fashion examine raw material samples. Quiet figures merging with patterned canvas walls, muted earth tones, visible brushstrokes, no digital camera, no neon, fine-art pigment on textured paper, soft diffused light. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "The Emerging Maker's Prize",
+          "tone": "good_news",
+          "fashionYear": "1924",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "A Melbourne workshop scene honoring Craft Victoria's InteriorsAu Emerging Maker Prize awarded to Madelyn McKenzie. In 1924 fashion, a focused artisan works with handmade goods, representing the platform for new voices and the recognition of outstanding emerging talent in the Australian craft sector.",
+          "prompt": "Vuillard-style oil painting, intimate workshop. Melbourne interior with decorative wallpaper, 1924 fashion figures. A maker works with clay and textiles, dissolving into the patterned background. Muted tapestry palette, soft impasto, quiet dignity, no modern tech, no gore, fine-art canvas texture, gentle shadow play. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Harbour Living Spaces",
+          "tone": "news",
+          "fashionYear": "1954",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Visualizing the evolution of domestic design in Sydney, this image reflects the opening of B&B Italia stores dedicated to outdoor furniture. In 1954 fashion, residents enjoy a harbour-view terrace, showcasing the broader Australian trend of enhancing exterior living spaces with indoor-grade design and human-centered innovation.",
+          "prompt": "Painterly pastel, Vuillard mood. Sydney harbour terrace, 1954 fashion figures relaxing on outdoor furniture. Figures blend with patterned awnings and brick walls. Muted coastal colors, soft washes, no photorealism, no neon, fine-art pigment on paper, quiet domestic harmony, subtle brushwork. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Craft Week Anniversary",
+          "tone": "good_news",
+          "fashionYear": "1904",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "A city-wide festival scene marking Sydney Craft Week's tenth anniversary. In 1904 fashion, diverse crowds gather in a historic square, showcasing handmade goods and fostering community engagement. This celebrates a decade of supporting makers and craftspeople, highlighting the human ingenuity and community resilience of the Australian craft sector.",
+          "prompt": "Vuillard-inspired oil, intimate street scene. Historic Sydney square, 1904 fashion crowd. Figures dissolve into patterned shopfronts and awnings. Muted tapestry colors, soft brushwork, quiet celebration, no logos, no text, fine-art canvas, gentle light, community resilience, no modern elements. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 6,
+          "title": "The Sixteen Finalists",
+          "tone": "good_news",
+          "fashionYear": "1912",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Sixteen Finalists takes on the day’s Materiality and Craft thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Materiality and Craft in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in the spirit of Édouard Vuillard: intimate Sydney room with intricate wallpaper. Sixteen diverse figures in 1912 Australian fashion dissolve into the décor. Muted tapestry colors. Soft brushwork. No digital effects. Focus on commercial and residential interior craft. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Madelyn's Craft Prize",
+          "tone": "good_news",
+          "fashionYear": "1936",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Madelyn's Craft Prize takes on the day’s Emerging Maker Recognition thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Emerging Maker Recognition in view without turning the news into spectacle.",
+          "prompt": "Painterly Vuillard style: quiet Melbourne workshop with patterned walls. A young woman in 1936 attire works with clay and textiles. Figures merge with the background. Muted pigments. Intimate, domestic atmosphere. No neon noir. Focus on emerging maker dignity and craft. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Sydney Craft Decade",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Sydney Craft Decade takes on the day’s Materiality and Craft thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Materiality and Craft in view without turning the news into spectacle.",
+          "prompt": "Painterly Vuillard fine-art: bustling Sydney street scene with dense wallpaper-like patterns. Diverse crowds in 1968 fashion. Quiet figures dissolving into the urban décor. Muted tapestry colors. Soft, intimate brushwork. No photoreal CGI. Focus on community resilience and craft. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Materials Matter Talks",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Materials Matter Talks takes on the day’s Human-Centered Innovation thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Human-Centered Innovation in view without turning the news into spectacle.",
+          "prompt": "Painterly Vuillard style: intimate Australian lecture room with complex wallpaper patterns. Figures in 1992 fashion discuss materials. Muted, tapestry-like color palette. Soft brushwork. No digital effects. Focus on sustainable design practices and human-centered innovation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Outdoor Living Grade",
+          "tone": "news",
+          "fashionYear": "2015",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Outdoor Living Grade takes on the day’s Outdoor Living Design thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australians Embrace Outdoor Living with High-End Furniture Trends. The composition keeps the human stakes of Outdoor Living Design in view without turning the news into spectacle.",
+          "prompt": "Painterly Vuillard fine-art: modern Sydney terrace with intricate wallpaper patterns. Figures in 2015 fashion relax on high-quality outdoor furniture. Muted tapestry colors. Soft, intimate brushwork. No photoreal CGI. Focus on outdoor living design and materiality. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }

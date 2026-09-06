@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-19",
+  "artist": {
+    "id": "vuillard",
+    "name": "Édouard Vuillard",
+    "era": "Nabis FR",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "intimism",
+      "europe"
+    ],
+    "bio": "Édouard Vuillard (Nabis FR). Intimist painting in the spirit of Vuillard: wallpaper-pattern rooms, quiet figures dissolving into décor, muted tapestry color. Painterly fine-art visual language. Associated tags: intimism, europe.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design.",
+  "themes": [
+    "Australian Architecture Awards",
+    "Materiality and Craft",
+    "Outdoor Living Design",
+    "Emerging Maker Recognition",
+    "Human-Centered Innovation",
+    "Sustainable Design Practices"
+  ],
+  "headlines": [
+    {
+      "title": "Sixteen Interiors in Contention for 2026 National Architecture Awards",
+      "url": "https://architectureau.com/news/"
+    },
+    {
+      "title": "Australians Embrace Outdoor Living with High-End Furniture Trends",
+      "url": "https://www.qantas.com/travelinsider/en/lifestyle/style/home-design-trends-2026.html"
+    },
+    {
+      "title": "BKK Architects Expands Focus on Materiality and Making",
+      "url": "https://architectureau.com/calendar/talk/bkk-architects-expanded/"
+    },
+    {
+      "title": "2026 Craft + Design Canberra Festival to Host 50+ Australian Makers",
+      "url": "https://architectureau.com/calendar/festival/2026-craft-design-canberra-festival/"
+    },
+    {
+      "title": "Sydney Craft Week Festival 2026 Calls for Entries in Tenth Year",
+      "url": "https://sydneycraftweek.com/news/"
+    },
+    {
+      "title": "Craft Victoria Announces 2026 Fresh Exhibition and Award Winners",
+      "url": "https://architectureau.com/articles/craft-victorias-2026-fresh-exhibition-and-award-winners-announced/"
+    },
+    {
+      "title": "Global Research Highlights Value of User-Centered Design in Innovation",
+      "url": "https://www.sciencedirect.com/topics/social-sciences/design-innovation"
+    },
+    {
+      "title": "Interdisciplinary Collaboration Key to Designing for More Than Human-Centered Worlds",
+      "url": "https://www.researchgate.net/publication/369984113_Things_We_Could_Design_For_More_Than_Human-Centered_Worlds_by_Ron_Wakkary"
+    },
+    {
+      "title": "Design Thinking Methodologies Linked to Sustainable Development Goals",
+      "url": "https://www.mdpi.com/2071-1050/17/15/7142"
+    },
+    {
+      "title": "Torrens University Explores Importance of Human-Centred Design in Education",
+      "url": "https://www.torrens.edu.au/stories/blog/design/what-is-human-centred-design-and-why-is-important"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australian Institute of Architects Announces 2026 National Architecture Award Finalists",
+      "url": "https://architectureau.com/news/",
+      "angle": "Celebrating sixteen outstanding commercial and residential interiors from across Australia, showcasing the depth of talent and the high standards of Australian design."
+    },
+    {
+      "title": "Craft Victoria Awards InteriorsAu Emerging Maker Prize to Madelyn McKenzie",
+      "url": "https://architectureau.com/articles/craft-victorias-2026-fresh-exhibition-and-award-winners-announced/",
+      "angle": "Recognizing outstanding emerging talent in the craft sector, this prize provides a platform for new voices to be heard and profiled in the industry."
+    },
+    {
+      "title": "Sydney Craft Week Festival 2026 Marks Its Tenth Anniversary",
+      "url": "https://sydneycraftweek.com/news/",
+      "angle": "A city-wide festival celebrating a decade of supporting makers and craftspeople, fostering community engagement and showcasing handmade goods."
+    },
+    {
+      "title": "BKK Architects Launches 'Making Materials Matter' Talk Series",
+      "url": "https://architectureau.com/calendar/talk/bkk-architects-expanded/",
+      "angle": "An educational initiative that emphasizes the importance of material selection and sustainability in architectural practice, encouraging deeper engagement with the built environment."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "News | ArchitectureAu",
+      "url": "https://architectureau.com/news/",
+      "snippet": "Sixteen commercial and residential interiors from across Australia and one home overseas are in contention to win the Australian Institute of Architects’ 2026 National Architecture Awards.",
+      "source": "brave"
+    },
+    {
+      "title": "These Will Be the Biggest Home Design Trends of 2026 | Travel Insider",
+      "url": "https://www.qantas.com/travelinsider/en/lifestyle/style/home-design-trends-2026.html",
+      "snippet": "Dana Tomić Hughes, founder of design publishing company Yellowtrace says Australians are improving their exterior spaces and furniture retailers are taking notice. “Brands are waking up to this and releasing outdoor furniture.” Furniture makers such as B&amp;B Italia, which recently opened a store in Sydney solely dedicated to outdoor pieces, are creating ranges that wouldn’t look out of place indoors.",
+      "source": "brave"
+    },
+    {
+      "title": "BKK Architects Expanded | ArchitectureAu",
+      "url": "https://architectureau.com/calendar/talk/bkk-architects-expanded/",
+      "snippet": "events.humanitix.com/bkk-expanded-talk-series-2026-making-materials-matter?utm_source=brevo&amp;utm_medium=email&amp;utm_campaign=BKK Expanded Making Materials Matter",
+      "source": "brave"
+    },
+    {
+      "title": "2026 Craft + Design Canberra Festival | ArchitectureAu",
+      "url": "https://architectureau.com/calendar/festival/2026-craft-design-canberra-festival/",
+      "snippet": "Award 2026 Houses Awards: New House over 200 square metres ... Undercurrent Design Market will host over 50 of Australia’s best makers, every piece handmade, at Ainslie Arts Centre.",
+      "source": "brave"
+    },
+    {
+      "title": "News",
+      "url": "https://sydneycraftweek.com/news/",
+      "snippet": "The Sydney Craft Week Festival 2026 is now calling for entries to participate in this annual city-wide festival celebrating its tenth year.",
+      "source": "brave"
+    },
+    {
+      "title": "Craft Victoria’s 2026 Fresh exhibition and InteriorsAu prize winner announced | ArchitectureAu",
+      "url": "https://architectureau.com/articles/craft-victorias-2026-fresh-exhibition-and-award-winners-announced/",
+      "snippet": "<strong>Awards were announced at the official opening, including the InteriorsAu Emerging Maker Prize, which was awarded to Madelyn McKenzie</strong>. The annual prize recognises outstanding emerging talent and the recipient receives a profile published on ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia design site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+design+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: design architecture craft makers materials good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=design+architecture+craft+makers+materials+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Design Innovation - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/social-sciences/design-innovation",
+      "snippet": "Much of the literature pointed to design researchers as contributors of valuable information and knowledge to the innovation process. Our review revealed a number of perspectives on design research and the kinds of information it can provide. First and foremost among the authors in our review was the finding that design research generates valuable user insights. The user-centered design approach is supported by methods that enable designers not only to investigate how people live and behave in particular situations—and hence discover what their real needs are—but also to design in cooperat",
+      "source": "brave"
+    },
+    {
+      "title": "(PDF) Things We Could Design: For More Than Human-Centered Worlds by Ron Wakkary",
+      "url": "https://www.researchgate.net/publication/369984113_Things_We_Could_Design_For_More_Than_Human-Centered_Worlds_by_Ron_Wakkary",
+      "snippet": "We propose <strong>a comprehensive framework that incorporates human perspectives into the design process, advocating for interdisciplinary collaboration among designers, engineers, and social scientists</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Exploring Design Thinking Methodologies: A Comprehensive Analysis of the Literature, Outstanding Practices, and Their Linkage to Sustainable Development Goals",
+      "url": "https://www.mdpi.com/2071-1050/17/15/7142",
+      "snippet": "It emphasizes human-centeredness, deep empathy for users, and early-stage experimentation. Its adaptability has enabled widespread application across education, corporate innovation, and social change initiatives. Double Diamond model (Design Council): Introduced in 2004 and revised in 2015 by the UK Design Council [18], the Double Diamond model outlines the process as two successive phases of divergent and convergent thinking: Discover, Define, Develop, and Deliver.",
+      "source": "brave"
+    },
+    {
+      "title": "Design vs. Discovery: Which Way to Innovation? - The European Business Review",
+      "url": "https://www.europeanbusinessreview.com/design-vs-discovery-which-way-to-innovation/",
+      "snippet": "The book lists Alexander Osterwalder and Yves Pigneur as authors, but tells us that the Innovation Hub – “An amazing crowd of 470 practitioners from 45 countries” – co-created it. So the handbook is a good summary of current thinking on this subject from a wide survey of the field. Countless methods of design thinking follow the same basic model that you find in this book. In particular, the book gives you “techniques and tools from the world of design that can help you design better and more innovative business models.” The two key steps are to list the nine “building blocks” of all business models and then fill in the blocks using six methods from the world of design.",
+      "source": "brave"
+    },
+    {
+      "title": "Designing for Humanity",
+      "url": "https://www.numberanalytics.com/blog/human-centered-design-globalization",
+      "snippet": "<strong>User research is a critical component of human-centered design</strong>. It involves gathering data about users through methods such as interviews, surveys, and observations. User research helps designers to understand the needs, behaviors, and motivations ...",
+      "source": "brave"
+    },
+    {
+      "title": "What is human-centred design and why is it important | Billy Blue at Torrens University",
+      "url": "https://www.torrens.edu.au/stories/blog/design/what-is-human-centred-design-and-why-is-important",
+      "snippet": "Design Thinking and Human-Centred Design are often mistaken for being interchangeable terms, when in fact they are very different concepts that work hand-in-hand. Design thinking is a suite of tools and steps (Discover, Define, Develop and Deliver) used to solve complex problems. It is the &quot;how-to&quot; guide for innovation and a toolkit for solving complex structural or business problems.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian design architecture craft makers materials news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+design+architecture+craft+makers+materials+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Australian Design Mosaic",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Sydney interior celebrating the 2026 National Architecture Awards and Sydney Craft Week. Diverse Australians in contemporary fashion gather around a table showcasing Madelyn McKenzie's craft and BKK Architects' material samples, symbolizing the vibrant recognition of Australian design and outdoor living trends.",
+      "prompt": "Intimist painterly oil on canvas, Vuillard style. A spacious Sydney apartment with patterned wallpaper, diverse Australians in 2024 contemporary fashion. Figures dissolve into décor while examining craft objects and architectural material samples. Muted tapestry colors, soft brushwork, quiet community resilience, no logos, no text, fine-art pigment texture. Unified Australian scene weaving together these themes: Australian Architecture Awards, Materiality and Craft, Outdoor Living Design, Emerging Maker Recognition, Human-Centered Innovation, Sustainable Design Practices.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1037675819,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/01.png style=flux_klein size=896x1152 seed=1037675819 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Materiality in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Set in a red desert station, this image visualizes BKK Architects' 'Making Materials Matter' talk series. A group of designers in 1978 fashion inspect sustainable local materials, highlighting the educational initiative's emphasis on material selection and the growing Australian trend of enhancing exterior living spaces with high-quality design.",
+      "prompt": "Painterly gouache, Vuillard intimacy. Red desert station veranda, eucalyptus scrub background. Figures in 1978 Australian fashion examine raw material samples. Quiet figures merging with patterned canvas walls, muted earth tones, visible brushstrokes, no digital camera, no neon, fine-art pigment on textured paper, soft diffused light. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 816912599,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/02.png style=flux_klein size=896x1152 seed=816912599 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Emerging Maker's Prize",
+      "tone": "good_news",
+      "fashionYear": "1924",
+      "emailHero": false,
+      "description": "A Melbourne workshop scene honoring Craft Victoria's InteriorsAu Emerging Maker Prize awarded to Madelyn McKenzie. In 1924 fashion, a focused artisan works with handmade goods, representing the platform for new voices and the recognition of outstanding emerging talent in the Australian craft sector.",
+      "prompt": "Vuillard-style oil painting, intimate workshop. Melbourne interior with decorative wallpaper, 1924 fashion figures. A maker works with clay and textiles, dissolving into the patterned background. Muted tapestry palette, soft impasto, quiet dignity, no modern tech, no gore, fine-art canvas texture, gentle shadow play. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1090576596,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/03.png style=flux_klein size=896x1152 seed=1090576596 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Harbour Living Spaces",
+      "tone": "news",
+      "fashionYear": "1954",
+      "emailHero": false,
+      "description": "Visualizing the evolution of domestic design in Sydney, this image reflects the opening of B&B Italia stores dedicated to outdoor furniture. In 1954 fashion, residents enjoy a harbour-view terrace, showcasing the broader Australian trend of enhancing exterior living spaces with indoor-grade design and human-centered innovation.",
+      "prompt": "Painterly pastel, Vuillard mood. Sydney harbour terrace, 1954 fashion figures relaxing on outdoor furniture. Figures blend with patterned awnings and brick walls. Muted coastal colors, soft washes, no photorealism, no neon, fine-art pigment on paper, quiet domestic harmony, subtle brushwork. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 108837813,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/04.png style=flux_klein size=896x1152 seed=108837813 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Craft Week Anniversary",
+      "tone": "good_news",
+      "fashionYear": "1904",
+      "emailHero": false,
+      "description": "A city-wide festival scene marking Sydney Craft Week's tenth anniversary. In 1904 fashion, diverse crowds gather in a historic square, showcasing handmade goods and fostering community engagement. This celebrates a decade of supporting makers and craftspeople, highlighting the human ingenuity and community resilience of the Australian craft sector.",
+      "prompt": "Vuillard-inspired oil, intimate street scene. Historic Sydney square, 1904 fashion crowd. Figures dissolve into patterned shopfronts and awnings. Muted tapestry colors, soft brushwork, quiet celebration, no logos, no text, fine-art canvas, gentle light, community resilience, no modern elements. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1646466762,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/05.png style=flux_klein size=896x1152 seed=1646466762 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Sixteen Finalists",
+      "tone": "good_news",
+      "fashionYear": "1912",
+      "emailHero": false,
+      "description": "The Sixteen Finalists takes on the day’s Materiality and Craft thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Materiality and Craft in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Édouard Vuillard: intimate Sydney room with intricate wallpaper. Sixteen diverse figures in 1912 Australian fashion dissolve into the décor. Muted tapestry colors. Soft brushwork. No digital effects. Focus on commercial and residential interior craft. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 874391068,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/06.png style=flux_klein size=896x1152 seed=874391068 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Madelyn's Craft Prize",
+      "tone": "good_news",
+      "fashionYear": "1936",
+      "emailHero": false,
+      "description": "Madelyn's Craft Prize takes on the day’s Emerging Maker Recognition thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Emerging Maker Recognition in view without turning the news into spectacle.",
+      "prompt": "Painterly Vuillard style: quiet Melbourne workshop with patterned walls. A young woman in 1936 attire works with clay and textiles. Figures merge with the background. Muted pigments. Intimate, domestic atmosphere. No neon noir. Focus on emerging maker dignity and craft. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 390215135,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/07.png style=flux_klein size=896x1152 seed=390215135 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Sydney Craft Decade",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Sydney Craft Decade takes on the day’s Materiality and Craft thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Materiality and Craft in view without turning the news into spectacle.",
+      "prompt": "Painterly Vuillard fine-art: bustling Sydney street scene with dense wallpaper-like patterns. Diverse crowds in 1968 fashion. Quiet figures dissolving into the urban décor. Muted tapestry colors. Soft, intimate brushwork. No photoreal CGI. Focus on community resilience and craft. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 2027355141,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/08.png style=flux_klein size=896x1152 seed=2027355141 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Materials Matter Talks",
+      "tone": "good_news",
+      "fashionYear": "1992",
+      "emailHero": false,
+      "description": "Materials Matter Talks takes on the day’s Human-Centered Innovation thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australian design and architecture are entering a vibrant period of recognition and expansion, with the Australian Institute of Architects announcing sixteen finalists for the 2026 National Architecture Awards. The composition keeps the human stakes of Human-Centered Innovation in view without turning the news into spectacle.",
+      "prompt": "Painterly Vuillard style: intimate Australian lecture room with complex wallpaper patterns. Figures in 1992 fashion discuss materials. Muted, tapestry-like color palette. Soft brushwork. No digital effects. Focus on sustainable design practices and human-centered innovation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1613200890,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/09.png style=flux_klein size=896x1152 seed=1613200890 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Outdoor Living Grade",
+      "tone": "news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Outdoor Living Grade takes on the day’s Outdoor Living Design thread, translating the news into a single visual moment. This celebration of commercial and residential interiors highlights a growing emphasis on materiality and craft, echoed by BKK Architects’ upcoming talk series focused on 'Making Materials Matter.' The domestic design scene is also evolving to meet lifestyle changes, with brands like B&B Italia opening Sydney stores dedicated to outdoor furniture, reflecting a broader Australian trend of enhancing exterior living spaces with high-quality, indoor-grade design. Australians Embrace Outdoor Living with High-End Furniture Trends. The composition keeps the human stakes of Outdoor Living Design in view without turning the news into spectacle.",
+      "prompt": "Painterly Vuillard fine-art: modern Sydney terrace with intricate wallpaper patterns. Figures in 2015 fashion relax on high-quality outdoor furniture. Muted tapestry colors. Soft, intimate brushwork. No photoreal CGI. Focus on outdoor living design and materiality. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2120718050,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-19/10.png style=flux_klein size=896x1152 seed=2120718050 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
