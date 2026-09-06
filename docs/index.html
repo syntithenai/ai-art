@@ -175,7 +175,7 @@
       height: auto;
       object-fit: contain;
       box-shadow: 0 8px 40px rgba(0,0,0,0.5);
-      cursor: default;
+      cursor: pointer;
       transition: opacity 0.12s ease;
     }
     .lightbox-nav {
@@ -900,11 +900,13 @@
         if (i < 0) i = 0;
         lightbox.classList.add('open');
         document.body.style.overflow = 'hidden';
+        lightboxImg.title = 'Open artwork page';
         showLightboxSlide(i);
       }
       function closeLightbox() {
         lightbox.classList.remove('open');
         lightboxImg.removeAttribute('src');
+        lightboxImg.removeAttribute('title');
         lightboxImg.style.opacity = '1';
         lightboxSlides = [];
         lightboxIndex = 0;
@@ -915,6 +917,21 @@
       function lightboxStep(delta) {
         if (!lightbox.classList.contains('open') || lightboxSlides.length < 2) return;
         showLightboxSlide(lightboxIndex + delta);
+      }
+      function openLightboxDetail() {
+        const slide = lightboxSlides[lightboxIndex];
+        if (!slide || !slide.date) return;
+        const hash = '#/' + slide.date + '/' + slide.index;
+        const route = parseRoute();
+        closeLightbox();
+        if (
+          route.view === 'detail'
+          && route.date === slide.date
+          && Number(route.index) === Number(slide.index)
+        ) {
+          return;
+        }
+        location.hash = hash;
       }
 
       lightbox.addEventListener('click', (e) => {
@@ -944,7 +961,11 @@
         const dy = y - swipeStartY;
         swipeStartX = null;
         swipeStartY = null;
-        if (Math.abs(dx) < 48 || Math.abs(dx) < Math.abs(dy) * 1.2) return;
+        if (Math.abs(dx) < 48 || Math.abs(dx) < Math.abs(dy) * 1.2) {
+          // Tap / click — open single-artwork view.
+          if (Math.abs(dx) < 12 && Math.abs(dy) < 12) openLightboxDetail();
+          return;
+        }
         lightboxStep(dx < 0 ? 1 : -1);
       }
       lightboxStage.addEventListener('touchstart', (e) => {
@@ -1333,10 +1354,15 @@
         const img = t.closest('[data-action="fullscreen"]');
         if (img) {
           e.preventDefault();
-          openLightbox(
-            img.getAttribute('data-date') || '',
-            img.getAttribute('data-index') || '1'
-          );
+          const date = img.getAttribute('data-date') || '';
+          const index = img.getAttribute('data-index') || '1';
+          const route = parseRoute();
+          // On the artwork page, click zooms; elsewhere, open the single view.
+          if (route.view === 'detail') {
+            openLightbox(date, index);
+          } else {
+            location.hash = '#/' + date + '/' + index;
+          }
         }
       });
 
