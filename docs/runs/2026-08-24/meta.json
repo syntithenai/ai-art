@@ -1,0 +1,329 @@
+{
+  "date": "2026-08-24",
+  "artist": {
+    "id": "estes",
+    "name": "Richard Estes",
+    "era": "contemporary US",
+    "renderMode": "painterly",
+    "aspectRatio": "4:3",
+    "tags": [
+      "photoreal",
+      "north-america"
+    ],
+    "bio": "Richard Estes is an American artist, best known for his photorealist paintings. The paintings generally consist of reflective, clean, and inanimate city and geometric landscapes. He is regarded as one of the founders of the international photo-realist movement of the late 1960s, with such painters as John Baeder, Chuck Close, Robert Cottingham, Audrey Flack, Ralph Goings, and Duane Hanson. Author Graham Thompson writes \"One demonstration of the way photography became assimilated into the art world is the success of photorealist painting in the late 1960s and early 1970s. It is also called super-realism or hyper-realism and painters like Richard Estes, Denis Peterson, Audrey Flack, and Chuck...",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Richard_Estes_4479.JPG/330px-Richard_Estes_4479.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. Simultaneously, the 2026 National NAIDOC Awards in Alice Springs celebrated Indigenous excellence, while the Garma Festival in Arnhem Land reaffirmed the vibrancy of First Nations culture and community connection.",
+  "themes": [
+    "Indigenous Science & Deep Time",
+    "Cultural Heritage & Rock Art",
+    "Community Resilience & Festivals",
+    "Global Recognition of Indigenous Knowledge",
+    "Health & Human Rights"
+  ],
+  "headlines": [
+    {
+      "title": "Great Barrier Reef Was Above Water: Indigenous Rangers Join Deep-Time Research",
+      "url": "https://www.abc.net.au/news/indigenous"
+    },
+    {
+      "title": "Garma 2026: A Festival for 'Everyone' in Arnhem Land",
+      "url": "https://www.abc.net.au/indigenous/news"
+    },
+    {
+      "title": "NT Rock Art Reveals Thylacine's Deep Cultural Significance",
+      "url": "https://theconversation.com/topics/aboriginal-cultural-heritage-87568"
+    },
+    {
+      "title": "2026 National NAIDOC Awards Held in Alice Springs",
+      "url": "https://koorimail.com/"
+    },
+    {
+      "title": "Indigenous Dads Challenge Stereotypes on Father's Day",
+      "url": "https://www.abc.net.au/news/indigenous"
+    },
+    {
+      "title": "Fred Hollows Foundation: Dedicated Team Fears Future of Life-Saving Work",
+      "url": "https://www.abc.net.au/news/indigenous"
+    },
+    {
+      "title": "UNESCO: Indigenous Knowledge Challenges Foundations of Science",
+      "url": "https://courier.unesco.org/en/articles/how-indigenous-knowledge-drives-scientific-discovery"
+    },
+    {
+      "title": "First Nations Actors Celebrate Logie Nominations",
+      "url": "https://www.abc.net.au/indigenous/news"
+    },
+    {
+      "title": "Government Extends Partnership with Indigenous Heritage Alliance to 2026",
+      "url": "https://www.dcceew.gov.au/parks-heritage/heritage/indigenous-heritage"
+    },
+    {
+      "title": "SIWI: Indigenous Knowledge Critical to Water Governance and Innovation",
+      "url": "https://siwi.org/latest/the-critical-role-of-indigenous-peoples-knowledge-for-innovation/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Indigenous Rangers and Scientists Uncover Great Barrier Reef's Prehistoric Past",
+      "url": "https://www.abc.net.au/news/indigenous",
+      "angle": "Collaborative research reveals the Reef was once grassland or rainforest, showcasing Indigenous rangers as key partners in deep-time science."
+    },
+    {
+      "title": "NT Rock Art Sheds Light on Tasmanian Tiger's Cultural Significance",
+      "url": "https://theconversation.com/topics/aboriginal-cultural-heritage-87568",
+      "angle": "Ancient rock art provides new insights into the Thylacine's deep significance to Aboriginal peoples, preserving cultural heritage through academic collaboration."
+    },
+    {
+      "title": "2026 National NAIDOC Awards Celebrate Indigenous Excellence",
+      "url": "https://koorimail.com/",
+      "angle": "Held in Mparntwe, the awards recognized outstanding contributions and 'deadly outfits,' celebrating Indigenous achievement and cultural pride."
+    },
+    {
+      "title": "Global Shift: Indigenous Knowledge Drives Scientific Discovery",
+      "url": "https://courier.unesco.org/en/articles/how-indigenous-knowledge-drives-scientific-discovery",
+      "angle": "UNESCO highlights how Indigenous insights in agriculture, medicine, and climatology are inspiring sustainable innovations that challenge traditional scientific approaches."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Indigenous - ABC News",
+      "url": "https://www.abc.net.au/news/indigenous",
+      "snippet": "Topic:PoliceTue 25 Aug 2026 at 12:46pmTue 25 Aug 2026 at 12:46pmTue 25 Aug 2026 at 12:46pm · Tens of thousands of years ago, the Great Barrier Reef was above water. Whether it was grassland, rainforest, or mangrove swamp is something researchers and Indigenous rangers are trying to uncover. Topic:Great Barrier ReefMon 24 Aug 2026 at 11:56amMon 24 Aug 2026 at 11:56amMon 24 Aug 2026 at 11:56am",
+      "source": "brave"
+    },
+    {
+      "title": "News | Indigenous",
+      "url": "https://www.indigenous.gov.au/news",
+      "snippet": "On 13 August 2026, <strong>the NIAA released an Approach to Market (ATM) on AusTender for Indigenous Business Verification and Support Services</strong>, as part of reforms to the Indigenous Procurement Policy (IPP).",
+      "source": "brave"
+    },
+    {
+      "title": "Aboriginal cultural heritage News, Research and Analysis - The Conversation",
+      "url": "https://theconversation.com/topics/aboriginal-cultural-heritage-87568",
+      "snippet": "Joe Dortch, The University of Western Australia; Anne Poelina, University of Notre Dame Australia; Jo Thomson, The University of Western Australia, and Kado Muir, Indigenous Knowledge",
+      "source": "brave"
+    },
+    {
+      "title": "News - ABC Indigenous",
+      "url": "https://www.abc.net.au/indigenous/news",
+      "snippet": "<strong>Welcome to ABC Indigenous - ABC&#x27;s new portal for Aboriginal and Torres Strait Islander people</strong>. The Indigenous portal replaces and upgrades the pre-existing Message Stick gateway. It was developed in consultation with the ABC&#x27;s Indigenous Programs ...",
+      "source": "brave"
+    },
+    {
+      "title": "Home - Koori Mail",
+      "url": "https://koorimail.com/",
+      "snippet": "The 2026 National NAIDOC Awards were held on August 15, in Mparntwe (Alice Springs). Jillian Mundy shares the highlights, winners and deadly outfits in pictures. ... <strong>Jo Alice Burgess, a proud Indigenous Year 7 student, has embarked on the journey of… August 24, 2026</strong>",
+      "source": "brave"
+    },
+    {
+      "title": "First Nations heritage - DCCEEW",
+      "url": "https://www.dcceew.gov.au/parks-heritage/heritage/indigenous-heritage",
+      "snippet": "<strong>In June 2024, the Government renewed its partnership with the Alliance, extending the formal agreement to June 2026</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia Indigenous knowledge site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+Indigenous+knowledge+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: Indigenous knowledge language culture Country heritage good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Indigenous+knowledge+language+culture+Country+heritage+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "How Indigenous knowledge drives scientific discovery | The UNESCO Courier",
+      "url": "https://courier.unesco.org/en/articles/how-indigenous-knowledge-drives-scientific-discovery",
+      "snippet": "Beyond providing empirical data, Indigenous knowledge challenges the very foundations of the scientific approach, whether in terms of the place of ethics, the relationship between humans and nature, or the long timeframe of observations. In agriculture, traditional medicine and climatology, this knowledge has already inspired major innovations, which are often more sustainable than purely technological solutions.",
+      "source": "brave"
+    },
+    {
+      "title": "Indigenous Knowledge: Connecting Data, Land and Story | ASM.org",
+      "url": "https://asm.org/articles/2025/november/indigenous-knowledge-connecting-data,-land-and-sto",
+      "snippet": "Additionally, many Indigenous innovations in health and medicine predated or informed modern medicine. For example, Native Americans, Indigenous Peoples in North America, were early pioneers in the field of pain relief. They chewed or brewed willow bark, which contains salicin—a chemical with natural pain relief and anti-inflammatory properties—to soothe aches and pains. The discovery and isolation of salicin eventually led to the development of aspirin in 1897, now one of the most widely used drugs in the world.",
+      "source": "brave"
+    },
+    {
+      "title": "Indigenous knowledge needs to be recognised and valued | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/indigenous-knowledge-needs-to-be-recognised-and-valued/",
+      "snippet": "<strong>Indigenous knowledges offer unique insights into environmental stewardship, health, community wellbeing and more</strong>. They have the potential to transform our approaches to sustainability, resilience, and innovation, driving advancements that benefit ...",
+      "source": "brave"
+    },
+    {
+      "title": "The UNESCO Courier - Volume 2026, Issue 1, 2026",
+      "url": "https://www.un-ilibrary.org/content/journals/22202293/2026/1",
+      "snippet": "Indigenous knowledge has long been ignored, and sometimes even opposed, by science. Now, however, it is receiving renewed interest – and it’s about time: the consequences of global mechanization, along with crises linked to climate change and health issues, are encouraging us to assign ...",
+      "source": "brave"
+    },
+    {
+      "title": "The critical role of Indigenous Peoples’ knowledge for innovation | SIWI - Leading expert in water governance",
+      "url": "https://siwi.org/latest/the-critical-role-of-indigenous-peoples-knowledge-for-innovation/",
+      "snippet": "Interest in Indigenous Peoples’ knowledge has risen sharply in recent years. It is now seen as critical to science, conservation, and resilience. But in real life, many obstacles remain, and both the recent UN Water Conference and the upcoming World Water Week have sought new ways to amplify ...",
+      "source": "brave"
+    },
+    {
+      "title": "Digital Socio-Technical Innovation and Indigenous Knowledge | IntechOpen",
+      "url": "https://www.intechopen.com/chapters/80887",
+      "snippet": "Raise questions in what ways can the team develop models, protocols, and frameworks, which not only support the unique structure of indigenous knowledge but also facilitate efforts to weave the two knowledge towards a better understanding of indigenous knowledge systems. Is it possible to formulate knowledge portals or protocols in order to assimilate two knowledge paradigms, for instance, to digitally integrate the knowledge of the past through a digital based framework to increase local awareness, interest, and understanding about the significance and value of their world to others who matter to them. Two case studies of socio-technical innovation below aim to answer these concerns.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian Indigenous knowledge language culture Country heritage news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+Indigenous+knowledge+language+culture+Country+heritage+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Deep Time Convergence",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Alice Springs scene where Indigenous rangers and scientists stand before a mirrored shop window, reflecting the prehistoric rainforest of the Great Barrier Reef. The glass captures NAIDOC award winners and Garma festival dancers, symbolizing the convergence of deep-time science, cultural heritage, and community resilience in one moment of discovery.",
+      "prompt": "Painterly fine-art oil on canvas, thick impasto brushwork. Alice Springs street, 2024 fashion. Indigenous rangers and scientists stand before a mirrored shop window. Reflection shows prehistoric Great Barrier Reef rainforest, not water. NAIDOC award winners in vibrant outfits and Garma dancers appear in the glass. Daylight clarity, urban glass complexity, Estes style. No digital cameras. Unified Australian scene weaving together these themes: Indigenous Science & Deep Time, Cultural Heritage & Rock Art, Community Resilience & Festivals, Global Recognition of Indigenous Knowledge, Health & Human Rights. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1380562113,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/01.png style=flux_klein size=1152x896 seed=1380562113 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Thylacine Echoes in Rock Art",
+      "tone": "good_news",
+      "fashionYear": "1976",
+      "emailHero": false,
+      "description": "Set in a Northern Territory rock shelter, this image depicts academic collaboration on Thylacine cultural significance. Figures in 1970s Australian bush attire study ancient ochre paintings, highlighting how Indigenous knowledge preserves heritage through scientific partnership, connecting past ecological history with present-day conservation efforts.",
+      "prompt": "Painterly oil on canvas, visible brushstrokes. Northern Territory rock shelter, 1976 fashion. Researchers and Elders examine ochre rock art depicting Thylacines. Natural light filters through eucalyptus trees. Focus on cultural heritage preservation through academic collaboration. Earthy pigment tones, canvas texture, Estes photorealist spirit. No digital CGI, no mist. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1046706542,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/02.png style=flux_klein size=1152x896 seed=1046706542 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "NAIDOC Pride in Mparntwe",
+      "tone": "good_news",
+      "fashionYear": "1992",
+      "emailHero": false,
+      "description": "A vibrant street scene in Alice Springs during the 1992 NAIDOC Week. Crowds in period-appropriate fashion celebrate Indigenous excellence, with colorful 'deadly outfits' reflecting cultural pride. The composition emphasizes community resilience and the global recognition of Indigenous achievement through local celebration and solidarity.",
+      "prompt": "Painterly fine-art, oil on canvas, crisp reflections. Alice Springs street, 1992 fashion. Diverse crowd in vibrant traditional and modern outfits. Mirrored shop windows reflect the celebration of NAIDOC awards. Daylight clarity, urban glass complexity. Estes style photorealist city painting. No logos, no text, no digital cameras. Focus on dignity and pride. Australian landscape or city setting with Australian people.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1015751220,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/03.png style=flux_klein size=1152x896 seed=1015751220 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Reef Rangers and Rainforest Science",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Coastal cliffs near Cairns, 2010. Indigenous rangers and marine scientists collaborate on the Reef's prehistoric past. The scene shows the transition from grassland to reef, highlighting Indigenous insights in climatology. The artwork celebrates the enduring value of traditional knowledge in understanding environmental change and heritage.",
+      "prompt": "Painterly oil on canvas, thick pigment. Cairns coastal cliffs, 2010 fashion. Rangers and scientists study reef rocks. Reflections in a field mirror show prehistoric rainforest. Daylight clarity, Estes photorealist style. Urban glass complexity adapted to nature. No digital cameras, no abstract drip. Focus on scientific wonder and Indigenous partnership. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 726132867,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/04.png style=flux_klein size=1152x896 seed=726132867 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Garma Festival Community Connection",
+      "tone": "news",
+      "fashionYear": "1958",
+      "emailHero": false,
+      "description": "Arnhem Land, 1958. A quiet gathering of First Nations people reaffirms community connection and cultural vibrancy. The scene depicts daily life and ceremonial preparation, highlighting resilience and the enduring strength of Indigenous culture. The artwork respects sacred context while visualizing the deep roots of community identity.",
+      "prompt": "Painterly fine-art, oil on canvas, soft brushwork. Arnhem Land landscape, 1958 fashion. First Nations people gather in a community setting. Eucalyptus trees and red earth. Daylight clarity, Estes style. No sacred imagery appropriation. No digital cameras. Focus on dignity, community resilience, and cultural heritage in a natural Australian setting. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 809080551,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/05.png style=flux_klein size=1152x896 seed=809080551 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Reef Grassland Reflections",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "Reef Grassland Reflections answers a strand of today’s news with a focused visual reading. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. Great Barrier Reef Was Above Water: Indigenous Rangers Join Deep-Time Research. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored shop windows reflect Indigenous rangers and scientists in 1988 casual wear. Crisp urban glass complexity shows prehistoric reef grassland data. Daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1876936995,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/06.png style=flux_klein size=1152x896 seed=1876936995 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Thylacine Rock Art Science",
+      "tone": "good_news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Thylacine Rock Art Science answers a strand of today’s news with a focused visual reading. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect researchers in 2018 field gear. Crisp reflections show ancient Thylacine rock art. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 740703241,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/07.png style=flux_klein size=1152x896 seed=740703241 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "NAIDOC Deadly Outfit Pride",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "NAIDOC Deadly Outfit Pride answers a strand of today’s news with a focused visual reading. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect celebrants in 1998 fashion. Crisp reflections show vibrant NAIDOC outfits. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1547017173,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/08.png style=flux_klein size=1152x896 seed=1547017173 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Garma Community Resilience",
+      "tone": "good_news",
+      "fashionYear": "2008",
+      "emailHero": false,
+      "description": "Garma Community Resilience takes on the day’s Community Resilience & Festivals thread, translating the news into a single visual moment. Simultaneously, the 2026 National NAIDOC Awards in Alice Springs celebrated Indigenous excellence, while the Garma Festival in Arnhem Land reaffirmed the vibrancy of First Nations culture and community connection. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. The composition keeps the human stakes of Community Resilience & Festivals in view without turning the news into spectacle.",
+      "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect First Nations people in 2008 attire. Crisp reflections show Garma Festival gathering. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 220764021,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/09.png style=flux_klein size=1152x896 seed=220764021 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Indigenous Climatology Global Shift",
+      "tone": "news",
+      "fashionYear": "2028",
+      "emailHero": false,
+      "description": "Indigenous Climatology Global Shift takes on the day’s Global Recognition of Indigenous Knowledge thread, translating the news into a single visual moment. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. The composition keeps the human stakes of Global Recognition of Indigenous Knowledge in view without turning the news into spectacle.",
+      "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect scientists and elders in 2028 modern wear. Crisp reflections show climatology discussions. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2018194347,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-24/10.png style=flux_klein size=1152x896 seed=2018194347 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}

@@ -1730,6 +1730,138 @@
           "prompt": "Painterly fine-art, glossy symbolic backup power unit, mirror and lipstick vanitas, hyperreal reflections. 2023 Brisbane interior, modern casual Australian fashion, rainforest window view, warm light. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "artist": {
+        "id": "estes",
+        "name": "Richard Estes",
+        "era": "contemporary US",
+        "renderMode": "painterly",
+        "aspectRatio": "4:3",
+        "tags": [
+          "photoreal",
+          "north-america"
+        ],
+        "bio": "Richard Estes is an American artist, best known for his photorealist paintings. The paintings generally consist of reflective, clean, and inanimate city and geometric landscapes. He is regarded as one of the founders of the international photo-realist movement of the late 1960s, with such painters as John Baeder, Chuck Close, Robert Cottingham, Audrey Flack, Ralph Goings, and Duane Hanson. Author Graham Thompson writes \"One demonstration of the way photography became assimilated into the art world is the success of photorealist painting in the late 1960s and early 1970s. It is also called super-realism or hyper-realism and painters like Richard Estes, Denis Peterson, Audrey Flack, and Chuck...",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Richard_Estes_4479.JPG/330px-Richard_Estes_4479.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Indigenous Science & Deep Time",
+        "Cultural Heritage & Rock Art",
+        "Community Resilience & Festivals",
+        "Global Recognition of Indigenous Knowledge",
+        "Health & Human Rights"
+      ],
+      "summary": "In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. Simultaneously, the 2026 National NAIDOC Awards in Alice Springs celebrated Indigenous excellence, while the Garma Festival in Arnhem Land reaffirmed the vibrancy of First Nations culture and community connection.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Deep Time Convergence",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Alice Springs scene where Indigenous rangers and scientists stand before a mirrored shop window, reflecting the prehistoric rainforest of the Great Barrier Reef. The glass captures NAIDOC award winners and Garma festival dancers, symbolizing the convergence of deep-time science, cultural heritage, and community resilience in one moment of discovery.",
+          "prompt": "Painterly fine-art oil on canvas, thick impasto brushwork. Alice Springs street, 2024 fashion. Indigenous rangers and scientists stand before a mirrored shop window. Reflection shows prehistoric Great Barrier Reef rainforest, not water. NAIDOC award winners in vibrant outfits and Garma dancers appear in the glass. Daylight clarity, urban glass complexity, Estes style. No digital cameras. Unified Australian scene weaving together these themes: Indigenous Science & Deep Time, Cultural Heritage & Rock Art, Community Resilience & Festivals, Global Recognition of Indigenous Knowledge, Health & Human Rights. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Thylacine Echoes in Rock Art",
+          "tone": "good_news",
+          "fashionYear": "1976",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Set in a Northern Territory rock shelter, this image depicts academic collaboration on Thylacine cultural significance. Figures in 1970s Australian bush attire study ancient ochre paintings, highlighting how Indigenous knowledge preserves heritage through scientific partnership, connecting past ecological history with present-day conservation efforts.",
+          "prompt": "Painterly oil on canvas, visible brushstrokes. Northern Territory rock shelter, 1976 fashion. Researchers and Elders examine ochre rock art depicting Thylacines. Natural light filters through eucalyptus trees. Focus on cultural heritage preservation through academic collaboration. Earthy pigment tones, canvas texture, Estes photorealist spirit. No digital CGI, no mist. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "NAIDOC Pride in Mparntwe",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "A vibrant street scene in Alice Springs during the 1992 NAIDOC Week. Crowds in period-appropriate fashion celebrate Indigenous excellence, with colorful 'deadly outfits' reflecting cultural pride. The composition emphasizes community resilience and the global recognition of Indigenous achievement through local celebration and solidarity.",
+          "prompt": "Painterly fine-art, oil on canvas, crisp reflections. Alice Springs street, 1992 fashion. Diverse crowd in vibrant traditional and modern outfits. Mirrored shop windows reflect the celebration of NAIDOC awards. Daylight clarity, urban glass complexity. Estes style photorealist city painting. No logos, no text, no digital cameras. Focus on dignity and pride. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 4,
+          "title": "Reef Rangers and Rainforest Science",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Coastal cliffs near Cairns, 2010. Indigenous rangers and marine scientists collaborate on the Reef's prehistoric past. The scene shows the transition from grassland to reef, highlighting Indigenous insights in climatology. The artwork celebrates the enduring value of traditional knowledge in understanding environmental change and heritage.",
+          "prompt": "Painterly oil on canvas, thick pigment. Cairns coastal cliffs, 2010 fashion. Rangers and scientists study reef rocks. Reflections in a field mirror show prehistoric rainforest. Daylight clarity, Estes photorealist style. Urban glass complexity adapted to nature. No digital cameras, no abstract drip. Focus on scientific wonder and Indigenous partnership. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Garma Festival Community Connection",
+          "tone": "news",
+          "fashionYear": "1958",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Arnhem Land, 1958. A quiet gathering of First Nations people reaffirms community connection and cultural vibrancy. The scene depicts daily life and ceremonial preparation, highlighting resilience and the enduring strength of Indigenous culture. The artwork respects sacred context while visualizing the deep roots of community identity.",
+          "prompt": "Painterly fine-art, oil on canvas, soft brushwork. Arnhem Land landscape, 1958 fashion. First Nations people gather in a community setting. Eucalyptus trees and red earth. Daylight clarity, Estes style. No sacred imagery appropriation. No digital cameras. Focus on dignity, community resilience, and cultural heritage in a natural Australian setting. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Reef Grassland Reflections",
+          "tone": "good_news",
+          "fashionYear": "1988",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Reef Grassland Reflections answers a strand of today’s news with a focused visual reading. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. Great Barrier Reef Was Above Water: Indigenous Rangers Join Deep-Time Research. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored shop windows reflect Indigenous rangers and scientists in 1988 casual wear. Crisp urban glass complexity shows prehistoric reef grassland data. Daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Thylacine Rock Art Science",
+          "tone": "good_news",
+          "fashionYear": "2018",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Thylacine Rock Art Science answers a strand of today’s news with a focused visual reading. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect researchers in 2018 field gear. Crisp reflections show ancient Thylacine rock art. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "NAIDOC Deadly Outfit Pride",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "NAIDOC Deadly Outfit Pride answers a strand of today’s news with a focused visual reading. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect celebrants in 1998 fashion. Crisp reflections show vibrant NAIDOC outfits. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Garma Community Resilience",
+          "tone": "good_news",
+          "fashionYear": "2008",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Garma Community Resilience takes on the day’s Community Resilience & Festivals thread, translating the news into a single visual moment. Simultaneously, the 2026 National NAIDOC Awards in Alice Springs celebrated Indigenous excellence, while the Garma Festival in Arnhem Land reaffirmed the vibrancy of First Nations culture and community connection. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. The composition keeps the human stakes of Community Resilience & Festivals in view without turning the news into spectacle.",
+          "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect First Nations people in 2008 attire. Crisp reflections show Garma Festival gathering. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Indigenous Climatology Global Shift",
+          "tone": "news",
+          "fashionYear": "2028",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Indigenous Climatology Global Shift takes on the day’s Global Recognition of Indigenous Knowledge thread, translating the news into a single visual moment. This deep-time investigation highlights the enduring value of Indigenous knowledge in understanding environmental change and heritage. In a powerful convergence of science and culture, Australian researchers and Indigenous rangers are collaborating to uncover the prehistoric landscape of the Great Barrier Reef, revealing that it was once above water. The composition keeps the human stakes of Global Recognition of Indigenous Knowledge in view without turning the news into spectacle.",
+          "prompt": "Painterly photorealist city painting in the spirit of Richard Estes. Mirrored windows reflect scientists and elders in 2028 modern wear. Crisp reflections show climatology discussions. Urban glass complexity, daylight clarity, fine-art brushwork, pigment-rich canvas, no digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }
