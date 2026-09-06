@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-07",
+  "artist": {
+    "id": "jewad_selim",
+    "name": "Jewad Selim",
+    "era": "20th c. IQ",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "modernism",
+      "middle-east"
+    ],
+    "bio": "Jawad Saleem was an Iraqi painter and sculptor born in Ankara, Ottoman Empire in 1919. He became an influential artist through his involvement with the Iraqi Baghdad Modern Art Group, which encouraged artists to explore techniques that combined both Arab heritage and modern art forms. He is considered to be one of Iraq's greatest 20th-century sculptors.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Joad_salem_self.jpg/330px-Joad_salem_self.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australia is navigating a complex week defined by both institutional accountability and community resilience. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. Simultaneously, the nation is supporting search and rescue efforts in Nepal, where Australian personnel have been deployed to assist in the aftermath of catastrophic flash floods, highlighting a spirit of international solidarity. On the domestic front, the housing sector is facing challenges with the collapse of a major developer, prompting calls for a more robust and affordable national housing supply that prioritizes community well-being.\n\nInternationally, the focus remains on human connection and scientific progress. In Nepal, relief workers are documenting stories of hope and resilience as communities rebuild, while in Ukraine, diplomatic efforts continue with US envoys visiting Kyiv to discuss peace plans. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. Additionally, new medical research has identified weak points in deadly brain cancers and discovered how dormant breast cancer cells hide, offering new avenues for treatment and prevention.\n\nThe cultural and social landscape is also evolving, with discussions around the integration of AI in regional accessibility services and the importance of maintaining face-to-face human connection. In Australia, the first mushroom-based coffin has been laid to rest, reflecting a growing interest in sustainable and innovative approaches to end-of-life care. These stories collectively underscore a global trend toward constructive responses, where technology, science, and human compassion are being harnessed to address both local challenges and global crises.",
+  "themes": [
+    "Digital Duty of Care",
+    "Veterans' Advocacy",
+    "International Solidarity",
+    "Fusion Energy Breakthrough",
+    "Medical Research Progress",
+    "Community Resilience",
+    "Sustainable Innovation"
+  ],
+  "headlines": [
+    {
+      "title": "Government Vows Fines for Social Media Giants in Digital Duty of Care Bill",
+      "url": "https://www.smh.com.au/national/australia-news-live-government-promises-hefty-fines-for-social-media-giants-ahead-of-digital-duty-of-care-bill-veterans-to-lay-down-medals-in-escalation-of-healthcare-fight-20260907-p60uxq.html"
+    },
+    {
+      "title": "Veterans Lay Down Medals in Escalation of Healthcare Fight",
+      "url": "https://www.smh.com.au/national/australia-news-live-government-promises-hefty-fines-for-social-media-giants-ahead-of-digital-duty-of-care-bill-veterans-to-lay-down-medals-in-escalation-of-healthcare-fight-20260907-p60uxq.html"
+    },
+    {
+      "title": "Australia Deploys Additional Personnel to Nepal for Search and Rescue",
+      "url": "https://www.smh.com.au/national/australia-news-live-government-promises-hefty-fines-for-social-media-giants-ahead-of-digital-duty-of-care-bill-veterans-to-lay-down-medals-in-escalation-of-healthcare-fight-20260907-p60uxq.html"
+    },
+    {
+      "title": "US Envoys Hold Talks in Kyiv in First Official Visit to Ukraine",
+      "url": "https://www.smh.com.au/national/australia-news-live-government-promises-hefty-fines-for-social-media-giants-ahead-of-digital-duty-of-care-bill-veterans-to-lay-down-medals-in-escalation-of-healthcare-fight-20260907-p60uxq.html"
+    },
+    {
+      "title": "AI Can Now Control Fusion Plasma Faster Than Humans Can React",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Scientists Find a Weak Spot in One of the Deadliest Brain Cancers",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "This Lifestyle Program Improved Cognition 55% More Than Basic Health Advice",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Woman Laid to Rest in Coffin Made from Mushrooms in Australian First",
+      "url": "https://www.theguardian.com/australia-news"
+    },
+    {
+      "title": "A Relief Worker’s Diary: Nepal's Unfinished Story of Loss, Hope and Solidarity",
+      "url": "https://www.theweek.in/news/world/2026/09/04/a-relief-workers-diary-nepals-unfinished-story-of-loss-hope-and-solidarity.html"
+    },
+    {
+      "title": "Making Community-Led Resilience Ordinary",
+      "url": "https://www.echo.net.au/2026/08/making-community-led-resilience-ordinary/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "AI Controls Fusion Plasma Faster Than Humans",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "Princeton researchers have developed an AI system that can monitor and control fusion plasma in milliseconds, predicting instabilities 200ms before they occur. This breakthrough could significantly accelerate the development of clean, limitless energy sources."
+    },
+    {
+      "title": "New Weak Spot Found in Deadly Brain Cancer",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "Scientists have identified a protein called SET that, when blocked, prevents glioblastoma tumors from forming in preclinical models. This discovery offers a new potential pathway for treating one of the most aggressive brain cancers."
+    },
+    {
+      "title": "Lifestyle Program Boosts Cognition by 55%",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "A structured lifestyle program combining exercise, diet, and social engagement improved memory and thinking in older adults at risk of dementia by 55% more than basic health advice, highlighting the power of holistic, community-supported health strategies."
+    },
+    {
+      "title": "Australian First: Mushroom-Based Coffin",
+      "url": "https://www.theguardian.com/australia-news",
+      "angle": "A woman in Australia was laid to rest in a coffin made from mushrooms, marking a first in the country. This innovative approach reflects a growing movement toward sustainable, eco-friendly practices in end-of-life care."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "... Article is a 2 minute read. ... <strong>A male worker has died from his injuries after being attacked inside a crocodile enclosure at Adventure Park at Port Moresby on Saturday afternoon</strong>. ... Article is a 7 minute read.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:ExtremismMon 7 Sep 2026 at ... · <strong>A national organisation set up by the Christian Brothers that runs 61 Catholic schools across Australia is considering severing its ties with the order amid mounting tensions over abuse payouts</strong>...",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE: Government promises hefty fines for social media giants ahead of Digital Duty of Care bill; Veterans to lay down medals in escalation of healthcare fight",
+      "url": "https://www.smh.com.au/national/australia-news-live-government-promises-hefty-fines-for-social-media-giants-ahead-of-digital-duty-of-care-bill-veterans-to-lay-down-medals-in-escalation-of-healthcare-fight-20260907-p60uxq.html",
+      "snippet": "Emily KaineUpdated September 7, 2026 — 7:13am,first published 6:45am · Save · You have reached your maximum number of saved items. Remove items from your saved list to add more. Share · AAA · Back to Top · Independent MP rubbishes Hanson’s super proposal ·",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News & Headlines from Australia and the World | SBS News",
+      "url": "https://www.sbs.com.au/news",
+      "snippet": "The Coalition proposal that could make flag burning illegal in AustraliaWhere&#x27;s the snow? Could 2026 be Australia&#x27;s worst season?&#x27;Australia is for all of us&#x27;: Socceroos star on his Pauline Hanson rebuffThe climate question following Albanese from Palau to New York",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Building Australia’s Future powered by science and innovation | Australian Academy of Science",
+      "url": "https://www.science.org.au/news-and-events/news-and-media-releases/building-australias-future-powered-by-science-and-innovation",
+      "snippet": "The President of the Australian Academy of Science, Professor Chennupati Jagadish AC, has welcomed the new Albanese Ministry and outlined seven immediate priorities for the federal government. “The Albanese government has shown their commitment to reforming the R&amp;D system by commissioning the Strategic Examination of R&amp;D,” said Professor Jagadish.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "19, 2026  <strong>Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>A 1,800-year-old shield filled with the cremated remains of a Vandal warrior was discovered at a junkyard in Poland</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "Latest science news and analysis from the world&#x27;s leading research journal",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "This Week in Science: <strong>Faux Fox Head</strong>, Strange Saturn Structure, And More!",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "Sep. 4, 2026  <strong>UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/",
+      "snippet": "Sep. 4, 2026  <strong>UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "A relief worker’s diary: Nepal's unfinished story of loss, hope and solidarity - The Week",
+      "url": "https://www.theweek.in/news/world/2026/09/04/a-relief-workers-diary-nepals-unfinished-story-of-loss-hope-and-solidarity.html",
+      "snippet": "Amid the darkness, the resilience of the Nepali people and the solidarity of the global community shine as a powerful light · Rescue operation underway after a massive flood surged through the Bhote Koshi River in Nepal | PTI",
+      "source": "brave"
+    },
+    {
+      "title": "25 years after 9/11, what disasters reveal about Americans’ ability to reconnect",
+      "url": "https://theconversation.com/25-years-after-9-11-what-disasters-reveal-about-americans-ability-to-reconnect-290287",
+      "snippet": "As a social work researcher who ... side of the human response to catastrophe: <strong>Amid tremendous hardship and loss, people reach for connection and find strength in community</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Community solidarity after the floods - Friends of the Earth Australia",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods",
+      "snippet": "Koala Rescue QLD &quot;We need your urgent help as the floods continue to cause havoc for our rescue.",
+      "source": "brave"
+    },
+    {
+      "title": "ICE, strained budgets and community resilience piqued Northfield's interest in 2025 | News | southernminn.com",
+      "url": "https://www.southernminn.com/northfield_news/news/ice-strained-budgets-and-community-resilience-piqued-northfields-interest-in-2025/article_520afed0-4669-4708-bede-6912e33a0a67.html",
+      "snippet": "Although 2025 came with a hefty helping of uncertainty and instability on many fronts, <strong>the top-100 headlines from the Northfield News this year appeared to demonstrate a sense of solidarity and cohesion throughout the community</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Making community-led resilience ordinary – The Echo",
+      "url": "https://www.echo.net.au/2026/08/making-community-led-resilience-ordinary/",
+      "snippet": "Former Fire and Rescue NSW Commissioner Greg Mullins AO calls Unspeakable ‘a must read’ that ‘provides hope rather than despair and throws us a lifeline.’ · Mel Bloor, founder and president of Resilient Uki, said, ‘for an exhausted community leader, this book has both fanned my activist flame and reminded me of the deep still pool that I can be, for both myself and my community.’",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Convergence of Care",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Convergence of Care is today’s cover piece — one Australian scene that weaves together Digital Duty of Care, Veterans' Advocacy, International Solidarity, Fusion Energy Breakthrough, Medical Research Progress, Community Resilience, and Sustainable Innovation. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. Simultaneously, the nation is supporting search and rescue efforts in Nepal, where Australian personnel have been deployed to assist in the aftermath of catastrophic flash floods, highlighting a spirit of international solidarity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas, broad expressive brushwork, rich pigment. Sydney harbour at dawn, stylized figures. A fusion scientist monitors plasma; a veteran advocates; a resident rests in a mushroom coffin. Digital duty of care motifs blend with medical research symbols. Modern 2024 Australian fashion, Aboriginal and multicultural faces. Jewad Selim style, ancient Mesopotamia meets modern form. Unified Australian scene weaving together these themes: Digital Duty of Care, Veterans' Advocacy, International Solidarity, Fusion Energy Breakthrough, Medical Research Progress, Community Resilience, Sustainable Innovation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1423588087,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/01.png style=flux_klein size=896x1152 seed=1423588087 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Plasma in the Outback",
+      "tone": "good_news",
+      "fashionYear": "2019",
+      "emailHero": false,
+      "description": "Plasma in the Outback answers a strand of today’s news with a focused visual reading. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, visible canvas texture, bold strokes. Red desert outback, eucalyptus scrub. Aboriginal scientists observe a glowing plasma sphere. 2019 casual Australian fashion. The sphere pulses with AI-controlled light, predicting instabilities. Jewad Selim stylized figures, Baghdad Group clarity. Ancient Mesopotamian geometric patterns overlay the modern scientific discovery. No digital cameras, pure pigment. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1308688673,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/02.png style=flux_klein size=896x1152 seed=1308688673 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Shield of SET",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "The Shield of SET answers a strand of today’s news with a focused visual reading. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil, soft yet defined brushwork. Melbourne hospital interior, 2015 professional fashion. A doctor shows a patient a glowing diagram of blocked proteins. The scene radiates relief and dignity. Jewad Selim stylized faces, clear lines. Ancient Mesopotamian motifs of healing blend with modern medical symbols. No gore, no text. Rich pigment, canvas texture, fine-art quality. Australian landscape or city setting with Australian people.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 783375318,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/03.png style=flux_klein size=896x1152 seed=783375318 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Veterans in the Bush",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Veterans in the Bush takes on the day’s Digital Duty of Care thread, translating the news into a single visual moment. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. The composition keeps the human stakes of Digital Duty of Care in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, earthy pigments, textured brushstrokes. Country town clinic, 1995 Australian fashion. Veterans with medals stand firm, advocating for care. Eucalyptus trees frame the scene. Jewad Selim stylized figures, dignified poses. Baghdad Group clarity meets ancient Mesopotamian spirit. No partisan caricature. Visible canvas weave, oil medium, no digital effects. Human care and dignity emphasized. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1323584362,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/04.png style=flux_klein size=896x1152 seed=1323584362 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Solidarity in the Reef",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Solidarity in the Reef takes on the day’s International Solidarity thread, translating the news into a single visual moment. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. In the artwork, that story evokes international solidarity.",
+      "prompt": "Painterly oil, vibrant coastal colors, dynamic brushwork. Australian reef edge, 1985 casual fashion. Rescuers pack aid boxes, eyes on distant mountains. The scene evokes international solidarity. Jewad Selim stylized forms, clear geometry. Ancient Mesopotamian motifs of water and life. No devastation porn, focus on preparation and hope. Canvas texture, pigment richness, fine-art rendering. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 358789986,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/05.png style=flux_klein size=896x1152 seed=358789986 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Fungal Rest",
+      "tone": "good_news",
+      "fashionYear": "2021",
+      "emailHero": false,
+      "description": "The Fungal Rest answers a strand of today’s news with a focused visual reading. Woman Laid to Rest in Coffin Made from Mushrooms in Australian First. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas. A dignified Aboriginal Australian woman in 2021 minimalist linen fashion stands in a sun-dappled eucalyptus grove. Beside her rests a coffin crafted from textured mushrooms. Jewad Selim style: stylized figures, ancient Mesopotamian geometry meets modern clarity. Visible brushwork, warm pigment, spiritual calm, no digital gloss. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1801801159,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/06.png style=flux_klein size=896x1152 seed=1801801159 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Plasma in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Plasma in the Bush answers a strand of today’s news with a focused visual reading. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas. A 1998 researcher in tech-wear stands in a red desert outback station. A stylized fusion reactor glows with blue plasma. Jewad Selim style: bold geometric forms, stylized human figures, ancient meets modern. Expressive brushwork, vibrant pigment, sense of scientific wonder, no photorealism. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 725707065,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/07.png style=flux_klein size=896x1152 seed=725707065 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "The Cognitive Garden",
+      "tone": "good_news",
+      "fashionYear": "1972",
+      "emailHero": false,
+      "description": "The Cognitive Garden takes on the day’s Community Resilience thread, translating the news into a single visual moment. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas. Elderly Australians in 1972 casual fashion exercise in a coastal park. Jewad Selim style: stylized figures, rhythmic movement, ancient Mesopotamian motifs. Visible oil brushwork, warm earthy pigment, joyful community spirit, clear lines, no digital effects, no fog. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1372771727,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/08.png style=flux_klein size=896x1152 seed=1372771727 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Reef Solidarity",
+      "tone": "good_news",
+      "fashionYear": "2008",
+      "emailHero": false,
+      "description": "Reef Solidarity takes on the day’s International Solidarity thread, translating the news into a single visual moment. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. The composition keeps the human stakes of International Solidarity in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas. Australian rescuers in 2008 gear help Nepalese survivors on a reef edge. Jewad Selim style: stylized figures, strong geometric composition, ancient meets modern. Thick impasto brushwork, dramatic sky, warm pigments, dignity, no gore, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1648406921,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/09.png style=flux_klein size=896x1152 seed=1648406921 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Housing the Future",
+      "tone": "news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Housing the Future takes on the day’s Community Resilience thread, translating the news into a single visual moment. In Canberra, the government is moving forward with the Digital Duty of Care bill, promising significant fines for social media platforms to protect minors, while veterans are using their service medals to advocate for healthcare commitments. The scientific community is making significant strides, with researchers at Princeton demonstrating AI systems that can control fusion plasma faster than human reaction times, a breakthrough that could accelerate the path to clean energy. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas. Suburban Australians in 1955 fashion gather around a housing blueprint in a garden. Jewad Selim style: stylized figures, architectural clarity, ancient meets modern. Visible brushwork, muted pigments, sense of community planning, no digital gloss, no caricature. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1547452479,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-07/10.png style=flux_klein size=896x1152 seed=1547452479 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
