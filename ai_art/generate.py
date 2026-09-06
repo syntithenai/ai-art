@@ -1,10 +1,9 @@
-"""Generate artworks via local Comfy (comfy-mcp) from LLM prompts."""
+"""Generate artworks via local ComfyUI from LLM prompts."""
 
 from __future__ import annotations
 
-import json
 import random
-import re
+import json
 import sys
 from datetime import date
 from pathlib import Path
@@ -14,16 +13,17 @@ from PIL import Image
 from ai_art import config
 from ai_art.agent_news import NewsResult
 from ai_art.artists import Artist
-from ai_art.preflight import ensure_comfy, log, prepare_for_comfy
+from ai_art.preflight import ensure_comfy, log, prepare_for_comfy, stop_qwen
 
 
-def _import_generate_image():
+def _comfy_modules():
     path = str(config.COMFY_MCP_PATH)
     if path not in sys.path:
         sys.path.insert(0, path)
-    from comfy_mcp_server import generate_image  # type: ignore
+    from comfy_client import ComfyClient, ComfyError  # type: ignore
+    from workflows import aspect_to_size, build_workflow  # type: ignore
 
-    return generate_image
+    return ComfyClient, ComfyError, aspect_to_size, build_workflow
 
 
 def png_to_jpeg(png_path: Path, jpeg_path: Path, quality: int = 90) -> None:
@@ -33,9 +33,42 @@ def png_to_jpeg(png_path: Path, jpeg_path: Path, quality: int = 90) -> None:
         rgb.save(jpeg_path, "JPEG", quality=quality, optimize=True)
 
 
-def _parse_seed(result: str) -> int | None:
-    m = re.search(r"seed=(\d+)", result or "")
-    return int(m.group(1)) if m else None
+def _generate_one(
+    *,
+    prompt: str,
+    output_path: Path,
+    aspect_ratio: str,
+    seed: int,
+    free_after: bool,
+) -> str:
+    ComfyClient, ComfyError, aspect_to_size, build_workflow = _comfy_modules()
+    # Ensure Qwen is stopped before each generate (idempotent if already down).
+    try:
+        stop_qwen()
+    except Exception as exc:
+        log(f"WARN stop_qwen before generate: {exc}")
+
+    client = ComfyClient()
+    w, h = aspect_to_size(aspect_ratio, "flux_klein")
+    workflow = build_workflow(
+        "flux_klein",
+        prompt.strip(),
+        width=w,
+        height=h,
+        seed=seed,
+        reference_filenames=None,
+        upscale=False,
+    )
+    try:
+        saved = client.generate_to_path(workflow, output_path)
+    except ComfyError as exc:
+        raise RuntimeError(f"Comfy generate failed: {exc}") from exc
+    if free_after:
+        try:
+            client.free()
+        except Exception as exc:
+            log(f"WARN comfy free: {exc}")
+    return f"OK saved={saved} style=flux_klein size={w}x{h} seed={seed} comfy={client.base_url}"
 
 
 def generate_run(
@@ -55,7 +88,6 @@ def generate_run(
     else:
         ensure_comfy(allow_restart=False)
 
-    generate_image = _import_generate_image()
     images_meta: list[dict] = []
     n = len(news.images)
 
@@ -81,16 +113,13 @@ def generate_run(
         seed = random.randint(0, 2**31 - 1)
         free_after = i == n
         log(f"generating {stem}: {item['title'][:80]}")
-        result = generate_image(
+        result = _generate_one(
             prompt=item["prompt"],
-            outputPath=str(png),
-            style="flux_klein",
+            output_path=png,
             aspect_ratio=artist.aspect_ratio,
             seed=seed,
             free_after=free_after,
         )
-        if isinstance(result, str) and result.startswith("ERROR"):
-            raise RuntimeError(f"Comfy generate failed for {stem}: {result}")
         if not png.is_file():
             raise RuntimeError(f"Comfy did not write {png}: {result}")
         png_to_jpeg(png, jpg)
@@ -101,8 +130,8 @@ def generate_run(
                 "prompt": item["prompt"],
                 "png": png.name,
                 "jpg": jpg.name,
-                "seed": _parse_seed(str(result)) or seed,
-                "comfy": str(result),
+                "seed": seed,
+                "comfy": result,
                 "skipped": False,
             }
         )
