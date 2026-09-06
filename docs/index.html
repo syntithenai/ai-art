@@ -803,13 +803,17 @@
       </div>
     </div>
   </div>
-  <div id="profileDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-label="Account" hidden>
+  <div id="profileDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-labelledby="profileName" aria-label="Subscribe" hidden>
     <div class="profile-dialog-panel">
       <button type="button" class="artist-dialog-close" id="profileDialogClose" aria-label="Close">&times;</button>
-      <h3 id="profileName">Account</h3>
+      <h3 id="profileName">Subscribe</h3>
       <p class="meta" id="profileEmail"></p>
+      <p class="sub-explain" id="profileExplain">
+        This is an experimental project running from a home computer and could stop at any time.
+        Subscribing emails you one headline image at the interval you choose (daily or weekly).
+      </p>
       <p class="offline-warn" id="profileOfflineWarn" hidden>
-        Email subscriptions are offline — this gallery runs from a home computer and may pause at any time. You can browse the artworks, but subscription settings can’t be changed right now.
+        Email subscriptions are offline right now — settings can’t be changed until the home server is back.
       </p>
       <p class="sub-status" id="profileSubStatus">Checking subscription…</p>
       <div class="sub-actions" id="subActions">

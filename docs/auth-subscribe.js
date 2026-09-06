@@ -76,8 +76,8 @@
     if (!els.profileBtn) return;
     if (user) {
       els.profileLabel.textContent = firstName(user.name, user.email);
-      els.profileBtn.title = 'Account';
-      els.profileBtn.setAttribute('aria-label', 'Account');
+      els.profileBtn.title = 'Subscribe';
+      els.profileBtn.setAttribute('aria-label', 'Subscribe');
       els.profileBtn.setAttribute('aria-haspopup', 'dialog');
       if (els.avatarIcon) els.avatarIcon.hidden = true;
       if (user.picture) {
@@ -90,18 +90,20 @@
         els.avatarFallback.hidden = false;
         els.avatarFallback.textContent = initials(user.name, user.email);
       }
-      els.name.textContent = user.name || 'Signed in';
+      els.name.textContent = user.name || 'Subscribe';
       els.email.textContent = user.email || '';
     } else {
-      els.profileLabel.textContent = 'Sign in';
-      els.profileBtn.title = 'Sign in with Google';
-      els.profileBtn.setAttribute('aria-label', 'Sign in with Google');
+      els.profileLabel.textContent = 'Subscribe';
+      els.profileBtn.title = 'Subscribe';
+      els.profileBtn.setAttribute('aria-label', 'Subscribe');
       els.profileBtn.removeAttribute('aria-haspopup');
       els.avatarImg.removeAttribute('src');
       els.avatarImg.hidden = true;
       els.avatarFallback.hidden = true;
       els.avatarFallback.textContent = '';
       if (els.avatarIcon) els.avatarIcon.hidden = false;
+      els.name.textContent = 'Subscribe';
+      els.email.textContent = '';
       els.dialog.classList.remove('open');
       els.dialog.hidden = true;
     }
@@ -115,7 +117,7 @@
       btn.disabled = !enable;
       btn.title = enable
         ? ''
-        : (resolverOk ? 'Sign in to manage email' : 'Subscription server offline');
+        : (resolverOk ? 'Sign in with Google to subscribe' : 'Subscription server offline');
     });
     if (els.subActions) {
       els.subActions.setAttribute('aria-disabled', enable ? 'false' : 'true');
@@ -126,11 +128,11 @@
     if (!resolverOk) {
       els.status.textContent = 'Subscription settings are disabled until the home server is back online.';
     } else if (!accessToken) {
-      els.status.textContent = 'Sign in with Google to choose daily or weekly email.';
+      els.status.textContent = 'Continue with Google to choose daily or weekly email.';
     } else if (frequency) {
-      els.status.textContent = 'Current plan: ' + frequency + ' email digest.';
+      els.status.textContent = 'Current plan: ' + frequency + ' — one headline image per email.';
     } else {
-      els.status.textContent = 'Not subscribed.';
+      els.status.textContent = 'Not subscribed yet — pick daily or weekly below.';
     }
   }
 
