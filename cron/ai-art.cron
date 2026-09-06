@@ -1,0 +1,2 @@
+# Daily Australian news AI art (07:30 local)
+30 7 * * * cd /home/stever/projects/ai-art && /home/stever/projects/ai-art/.venv/bin/python -m ai_art.run >> /home/stever/projects/ai-art/logs/cron.log 2>&1

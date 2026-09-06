@@ -1,0 +1,937 @@
+{
+  "artists": [
+    {
+      "id": "adams",
+      "name": "Ansel Adams",
+      "era": "20th c.",
+      "tags": [
+        "photography",
+        "landscape",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal black-and-white landscape photography in the spirit of Ansel Adams: monumental tonal range from deep velvet blacks to luminous whites, razor-sharp focus across vast depth, dramatic high-contrast clouds, majestic scale, large-format clarity.",
+      "negativeHint": "muddy midtones, soft focus, color cast, painterly brush marks",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "salgado",
+      "name": "Sebastião Salgado",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "documentary",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal documentary photography in the spirit of Sebastião Salgado: silver gelatin blacks and pearly greys, humanist scale, epic environmental context, textured skin and earth, solemn dignified lighting.",
+      "negativeHint": "garish color, fashion gloss, cartoon faces",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "goldin",
+      "name": "Nan Goldin-adjacent documentary color",
+      "era": "late 20th c.",
+      "tags": [
+        "photography",
+        "editorial",
+        "color"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Intimate photoreal color documentary still: available light, emotional immediacy, slightly imperfect framing, warm tungsten and cool window mixes, lived-in rooms, candid honesty without glamour retouching.",
+      "negativeHint": "studio beauty lighting, plastic skin, stock-photo smiles",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "leibovitz",
+      "name": "Annie Leibovitz-adjacent editorial",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "editorial",
+        "portrait"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal editorial portraiture: cinematic key light, rich color grade, carefully staged yet natural gesture, shallow depth of field, magazine-cover presence, precise wardrobe and prop storytelling.",
+      "negativeHint": "flat phone snapshot, oversharpened HDR, warped hands",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "aussie_landscape_photo",
+      "name": "Australian landscape photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "australia",
+        "landscape"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Australian landscape photography: clear southern light, ochre earth, eucalyptus haze, vast sky, coastal salt air or outback distance, high-detail natural textures, National Geographic clarity.",
+      "negativeHint": "European pine forests, neon skies, fake CGI terrain",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "golden_hour_doc",
+      "name": "Golden-hour documentary",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "documentary"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal golden-hour documentary still: low sun rim light, long soft shadows, warm amber and cool shadow contrast, handheld authenticity, environmental storytelling.",
+      "negativeHint": "noon harsh flash, oversaturated sunset cliché filters",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "street_bw",
+      "name": "Classic street photography",
+      "era": "20th c.",
+      "tags": [
+        "photography",
+        "street",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal black-and-white street photography: decisive moment, layered midground action, grain of fast film, deep focus sidewalks, candid urban geometry.",
+      "negativeHint": "posed stock models, heavy HDR, painterly edges",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "cinematic_still",
+      "name": "Cinematic film still",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "cinema"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal cinematic film still: anamorphic lens feel, motivated practical lights, rich color science grade, shallow DOF, production-design detail, quiet narrative tension.",
+      "negativeHint": "smartphone look, comic panels, text overlays",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "macro_nature",
+      "name": "Macro nature photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "nature"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal macro nature photography: razor detail on organic surfaces, creamy bokeh, dewdrops and fiber texture, controlled natural light, scientific beauty.",
+      "negativeHint": "plastic insects, illustration lines, cluttered backgrounds",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "architecture_photo",
+      "name": "Architectural photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "architecture"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal architectural photography: corrected verticals, precise geometry, dusk blue-hour glow with warm interior spill, clean materials, quiet monumental composition.",
+      "negativeHint": "tilting phone distortion, muddy night noise, people clutter unless essential",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ocean_photo",
+      "name": "Ocean and coastal photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "ocean",
+        "australia"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal coastal photography: translucent turquoise shallows, whitewater texture, wet sand reflections, crisp horizon, Southern Ocean light, salt spray atmosphere.",
+      "negativeHint": "pool-water turquoise fake, heavy vignette, painted waves",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "reportage_color",
+      "name": "Color reportage",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "news",
+        "documentary"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal color reportage photography: truthful color, environmental context, decisive gesture, available light, journalistic clarity without sensational staging.",
+      "negativeHint": "glamour retouch, fantasy lighting, surreal props",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "era": "17th c.",
+      "tags": [
+        "baroque",
+        "oil",
+        "portrait"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil painting in the spirit of Rembrandt: warm chiaroscuro, thick luminous flesh tones against deep umber ground, quiet psychological gravity, visible brush and glaze depth.",
+      "negativeHint": "flat digital shading, neon colors, anime eyes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "vermeer",
+      "name": "Johannes Vermeer",
+      "era": "17th c.",
+      "tags": [
+        "dutch",
+        "oil",
+        "interior"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil painting in the spirit of Vermeer: cool north-window light, pearl highlights, intimate interior geometry, serene stillness, finely observed fabrics and maps.",
+      "negativeHint": "harsh spotlight, cluttered baroque drama, modern gadgets",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "era": "19th c.",
+      "tags": [
+        "impressionism",
+        "landscape"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Impressionist oil painting in the spirit of Monet: broken color, shimmering light on water and air, soft edges, vibrating complementary hues, outdoor atmosphere over hard line.",
+      "negativeHint": "hard outlines, photographic sharpness, muddy brown soup",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "van_gogh",
+      "name": "Vincent van Gogh",
+      "era": "19th c.",
+      "tags": [
+        "post-impressionism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Van Gogh: energetic impasto swirls, emotional color, rhythmic directional strokes, thick paint ridges catching light, intense sky and field energy.",
+      "negativeHint": "smooth airbrush, photoreal skin pores, flat vector shapes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hokusai",
+      "name": "Katsushika Hokusai",
+      "era": "Edo",
+      "tags": [
+        "ukiyo-e",
+        "woodblock"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ukiyo-e woodblock print spirit of Hokusai: bold contour, flat layered color, stylized wave and mountain rhythm, decorative pattern, Japanese printmaking clarity.",
+      "negativeHint": "western oil impasto, photoreal foam, 3D CGI",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "mucha",
+      "name": "Alphonse Mucha",
+      "era": "Art Nouveau",
+      "tags": [
+        "art-nouveau",
+        "decorative"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Art Nouveau illustration in the spirit of Mucha: elegant flowing hair and floral halos, pastel decorative panels, graceful line, ornamental framing motifs without readable text.",
+      "negativeHint": "brutalist geometry, photoreal pores, heavy metal dark tones",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hopper",
+      "name": "Edward Hopper",
+      "era": "20th c.",
+      "tags": [
+        "american",
+        "realism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Edward Hopper: lonely architectural light, long shadows, quiet American stillness, clear planes of color, cinematic solitude.",
+      "negativeHint": "busy crowds, neon cyberpunk, impressionist blur",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "okeeffe",
+      "name": "Georgia O'Keeffe",
+      "era": "20th c.",
+      "tags": [
+        "modernism",
+        "floral"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Georgia O'Keeffe: magnified organic forms, smooth sculptural petals and bones, desert pastel palette, monumental close-up simplicity.",
+      "negativeHint": "busy collage, tiny scattered details, harsh comic outlines",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "nolan",
+      "name": "Sidney Nolan",
+      "era": "20th c.",
+      "tags": [
+        "australian",
+        "modernism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Sidney Nolan: Australian mythic landscape, bold simplified forms, enamel-like color planes, harsh sun, Ned Kelly-era atmosphere without copying protected icons literally.",
+      "negativeHint": "European cottage pastoral, soft watercolor haze only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "whiteley",
+      "name": "Brett Whiteley",
+      "era": "20th c.",
+      "tags": [
+        "australian",
+        "expressionism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Brett Whiteley: sensual calligraphic line, Sydney harbour light, erotic curve and bird motif energy, vivid ultramarine and warm flesh accents, restless modern lyricism.",
+      "negativeHint": "stiff academic realism, dull grey palette",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "preston",
+      "name": "Margaret Preston",
+      "era": "20th c.",
+      "tags": [
+        "australian",
+        "modernist-print"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modernist still-life and flora in the spirit of Margaret Preston: strong design, flattened decorative native plants, bold color blocks, print-aware composition, Australian domestic modernism.",
+      "negativeHint": "Victorian clutter, photoreal dewdrop macro only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "turner",
+      "name": "J.M.W. Turner",
+      "era": "19th c.",
+      "tags": [
+        "romanticism",
+        "seascape"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Romantic oil painting in the spirit of Turner: luminous vaporous light, dissolving forms in mist and spray, golden and storm-grey atmosphere, sublime weather drama.",
+      "negativeHint": "hard comic outlines, flat poster color, crisp product photography",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "caravaggio",
+      "name": "Caravaggio",
+      "era": "Baroque",
+      "tags": [
+        "baroque",
+        "chiaroscuro"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Baroque oil painting in the spirit of Caravaggio: extreme tenebrism, single harsh light carving figures from darkness, raw realism, dramatic gesture, earth pigments.",
+      "negativeHint": "pastel impressionism, cute cartoon faces, even softbox light",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "klimt",
+      "name": "Gustav Klimt",
+      "era": "Vienna Secession",
+      "tags": [
+        "symbolism",
+        "decorative"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Klimt: ornamental gold patterning, mosaic-like surfaces, intimate figures wrapped in decorative geometry, jewel tones against flattened space.",
+      "negativeHint": "plain photoreal office scenes, rough charcoal only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "matisse",
+      "name": "Henri Matisse",
+      "era": "Fauvism",
+      "tags": [
+        "fauvism",
+        "color"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Matisse: joyous Fauvist color, simplified contour, decorative interior pattern, flat yet lively planes, Mediterranean warmth.",
+      "negativeHint": "brown academic underpainting only, photoreal skin detail",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "cezanne",
+      "name": "Paul Cézanne",
+      "era": "Post-Impressionism",
+      "tags": [
+        "structure",
+        "still-life"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Cézanne: constructive brush planes, solid fruit and mountain volumes, cool-warm modulation, deliberate unfinished edges, structural seeing.",
+      "negativeHint": "slick airbrush gradients, anime lineart",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "hockney",
+      "name": "David Hockney",
+      "era": "contemporary",
+      "tags": [
+        "pop",
+        "california",
+        "pool"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of David Hockney: clear acrylic color, swimming-pool blues, crisp shadows, cheerful modern domestic geometry, bright California/Australian outdoor light feel.",
+      "negativeHint": "muddy tonalism, gothic darkness, heavy impasto brown",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "kahlo",
+      "name": "Frida Kahlo-adjacent symbolism",
+      "era": "20th c.",
+      "tags": [
+        "symbolism",
+        "portrait"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Symbolic personal painting: frontal intimate portrait energy, vivid folk color, surreal personal emblems, botanical and animal companions, clear narrative detail without text.",
+      "negativeHint": "generic stock selfie, bland corporate portrait",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "magritte",
+      "name": "René Magritte",
+      "era": "Surrealism",
+      "tags": [
+        "surrealism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal painting in the spirit of Magritte: clean illusionistic rendering, quiet sky and bowler-hat absurdity of displaced objects, deadpan lighting, philosophical visual pun without captions.",
+      "negativeHint": "messy expressionist smear, horror gore",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "dali",
+      "name": "Salvador Dalí",
+      "era": "Surrealism",
+      "tags": [
+        "surrealism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal oil painting in the spirit of Dalí: hyper-crisp desert light, melting metamorphosis, long shadows, meticulous miniature detail in vast empty plains.",
+      "negativeHint": "soft impressionist blur, cute kawaii forms",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "whistler",
+      "name": "James McNeill Whistler",
+      "era": "19th c.",
+      "tags": [
+        "tonalism",
+        "nocturne"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Tonalist painting in the spirit of Whistler: soft nocturne greys and blues, musical arrangement of muted tones, foggy harbors, restrained elegance.",
+      "negativeHint": "high-chroma neon, hard comic outlines",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "sargent",
+      "name": "John Singer Sargent",
+      "era": "19th–20th c.",
+      "tags": [
+        "portrait",
+        "oil"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil portraiture in the spirit of Sargent: bravura brushwork, luminous fabrics, confident unfinished edges, aristocratic light, lively likeness without photographic hardness.",
+      "negativeHint": "stiff mannequin pose, plastic skin, AI melted hands emphasis",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "waterhouse",
+      "name": "John William Waterhouse",
+      "era": "Pre-Raphaelite",
+      "tags": [
+        "romantic",
+        "narrative"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Pre-Raphaelite narrative painting spirit: rich jewel colors, mythic storytelling, detailed flora, luminous skin, romantic atmosphere.",
+      "negativeHint": "modern streetwear, cyberpunk city",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rothko_field",
+      "name": "Mark Rothko-adjacent color field",
+      "era": "20th c.",
+      "tags": [
+        "abstract",
+        "color-field"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract color-field painting: soft-edged luminous rectangles of color hovering in atmospheric wash, meditative emotion, no figurative detail, gallery-scale presence.",
+      "negativeHint": "hard geometric Bauhaus only, busy figurative scenes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pollock_drip",
+      "name": "Jackson Pollock-adjacent action",
+      "era": "20th c.",
+      "tags": [
+        "abstract",
+        "expressionism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract expressionist action painting: layered drips and spatters, all-over energy, tangled rhythmic lines, industrial paint density, no central figure.",
+      "negativeHint": "neat illustration characters, clean vector logos",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "wyeth",
+      "name": "Andrew Wyeth",
+      "era": "20th c.",
+      "tags": [
+        "realism",
+        "americana"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Tempera-like realist painting in the spirit of Wyeth: dry grass textures, austere rural light, quiet melancholy, precise observation, muted earth palette.",
+      "negativeHint": "tropical paradise colors, cartoon exaggeration",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "basquiat",
+      "name": "Jean-Michel Basquiat-adjacent neo-expressionism",
+      "era": "late 20th c.",
+      "tags": [
+        "neo-expressionism",
+        "street"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Neo-expressionist painting energy: raw scrawl, crown-like motifs, layered textural marks without readable words, urgent color, street-poetry intensity.",
+      "negativeHint": "clean corporate illustration, photoreal portraits only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "japanese_sumi",
+      "name": "Sumi-e ink painting",
+      "era": "classical",
+      "tags": [
+        "ink",
+        "east-asian"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Sumi-e ink painting: expressive black brush on warm paper, controlled voids, misty mountains or bamboo economy of stroke, contemplative asymmetry.",
+      "negativeHint": "heavy western oil impasto, full-color photoreal",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "australian_heidelberg",
+      "name": "Heidelberg School",
+      "era": "1890s AU",
+      "tags": [
+        "australian",
+        "impressionism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Australian Heidelberg School plein-air painting: dappled eucalyptus shade, golden paddocks, blue distant ranges, informal bush light, colonial-era picnic atmosphere without text.",
+      "negativeHint": "European thatched cottages as default, neon skies",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "drysdale",
+      "name": "Russell Drysdale",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "outback"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Russell Drysdale: elongated outback figures, sparse red earth towns, harsh noon light, psychological distance, dry Australian interior.",
+      "negativeHint": "lush rainforest default, cute cartoon townsfolk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "boyd",
+      "name": "Arthur Boyd",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "expressionism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Arthur Boyd: mythic Australian landscape with expressive figures, warm earth and fiery sky, moral allegory energy, rich oil textures.",
+      "negativeHint": "cold Scandinavian minimalism, stock photo realism",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "bauhaus_poster",
+      "name": "Bauhaus poster",
+      "era": "1920s",
+      "tags": [
+        "graphic",
+        "poster"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Bauhaus graphic poster design: primary geometric shapes, asymmetric layout, bold sans bars of color, constructivist clarity, no readable typography—shape only.",
+      "negativeHint": "baroque ornament, photoreal textures, cursive script",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ukiyo_e_graphic",
+      "name": "Ukiyo-e graphic print",
+      "era": "Edo",
+      "tags": [
+        "graphic",
+        "woodblock"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic ukiyo-e print: flat color blocks, strong black key lines, patterned kimono and wave motifs, theatrical staging, woodblock registration feel.",
+      "negativeHint": "oil painterly blend, 3D rendering",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "art_nouveau_poster",
+      "name": "Art Nouveau poster",
+      "era": "1900",
+      "tags": [
+        "graphic",
+        "poster"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Art Nouveau poster graphic: whiplash curves, botanical borders, elegant silhouette, muted metallic accents, decorative panel structure without text.",
+      "negativeHint": "brutalist concrete, photoreal street photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "midcentury_travel",
+      "name": "Mid-century travel poster",
+      "era": "1950s",
+      "tags": [
+        "graphic",
+        "poster",
+        "travel"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Mid-century modern travel poster: simplified landmark silhouettes, limited ink palette, screenprint texture, optimistic geometry, Australian destination vibe without slogans.",
+      "negativeHint": "photoreal skyline, busy collage stickers",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "linocut",
+      "name": "Linocut print",
+      "era": "20th c.",
+      "tags": [
+        "graphic",
+        "printmaking"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Linocut / woodcut print: carved gouge marks, high-contrast ink, reduced values, handmade registration, graphic storytelling power.",
+      "negativeHint": "smooth airbrush gradients, photographic detail",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "watercolor_botanical",
+      "name": "Watercolor botanical plate",
+      "era": "scientific illustration",
+      "tags": [
+        "graphic",
+        "botanical"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Watercolor botanical illustration: delicate translucent washes, scientific clarity of leaf and stem, cream paper ground, elegant specimen layout without labels.",
+      "negativeHint": "heavy oil impasto, neon cyber colors",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "swiss_international",
+      "name": "Swiss International Style",
+      "era": "mid 20th c.",
+      "tags": [
+        "graphic",
+        "modern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Swiss International graphic design: grid discipline, red-and-black or limited palette, photographic cutout feel with flat color fields, objective clarity, no readable type.",
+      "negativeHint": "ornamental florals, messy scrapbook collage",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "soviet_constructivist",
+      "name": "Constructivist poster",
+      "era": "1920s",
+      "tags": [
+        "graphic",
+        "poster"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Constructivist poster graphic: diagonal dynamism, photomontage planes, red-black-beige, industrial geometry, urgent visual propaganda energy without slogans.",
+      "negativeHint": "pastel cottagecore, soft watercolor bloom",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pop_art",
+      "name": "Pop art print",
+      "era": "1960s",
+      "tags": [
+        "graphic",
+        "pop"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Pop art graphic print: Ben-Day dots, bold comic contour, saturated commercial color, ironic mass-culture objects, flat silkscreen layers.",
+      "negativeHint": "subtle tonal oil painting, muted earth only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "stencil_street",
+      "name": "Stencil street art",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "street"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Stencil street-art graphic: sprayed layers on concrete, high-contrast silhouette, urban wall texture, political clarity without readable slogans.",
+      "negativeHint": "gallery oil varnish look, soft impressionism",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "risograph",
+      "name": "Risograph print",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "print"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Risograph print aesthetic: misregistered fluorescent layers, grainy ink, limited spot colors, handmade zine charm, flat illustrative forms.",
+      "negativeHint": "photoreal CGI, smooth vector gradients only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "charcoal_poster",
+      "name": "Charcoal and ink poster",
+      "era": "modern",
+      "tags": [
+        "graphic",
+        "drawing"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic charcoal and ink drawing: bold massed blacks, scratched highlights, poster-scale figure or landmark, raw paper tooth.",
+      "negativeHint": "candy pastel palette, 3D render sheen",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "australian_surf_poster",
+      "name": "Australian surf poster",
+      "era": "1970s",
+      "tags": [
+        "graphic",
+        "australia",
+        "surf"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Australian surf culture poster graphic: simplified wave curl, sunburst, board silhouette, limited tropical inks, screenprint nostalgia without brand logos or text.",
+      "negativeHint": "photoreal surfer stock photo, gothic darkness",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "map_illustration",
+      "name": "Illustrated map graphic",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "map"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Illustrated map graphic: playful cartographic icons, soft terrain washes, coastline clarity, bird's-eye storytelling without street-name text.",
+      "negativeHint": "Google Maps screenshot look, tiny unreadable labels",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "editorial_collage",
+      "name": "Editorial collage",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "collage"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Editorial paper collage: cut newsprint textures (illegible), layered photographs as shapes, bold color blocks, contemporary magazine art direction without readable headlines.",
+      "negativeHint": "single clean oil portrait only, seamless photoreal composite",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kids_picturebook",
+      "name": "Picture-book illustration",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "illustration"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Warm picture-book illustration: soft gouache shapes, friendly simplification, gentle storytelling light, cohesive palette, inviting without childish clutter.",
+      "negativeHint": "horror surrealism, hyperreal pores, busy UI stickers",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "neon_noir_graphic",
+      "name": "Neon noir graphic",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "noir"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Neon noir graphic illustration: ink blacks with electric cyan/magenta accents, rainy city silhouette, high-contrast poster framing, no readable signage.",
+      "negativeHint": "sunny pastoral, soft watercolor botanicals",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "polaroid_snap",
+      "name": "Instant film photography",
+      "era": "late 20th c.",
+      "tags": [
+        "photography",
+        "instant"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal instant-film still: soft chemical colors, slight light leak, square intimate framing, nostalgic snapshot honesty.",
+      "negativeHint": "ultra-sharp commercial studio, HDR crunch",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "drone_landscape",
+      "name": "Aerial landscape photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "aerial"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal aerial landscape: geometric farmland or reef patterns, clear atmospheric perspective, high-altitude clarity, abstract-from-above composition.",
+      "negativeHint": "tilted horizon chaos, heavy lens flare spam",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "food_editorial",
+      "name": "Editorial food photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "food"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal editorial food photography: natural sidelight, tactile ingredients, shallow DOF crumbs and steam, honest appetite, styled but not plastic.",
+      "negativeHint": "fast-food ad gloss, melted AI vegetables",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "sports_action",
+      "name": "Sports action photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "sports"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal sports action still: frozen peak motion, telephoto compression, stadium or outdoor field context, dramatic grit and sweat detail.",
+      "negativeHint": "posed mannequin athletes, painterly blur everywhere",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "night_city",
+      "name": "Night city photography",
+      "era": "contemporary",
+      "tags": [
+        "photography",
+        "urban",
+        "night"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal night city photography: controlled high-ISO grain, neon reflections on wet streets, layered windows, cinematic urban solitude.",
+      "negativeHint": "daytime sunny plaza, illustration lineart",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "friedrich",
+      "name": "Caspar David Friedrich",
+      "era": "Romanticism",
+      "tags": [
+        "romantic",
+        "landscape"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Romantic landscape painting in the spirit of Friedrich: lone Rückenfigur scale, misty cliffs and ruins, sublime dawn or dusk, contemplative silence.",
+      "negativeHint": "busy tourist selfie energy, pop-art dots",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bosch",
+      "name": "Hieronymus Bosch-adjacent fantasy",
+      "era": "Northern Renaissance",
+      "tags": [
+        "fantasy",
+        "narrative"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Northern Renaissance fantasy panel energy: dense allegorical detail, strange hybrid creatures, panoramic moral landscape, jewel-like tempera clarity—imaginative, not grotesque gore.",
+      "negativeHint": "minimal modern poster, empty color field",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "chagall",
+      "name": "Marc Chagall",
+      "era": "20th c.",
+      "tags": [
+        "modernism",
+        "lyric"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Chagall: floating figures, village dream logic, lyrical blues and reds, folk-memory tenderness, airborne perspective.",
+      "negativeHint": "hard photoreal documentary only, brutalist grey",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "picasso_blue",
+      "name": "Picasso Blue Period-adjacent",
+      "era": "early 20th c.",
+      "tags": [
+        "modernism"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Early modernist painting: elongated melancholic figures, cool blue-green monochrome, simplified form, quiet empathy.",
+      "negativeHint": "cubist shatter overload, neon pop",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "mondrian",
+      "name": "Piet Mondrian-adjacent neoplasticism",
+      "era": "20th c.",
+      "tags": [
+        "abstract",
+        "grid"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Neoplastic abstract graphic: orthogonal black grid, primary red yellow blue planes, white ground, perfect balance, no diagonals or curves.",
+      "negativeHint": "organic floral, photoreal scenes",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "escher",
+      "name": "M.C. Escher-adjacent tessellation",
+      "era": "20th c.",
+      "tags": [
+        "graphic",
+        "impossible"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic tessellation and impossible architecture: precise line, interlocking metamorphosis, cool intellectual puzzle space, lithograph clarity.",
+      "negativeHint": "loose watercolor bloom, soft portraiture",
+      "aspectRatio": "1:1"
+    }
+  ]
+}
