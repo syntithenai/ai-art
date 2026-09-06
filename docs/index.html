@@ -259,8 +259,37 @@
     .detail .desc {
       line-height: 1.55;
       color: var(--ink);
+      margin-bottom: 0.85rem;
+    }
+    .detail .prompt-details {
+      margin: 0 0 0.85rem;
+      border-top: 1px solid var(--line);
+      padding-top: 0.35rem;
+    }
+    .detail .prompt-details summary {
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 0.9rem;
+      list-style: none;
+      padding: 0.4rem 0;
+      user-select: none;
+    }
+    .detail .prompt-details summary::-webkit-details-marker { display: none; }
+    .detail .prompt-details summary::before {
+      content: '▸ ';
+      display: inline-block;
+      transition: transform 0.12s ease;
+    }
+    .detail .prompt-details[open] summary::before {
+      transform: rotate(90deg);
+    }
+    .detail .prompt-details .prompt-body {
       white-space: pre-wrap;
-      margin-bottom: 0.75rem;
+      line-height: 1.5;
+      color: var(--muted);
+      font-size: 0.88rem;
+      padding: 0 0 0.65rem;
+      margin: 0;
     }
     .detail .generated-by {
       color: var(--muted);
@@ -942,7 +971,8 @@
         const { run, img } = found;
         const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
         const title = img.title || 'Untitled';
-        const desc = img.prompt || run.summary || '';
+        const desc = img.description || '';
+        const prompt = img.prompt || '';
         const backHref = '#/' + run.date;
         const models = run.models || {};
         const imageModel = models.image || 'Flux Klein';
@@ -959,6 +989,12 @@
               <span>${escapeHtml(imageCaption(im) || ('#' + im.index))}</span>
             </a>`;
         }).join('');
+        const promptBlock = prompt
+          ? `<details class="prompt-details">
+              <summary>Show image prompt</summary>
+              <p class="prompt-body">${escapeHtml(prompt)}</p>
+            </details>`
+          : '';
         main.innerHTML = `
           <article class="detail">
             <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
@@ -967,7 +1003,8 @@
                  data-date="${escapeAttr(run.date)}" data-index="${escapeAttr(String(img.index))}" />
             <h2>${escapeHtml(title)}</h2>
             <p class="meta">${artistButton(run.artist)} · ${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}${img.fashionYear ? ' · ' + escapeHtml(String(img.fashionYear)) : ''}</p>
-            <div class="desc">${escapeHtml(desc)}</div>
+            ${desc ? `<div class="desc">${escapeHtml(desc)}</div>` : ''}
+            ${promptBlock}
             <p class="generated-by">${escapeHtml(generatedBy)}</p>
             <p class="batch-strip-label">This day’s artworks</p>
             <div class="batch-strip">${cards}</div>
