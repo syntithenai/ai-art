@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-27",
+  "artist": {
+    "id": "ben_ennoun",
+    "name": "Baya",
+    "era": "20th c. DZ",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "folk-modern",
+      "africa",
+      "maghreb"
+    ],
+    "bio": "Baya (20th c. DZ). Algerian modernist-folk painting in the spirit of Baya: joyful women, birds, and gardens, bold contour, Maghrebi color celebration. Painterly fine-art visual language. Associated tags: folk-modern, africa, maghreb.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is making significant strides in expanding mental health accessibility, with the federal government expanding the Medicare 'Mental Health Check In' service to offer free, self-guided, evidence-based support for mild challenges. This initiative, highlighted by the Department of Health, aims to reduce barriers to care by leveraging digital tools and empowering individuals to take the first step toward wellbeing. Concurrently, the health workforce is being supported through new pathways for nurses to develop specialist skills in perioperative, rehabilitation, and mental health sectors, ensuring a more resilient and skilled caregiving community.\n\nOn the public health front, Australian health workers are demonstrating remarkable community resilience by leading grassroots awareness campaigns to combat congenital syphilis, a preventable condition that has affected infants over the past decade. These efforts highlight the power of solidarity and education in protecting vulnerable populations. Additionally, the NSW government has moved to make pill testing permanent at music festivals following a successful trial, a constructive harm-reduction strategy that prioritizes the safety and health of young people attending cultural events.\n\nInternationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. While challenges like the cost of care remain a topic of discussion, the overarching narrative is one of innovation, from digital health services to permanent harm-reduction policies, reflecting a system that is actively adapting to meet the needs of its citizens with care and scientific rigor.",
+  "themes": [
+    "Digital Mental Health Access",
+    "Community Resilience & Care",
+    "Harm Reduction Innovation",
+    "Health Workforce Development",
+    "Public Health Awareness",
+    "Cross-Border Health Cooperation"
+  ],
+  "headlines": [
+    {
+      "title": "Australians Gain Better Access to Early Mental Health Support via Expanded Medicare Service",
+      "url": "https://www.health.gov.au/news"
+    },
+    {
+      "title": "NSW Government to Make Pill Testing Permanent After Successful Trial",
+      "url": "https://www.abc.net.au/news/topic/public-health"
+    },
+    {
+      "title": "Health Workers Drive Community Awareness to Combat Congenital Syphilis Outbreak",
+      "url": "https://www.abc.net.au/news/topic/public-health"
+    },
+    {
+      "title": "New National Digital Service Delivers Free Early Mental Health Support",
+      "url": "https://www.hospitalhealth.com.au/"
+    },
+    {
+      "title": "Private Hospitals Offer Nurses Specialist Skill Development in Mental Health and Rehab",
+      "url": "https://healthcareaustralia.com.au/news/"
+    },
+    {
+      "title": "Australian Dentists Engage in Cross-Border Care Dynamics with Vietnam",
+      "url": "https://www.abc.net.au/news/health"
+    },
+    {
+      "title": "Productivity Commission Reports on Performance of Public Hospitals and Mental Health Services",
+      "url": "https://www.pc.gov.au/ongoing/report-on-government-services/health/"
+    },
+    {
+      "title": "AIHW Updates Data on Mental Illness Burden and Service Expenditure",
+      "url": "https://www.aihw.gov.au/mental-health"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Expanded Medicare Mental Health Check In Offers Free Self-Guided Support",
+      "url": "https://www.health.gov.au/news",
+      "angle": "A constructive expansion of digital services that provides free, evidence-based early support, increasing agency for individuals managing mild mental health challenges."
+    },
+    {
+      "title": "NSW Makes Pill Testing Permanent at Music Festivals",
+      "url": "https://www.abc.net.au/news/topic/public-health",
+      "angle": "A successful harm-reduction trial becoming permanent policy, demonstrating a government commitment to the safety and wellbeing of young people at cultural events."
+    },
+    {
+      "title": "Health Workers Lead Community Campaigns Against Congenital Syphilis",
+      "url": "https://www.abc.net.au/news/topic/public-health",
+      "angle": "Highlighting the proactive role of healthcare professionals in raising awareness and protecting infants, showcasing community solidarity and preventive care."
+    },
+    {
+      "title": "New Pathways for Nurses to Develop Specialist Skills",
+      "url": "https://healthcareaustralia.com.au/news/",
+      "angle": "Private and public hospitals are creating opportunities for nurses to progress professionally in rehabilitation and mental health, strengthening the caregiving workforce."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Hospital + Healthcare | News, insights and product innovations in the hospital healthcare industry",
+      "url": "https://www.hospitalhealth.com.au/",
+      "snippet": "<strong>A new national digital service is delivering free, evidence-based early mental health support for mild challenges</strong>, and the health workforce has a central role.",
+      "source": "brave"
+    },
+    {
+      "title": "News and media | Australian Government Department of Health, Disability and Ageing",
+      "url": "https://www.health.gov.au/news",
+      "snippet": "Responses received represented small and large service providers and well as industry representatives ... <strong>Australians now have better access to early mental health support, with Medicare Mental Health Check In expanded to offer self‑guided support</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Government Department of Health, Disability and Ageing",
+      "url": "https://www.health.gov.au/news/news-items",
+      "snippet": "<strong>Resources outlining the Budget 2026-27 measures for the Health, Disability and Ageing portfolio are now available</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "What we're doing about mental health | Australian Government Department of Health, Disability and Ageing",
+      "url": "https://www.health.gov.au/topics/mental-health-and-suicide-prevention/what-were-doing-about-mental-health?language=en",
+      "snippet": "<strong>If you have private hospital insurance cover, you can upgrade your cover to access in-hospital psychiatric care and receive inpatient mental health care once, before the waiting period is completed</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "News - Healthcare Australia",
+      "url": "https://healthcareaustralia.com.au/news/",
+      "snippet": "... For nurses looking to build ... perioperative, rehabilitation and mental health services, <strong>private hospitals can provide nurses with the chance to develop specialist skills while continuing to progress professionally</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "E Health - Report on Government Services 2026 | Productivity Commission",
+      "url": "https://www.pc.gov.au/ongoing/report-on-government-services/health/",
+      "snippet": "<strong>Part E includes performance reporting for Primary and community health, Ambulance services, Public hospitals and Services for mental health</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Health - ABC News",
+      "url": "https://www.abc.net.au/news/health",
+      "snippet": "Australia&#x27;s leading GP group warns people will continue to get sicker if clinics and staff are not supported. Topic:Doctors and Medical ProfessionalsFri 4 Sep 2026 at 8:16amFri 4 Sep 2026 at 8:16amFri 4 Sep 2026 at 8:16am · The revelations have emerged as Queensland Health&#x27;s mental health services are under increasing scrutiny over resourcing and the number of patients dying by suicide.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Health Map - Health & Wellbeing",
+      "url": "https://www.abc.net.au/health/healthmap/",
+      "snippet": "The Australian Health Map is a state-by-state guide to health resources, statistics and information.",
+      "source": "brave"
+    },
+    {
+      "title": "50 per cent of Australians avoid health care they need due to cost, according to Consumers Health Forum report - ABC News",
+      "url": "https://www.abc.net.au/news/2026-03-31/australians-delaying-health-care-due-to-cost/106511170",
+      "snippet": "More broadly, the report also looked at financial stress as a key social determinant of health. It found more than 35 per cent of people reported experiencing at least one financial difficulty or situation in 2025, with some having to resort to asking for financial help from family and friends, skipping meals or pawning items to get by. While Australians showed moderate confidence in the healthcare system, only one in three felt confident they could afford care if they became seriously ill.",
+      "source": "brave"
+    },
+    {
+      "title": "Public Health - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/public-health",
+      "snippet": "<strong>Forty-two babies in Australia died from congenital syphilis between 2011 and 2025</strong>, with the outbreak driving health workers into communities to raise awareness of the old-world disease.",
+      "source": "brave"
+    },
+    {
+      "title": "Health Policy - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/health-policy",
+      "snippet": "Australia&#x27;s community-led response to HIV has put an internationally remarkable goal within reach, but new challenges are threatening to disrupt decades of progress. Topic:Aids and HIVSat 15 Aug 2026 at 4:38amSat 15 Aug 2026 at 4:38amSat 15 Aug 2026 at 4:38am · Ballarat Base Hospital staff say the death of a man waiting in the emergency department highlights the catastrophic issues facing regional hospitals. Topic:Healthcare ...",
+      "source": "brave"
+    },
+    {
+      "title": "More than 3 million Australians over 65 to pay more for private health - ABC News",
+      "url": "https://www.abc.net.au/news/2026-04-22/private-health-for-over-65s-to-cost-hundreds-more/106594174",
+      "snippet": "In a major pre-budget speech at the National Press Club yesterday, Health Minister Mark Butler announced sweeping changes to the National Disability Insurance Scheme and aged care. As part of this, he revealed older Australians would no longer be given special treatment and would now have to ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: health hospitals medical research mental health care good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=health+hospitals+medical+research+mental+health+care+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: world health human interest OR discovery OR innovation",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+health+human+interest+OR+discovery+OR+innovation&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Australia's mental health system - Mental health - AIHW",
+      "url": "https://www.aihw.gov.au/mental-health/overview/australias-mental-health-system",
+      "snippet": "Services delivered in private hospitals are funded via private health insurance, contracted care through state and territory governments and/or out-of-pocket payments. The Australian Institute of Health and Welfare monitors and reports on a number of different mental health indicator sets that have been developed to measure the performance and progress in the delivery of services across the mental health sector.",
+      "source": "brave"
+    },
+    {
+      "title": "Mental health - AIHW",
+      "url": "https://www.aihw.gov.au/mental-health",
+      "snippet": "Partial update: Involuntary treatment in public mental health care Updated 13 Aug 2026 · Partial update: Mental illness: burden of disease Updated 13 Aug 2026 · Partial update: Prevalence and impact of mental illness Updated 13 Aug 2026 · Expenditure on mental health-related services Updated 12 May 2026 ... Overview Mental health prevalence, Australia&#x27;s mental health system Mental health services summary &amp; Treatment use. Topics Community-based services, Hospital-based services, Facilities &amp; resources, Safety &amp; quality, Populations, Health &amp; wellbeing and Targeted analyses.",
+      "source": "brave"
+    },
+    {
+      "title": "Health in Australia News | Latest News - NewsNow",
+      "url": "https://www.newsnow.co.uk/h/World+News/South+Pacific/Australia/Health",
+      "snippet": "The COVID-19 pandemic has brought unprecedented challenges to Australia&#x27;s healthcare system, and our feed provides comprehensive coverage of the nation&#x27;s response, from the rollout of vaccines to the impact on hospitals and aged care facilities. We also explore the longer-term implications of the pandemic for public health, mental health, and the healthcare workforce. Other key topics covered in our Australian health news feed include indigenous health inequalities, rural and remote health services, the rising cost of healthcare, and the debates around issues like voluntary assisted dying and medicinal cannabis.",
+      "source": "brave"
+    },
+    {
+      "title": "Mental Health news",
+      "url": "https://healthtimes.com.au/hub/mental-health/37/news/",
+      "snippet": "<strong>Australia&#x27;s failing mental health and suicide prevention system needs reforms to fix problems including affordability and access</strong>, the government&#x27;s independent advisory · Coming out an &#x27;indelible memory&#x27; with lasting impacts AAP - 22-06-2025 · Coming out as LGBTQI to friends and family can ...",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Healing",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "Harbour of Healing is today’s cover piece — one Australian scene that weaves together Digital Mental Health Access, Community Resilience & Care, Harm Reduction Innovation, Health Workforce Development, Public Health Awareness, and Cross-Border Health Cooperation. While challenges like the cost of care remain a topic of discussion, the overarching narrative is one of innovation, from digital health services to permanent harm-reduction policies, reflecting a system that is actively adapting to meet the needs of its citizens with care and scientific rigor. Australians Gain Better Access to Early Mental Health Support via Expanded Medicare Service. Internationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Baya style, joyful bold contours, Maghrebi colors. Sydney Harbour, 2024 fashion. Diverse Australians in modern casual wear. Digital tablets glowing with light, festival pill-testing stations, nurses in scrubs. Eucalyptus trees, red desert earth, coastal cliffs. One unified coherent scene, no text, no logos, vibrant pigment, canvas texture. Unified Australian scene weaving together these themes: Digital Mental Health Access, Community Resilience & Care, Harm Reduction Innovation, Health Workforce Development, Public Health Awareness, Cross-Border Health Cooperation.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 440848740,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/01.png style=flux_klein size=896x1152 seed=440848740 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Festival Safety",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Festival Safety takes on the day’s Harm Reduction Innovation thread, translating the news into a single visual moment. Additionally, the NSW government has moved to make pill testing permanent at music festivals following a successful trial, a constructive harm-reduction strategy that prioritizes the safety and health of young people attending cultural events. While challenges like the cost of care remain a topic of discussion, the overarching narrative is one of innovation, from digital health services to permanent harm-reduction policies, reflecting a system that is actively adapting to meet the needs of its citizens with care and scientific rigor. The composition keeps the human stakes of Harm Reduction Innovation in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Baya style, joyful bold contours, Maghrebi colors. NSW coastal cliff, 1978 fashion. Young Australians in vintage 70s attire. Music festival atmosphere. Harm-reduction workers offering pill testing. Eucalyptus scrub, red earth, blue sky. One unified coherent scene, no text, no logos, vibrant pigment, canvas texture.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 989876285,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/02.png style=flux_klein size=896x1152 seed=989876285 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Nurse Pathways",
+      "tone": "good_news",
+      "fashionYear": "1952",
+      "emailHero": false,
+      "description": "Nurse Pathways takes on the day’s Digital Mental Health Access thread, translating the news into a single visual moment. Concurrently, the health workforce is being supported through new pathways for nurses to develop specialist skills in perioperative, rehabilitation, and mental health sectors, ensuring a more resilient and skilled caregiving community. Private Hospitals Offer Nurses Specialist Skill Development in Mental Health and Rehab. The composition keeps the human stakes of Digital Mental Health Access in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Baya style, joyful bold contours, Maghrebi colors. Melbourne hospital garden, 1952 fashion. Nurses in mid-century uniforms. Discussing specialist skills. Mental health, rehabilitation. Eucalyptus trees, red earth, blue sky. One unified coherent scene, no text, no logos, vibrant pigment, canvas texture. Australian landscape or city setting with Australian people.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1562113381,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/03.png style=flux_klein size=896x1152 seed=1562113381 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Infant Protection",
+      "tone": "good_news",
+      "fashionYear": "1928",
+      "emailHero": false,
+      "description": "Infant Protection takes on the day’s Public Health Awareness thread, translating the news into a single visual moment. On the public health front, Australian health workers are demonstrating remarkable community resilience by leading grassroots awareness campaigns to combat congenital syphilis, a preventable condition that has affected infants over the past decade. Health Workers Drive Community Awareness to Combat Congenital Syphilis Outbreak. The composition keeps the human stakes of Public Health Awareness in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Baya style, joyful bold contours, Maghrebi colors. Australian outback country town, 1928 fashion. Health workers leading community campaign. Protecting infants. Congenital syphilis awareness. Red desert, eucalyptus scrub, blue sky. One unified coherent scene, no text, no logos, vibrant pigment, canvas texture.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 148310668,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/04.png style=flux_klein size=896x1152 seed=148310668 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Digital Wellbeing",
+      "tone": "news",
+      "fashionYear": "1905",
+      "emailHero": false,
+      "description": "Digital Wellbeing takes on the day’s Digital Mental Health Access thread, translating the news into a single visual moment. Australia is making significant strides in expanding mental health accessibility, with the federal government expanding the Medicare 'Mental Health Check In' service to offer free, self-guided, evidence-based support for mild challenges. Australians Gain Better Access to Early Mental Health Support via Expanded Medicare Service. The composition keeps the human stakes of Digital Mental Health Access in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Baya style, joyful bold contours, Maghrebi colors. Sydney suburban street, 1905 fashion. Individual using digital tool. Self-guided mental health support. Medicare expansion. Eucalyptus trees, red earth, blue sky. One unified coherent scene, no text, no logos, vibrant pigment, canvas texture. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 860359381,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/05.png style=flux_klein size=896x1152 seed=860359381 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Desert Wellness",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "Desert Wellness answers a strand of today’s news with a focused visual reading. Internationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. On the public health front, Australian health workers are demonstrating remarkable community resilience by leading grassroots awareness campaigns to combat congenital syphilis, a preventable condition that has affected infants over the past decade. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Baya: a joyful woman in 1930s flapper dress and cloche hat sits in red Australian outback scrub. She holds a glowing tablet projecting a vibrant garden of birds and flowers. Bold contour lines, Maghrebi color celebration, oil pigment on canvas. Warm desert light, joyful expression, detailed brushwork, no digital cameras. Set in Australia circa 1935; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1521058089,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/06.png style=flux_klein size=896x1152 seed=1521058089 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Festival Care",
+      "tone": "good_news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Festival Care takes on the day’s Community Resilience & Care thread, translating the news into a single visual moment. While challenges like the cost of care remain a topic of discussion, the overarching narrative is one of innovation, from digital health services to permanent harm-reduction policies, reflecting a system that is actively adapting to meet the needs of its citizens with care and scientific rigor. Additionally, the NSW government has moved to make pill testing permanent at music festivals following a successful trial, a constructive harm-reduction strategy that prioritizes the safety and health of young people attending cultural events. The composition keeps the human stakes of Community Resilience & Care in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Baya: diverse young Australians in 2018 street fashion (chinos, sneakers) at a coastal festival. A nurse in scrubs gently tests a pill, surrounded by joyful crowds and eucalyptus trees. Bold contour, vibrant pigments, canvas texture. Warm sunlight, community solidarity, detailed brushwork, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1217249800,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/07.png style=flux_klein size=896x1152 seed=1217249800 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Nurse Resilience",
+      "tone": "good_news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Nurse Resilience answers a strand of today’s news with a focused visual reading. Internationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. Concurrently, the health workforce is being supported through new pathways for nurses to develop specialist skills in perioperative, rehabilitation, and mental health sectors, ensuring a more resilient and skilled caregiving community. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Baya: nurses in 1960s white uniforms and pillbox hats in a Melbourne hospital garden. They study books and interact with patients, surrounded by bold flowers and birds. Maghrebi color celebration, oil on canvas, thick brushwork. Joyful atmosphere, detailed contours, no modern digital elements. Set in Australia circa 1962; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 349352237,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/08.png style=flux_klein size=896x1152 seed=349352237 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Infant Guard",
+      "tone": "good_news",
+      "fashionYear": "1948",
+      "emailHero": false,
+      "description": "Infant Guard answers a strand of today’s news with a focused visual reading. On the public health front, Australian health workers are demonstrating remarkable community resilience by leading grassroots awareness campaigns to combat congenital syphilis, a preventable condition that has affected infants over the past decade. Internationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Baya: health workers in 1940s dresses and hats in an Australian country town square. They hold banners with bird motifs, surrounded by families and eucalyptus trees. Bold contour, vibrant pigment, canvas texture. Protective atmosphere, detailed brushwork, no gore or politics. Set in Australia circa 1948; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 2074347299,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/09.png style=flux_klein size=896x1152 seed=2074347299 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Global Smiles",
+      "tone": "news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Global Smiles answers a strand of today’s news with a focused visual reading. Internationally, the focus remains on human achievement and cross-border cooperation, such as the growing interaction between Australian dental professionals and international clients in Vietnam, which underscores the global nature of healthcare expertise. On the public health front, Australian health workers are demonstrating remarkable community resilience by leading grassroots awareness campaigns to combat congenital syphilis, a preventable condition that has affected infants over the past decade. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art in the spirit of Baya: Australian and Vietnamese dental professionals in 2000s business casual attire in a Brisbane clinic. They smile while examining a patient, surrounded by bold flowers and birds. Maghrebi color celebration, oil on canvas, thick brushwork. Cooperative atmosphere, detailed contours, no logos. Set in Australia circa 2005; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1231140702,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-27/10.png style=flux_klein size=896x1152 seed=1231140702 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
