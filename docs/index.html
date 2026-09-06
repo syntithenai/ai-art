@@ -519,8 +519,10 @@
       padding: 0.75rem;
       background: #fff;
       border: 1px solid var(--line);
+      min-height: 180px;
+      align-items: center;
     }
-    .share-qr-wrap canvas,
+    .share-qr-wrap svg,
     .share-qr-wrap img {
       display: block;
       width: 180px;
@@ -716,9 +718,7 @@
       <button type="button" class="artist-dialog-close" id="shareDialogClose" aria-label="Close">&times;</button>
       <h3 id="shareDialogTitle">Share</h3>
       <p class="meta" id="shareDialogSubtitle"></p>
-      <div class="share-qr-wrap">
-        <canvas id="shareQrCanvas" width="180" height="180" aria-label="QR code"></canvas>
-      </div>
+      <div class="share-qr-wrap" id="shareQrWrap" aria-label="QR code"></div>
       <div class="share-link-row">
         <input id="shareUrlInput" type="text" readonly aria-label="Share link" />
         <button type="button" class="chip" id="shareCopyBtn">Copy</button>
@@ -1183,7 +1183,7 @@
       const shareDialog = document.getElementById('shareDialog');
       const shareDialogClose = document.getElementById('shareDialogClose');
       const shareDialogSubtitle = document.getElementById('shareDialogSubtitle');
-      const shareQrCanvas = document.getElementById('shareQrCanvas');
+      const shareQrWrap = document.getElementById('shareQrWrap');
       const shareUrlInput = document.getElementById('shareUrlInput');
       const shareCopyBtn = document.getElementById('shareCopyBtn');
       const shareEmailBtn = document.getElementById('shareEmailBtn');
@@ -1234,13 +1234,11 @@
       }
 
       function loadQrcodeLib() {
-        if (window.QRCode && typeof window.QRCode.toCanvas === 'function') {
-          return Promise.resolve();
-        }
+        if (typeof window.qrcode === 'function') return Promise.resolve();
         if (qrcodePromise) return qrcodePromise;
         qrcodePromise = new Promise((resolve, reject) => {
           const s = document.createElement('script');
-          s.src = 'https://cdn.jsdelivr.net/npm/qrcode@1.5.4/build/qrcode.min.js';
+          s.src = 'qrcode.min.js';
           s.async = true;
           s.onload = () => resolve();
           s.onerror = () => reject(new Error('QR library failed to load'));
@@ -1250,25 +1248,24 @@
       }
 
       async function drawShareQr(url) {
-        if (!shareQrCanvas) return;
-        const ctx = shareQrCanvas.getContext('2d');
-        if (ctx) {
-          ctx.fillStyle = '#ffffff';
-          ctx.fillRect(0, 0, shareQrCanvas.width, shareQrCanvas.height);
-        }
+        if (!shareQrWrap) return;
+        shareQrWrap.innerHTML = '<span style="color:#9aa396;font-size:0.85rem">Generating QR…</span>';
         try {
           await loadQrcodeLib();
-          await window.QRCode.toCanvas(shareQrCanvas, url, {
-            width: 180,
-            margin: 1,
-            color: { dark: '#0f1210', light: '#ffffff' }
-          });
-        } catch (err) {
-          if (ctx) {
-            ctx.fillStyle = '#9aa396';
-            ctx.font = '12px sans-serif';
-            ctx.fillText('QR unavailable', 40, 90);
+          const qr = window.qrcode(0, 'M');
+          qr.addData(url);
+          qr.make();
+          // cellSize 4 ≈ 180px for typical URL length
+          shareQrWrap.innerHTML = qr.createSvgTag(4, 2);
+          const svg = shareQrWrap.querySelector('svg');
+          if (svg) {
+            svg.setAttribute('width', '180');
+            svg.setAttribute('height', '180');
+            svg.style.width = '180px';
+            svg.style.height = '180px';
           }
+        } catch (err) {
+          shareQrWrap.innerHTML = '<span style="color:#9aa396;font-size:0.85rem">QR unavailable</span>';
           console.error(err);
         }
       }
