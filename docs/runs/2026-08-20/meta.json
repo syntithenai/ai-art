@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-20",
+  "artist": {
+    "id": "redon",
+    "name": "Odilon Redon",
+    "era": "Symbolism FR",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "symbolism",
+      "europe"
+    ],
+    "bio": "Odilon Redon (Symbolism FR). Symbolist pastel/painting in the spirit of Redon: dream flowers and floating heads, velvet blacks, visionary soft color. Painterly fine-art visual language. Associated tags: symbolism, europe.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Odilon_Redon_vers_1880.jpg/330px-Odilon_Redon_vers_1880.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australian literary culture is thriving, marked by significant recognition for local writers and robust institutional support. Sydney writer Patrick Eades has won third prize in the 2026 Moth Short Story Prize, while the Prime Minister's Literary Awards received a remarkable 673 entries across six categories, reflecting a deep engagement with fiction, poetry, and history. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review.\n\nInternationally, the intersection of literature and science is gaining attention, with new research exploring how literary inventions enhance human mental function and emotional well-being. This constructive view of storytelling as a tool for resilience aligns with global humanitarian efforts, where innovation in assistance is being systematically reviewed to improve community outcomes. In a display of solidarity, diaspora communities are supporting political prisoners in Iran, highlighting the power of collective voice and care in difficult times.\n\nThe coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. These developments underscore a shared global commitment to using storytelling, libraries, and publishing as vehicles for hope, agency, and human connection.",
+  "themes": [
+    "Australian Literary Awards",
+    "Digital Archives & Accessibility",
+    "Neuroscience of Storytelling",
+    "Global Solidarity & Care",
+    "Poetry Publishing",
+    "Humanitarian Innovation"
+  ],
+  "headlines": [
+    {
+      "title": "Sydney Writer Patrick Eades Wins Third Prize in 2026 Moth Short Story Prize",
+      "url": "https://www.booksandpublishing.com.au/category/news/local-news/"
+    },
+    {
+      "title": "Prime Minister's Literary Awards Receive 673 Entries Across Six Categories",
+      "url": "https://creative.gov.au/news-events/events/prime-ministers-literary-awards"
+    },
+    {
+      "title": "AustLit Celebrates Milestone with New Digital Resources for Australian Stories",
+      "url": "https://www.austlit.edu.au/"
+    },
+    {
+      "title": "Cordite Poetry Review Showcases New Australian Poets to the World",
+      "url": "https://www.library.gov.au/research/research-guides-0/australian-literature-research-guide/australian-literature-poetry"
+    },
+    {
+      "title": "Upcoming Poetry Books: Toby Fitch's 'Or: An Autobiography' from Upswell Publishing",
+      "url": "http://cordite.org.au/submissions/upcoming-poetry-books/"
+    },
+    {
+      "title": "Diaspora Communities Salute Signatories of Open Letter Supporting Iranian Political Prisoners",
+      "url": "https://overland.org.au/"
+    },
+    {
+      "title": "Neuroscience Reveals How Literary Inventions Enhance Human Mental Function",
+      "url": "https://www.smithsonianmag.com/innovation/eight-literatures-most-powerful-inventions-and-neuroscience-behind-how-they-work-180977168/"
+    },
+    {
+      "title": "Systematic Review Highlights Innovation in Humanitarian Assistance",
+      "url": "https://jhumanitarianaction.springeropen.com/articles/10.1186/s41018-023-00144-3"
+    },
+    {
+      "title": "Posthumanist Literature Draws on Neuroscience and Environmental Science",
+      "url": "https://ijrtssh.com/wp-content/uploads/ijrtssh.vol_.3.issue6_114.pdf"
+    },
+    {
+      "title": "Literature-Related Discovery and Innovation Integrates Prior Art to Solve Problems",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S004016251200039X"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Sydney Writer Wins 2026 Moth Short Story Prize",
+      "url": "https://www.booksandpublishing.com.au/category/news/local-news/",
+      "angle": "Patrick Eades' story 'Octomum' secures third prize, highlighting the strength of Australian short fiction on the international stage."
+    },
+    {
+      "title": "Record Entries for Prime Minister's Literary Awards",
+      "url": "https://creative.gov.au/news-events/events/prime-ministers-literary-awards",
+      "angle": "673 entries across six categories demonstrate a vibrant and engaged Australian literary community."
+    },
+    {
+      "title": "AustLit Celebrates Milestone with New Digital Outcomes",
+      "url": "https://www.austlit.edu.au/",
+      "angle": "New information trails and project highlights make Australian stories and resources more accessible to researchers and the public."
+    },
+    {
+      "title": "Literature as a Tool for Mental Well-being",
+      "url": "https://www.smithsonianmag.com/innovation/eight-literatures-most-powerful-inventions-and-neuroscience-behind-how-they-work-180977168/",
+      "angle": "Research explores how literary inventions enhance human mental function, framing storytelling as a constructive force for health."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Local news | Books+Publishing",
+      "url": "https://www.booksandpublishing.com.au/category/news/local-news/",
+      "snippet": "Thursday, 27 August 2026 <strong>Sydney writer Patrick Eades has won third prize in the 2026 Moth Short Story Prize for his story “Octomum”.</strong> New Orleans writer Jeffrey-Michael Kane won first place and €3,000 for...",
+      "source": "brave"
+    },
+    {
+      "title": "Overland - Overland literary journal",
+      "url": "https://overland.org.au/",
+      "snippet": "As migrants and refugees in diaspora and in exile from Iran, who have our loved ones suffering in the Iranian state’s prisons and facing its gallows, we salute the signatories of the open letter To Iran’s political prisoners, trapped ‘between two blades of a scissors’, published in The Guardian on 20 August 2026.",
+      "source": "brave"
+    },
+    {
+      "title": "Prime Minister's Literary Awards | Creative Australia",
+      "url": "https://creative.gov.au/news-events/events/prime-ministers-literary-awards",
+      "snippet": "We received a remarkable <strong>673 entries across six literary categories</strong>: fiction, non-fiction, young adult literature, children’s literature, poetry, and Australian history. Expert judging panels have carefully considered entries for the awards ...",
+      "source": "brave"
+    },
+    {
+      "title": "Recent and Upcoming Poetry Books 2026-2027 | Cordite Poetry Review",
+      "url": "http://cordite.org.au/submissions/upcoming-poetry-books/",
+      "snippet": "<strong>Toby Fitch</strong>. Or: An Autobiography. Perth: Upswell Publishing, 2026",
+      "source": "brave"
+    },
+    {
+      "title": "Australian literature: Poetry | National Library of Australia (NLA)",
+      "url": "https://www.library.gov.au/research/research-guides-0/australian-literature-research-guide/australian-literature-poetry",
+      "snippet": "<strong>Cordite Poetry Review</strong> is an online poetry journal published three times a year, and dedicated to showing off new and established Australian poets to the world.",
+      "source": "brave"
+    },
+    {
+      "title": "AustLit: Discover Australian Stories",
+      "url": "https://www.austlit.edu.au/",
+      "snippet": "<strong>Throughout 2026, we&#x27;re celebrating this unique resources and its extraordinary milesotone with a range of digital outcomes, including new information trails and project highlights</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia literature site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+literature+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: literature libraries publishing storytelling poetry good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=literature+libraries+publishing+storytelling+poetry+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Eight of Literature's Most Powerful Inventions—and the Neuroscience Behind How They Work",
+      "url": "https://www.smithsonianmag.com/innovation/eight-literatures-most-powerful-inventions-and-neuroscience-behind-how-they-work-180977168/",
+      "snippet": "A brilliant examination of literary inventions through the ages, from ancient Mesopotamia to Elena Ferrante, that shows how writers have created technical breakthroughs—rivaling any scientific inventions—and engineering enhancements to the human heart and mind. Buy Now · This literary invention is now so well-known that we often learn to identify it as children. But it thrilled Aristotle when he first discovered it, and for two reasons. First, it supported his hunch that literature’s inventions were constructed from story.",
+      "source": "brave"
+    },
+    {
+      "title": "Literature-related discovery and innovation — update - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S004016251200039X",
+      "snippet": "Literature-Related Discovery and Innovation (LRDI), the most recent incarnation of LRD, <strong>integrates discovery with innovation (re-invigorating prior art, specifically) to solve problems of interest</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Literature-related discovery and innovation — update",
+      "url": "https://www.researchgate.net/publication/256859385_Literature-related_discovery_and_innovation_-_update",
+      "snippet": "[30] proposed the Literature-Related Discovery and Innovation approaches, the most recent incarnation of the Literature-Related Discovery approaches, to solve problems of interest by integrating discovery with innovation. The Literature-Related Discovery and Innovation approaches have two components: the Literature-Based Discovery and Innovation approach and the Literature-Assisted Discovery and Innovation approach.",
+      "source": "brave"
+    },
+    {
+      "title": "International Journal for Research Trends in Social Science & Humanities",
+      "url": "https://ijrtssh.com/wp-content/uploads/ijrtssh.vol_.3.issue6_114.pdf",
+      "snippet": "posthumanist literature, for instance, draw upon neuroscience, cybernetics, and · environmental science to explore consciousness, identity, and the relationship between · humans and machines. This expansion of imaginative scope demonstrates how · scientific discovery reinvigorates literary creativity and philosophical inquiry.",
+      "source": "brave"
+    },
+    {
+      "title": "(PDF) Inventions and Discoveries: Why and How do they Matter to Global Studies",
+      "url": "https://www.researchgate.net/publication/260105610_Inventions_and_Discoveries_Why_and_How_do_they_Matter_to_Global_Studies",
+      "snippet": "humans “invent” agriculture or “discover” it? One can argue in favor of both because · ancient agriculture contained elements of human innovation (such as agricultural",
+      "source": "brave"
+    },
+    {
+      "title": "Innovation in humanitarian assistance—a systematic literature review | Journal of International Humanitarian Action | Full Text",
+      "url": "https://jhumanitarianaction.springeropen.com/articles/10.1186/s41018-023-00144-3",
+      "snippet": "‘There were no publications focused on the subject until 2009, making humanitarian innovation literature around a century younger than the overall innovation management field’ (2014, 24). Although some articles on the concept of HI were published between 2009 (when the term humanitarian innovation was coined) and 2015, the concept did not take off until it was deemed a priority in the 2015 World Humanitarian Summit.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian literature libraries publishing storytelling poetry news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+literature+libraries+publishing+storytelling+poetry+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Living Archive of Hope",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Sydney harbour scene where diverse Australians celebrate Patrick Eades' Moth Prize win and AustLit's digital milestones. Figures in modern casual wear gather among floating books and glowing neural motifs, symbolizing literature's power for mental well-being and global solidarity.",
+      "prompt": "Painterly fine-art, Odilon Redon style, soft pastel pigments on textured canvas. Sydney harbour at dusk, diverse Australians in 2024 casual fashion. Floating books, glowing neural networks, and velvet black shadows. Dreamlike flowers and floating heads. Symbolist soft color, visionary brushwork, no digital cameras, no photorealism. Unified Australian scene weaving together these themes: Australian Literary Awards, Digital Archives & Accessibility, Neuroscience of Storytelling, Global Solidarity & Care, Poetry Publishing, Humanitarian Innovation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 565095591,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/01.png style=flux_klein size=896x1152 seed=565095591 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "The Storyteller's Resilience",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "The Storyteller's Resilience answers a strand of today’s news with a focused visual reading. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. This constructive view of storytelling as a tool for resilience aligns with global humanitarian efforts, where innovation in assistance is being systematically reviewed to improve community outcomes. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Redon-inspired pastel on rough paper. Melbourne interior, 1978 fashion, woman reading. Ethereal floating heads, soft pastel flowers, velvet black shadows. Symbolist dreamlike quality, visionary soft color, gentle brushwork. No modern digital tech, no photorealistic rendering, no sharp lines. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 246655743,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/02.png style=flux_klein size=896x1152 seed=246655743 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Poetry in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1924",
+      "emailHero": false,
+      "description": "Poetry in the Outback takes on the day’s Poetry Publishing thread, translating the news into a single visual moment. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. The composition keeps the human stakes of Poetry Publishing in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Odilon Redon style, pastel pigments on canvas. Red desert, 1924 fashion, figure holding book. Floating dream flowers, soft pastel colors, velvet black shadows. Symbolist visionary brushwork, gentle pigment texture. No digital cameras, no photoreal CGI, no modern elements. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 139952570,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/03.png style=flux_klein size=896x1152 seed=139952570 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Global Solidarity in Bushland",
+      "tone": "news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Global Solidarity in Bushland takes on the day’s Global Solidarity & Care thread, translating the news into a single visual moment. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. The composition keeps the human stakes of Global Solidarity & Care in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Redon pastel style, textured canvas. Eucalyptus scrub, 1962 fashion, diverse group holding hands. Floating heads, soft pastel flowers, velvet black shadows. Symbolist dreamlike quality, visionary soft color, gentle brushwork. No digital tech, no photorealism, no sharp details. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1761242504,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/04.png style=flux_klein size=896x1152 seed=1761242504 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "The Publisher's Dream",
+      "tone": "good_news",
+      "fashionYear": "1894",
+      "emailHero": false,
+      "description": "The Publisher's Dream answers a strand of today’s news with a focused visual reading. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Odilon Redon style, pastel on canvas. Coastal cliffs, 1894 fashion, figure holding book. Floating heads, soft pastel flowers, velvet black shadows. Symbolist visionary brushwork, gentle pigment texture. No digital cameras, no photoreal CGI, no modern elements. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1882228717,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/05.png style=flux_klein size=896x1152 seed=1882228717 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Moth's Victory",
+      "tone": "good_news",
+      "fashionYear": "1904",
+      "emailHero": false,
+      "description": "The Moth's Victory answers a strand of today’s news with a focused visual reading. Sydney writer Patrick Eades has won third prize in the 2026 Moth Short Story Prize, while the Prime Minister's Literary Awards received a remarkable 673 entries across six categories, reflecting a deep engagement with fiction, poetry, and history. This constructive view of storytelling as a tool for resilience aligns with global humanitarian efforts, where innovation in assistance is being systematically reviewed to improve community outcomes. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Odilon Redon style, soft pastel gradients. A Sydney harbor scene at dusk, velvet blacks and dreamy lavender. A diverse group of Australian writers in 1904 Edwardian fashion, elegant hats and long coats, gathered near a pier. Floating above them, translucent, luminous heads and blooming flowers symbolize the winning story 'Octomum' rising in victory. Soft brushwork, visionary color, no digital realism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1966168534,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/06.png style=flux_klein size=896x1152 seed=1966168534 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "673 Voices in the Garden",
+      "tone": "good_news",
+      "fashionYear": "1954",
+      "emailHero": false,
+      "description": "673 Voices in the Garden answers a strand of today’s news with a focused visual reading. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. Sydney writer Patrick Eades has won third prize in the 2026 Moth Short Story Prize, while the Prime Minister's Literary Awards received a remarkable 673 entries across six categories, reflecting a deep engagement with fiction, poetry, and history. In the artwork, that story represents the 673 entries.",
+      "prompt": "Painterly fine-art, Redon symbolism, rich pigment on canvas. A lush Australian rainforest clearing, dappled light. A crowd of Australians in 1954 mid-century fashion, tailored suits and modest dresses, holding books. Above them, a cascade of floating, semi-transparent faces and vibrant flowers represents the 673 entries. Soft, dreamy atmosphere, velvet shadows, no modern tech. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 108489697,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/07.png style=flux_klein size=896x1152 seed=108489697 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "The Digital Dream Trail",
+      "tone": "good_news",
+      "fashionYear": "1994",
+      "emailHero": false,
+      "description": "The Digital Dream Trail answers a strand of today’s news with a focused visual reading. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. In the artwork, that story symbolizes new digital information trails.",
+      "prompt": "Painterly fine-art, Odilon Redon style, pastel on paper. A quiet library interior in an Australian country town, warm light. A diverse group of researchers in 1994 casual fashion, jeans and windbreakers, studying books. Above the shelves, ethereal, floating heads and glowing flowers drift upward, symbolizing new digital information trails. Soft brushwork, visionary, no screens. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1876234180,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/08.png style=flux_klein size=896x1152 seed=1876234180 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Neuro-Poetic Resilience",
+      "tone": "good_news",
+      "fashionYear": "1934",
+      "emailHero": false,
+      "description": "Neuro-Poetic Resilience answers a strand of today’s news with a focused visual reading. Neuroscience Reveals How Literary Inventions Enhance Human Mental Function. The National Library of Australia and AustLit are celebrating milestones with new digital resources, ensuring that Australian stories and poetry remain accessible to a global audience through platforms like the Cordite Poetry Review. In the artwork, that story symbolizes enhanced mental function and emotional resilience.",
+      "prompt": "Painterly fine-art, Redon dream style, soft color. An eucalyptus scrub landscape, golden hour. A family in 1934 interwar fashion, simple dresses and hats, sitting together, sharing stories. Above them, luminous, floating heads and blooming flowers rise into the sky, symbolizing enhanced mental function and emotional resilience. Soft, velvet blacks, no digital. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 559128918,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/09.png style=flux_klein size=896x1152 seed=559128918 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Solidarity in the Outback",
+      "tone": "news",
+      "fashionYear": "2004",
+      "emailHero": false,
+      "description": "Solidarity in the Outback takes on the day’s Global Solidarity & Care thread, translating the news into a single visual moment. The coming months promise further creative output, with upcoming poetry books from Perth-based publishers and continued digital expansions of Australian literary archives. In a display of solidarity, diaspora communities are supporting political prisoners in Iran, highlighting the power of collective voice and care in difficult times. The composition keeps the human stakes of Global Solidarity & Care in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Odilon Redon symbolism, rich pigment. A red desert outback scene, vast sky. A diverse group of Australians in 2004 contemporary fashion, casual wear, standing in a circle, offering support. Above them, floating, semi-transparent heads and dark, velvety flowers symbolize collective voice and care. Soft brushwork, visionary, no gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 339807506,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-20/10.png style=flux_klein size=896x1152 seed=339807506 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
