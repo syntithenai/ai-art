@@ -7,7 +7,6 @@
   const TUNEBOOK_KEY = 'tunebook_google_auth_v1';
 
   const els = {
-    signIn: document.getElementById('authSignIn'),
     profileBtn: document.getElementById('authProfileBtn'),
     avatarImg: document.getElementById('authAvatarImg'),
     avatarFallback: document.getElementById('authAvatarFallback'),
@@ -17,7 +16,8 @@
     name: document.getElementById('profileName'),
     email: document.getElementById('profileEmail'),
     status: document.getElementById('profileSubStatus'),
-    warn: document.getElementById('homeOfflineWarn'),
+    offlineWarn: document.getElementById('profileOfflineWarn'),
+    subActions: document.getElementById('subActions'),
     daily: document.getElementById('subDaily'),
     weekly: document.getElementById('subWeekly'),
     cancel: document.getElementById('subCancel'),
@@ -72,10 +72,12 @@
   }
 
   function renderAuth() {
+    if (!els.profileBtn) return;
     if (user) {
-      els.signIn.hidden = true;
-      els.profileBtn.hidden = false;
       els.profileLabel.textContent = firstName(user.name, user.email);
+      els.profileBtn.title = 'Account';
+      els.profileBtn.setAttribute('aria-label', 'Account');
+      els.profileBtn.setAttribute('aria-haspopup', 'dialog');
       if (user.picture) {
         els.avatarImg.src = user.picture;
         els.avatarImg.hidden = false;
@@ -89,8 +91,14 @@
       els.name.textContent = user.name || 'Signed in';
       els.email.textContent = user.email || '';
     } else {
-      els.signIn.hidden = false;
-      els.profileBtn.hidden = true;
+      els.profileLabel.textContent = 'Sign in';
+      els.profileBtn.title = 'Sign in with Google';
+      els.profileBtn.setAttribute('aria-label', 'Sign in with Google');
+      els.profileBtn.removeAttribute('aria-haspopup');
+      els.avatarImg.removeAttribute('src');
+      els.avatarImg.hidden = true;
+      els.avatarFallback.hidden = false;
+      els.avatarFallback.textContent = '?';
       els.dialog.classList.remove('open');
       els.dialog.hidden = true;
     }
@@ -106,8 +114,14 @@
         ? ''
         : (resolverOk ? 'Sign in to manage email' : 'Subscription server offline');
     });
+    if (els.subActions) {
+      els.subActions.setAttribute('aria-disabled', enable ? 'false' : 'true');
+    }
+    if (els.offlineWarn) {
+      els.offlineWarn.hidden = resolverOk;
+    }
     if (!resolverOk) {
-      els.status.textContent = 'Subscriptions unavailable while the home server is offline.';
+      els.status.textContent = 'Subscription settings are disabled until the home server is back online.';
     } else if (!accessToken) {
       els.status.textContent = 'Sign in with Google to choose daily or weekly email.';
     } else if (frequency) {
@@ -115,7 +129,6 @@
     } else {
       els.status.textContent = 'Not subscribed.';
     }
-    if (els.warn) els.warn.hidden = resolverOk;
   }
 
   async function probeResolver() {
@@ -175,6 +188,7 @@
             saveStored();
             renderAuth();
             await refreshSubscription();
+            openProfile();
             resolve();
           } catch (err) {
             reject(err);
@@ -201,7 +215,10 @@
   }
 
   async function refreshSubscription() {
-    if (!accessToken || !resolverOk) return;
+    if (!accessToken || !resolverOk) {
+      updateSubButtons();
+      return;
+    }
     try {
       const data = await api('/ai-art/subscribe', { method: 'GET' });
       frequency = data.subscribed ? data.frequency : null;
@@ -212,7 +229,7 @@
   }
 
   async function setFrequency(freq) {
-    if (!resolverOk) return;
+    if (!resolverOk || !accessToken) return;
     els.status.textContent = 'Saving…';
     try {
       const data = await api('/ai-art/subscribe', {
@@ -227,7 +244,7 @@
   }
 
   async function cancelSub() {
-    if (!resolverOk) return;
+    if (!resolverOk || !accessToken) return;
     els.status.textContent = 'Cancelling…';
     try {
       await api('/ai-art/subscribe', { method: 'DELETE' });
@@ -241,11 +258,20 @@
   function openProfile() {
     els.dialog.hidden = false;
     els.dialog.classList.add('open');
+    updateSubButtons();
     refreshSubscription();
   }
   function closeProfile() {
     els.dialog.classList.remove('open');
     els.dialog.hidden = true;
+  }
+
+  function onProfileClick() {
+    if (user) {
+      openProfile();
+      return;
+    }
+    signIn().catch((e) => alert(e.message || String(e)));
   }
 
   function bootGoatcounter() {
@@ -262,10 +288,7 @@
     document.head.appendChild(s);
   }
 
-  els.signIn.addEventListener('click', () => {
-    signIn().catch((e) => alert(e.message || String(e)));
-  });
-  els.profileBtn.addEventListener('click', openProfile);
+  els.profileBtn.addEventListener('click', onProfileClick);
   els.close.addEventListener('click', closeProfile);
   els.dialog.addEventListener('click', (e) => {
     if (e.target === els.dialog) closeProfile();

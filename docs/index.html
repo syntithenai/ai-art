@@ -514,6 +514,14 @@
       line-height: 1.4;
     }
     .offline-warn[hidden] { display: none; }
+    .profile-dialog .offline-warn {
+      max-width: none;
+      margin: 0 0 0.85rem;
+      padding: 0.65rem 0.75rem;
+      background: color-mix(in srgb, #c9a27a 12%, transparent);
+      border: 1px solid color-mix(in srgb, #c9a27a 35%, transparent);
+      font-size: 0.88rem;
+    }
     .profile-dialog {
       display: none;
       position: fixed;
@@ -585,24 +593,15 @@
       <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
     </div>
     <div class="auth-slot">
-      <button type="button" class="profile-btn" id="authSignIn" title="Sign in with Google" aria-label="Sign in with Google">
-        <span class="profile-btn-avatar-wrap">
-          <span class="profile-avatar-fallback" aria-hidden="true">?</span>
-        </span>
-        <span class="profile-btn-label">Sign in</span>
-      </button>
-      <button type="button" class="profile-btn" id="authProfileBtn" hidden title="Account" aria-haspopup="dialog" aria-label="Account">
+      <button type="button" class="profile-btn" id="authProfileBtn" title="Sign in with Google" aria-label="Sign in with Google">
         <span class="profile-btn-avatar-wrap">
           <img id="authAvatarImg" class="profile-avatar-img" alt="" width="32" height="32" referrerpolicy="no-referrer" hidden />
-          <span id="authAvatarFallback" class="profile-avatar-fallback" aria-hidden="true" hidden>?</span>
+          <span id="authAvatarFallback" class="profile-avatar-fallback" aria-hidden="true">?</span>
         </span>
-        <span class="profile-btn-label" id="authProfileLabel">Account</span>
+        <span class="profile-btn-label" id="authProfileLabel">Sign in</span>
       </button>
     </div>
   </header>
-  <p class="offline-warn" id="homeOfflineWarn" hidden>
-    Email subscriptions are offline — this gallery runs from a home computer and may pause at any time. You can still browse the artworks.
-  </p>
   <div class="controls home-controls" id="homeControls" style="max-width:1200px;margin:0 auto;padding:0 1.25rem 1rem;display:flex;flex-wrap:wrap;gap:0.75rem 1rem;">
       <div class="control">
         <label for="artistFilter">Artist</label>
@@ -637,8 +636,11 @@
       <button type="button" class="artist-dialog-close" id="profileDialogClose" aria-label="Close">&times;</button>
       <h3 id="profileName">Account</h3>
       <p class="meta" id="profileEmail"></p>
+      <p class="offline-warn" id="profileOfflineWarn" hidden>
+        Email subscriptions are offline — this gallery runs from a home computer and may pause at any time. You can browse the artworks, but subscription settings can’t be changed right now.
+      </p>
       <p class="sub-status" id="profileSubStatus">Checking subscription…</p>
-      <div class="sub-actions">
+      <div class="sub-actions" id="subActions">
         <button type="button" class="chip primary" id="subDaily" disabled>Daily email</button>
         <button type="button" class="chip primary" id="subWeekly" disabled>Weekly email</button>
         <button type="button" class="chip" id="subCancel" disabled>Cancel</button>
