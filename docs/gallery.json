@@ -3330,6 +3330,141 @@
           "prompt": "Painterly fine-art, Ajanta cave spirit, fluid Bodhisattva grace, earth reds and greens, soft classical contour. Outback station, 2010 fashion with casual jeans and t-shirts. Performer interacting with digital light, narrative Buddhist atmosphere. No digital camera, no neon, pigment on canvas, brushwork, no text, no logos, dignified Aboriginal Australian face."
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "artist": {
+        "id": "byzantine_mosaic",
+        "name": "Byzantine mosaic",
+        "era": "Byzantine",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "mosaic",
+          "europe",
+          "middle-east"
+        ],
+        "bio": "Byzantine mosaic (Byzantine). Byzantine mosaic: glittering tesserae, hierarchical sacred figures, gold shimmer, formal frontal solemnity without readable Greek. Painterly fine-art visual language. Associated tags: mosaic, europe, middle-east.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Urban Farming & Community Plots",
+        "Seeds & Soil Science",
+        "Horticultural Therapy & Care",
+        "Horti-Culture & Travel",
+        "Tech-Enabled Gardening",
+        "Community Resilience",
+        "Local Food Production"
+      ],
+      "summary": "Australian cities are witnessing a vibrant renaissance in urban agriculture, where community plots and social enterprises are transforming underused spaces into productive food landscapes. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans.\n\nInternationally, the narrative of gardening is expanding beyond mere hobbyism into a realm of scientific curiosity and cultural heritage. The 'Horti-Culture' trend sees enthusiasts traveling globally to experience gardens as destinations where design innovation meets cultural history. Simultaneously, the integration of technology, such as intelligent irrigation systems and soil sensors, is empowering gardeners to manage their plots efficiently while deepening their understanding of the science behind each decision. This blend of traditional practice and modern ingenuity reflects a broader human desire to control food supplies and foster communal civilization.\n\nFor an art gallery audience, these stories offer a compelling lens on how human care and ingenuity intersect with the natural world. Whether through the organic practices of the Paddington Community Garden, which emphasizes water harvesting and waste reduction, or the imaginative reconfigurations of plant science in global projects, the evidence suggests that gardening is a powerful medium for reflection, innovation, and social solidarity. It is a space where survivors, caregivers, and community members come together to cultivate not just soil, but a sense of hope and shared purpose.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "Melbourne Community Harvest",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "Melbourne Community Harvest is today’s cover piece — one Australian scene that weaves together Urban Farming & Community Plots, Seeds & Soil Science, Horticultural Therapy & Care, Horti-Culture & Travel, Tech-Enabled Gardening, Community Resilience, and Local Food Production. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Byzantine mosaic style, glittering gold tesserae background. Central group of Australian volunteers in 2024 casual wear tending kale and broad beans in Bellfield. Children making seed bombs nearby. Soil sensors and irrigation lines woven into the earth. Formal frontal solemnity, hierarchical sacred figures, no readable text, rich pigment on canvas. Unified Australian scene weaving together these themes: Urban Farming & Community Plots, Seeds & Soil Science, Horticultural Therapy & Care, Horti-Culture & Travel, Tech-Enabled Gardening, Community Resilience, Local Food Production. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Camperdown Seed Bomb Workshop",
+          "tone": "good_news",
+          "fashionYear": "2019",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Camperdown Seed Bomb Workshop answers a strand of today’s news with a focused visual reading. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Byzantine mosaic style, shimmering gold tesserae. Children in 2019 Australian school uniforms kneel in Camperdown soil, crafting seed bombs. Chickens peck nearby. Eucalyptus leaves frame the scene. Formal frontal solemnity, hierarchical sacred figures, no readable text, rich pigment on canvas, emphasizing human care and discovery. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Paddington Water Harvest",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Paddington Water Harvest takes on the day’s Community Resilience thread, translating the news into a single visual moment. Whether through the organic practices of the Paddington Community Garden, which emphasizes water harvesting and waste reduction, or the imaginative reconfigurations of plant science in global projects, the evidence suggests that gardening is a powerful medium for reflection, innovation, and social solidarity. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Byzantine mosaic style, glittering gold tesserae. Gardeners in 2010 Australian casual wear tend to rainwater tanks and compost heaps in Paddington. Eucalyptus shadows dapple the light. Formal frontal solemnity, hierarchical sacred figures, no readable text, rich pigment on canvas, highlighting conservation and community resilience. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Horti-Culture Heritage Journey",
+          "tone": "news",
+          "fashionYear": "1995",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Horti-Culture Heritage Journey takes on the day’s Horti-Culture & Travel thread, translating the news into a single visual moment. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. Australian cities are witnessing a vibrant renaissance in urban agriculture, where community plots and social enterprises are transforming underused spaces into productive food landscapes. The composition keeps the human stakes of Horti-Culture & Travel in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Byzantine mosaic style, shimmering gold tesserae. Diverse Australian group in 1995 fashion stands before heritage garden beds. Eucalyptus and rainforest plants frame the scene. Formal frontal solemnity, hierarchical sacred figures, no readable text, rich pigment on canvas, emphasizing cultural heritage and travel wonder. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Smart Soil Discovery",
+          "tone": "good_news",
+          "fashionYear": "2005",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Smart Soil Discovery takes on the day’s Seeds & Soil Science thread, translating the news into a single visual moment. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. Simultaneously, the integration of technology, such as intelligent irrigation systems and soil sensors, is empowering gardeners to manage their plots efficiently while deepening their understanding of the science behind each decision. The composition keeps the human stakes of Seeds & Soil Science in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Byzantine mosaic style, glittering gold tesserae. A gardener in 2005 Australian workwear holds a soil sensor device. Digital data visualized as light patterns above the earth. Eucalyptus backdrop. Formal frontal solemnity, hierarchical sacred figures, no readable text, rich pigment on canvas, highlighting science and wonder. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Bellfield Therapy Harvest",
+          "tone": "good_news",
+          "fashionYear": "1912",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Bellfield Therapy Harvest takes on the day’s Community Resilience thread, translating the news into a single visual moment. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art scene of diverse Australian volunteers in 1912 clothing tending kale and broad beans in a Melbourne community garden. Byzantine mosaic style with glittering gold tesserae shimmering across soil and leaves. Formal frontal solemnity, sacred hierarchical composition. No readable text. Eucalyptus shadows, warm pigment, canvas texture. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Camperdown Seed Science",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Camperdown Seed Science answers a strand of today’s news with a focused visual reading. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. Australian cities are witnessing a vibrant renaissance in urban agriculture, where community plots and social enterprises are transforming underused spaces into productive food landscapes. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly depiction of Australian children in 1968 clothing making seed bombs in a Sydney garden. Byzantine mosaic aesthetic with sacred gold background and glittering tesserae. Formal frontal poses, solemn dignity. Eucalyptus trees, red earth. No readable text. Rich pigment, visible brushwork, fine-art canvas. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Perth Smart Soil",
+          "tone": "good_news",
+          "fashionYear": "1935",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Perth Smart Soil answers a strand of today’s news with a focused visual reading. Simultaneously, the integration of technology, such as intelligent irrigation systems and soil sensors, is empowering gardeners to manage their plots efficiently while deepening their understanding of the science behind each decision. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly scene of an Australian gardener in 1935 clothing checking soil sensors in a Perth garden. Byzantine mosaic style, gold shimmer, sacred hierarchy. Formal frontal solemnity. Eucalyptus scrub, red desert soil. No readable text. Glittering tesserae, rich pigment, fine-art canvas texture. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Hobart Heritage Garden",
+          "tone": "good_news",
+          "fashionYear": "1895",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Hobart Heritage Garden answers a strand of today’s news with a focused visual reading. In Melbourne, Farm Raiser operates as a social enterprise market garden, fostering connections through volunteering and horticultural therapy, while in Sydney, Pocket City Farms engages local children in seed bomb making and chicken care. Australian cities are witnessing a vibrant renaissance in urban agriculture, where community plots and social enterprises are transforming underused spaces into productive food landscapes. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art of an Australian traveler in 1895 clothing viewing a Hobart garden. Byzantine mosaic style, gold tesserae, sacred figures. Formal frontal solemnity. Coastal cliffs, eucalyptus. No readable text. Glittering pigment, canvas texture, hierarchical composition. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Brisbane Resilience Plot",
+          "tone": "news",
+          "fashionYear": "1985",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Brisbane Resilience Plot takes on the day’s Community Resilience thread, translating the news into a single visual moment. Australian cities are witnessing a vibrant renaissance in urban agriculture, where community plots and social enterprises are transforming underused spaces into productive food landscapes. These initiatives highlight a shift towards local food production that prioritizes human connection, education, and resilience, proving that even high-density urban environments can support intensive cultivation of fresh produce like herbs, kale, and broad beans. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly scene of diverse Australians in 1985 clothing harvesting herbs in a Brisbane garden. Byzantine mosaic style, gold shimmer, sacred hierarchy. Formal frontal solemnity. Eucalyptus, urban backdrop. No readable text. Glittering tesserae, rich pigment, fine-art canvas. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }
