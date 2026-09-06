@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-26",
+  "artist": {
+    "id": "skunder",
+    "name": "Skunder Boghossian",
+    "era": "20th c. ET/US",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "contemporary",
+      "africa",
+      "ethiopia"
+    ],
+    "bio": "Alexander \"Skunder\" Boghossian was an Ethiopian painter and professor active in the United States. Boghossian was one of the first, and by far the most acclaimed, contemporary Black artists from the African continent to gain international attention.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%22Self-Portrait%22%2C_1961_-_NARA_-_558827.jpg/330px-%22Self-Portrait%22%2C_1961_-_NARA_-_558827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australia is entering a new era of integrated urban planning, highlighted by the settlement of the Sydney Plan. This 20-year framework represents a significant shift in how the nation approaches growth, aligning housing, employment, and infrastructure to support a population expanding from 5.3 million to 6.6 million. By treating these elements as a cohesive system rather than isolated projects, the government aims to enhance liveability and ensure that city growth is sustainable and inclusive for all residents.\n\nOn the national infrastructure front, the 2026 Priority List emphasizes a multi-modal approach to transport, prioritizing investments in rail, light rail, and zero-emissions bus fleets. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. Specific attention is being given to high-capacity transport for growing cities, including the Perth rail lines capacity upgrade, which seeks to alleviate pressure on existing networks and improve connectivity for commuters.\n\nInternationally, the focus on transport innovation continues to drive global progress. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. Meanwhile, the broader transport-tech sector is revolutionizing how people and goods move through the world, driven by entrepreneurial innovation and a commitment to sustainable modes of travel, from electric vehicles to biofuel-powered aviation.",
+  "themes": [
+    "Integrated Urban Planning",
+    "Sustainable Transport",
+    "Climate-Resilient Infrastructure",
+    "Housing and Growth",
+    "Global Mobility Innovation",
+    "Zero-Emissions Commitments"
+  ],
+  "headlines": [
+    {
+      "title": "Sydney Plan Settled: 20-Year Framework for Housing and Infrastructure",
+      "url": "https://blog.kreisson.com.au/the-pulse-26-august-2026"
+    },
+    {
+      "title": "2026 Infrastructure Priority List: Rail and Zero-Emissions Focus",
+      "url": "https://www.infrastructureaustralia.gov.au/2026-infrastructure-priority-list"
+    },
+    {
+      "title": "Transport and Energy Dominate Australia's 2026 Infrastructure Roadmap",
+      "url": "https://www.theurbandeveloper.com/articles/australia-infrastructure-roadmap-2036"
+    },
+    {
+      "title": "Perth Rail Lines Capacity Upgrade Included in 2026 Priority List",
+      "url": "https://www.infrastructureaustralia.gov.au/ipl/high-capacity-transport-for-growing-cities/public-transport-networks"
+    },
+    {
+      "title": "High Capacity Transport for Growing Cities: Investment Priorities",
+      "url": "https://www.infrastructureaustralia.gov.au/ipl/high-capacity-transport-for-growing-cities/summary-infrastructure-response-and-investment-priorities"
+    },
+    {
+      "title": "World Bank Launches Global Facility to Decarbonize Transport",
+      "url": "https://www.worldbank.org/en/topic/transport/overview"
+    },
+    {
+      "title": "Transport-Tech Revolutionizes Travel and Mobility",
+      "url": "https://www.goingvc.com/post/reinventing-the-wheel-how-transport-tech-is-revolutionizing-travel-and-mobility"
+    },
+    {
+      "title": "Sustainable Modes of Travel: Electric Cars and Biofuel Aviation",
+      "url": "https://builtin.com/transportation-tech"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Sydney Plan Settled: A 20-Year Framework for Integrated Growth",
+      "url": "https://blog.kreisson.com.au/the-pulse-26-august-2026",
+      "angle": "This settlement marks a constructive response to population growth, ensuring that housing, employment, and infrastructure are planned together to support a future population of 6.6 million."
+    },
+    {
+      "title": "2026 Infrastructure Priority List Focuses on Liveability and Net Zero",
+      "url": "https://www.infrastructureaustralia.gov.au/2026-infrastructure-priority-list",
+      "angle": "Investments in zero-emissions bus fleets and climate-resilient water capacity highlight a commitment to improving liveability while meeting national environmental goals."
+    },
+    {
+      "title": "Perth Rail Capacity Upgrade to Enhance Connectivity",
+      "url": "https://www.infrastructureaustralia.gov.au/ipl/high-capacity-transport-for-growing-cities/public-transport-networks",
+      "angle": "The inclusion of Perth rail lines capacity in the 2026 Priority List demonstrates a targeted solution to infrastructure constraints, aiming to increase network capacity and support regional growth."
+    },
+    {
+      "title": "World Bank Accelerates Climate-Smart Mobility Globally",
+      "url": "https://www.worldbank.org/en/topic/transport/overview",
+      "angle": "The Global Facility to Decarbonize Transport is fostering international solidarity by accelerating innovation and investment in sustainable transport solutions in low and middle-income countries."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "The Pulse | 26 August 2026",
+      "url": "https://blog.kreisson.com.au/the-pulse-26-august-2026",
+      "snippet": "<strong>The Minns Labor Government announced that it had settled the Sydney Plan</strong>, describing it as a 20 year framework under which housing, employment and infrastructure are planned together as the city moves from 5.3 million residents to 6.6 million ...",
+      "source": "brave"
+    },
+    {
+      "title": "2026 Infrastructure Priority List | Infrastructure Australia",
+      "url": "https://www.infrastructureaustralia.gov.au/2026-infrastructure-priority-list",
+      "snippet": "<strong>Investments in rail, light rail, rapid bus and zero-emissions bus fleets will be needed to improve productivity, support liveability and meet national housing and net zero emissions commitments</strong>. ... Providing secure, climate-resilient water and wastewater capacity in cities and regions to support ...",
+      "source": "brave"
+    },
+    {
+      "title": "Transport, Energy Dominate Infrastructure 2026 Roadmap | The Urban Developer",
+      "url": "https://www.theurbandeveloper.com/articles/australia-infrastructure-roadmap-2036",
+      "snippet": "Population growth across Australia’s largest cities is expected to place mounting pressure on existing infrastructure, with demand for road, rail and public transport projected to rise sharply through the next decade.",
+      "source": "brave"
+    },
+    {
+      "title": "Public transport networks | Infrastructure Australia",
+      "url": "https://www.infrastructureaustralia.gov.au/ipl/high-capacity-transport-for-growing-cities/public-transport-networks",
+      "snippet": "In addition to signalling infrastructure, investment is also needed in stations and rail lines to increase the capacity of networks. <strong>The 2026 Infrastructure Priority List includes Perth rail lines capacity</strong> (also referred to as the Platform and Signalling Upgrade Program), as a future investment ...",
+      "source": "brave"
+    },
+    {
+      "title": "News | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "url": "https://www.infrastructure.gov.au/department/media/news",
+      "snippet": "Stay up-to-date on the latest developments in the infrastructure, transport and communications sectors.",
+      "source": "brave"
+    },
+    {
+      "title": "Summary: Infrastructure response and investment priorities | Infrastructure Australia",
+      "url": "https://www.infrastructureaustralia.gov.au/ipl/high-capacity-transport-for-growing-cities/summary-infrastructure-response-and-investment-priorities",
+      "snippet": "Table 15 identifies the highest priority proposals for High Capacity Transport for Growing Cities to provide targeted solutions to address identified infrastructure constraints",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia transport site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+transport+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: transport cities infrastructure housing planning good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=transport+cities+infrastructure+housing+planning+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Transport | World Bank Group",
+      "url": "https://www.worldbank.org/en/topic/transport/overview",
+      "snippet": "The Global Facility to Decarbonize Transport (GFDT) is <strong>a multi-donor trust fund managed by the World Bank that aims to accelerate innovation and investment in climate-smart mobility solutions in low and middle-income countries</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Transportation Technology: Definition & Examples | Built In",
+      "url": "https://builtin.com/transportation-tech",
+      "snippet": "As transportation technology continues ... humans create more sustainable modes of travel — as demonstrated by <strong>electric cars and biofuel-powered airplanes</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "The Long Journey: How Transportation Built the World Reaching for the Stars - Science Abbey",
+      "url": "https://www.scienceabbey.com/2025/06/22/the-long-journey-how-transportation-built-the-world-reaching-for-the-stars/",
+      "snippet": "The Age of Wind and Sail—spanning roughly from the 15th to the early 19th century—redefined global transportation, ushering in a time of exploration, conquest, trade, and scientific discovery. This period marked the emergence of transportation not only as a tool of movement but as a defining force of geopolitics, economy, and empire. Harnessing the wind allowed ships to travel farther and faster than ever before. Innovations in sail design—such as the triangular lateen sail—made vessels more maneuverable and capable of tacking against the wind.",
+      "source": "brave"
+    },
+    {
+      "title": "Transportation in the Twenty-First Century",
+      "url": "https://www.eolss.net/sample-chapters/c05/e6-40-03-06.pdf",
+      "snippet": "Transport, as with any other form of technology, comprises not only physical artifacts · but also the public knowledge that underlies the artifacts, and the way they are used in a · society. An institutional innovation that offers strong incentives for transport actors to",
+      "source": "brave"
+    },
+    {
+      "title": "Reinventing the Wheel: How Transport-tech is Revolutionizing Travel and Mobility",
+      "url": "https://www.goingvc.com/post/reinventing-the-wheel-how-transport-tech-is-revolutionizing-travel-and-mobility",
+      "snippet": "Innovation in these new businesses is <strong>driven by entrepreneurs with the support of venture capitalists</strong>. A new industry—transporttech—has emerged that is radically altering how people and goods move around the country and around the world.",
+      "source": "brave"
+    },
+    {
+      "title": "Transportation technologies | Technology | Research Starters | EBSCO Research",
+      "url": "https://www.ebsco.com/research-starters/technology/transportation-technologies",
+      "snippet": "One of the first major strides in transportation technology was <strong>the boat</strong>. Some of the first boats in the world were simple rafts created by tying together buoyant reeds or logs until they could support the weight of a person.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian transport cities infrastructure housing planning news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+transport+cities+infrastructure+housing+planning+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Sydney Integrated Growth Cosmos",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "Sydney Integrated Growth Cosmos is today’s cover piece — one Australian scene that weaves together Integrated Urban Planning, Sustainable Transport, Climate-Resilient Infrastructure, Housing and Growth, Global Mobility Innovation, and Zero-Emissions Commitments. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. On the national infrastructure front, the 2026 Priority List emphasizes a multi-modal approach to transport, prioritizing investments in rail, light rail, and zero-emissions bus fleets. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist style by Skunder Boghossian. Sydney harbour at dawn, cosmic relief textures overlaying eucalyptus trees. 2024 fashion: smart casuals, diverse Australian faces. Motifs: housing blocks, zero-emission buses, water pipes, rail lines. Mixed-media cosmos, spiritual modernity, vibrant pigments, layered brushwork, no digital CGI, no text. Unified Australian scene weaving together these themes: Integrated Urban Planning, Sustainable Transport, Climate-Resilient Infrastructure, Housing and Growth, Global Mobility Innovation, Zero-Emissions Commitments.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 358652380,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/01.png style=flux_klein size=896x1152 seed=358652380 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Perth Rail Connectivity",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Perth Rail Connectivity answers a strand of today’s news with a focused visual reading. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. 2026 Infrastructure Priority List: Rail and Zero-Emissions Focus. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Skunder Boghossian style. Perth suburban station, 1978 fashion: bell-bottoms, platform shoes, natural hair. Train carriages rendered with cosmic pigment layers. Eucalyptus scrub background. Mixed-media texture, layered brushwork, spiritual modernity. Focus on connectivity, community resilience, vibrant earth tones, no logos, no readable text, no photorealism. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 788158827,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/02.png style=flux_klein size=896x1152 seed=788158827 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Zero-Emissions Bus Fleet",
+      "tone": "good_news",
+      "fashionYear": "1952",
+      "emailHero": false,
+      "description": "Zero-Emissions Bus Fleet takes on the day’s Zero-Emissions Commitments thread, translating the news into a single visual moment. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. On the national infrastructure front, the 2026 Priority List emphasizes a multi-modal approach to transport, prioritizing investments in rail, light rail, and zero-emissions bus fleets. The composition keeps the human stakes of Zero-Emissions Commitments in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist cosmos. Melbourne street, 1952 fashion: pencil skirts, fedoras, gloves. Zero-emission buses with glowing pigment details. Eucalyptus trees, cosmic relief textures. Mixed-media, layered brushwork, spiritual modernity. Focus on liveability, environmental goals, vibrant pigments, no digital cameras, no watermarks, no text. Australian landscape or city setting with Australian people.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 543926895,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/03.png style=flux_klein size=896x1152 seed=543926895 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Global Mobility Innovation",
+      "tone": "news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "Global Mobility Innovation takes on the day’s Global Mobility Innovation thread, translating the news into a single visual moment. Meanwhile, the broader transport-tech sector is revolutionizing how people and goods move through the world, driven by entrepreneurial innovation and a commitment to sustainable modes of travel, from electric vehicles to biofuel-powered aviation. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of Global Mobility Innovation in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Skunder Boghossian style. Australian coastal cliffs, 1935 fashion: cloche hats, long dresses, newsboy caps. Electric vehicles, biofuel planes with cosmic pigment swirls. Mixed-media cosmos, layered brushwork, spiritual modernity. Focus on global mobility, innovation, vibrant earth tones, no photoreal CGI, no text, no logos.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1211697752,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/04.png style=flux_klein size=896x1152 seed=1211697752 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Housing and Growth Framework",
+      "tone": "good_news",
+      "fashionYear": "1895",
+      "emailHero": false,
+      "description": "Housing and Growth Framework takes on the day’s Integrated Urban Planning thread, translating the news into a single visual moment. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of Integrated Urban Planning in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist style. Brisbane streets, 1895 fashion: bonnets, long gowns, waistcoats. Housing blocks with cosmic relief textures. Eucalyptus scrub, mixed-media cosmos. Layered brushwork, spiritual modernity. Focus on integrated planning, growth, vibrant pigments, no digital CGI, no readable text, no watermarks. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1720744123,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/05.png style=flux_klein size=896x1152 seed=1720744123 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Sydney Harbour Planning Harmony",
+      "tone": "good_news",
+      "fashionYear": "1922",
+      "emailHero": false,
+      "description": "Sydney Harbour Planning Harmony takes on the day’s Integrated Urban Planning thread, translating the news into a single visual moment. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of Integrated Urban Planning in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist style, cosmic relief textures. Sydney Harbour at dawn, diverse Australians in 1922 fashion observing integrated housing and employment. Layered mixed-media cosmos, spiritual modernity, eucalyptus scrub, red desert hues, no digital cameras. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1894799318,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/06.png style=flux_klein size=896x1152 seed=1894799318 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Perth Rail Network Resilience",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Perth Rail Network Resilience answers a strand of today’s news with a focused visual reading. Specific attention is being given to high-capacity transport for growing cities, including the Perth rail lines capacity upgrade, which seeks to alleviate pressure on existing networks and improve connectivity for commuters. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Skunder Boghossian influence, cosmic relief textures. Perth suburban streets, 1968 fashion commuters boarding high-capacity trains. African mythic space, layered mixed-media cosmos, spiritual modernity, eucalyptus trees, no photoreal CGI, no logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 2004677562,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/07.png style=flux_klein size=896x1152 seed=2004677562 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Melbourne Zero-Emissions Transit",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Melbourne Zero-Emissions Transit takes on the day’s Zero-Emissions Commitments thread, translating the news into a single visual moment. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of Zero-Emissions Commitments in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist painting, cosmic relief textures. Melbourne CBD, 1995 fashion passengers riding zero-emission buses. Layered mixed-media cosmos, spiritual modernity, eucalyptus scrub, red desert pigments, no digital cameras, no readable text. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1751575676,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/08.png style=flux_klein size=896x1152 seed=1751575676 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Brisbane Water Infrastructure",
+      "tone": "news",
+      "fashionYear": "1941",
+      "emailHero": false,
+      "description": "Brisbane Water Infrastructure answers a strand of today’s news with a focused visual reading. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Skunder Boghossian style, cosmic relief textures. Brisbane riverfront, 1941 fashion workers maintaining water pipes. African mythic space, layered mixed-media cosmos, spiritual modernity, eucalyptus trees, no photoreal CGI, no partisan caricature. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 989257699,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/09.png style=flux_klein size=896x1152 seed=989257699 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Adelaide Global Mobility Hub",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Adelaide Global Mobility Hub takes on the day’s Sustainable Transport thread, translating the news into a single visual moment. These initiatives are designed not only to improve productivity but also to meet net-zero emissions commitments and provide secure, climate-resilient water capacity. The World Bank’s Global Facility to Decarbonize Transport (GFDT) is accelerating investment in climate-smart mobility solutions in low and middle-income countries, fostering a global network of sustainable transport. The composition keeps the human stakes of Sustainable Transport in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Ethiopian modernist influence, cosmic relief textures. Adelaide parklands, 2015 fashion diverse commuters using sustainable transport. Layered mixed-media cosmos, spiritual modernity, eucalyptus scrub, red desert hues, no digital cameras, no watermarks. Australian landscape or city setting with Australian people.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 257499612,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-26/10.png style=flux_klein size=896x1152 seed=257499612 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
