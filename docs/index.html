@@ -25,9 +25,7 @@
       min-height: 100vh;
     }
     header {
-      padding: 2.5rem 1.25rem 1rem;
-      max-width: 1200px;
-      margin: 0 auto;
+      /* legacy unused — layout uses header.top */
     }
     h1 {
       font-size: clamp(2rem, 5vw, 3.2rem);
@@ -359,13 +357,153 @@
       font-size: 0.75rem;
       margin: 0.85rem 0 0;
     }
+
+    header.top {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem 1.5rem;
+      align-items: flex-start;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2.5rem 1.25rem 1rem;
+    }
+    header.top .brand { flex: 1 1 280px; }
+    header.top h1 { margin: 0 0 0.4rem; }
+    .auth-slot {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 0.25rem;
+    }
+    .sync-btn, .profile-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 999px;
+      padding: 0.35rem 0.85rem 0.35rem 0.35rem;
+      cursor: pointer;
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.9rem;
+    }
+    .sync-btn { padding: 0.45rem 0.95rem; }
+    .sync-btn:hover, .profile-btn:hover { border-color: var(--accent); }
+    .profile-avatar-img, .profile-avatar-fallback {
+      width: 1.7rem;
+      height: 1.7rem;
+      border-radius: 50%;
+      object-fit: cover;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #2a312c;
+      color: var(--accent);
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+    .profile-btn-label {
+      max-width: 8rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .offline-warn {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.25rem 0.75rem;
+      color: #c9a27a;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    .offline-warn[hidden] { display: none; }
+    .profile-dialog {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1200;
+      background: rgba(0,0,0,0.72);
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .profile-dialog.open { display: flex; }
+    .profile-dialog-panel {
+      width: min(420px, 100%);
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: 1.25rem 1.35rem 1.35rem;
+      position: relative;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.45);
+    }
+    .profile-dialog h3 { margin: 0 0 0.2rem; font-size: 1.2rem; }
+    .profile-dialog .meta { margin: 0 0 1rem; }
+    .profile-dialog .sub-status {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 0.85rem;
+      line-height: 1.4;
+    }
+    .sub-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 0 0 1rem;
+    }
+    .chip {
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.9rem;
+      padding: 0.45rem 0.85rem;
+      cursor: pointer;
+      border-radius: 2px;
+    }
+    .chip.primary {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .chip:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+    .chip:not(:disabled):hover { border-color: var(--accent); color: var(--accent); }
+    .profile-dialog .logout {
+      background: none;
+      border: none;
+      color: var(--muted);
+      font: inherit;
+      cursor: pointer;
+      padding: 0;
+      text-decoration: underline;
+      text-underline-offset: 0.15em;
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1>AI Art</h1>
-    <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
-    <div class="controls home-controls" id="homeControls">
+  <header class="top">
+    <div class="brand">
+      <h1>AI Art</h1>
+      <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
+    </div>
+    <div class="auth-slot">
+      <button type="button" class="sync-btn" id="authSignIn">Sign in with Google</button>
+      <button type="button" class="profile-btn" id="authProfileBtn" hidden>
+        <span class="profile-avatar-img-wrap">
+          <img id="authAvatarImg" class="profile-avatar-img" alt="" hidden />
+          <span id="authAvatarFallback" class="profile-avatar-fallback" hidden>?</span>
+        </span>
+        <span class="profile-btn-label" id="authProfileLabel">Account</span>
+      </button>
+    </div>
+  </header>
+  <p class="offline-warn" id="homeOfflineWarn" hidden>
+    Email subscriptions are offline — this gallery runs from a home computer and may pause at any time. You can still browse the artworks.
+  </p>
+  <div class="controls home-controls" id="homeControls" style="max-width:1200px;margin:0 auto;padding:0 1.25rem 1rem;display:flex;flex-wrap:wrap;gap:0.75rem 1rem;">
       <div class="control">
         <label for="artistFilter">Artist</label>
         <input id="artistFilter" type="search" placeholder="e.g. Hopper, Nolan…" autocomplete="off" />
@@ -374,8 +512,7 @@
         <label for="topicFilter">Topic</label>
         <input id="topicFilter" type="search" placeholder="e.g. climate, housing…" autocomplete="off" />
       </div>
-    </div>
-  </header>
+  </div>
   <main id="gallery"><p class="empty">Loading…</p></main>
   <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Fullscreen image">
     <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
@@ -391,6 +528,24 @@
       <p class="artist-credit" id="artistDialogCredit" hidden></p>
     </div>
   </div>
+  <div id="profileDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-label="Account" hidden>
+    <div class="profile-dialog-panel">
+      <button type="button" class="artist-dialog-close" id="profileDialogClose" aria-label="Close">&times;</button>
+      <h3 id="profileName">Account</h3>
+      <p class="meta" id="profileEmail"></p>
+      <p class="sub-status" id="profileSubStatus">Checking subscription…</p>
+      <div class="sub-actions">
+        <button type="button" class="chip primary" id="subDaily" disabled>Daily email</button>
+        <button type="button" class="chip primary" id="subWeekly" disabled>Weekly email</button>
+        <button type="button" class="chip" id="subCancel" disabled>Cancel</button>
+      </div>
+      <button type="button" class="logout" id="authLogout">Sign out</button>
+    </div>
+  </div>
+  <script>
+    window.AI_ART_CONFIG = {"googleClientId": "927667106833-7od90q7nh5oage0shc3kka5s9vtg2loj.apps.googleusercontent.com", "goatcounterUrl": "https://syntithenaiart.goatcounter.com/count", "resolverBase": "https://peppertrees.syntithenai.com", "pagesUrl": "https://syntithenai.github.io/ai-art/"};
+  </script>
+  <script src="auth-subscribe.js" defer></script>
   <script>
     async function load() {
       const res = await fetch('gallery.json?_=' + Date.now());
