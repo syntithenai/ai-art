@@ -508,6 +508,37 @@
       margin-bottom: 1.25rem;
     }
     .detail-toolbar .detail-back { margin-bottom: 0; }
+    .detail-toolbar-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .print-preview-wrap {
+      display: flex;
+      justify-content: center;
+      margin: 0.75rem 0 1rem;
+      padding: 0.75rem;
+      background: var(--bg);
+      border: 1px solid var(--line);
+      min-height: 160px;
+      align-items: center;
+    }
+    .print-preview-wrap img {
+      max-width: 100%;
+      max-height: 280px;
+      width: auto;
+      height: auto;
+      display: block;
+      object-fit: contain;
+      background: #fff;
+    }
+    .print-status {
+      color: var(--muted);
+      font-size: 0.88rem;
+      margin: 0 0 0.85rem;
+      line-height: 1.4;
+      text-align: left;
+    }
     .share-dialog-panel {
       text-align: center;
     }
@@ -711,6 +742,21 @@
       <p class="artist-meta" id="artistDialogMeta"></p>
       <p class="artist-bio" id="artistDialogBio"></p>
       <p class="artist-credit" id="artistDialogCredit" hidden></p>
+    </div>
+  </div>
+  <div id="printDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-labelledby="printDialogTitle" hidden>
+    <div class="profile-dialog-panel share-dialog-panel">
+      <button type="button" class="artist-dialog-close" id="printDialogClose" aria-label="Close">&times;</button>
+      <h3 id="printDialogTitle">Print</h3>
+      <p class="meta" id="printDialogSubtitle"></p>
+      <div class="print-preview-wrap">
+        <img id="printPreviewImg" alt="Print preview" />
+      </div>
+      <p class="print-status" id="printStatus">Preparing PDF…</p>
+      <div class="share-actions">
+        <button type="button" class="chip primary" id="printDownloadBtn" disabled>Download PDF</button>
+        <button type="button" class="chip primary" id="printPrintBtn" disabled>Print</button>
+      </div>
     </div>
   </div>
   <div id="shareDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-labelledby="shareDialogTitle" hidden>
@@ -1182,7 +1228,10 @@
           <article class="detail">
             <div class="detail-toolbar">
               <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
-              <button type="button" class="chip" data-action="share-detail">Share</button>
+              <div class="detail-toolbar-actions">
+                <button type="button" class="chip" data-action="print-detail">Print</button>
+                <button type="button" class="chip" data-action="share-detail">Share</button>
+              </div>
             </div>
             <img class="hero" src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
                  data-fullsrc="${escapeAttr(src)}" data-action="fullscreen"
@@ -1327,6 +1376,219 @@
         }
       }
 
+      const printDialog = document.getElementById('printDialog');
+      const printDialogClose = document.getElementById('printDialogClose');
+      const printDialogSubtitle = document.getElementById('printDialogSubtitle');
+      const printPreviewImg = document.getElementById('printPreviewImg');
+      const printStatus = document.getElementById('printStatus');
+      const printDownloadBtn = document.getElementById('printDownloadBtn');
+      const printPrintBtn = document.getElementById('printPrintBtn');
+      let printPdfBlob = null;
+      let printPdfUrl = null;
+      let printPdfName = 'artwork.pdf';
+
+      function clearPrintPdf() {
+        printPdfBlob = null;
+        if (printPdfUrl) {
+          URL.revokeObjectURL(printPdfUrl);
+          printPdfUrl = null;
+        }
+        if (printDownloadBtn) printDownloadBtn.disabled = true;
+        if (printPrintBtn) printPrintBtn.disabled = true;
+      }
+
+      function pdfEscapeName(s) {
+        return String(s || 'artwork')
+          .replace(/[^a-zA-Z0-9._-]+/g, '-')
+          .replace(/^-+|-+$/g, '')
+          .slice(0, 80) || 'artwork';
+      }
+
+      function u8(str) {
+        return new TextEncoder().encode(str);
+      }
+
+      function concatBytes(parts) {
+        let total = 0;
+        for (const p of parts) total += p.length;
+        const out = new Uint8Array(total);
+        let o = 0;
+        for (const p of parts) {
+          out.set(p, o);
+          o += p.length;
+        }
+        return out;
+      }
+
+      /** Minimal single-page PDF with one embedded JPEG (image only). */
+      function jpegToPdfBytes(jpegBytes, imgW, imgH) {
+        // Page size in points, matching image aspect (cap longest side ~792pt ≈ A4 height).
+        const maxSide = 792;
+        const scale = Math.min(1, maxSide / Math.max(imgW, imgH));
+        const pageW = Math.max(1, Math.round(imgW * scale));
+        const pageH = Math.max(1, Math.round(imgH * scale));
+        const objs = [];
+        const add = (body) => { objs.push(body); return objs.length; };
+
+        const catalog = add(null);
+        const pages = add(null);
+        const page = add(null);
+        const contents = add(null);
+        const image = add(null);
+
+        objs[catalog - 1] = u8(`<< /Type /Catalog /Pages ${pages} 0 R >>`);
+        objs[pages - 1] = u8(`<< /Type /Pages /Kids [${page} 0 R] /Count 1 >>`);
+        objs[page - 1] = u8(
+          `<< /Type /Page /Parent ${pages} 0 R /MediaBox [0 0 ${pageW} ${pageH}] `
+          + `/Resources << /XObject << /Im0 ${image} 0 R >> >> /Contents ${contents} 0 R >>`
+        );
+        const stream = u8(`q ${pageW} 0 0 ${pageH} 0 0 cm /Im0 Do Q`);
+        objs[contents - 1] = concatBytes([
+          u8(`<< /Length ${stream.length} >>\nstream\n`),
+          stream,
+          u8('\nendstream'),
+        ]);
+        objs[image - 1] = concatBytes([
+          u8(
+            `<< /Type /XObject /Subtype /Image /Width ${imgW} /Height ${imgH} `
+            + `/ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode `
+            + `/Length ${jpegBytes.length} >>\nstream\n`
+          ),
+          jpegBytes,
+          u8('\nendstream'),
+        ]);
+
+        const header = u8('%PDF-1.4\n');
+        const parts = [header];
+        const offsets = [0];
+        let offset = header.length;
+        for (let i = 0; i < objs.length; i++) {
+          offsets.push(offset);
+          const chunk = concatBytes([u8(`${i + 1} 0 obj\n`), objs[i], u8('\nendobj\n')]);
+          parts.push(chunk);
+          offset += chunk.length;
+        }
+        const xrefStart = offset;
+        let xref = `xref\n0 ${objs.length + 1}\n`;
+        xref += '0000000000 65535 f \n';
+        for (let i = 1; i <= objs.length; i++) {
+          xref += String(offsets[i]).padStart(10, '0') + ' 00000 n \n';
+        }
+        xref += `trailer\n<< /Size ${objs.length + 1} /Root ${catalog} 0 R >>\n`;
+        xref += `startxref\n${xrefStart}\n%%EOF\n`;
+        parts.push(u8(xref));
+        return concatBytes(parts);
+      }
+
+      async function imageUrlToJpeg(url) {
+        const img = new Image();
+        img.decoding = 'async';
+        await new Promise((resolve, reject) => {
+          img.onload = () => resolve();
+          img.onerror = () => reject(new Error('Could not load image for PDF'));
+          img.src = url;
+        });
+        const w = img.naturalWidth || img.width;
+        const h = img.naturalHeight || img.height;
+        if (!w || !h) throw new Error('Invalid image size');
+        const canvas = document.createElement('canvas');
+        canvas.width = w;
+        canvas.height = h;
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, w, h);
+        ctx.drawImage(img, 0, 0);
+        const blob = await new Promise((resolve, reject) => {
+          canvas.toBlob(
+            (b) => (b ? resolve(b) : reject(new Error('JPEG encode failed'))),
+            'image/jpeg',
+            0.92
+          );
+        });
+        const buf = new Uint8Array(await blob.arrayBuffer());
+        return { jpegBytes: buf, width: w, height: h };
+      }
+
+      async function buildPrintPdf(src, title) {
+        const { jpegBytes, width, height } = await imageUrlToJpeg(src);
+        const pdfBytes = jpegToPdfBytes(jpegBytes, width, height);
+        return {
+          blob: new Blob([pdfBytes], { type: 'application/pdf' }),
+          name: pdfEscapeName(title) + '.pdf',
+        };
+      }
+
+      async function openPrintDialog() {
+        const route = parseRoute();
+        if (route.view !== 'detail') return;
+        const found = findImage(route.date, route.index);
+        if (!found) return;
+        const src = 'runs/' + found.run.date + '/' + (found.img.jpg || found.img.png);
+        const title = found.img.title || 'Artwork';
+        clearPrintPdf();
+        printDialogSubtitle.textContent = title;
+        printPreviewImg.src = src;
+        printPreviewImg.alt = title;
+        printStatus.textContent = 'Preparing PDF…';
+        printDialog.hidden = false;
+        printDialog.classList.add('open');
+        try {
+          const pdf = await buildPrintPdf(src, title);
+          printPdfBlob = pdf.blob;
+          printPdfName = pdf.name;
+          printPdfUrl = URL.createObjectURL(pdf.blob);
+          printDownloadBtn.disabled = false;
+          printPrintBtn.disabled = false;
+          printStatus.textContent = 'PDF ready — download or send to your printer.';
+        } catch (err) {
+          printStatus.textContent = 'Could not build PDF: ' + (err.message || String(err));
+        }
+      }
+
+      function closePrintDialog() {
+        printDialog.classList.remove('open');
+        printDialog.hidden = true;
+        clearPrintPdf();
+        printPreviewImg.removeAttribute('src');
+      }
+
+      function downloadPrintPdf() {
+        if (!printPdfBlob || !printPdfUrl) return;
+        const a = document.createElement('a');
+        a.href = printPdfUrl;
+        a.download = printPdfName;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      }
+
+      function printPrintPdf() {
+        if (!printPdfUrl) return;
+        const frame = document.createElement('iframe');
+        frame.style.position = 'fixed';
+        frame.style.right = '0';
+        frame.style.bottom = '0';
+        frame.style.width = '0';
+        frame.style.height = '0';
+        frame.style.border = '0';
+        frame.setAttribute('aria-hidden', 'true');
+        document.body.appendChild(frame);
+        const cleanup = () => {
+          window.setTimeout(() => { try { frame.remove(); } catch (e) { /* ignore */ } }, 1500);
+        };
+        frame.onload = () => {
+          try {
+            frame.contentWindow.focus();
+            frame.contentWindow.print();
+          } catch (err) {
+            // Fallback: open PDF in a new tab for the user to print.
+            window.open(printPdfUrl, '_blank', 'noopener');
+          }
+          cleanup();
+        };
+        frame.src = printPdfUrl;
+      }
+
       function render() {
         const route = parseRoute();
         if (route.view === 'detail') {
@@ -1339,6 +1601,12 @@
       main.addEventListener('click', (e) => {
         const t = e.target;
         if (!(t instanceof Element)) return;
+        const printBtn = t.closest('[data-action="print-detail"]');
+        if (printBtn) {
+          e.preventDefault();
+          openPrintDialog();
+          return;
+        }
         const shareBtn = t.closest('[data-action="share-detail"]');
         if (shareBtn) {
           e.preventDefault();
@@ -1374,8 +1642,21 @@
         });
       }
       if (shareCopyBtn) shareCopyBtn.addEventListener('click', () => { copyShareUrl(); });
+      if (printDialogClose) printDialogClose.addEventListener('click', closePrintDialog);
+      if (printDialog) {
+        printDialog.addEventListener('click', (e) => {
+          if (e.target === printDialog) closePrintDialog();
+        });
+      }
+      if (printDownloadBtn) printDownloadBtn.addEventListener('click', downloadPrintPdf);
+      if (printPrintBtn) printPrintBtn.addEventListener('click', printPrintPdf);
       document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && shareDialog && shareDialog.classList.contains('open')) {
+        if (e.key !== 'Escape') return;
+        if (printDialog && printDialog.classList.contains('open')) {
+          closePrintDialog();
+          return;
+        }
+        if (shareDialog && shareDialog.classList.contains('open')) {
           closeShareDialog();
         }
       });
