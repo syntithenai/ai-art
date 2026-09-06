@@ -1596,6 +1596,140 @@
           "prompt": "Painterly fine-art, Ethiopian modernist influence, cosmic relief textures. Adelaide parklands, 2015 fashion diverse commuters using sustainable transport. Layered mixed-media cosmos, spiritual modernity, eucalyptus scrub, red desert hues, no digital cameras, no watermarks. Australian landscape or city setting with Australian people."
         }
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "artist": {
+        "id": "flack",
+        "name": "Audrey Flack",
+        "era": "contemporary US",
+        "renderMode": "painterly",
+        "aspectRatio": "1:1",
+        "tags": [
+          "photoreal",
+          "still-life",
+          "north-america"
+        ],
+        "bio": "Audrey Lenora Flack was an American visual artist. Her work pioneered the art genre of photorealism and encompasses painting, printmaking, sculpture, and photography.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Self_portrait_Audrey_Flack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Australian Grid Resilience",
+        "Global Renewable Surge",
+        "Battery Innovation",
+        "Community Energy Security",
+        "Circular Economy Wins",
+        "Green Hydrogen Discovery"
+      ],
+      "summary": "Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. In the first quarter of 2026, gas-fired generation dropped by 24% compared to the previous year, as home batteries and solar power reshaped the grid. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents.\n\nInternationally, the momentum of clean energy has been recognized as the scientific breakthrough of 2025, marking the first year solar and wind surpassed fossil fuels in global generation. Innovations in battery technology are accelerating rapidly, with breakthroughs in calcium-ion, sodium-ion, and solid-state batteries promising safer, cheaper, and more sustainable storage solutions. These advancements are opening the door to a future where energy storage is abundant and accessible, supporting everything from electric vehicles to remote data centers.\n\nBeyond technology, human ingenuity is driving conservation and sustainability wins worldwide. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Meanwhile, in Hawaii, engineers are transforming ocean plastic and fishing nets into durable asphalt roads, demonstrating how circular economy principles can tackle pollution while building infrastructure. These stories highlight a global community united by the shared goal of a cleaner, safer, and more equitable energy future.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Resilient Grid",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Resilient Grid is today’s cover piece — one Australian scene that weaves together Australian Grid Resilience, Global Renewable Surge, Battery Innovation, Community Energy Security, Circular Economy Wins, and Green Hydrogen Discovery. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. Unified Australian scene, 2024 fashion. Suburban home with glowing battery, rooftop solar, scientists examining red Pilbara soil for hydrogen, storm outside. Eucalyptus scrub, diverse Australian figures. Oil brushwork, canvas texture, warm light, no text. Unified Australian scene weaving together these themes: Australian Grid Resilience, Global Renewable Surge, Battery Innovation, Community Energy Security, Circular Economy Wins, Green Hydrogen Discovery."
+        },
+        {
+          "index": 2,
+          "title": "Hydrogen in the Red",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Hydrogen in the Red answers a strand of today’s news with a focused visual reading. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1978 fashion. Australian scientists in red desert, examining iron-rich soil samples. Hydrogen bubbles rising symbolically. Eucalyptus scrub, outback landscape. Oil brushwork, canvas texture, warm earth tones, no text."
+        },
+        {
+          "index": 3,
+          "title": "Resilient Homes",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Resilient Homes takes on the day’s Battery Innovation thread, translating the news into a single visual moment. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of Battery Innovation in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 2010 fashion. Australian family in suburban home, lights on during storm. Battery unit glowing. Rain on windows, eucalyptus trees bending. Oil brushwork, canvas texture, cozy interior, no text."
+        },
+        {
+          "index": 4,
+          "title": "Circular Roads",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Circular Roads answers a strand of today’s news with a focused visual reading. Meanwhile, in Hawaii, engineers are transforming ocean plastic and fishing nets into durable asphalt roads, demonstrating how circular economy principles can tackle pollution while building infrastructure. Hawaii Turns Ocean Plastic and Fishing Nets into Roads. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1995 fashion. Australian workers mixing ocean plastic and fishing nets into asphalt. Coastal cliff background, reef edge. Oil brushwork, canvas texture, vibrant colors, no text."
+        },
+        {
+          "index": 5,
+          "title": "Solar Surge",
+          "tone": "news",
+          "fashionYear": "1920",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Solar Surge answers a strand of today’s news with a focused visual reading. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1920 fashion. Australian suburban rooftops covered in solar panels. Sun shining, eucalyptus scrub. Oil brushwork, canvas texture, bright daylight, no text."
+        },
+        {
+          "index": 6,
+          "title": "Community Battery Heart",
+          "tone": "good_news",
+          "fashionYear": "1905",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "A painterly vanitas scene in a Melbourne suburban garden. It depicts a large, glowing household battery unit acting as a protective symbol for a family during a severe storm. The image highlights how home storage provides resilience and keeps essential services online for vulnerable residents.",
+          "prompt": "Painterly fine-art vanitas, glossy symbolic household battery unit glowing amber, mirror and lipstick, hyperreal reflections, feminist clarity. 1905 Melbourne garden, Edwardian dress, eucalyptus trees, storm clouds. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Pilbara Hydrogen Dawn",
+          "tone": "good_news",
+          "fashionYear": "1962",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Set in the red desert of Western Australia, this artwork celebrates the discovery that iron-rich soils generate natural hydrogen. A diverse group of Australian scientists and local observers stand before the glowing earth, symbolizing wonder and the unlocking of a massive clean energy source beneath the Pilbara.",
+          "prompt": "Painterly fine-art, glossy symbolic hydrogen molecules rising from red iron-rich soil, mirror and lipstick vanitas, hyperreal reflections. 1962 Pilbara outback, modernist Australian fashion, eucalyptus scrub, desert light. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Circular Reef Roads",
+          "tone": "good_news",
+          "fashionYear": "1988",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "A vibrant coastal scene in Hawaii-inspired Australian reef settings, where engineers transform ocean plastic and fishing nets into durable asphalt roads. The image demonstrates circular economy principles, tackling pollution while building infrastructure, with a sense of community pride and creative problem-solving.",
+          "prompt": "Painterly fine-art, glossy symbolic recycled plastic asphalt blocks, mirror and lipstick vanitas, hyperreal reflections. 1988 coastal cliffs, 1980s Australian fashion, reef waters, fishing nets. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Solar Grid Victory",
+          "tone": "news",
+          "fashionYear": "2015",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "A sweeping view of a Sydney rooftop covered in solar panels, marking the global milestone where solar and wind surpassed fossil fuels. The scene reflects the record renewable generation driving wholesale electricity prices to historic lows, despite record demand and a 24% drop in gas-fired generation.",
+          "prompt": "Painterly fine-art, glossy symbolic solar panel array, mirror and lipstick vanitas, hyperreal reflections. 2015 Sydney rooftop, contemporary Australian fashion, harbour view, city skyline. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Resilient Home Shelter",
+          "tone": "good_news",
+          "fashionYear": "2023",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Inside a Brisbane home during a heatwave, a family gathers around a battery-powered backup system. The image emphasizes survivor dignity and community resilience, showing how household batteries serve as critical backup power, ensuring essential services remain online for vulnerable residents during extreme weather.",
+          "prompt": "Painterly fine-art, glossy symbolic backup power unit, mirror and lipstick vanitas, hyperreal reflections. 2023 Brisbane interior, modern casual Australian fashion, rainforest window view, warm light. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }

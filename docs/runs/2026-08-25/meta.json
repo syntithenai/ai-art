@@ -1,0 +1,348 @@
+{
+  "date": "2026-08-25",
+  "artist": {
+    "id": "flack",
+    "name": "Audrey Flack",
+    "era": "contemporary US",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "photoreal",
+      "still-life",
+      "north-america"
+    ],
+    "bio": "Audrey Lenora Flack was an American visual artist. Her work pioneered the art genre of photorealism and encompasses painting, printmaking, sculpture, and photography.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Self_portrait_Audrey_Flack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. In the first quarter of 2026, gas-fired generation dropped by 24% compared to the previous year, as home batteries and solar power reshaped the grid. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents.\n\nInternationally, the momentum of clean energy has been recognized as the scientific breakthrough of 2025, marking the first year solar and wind surpassed fossil fuels in global generation. Innovations in battery technology are accelerating rapidly, with breakthroughs in calcium-ion, sodium-ion, and solid-state batteries promising safer, cheaper, and more sustainable storage solutions. These advancements are opening the door to a future where energy storage is abundant and accessible, supporting everything from electric vehicles to remote data centers.\n\nBeyond technology, human ingenuity is driving conservation and sustainability wins worldwide. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Meanwhile, in Hawaii, engineers are transforming ocean plastic and fishing nets into durable asphalt roads, demonstrating how circular economy principles can tackle pollution while building infrastructure. These stories highlight a global community united by the shared goal of a cleaner, safer, and more equitable energy future.",
+  "themes": [
+    "Australian Grid Resilience",
+    "Global Renewable Surge",
+    "Battery Innovation",
+    "Community Energy Security",
+    "Circular Economy Wins",
+    "Green Hydrogen Discovery"
+  ],
+  "headlines": [
+    {
+      "title": "Renewables and Batteries Drive Down Fossil Fuel Use Despite Record Demand",
+      "url": "https://www.abc.net.au/news/2026-04-30/renewables-batteries-drive-down-fossil-fuel-use-/106622772"
+    },
+    {
+      "title": "Australia’s Energy Transition Gathers Pace with Record Renewables",
+      "url": "https://minister.dcceew.gov.au/bowen/media-releases/australias-energy-transition-gathers-pace"
+    },
+    {
+      "title": "The Household Battery Revolution That Could Change Energy Bills",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis"
+    },
+    {
+      "title": "Over 4GWh of Battery Storage Added to Australia’s Priority List",
+      "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/"
+    },
+    {
+      "title": "Science’s 2025 Breakthrough: The Unstoppable Rise of Renewable Energy",
+      "url": "https://www.science.org/content/article/breakthrough-2025"
+    },
+    {
+      "title": "Scientists Find Faster, Cleaner Way to Extract Lithium for EVs",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/"
+    },
+    {
+      "title": "New Fuel Cell Breakthrough Could Power Data Centers Efficiently",
+      "url": "https://www.sciencedaily.com/news/matter_energy/batteries/"
+    },
+    {
+      "title": "Hawaii Turns Ocean Plastic and Fishing Nets into Roads",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/"
+    },
+    {
+      "title": "Western Australia’s Red Soil May Hide Massive Clean Energy Source",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/"
+    },
+    {
+      "title": "Clean Energy Council Proposes Rule Change for Grid Certainty",
+      "url": "https://cleanenergycouncil.org.au/news-resources"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Household Batteries Power Resilience During Extreme Weather",
+      "url": "https://www.climatecouncil.org.au/resources/battery-boom-supercharging-australias-renewable-rollout/",
+      "angle": "Highlighting how home batteries are becoming essential community assets, keeping lights on and appliances running for families during storms and heatwaves."
+    },
+    {
+      "title": "Science Names Renewable Energy Growth as 2025 Breakthrough",
+      "url": "https://www.science.org/content/article/breakthrough-2025",
+      "angle": "Celebrating the global milestone where solar and wind surpassed fossil fuels, driven by affordable technology and widespread adoption."
+    },
+    {
+      "title": "Western Australia’s Red Soil Unlocks Natural Hydrogen Source",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/",
+      "angle": "Showcasing a local scientific discovery where iron-rich rocks in the Pilbara can generate hydrogen, positioning Australia as a future green fuel leader."
+    },
+    {
+      "title": "Hawaii Turns Ocean Plastic into Durable Roads",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/",
+      "angle": "Demonstrating creative problem-solving as researchers mix recycled fishing nets and plastic into asphalt, reducing pollution while building infrastructure."
+    },
+    {
+      "title": "Record Rooftop Solar Switched On in Q2 2026",
+      "url": "https://www.pv-magazine-australia.com/",
+      "angle": "Noting the record 1 GW of rooftop solar installed in Australia, reflecting strong public agency and investment in clean energy."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Renewables surge as batteries reshape Australia’s grid | energy.gov.au",
+      "url": "https://www.energy.gov.au/news/renewables-surge-batteries-reshape-australias-grid",
+      "snippet": "<strong>The surge in home solar and batteries installations is helping ease wholesale electricity market outcomes</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia's energy transition gathers pace | Ministers",
+      "url": "https://minister.dcceew.gov.au/bowen/media-releases/australias-energy-transition-gathers-pace",
+      "snippet": "The first three months of the year saw record energy demand matched by record renewables in Australia’s energy grid, as <strong>batteries and solar helped push wholesale prices down</strong>. The first quarter of 2026 showed the promise of Australia’s energy transition delivering.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia’s energy transition accelerates toward a cleaner, safer grid | Climate Change Authority",
+      "url": "https://www.climatechangeauthority.gov.au/news/australias-energy-transition-accelerates-toward-cleaner-safer-grid",
+      "snippet": "The speech highlights Australia’s accelerating shift to a low‑carbon energy system, driven by renewables, storage, and electrification, while emphasising the growing link between climate action and energy security, the rising role of households and new technologies like batteries, EVs and AI, and the need to build a more resilient, affordable grid in the face of climate and geopolitical risks.",
+      "source": "brave"
+    },
+    {
+      "title": "Over 4GWh of battery storage added to Australia's updated National Renewable Energy Priority List",
+      "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
+      "snippet": "Australia’s federal government has added <strong>11 new generation and battery storage projects to its National Renewable Energy Priority List. The Department of Climate Change, Energy, the Environment and Water (DCCEEW) said the updated Priority List includes one new transmission project and 11 generation and energy storage projects</strong>...",
+      "source": "brave"
+    },
+    {
+      "title": "News and analysis for the clean energy economy",
+      "url": "https://reneweconomy.com.au/",
+      "snippet": "Solar and wind reach 100% of demand in biggest isolated grid Trump removes ‘Renewables’ from National Renewable Energy Laboratory “Sun King” brings large-scale solar panel manufacturing back to Australia Wind and solar developers hope for faster decisions after Labor-Greens nature deal Renewables keep 2030 climate targets on track",
+      "source": "brave"
+    },
+    {
+      "title": "Solar News & Energy Storage Updates | pv magazine Australia",
+      "url": "https://www.pv-magazine-australia.com/",
+      "snippet": "... Applications &amp; Installations Report reveals record solar and battery growth as clean energy shift accelerates <strong>A record 1 GW of rooftop solar was switched on across Australia in the second quarter of 2026</strong> while investment momentum strengthened in the large-scale PV sector with a record 1.8 ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia energy site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+energy+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Battery Boom: Supercharging Australia’s Renewable Rollout - Climate Council",
+      "url": "https://www.climatecouncil.org.au/resources/battery-boom-supercharging-australias-renewable-rollout/",
+      "snippet": "Home batteries and the batteries ... by <strong>powering essential services and appliances when power supply is disrupted in severe weather events like fires, storms and floods that are accelerating due to climate pollution</strong>...",
+      "source": "brave"
+    },
+    {
+      "title": "Science’s 2025 Breakthrough of the Year: The unstoppable rise of renewable energy | Science | AAAS",
+      "url": "https://www.science.org/content/article/breakthrough-2025",
+      "snippet": "<strong>Vanadium flow batteries and sodium batteries could be cheaper; zinc-air batteries could hold far more energy</strong>. In the meantime, climate scientists are already seeing benefits from the existing technology.",
+      "source": "brave"
+    },
+    {
+      "title": "The growth of renewable energy, scientific breakthrough of 2025",
+      "url": "https://sciencemediacentre.es/en/unstoppable-growth-renewables-scientific-breakthrough-year-science-magazine",
+      "snippet": "<strong>Science magazine has chosen “the seemingly unstoppable growth of renewable energy” as the most notable scientific advance of 2025</strong>. The journal highlights that this year was the first in which solar and wind energy surpassed fossil fuel-based ...",
+      "source": "brave"
+    },
+    {
+      "title": "Our renewable future: batteries to the rescue",
+      "url": "https://eastangliabylines.co.uk/energy/our-renewable-future-batteries-to-the-rescue/",
+      "snippet": "For some time to come, we can expect ... system needs. The good news is that <strong>these developments are already overcoming the biggest challenge facing the transition to 100% renewable energy</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Batteries News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/matter_energy/batteries/",
+      "snippet": "Feb. 13, 2026  <strong>Scientists at HKUST have unveiled a major leap forward in calcium-ion battery technology</strong>, potentially opening the door to safer, more sustainable energy storage for everything from renewable power ...",
+      "source": "brave"
+    },
+    {
+      "title": "Energy and the Environment News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/earth_climate/energy/",
+      "snippet": "<strong>Scientists Just Found a Faster, Cleaner Way to Extract Lithium for EV Batteries</strong> · May 23, 2026  A breakthrough lithium-extraction method could help solve one of clean energy’s dirtiest problems.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world energy human interest OR discovery OR innovation",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+energy+human+interest+OR+discovery+OR+innovation&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News Listing | Clean Energy Council",
+      "url": "https://cleanenergycouncil.org.au/news-resources",
+      "snippet": "Today&#x27;s Energy and Climate Change ... interest. ... Today, <strong>the Clean Energy Council is formally proposing a rule change that would provide investors and developers of renewable generation and storage with greater certainty when connecting to the grid</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "The household battery revolution that could change energy bills … and the world | Renewable energy | The Guardian",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis",
+      "snippet": "But batteries are increasingly taking over that role. <strong>Total gas-fired generation was 24% lower across three months this summer compared with the year before</strong>. Tennant Reed, the climate change and energy director with the Australian Industry Group, ...",
+      "source": "brave"
+    },
+    {
+      "title": "Renewables and batteries drive down fossil fuel use despite record electricity demand - ABC News",
+      "url": "https://www.abc.net.au/news/2026-04-30/renewables-batteries-drive-down-fossil-fuel-use-/106622772",
+      "snippet": "Most notable, though, was the effect of <strong>added battery capacity to the grid, which has doubled from this time last year</strong>. That growth in battery capacity managed to shift about three times as much power from the daytime, when solar power is plentiful, ...",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Resilient Grid",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Resilient Grid is today’s cover piece — one Australian scene that weaves together Australian Grid Resilience, Global Renewable Surge, Battery Innovation, Community Energy Security, Circular Economy Wins, and Green Hydrogen Discovery. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. Unified Australian scene, 2024 fashion. Suburban home with glowing battery, rooftop solar, scientists examining red Pilbara soil for hydrogen, storm outside. Eucalyptus scrub, diverse Australian figures. Oil brushwork, canvas texture, warm light, no text. Unified Australian scene weaving together these themes: Australian Grid Resilience, Global Renewable Surge, Battery Innovation, Community Energy Security, Circular Economy Wins, Green Hydrogen Discovery.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1112745135,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/01.png style=flux_klein size=1024x1024 seed=1112745135 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Hydrogen in the Red",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Hydrogen in the Red answers a strand of today’s news with a focused visual reading. Researchers in Western Australia have discovered that iron-rich red soils can naturally generate hydrogen, potentially unlocking a massive clean energy source beneath the Pilbara. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1978 fashion. Australian scientists in red desert, examining iron-rich soil samples. Hydrogen bubbles rising symbolically. Eucalyptus scrub, outback landscape. Oil brushwork, canvas texture, warm earth tones, no text.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 60034,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/02.png style=flux_klein size=1024x1024 seed=60034 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Resilient Homes",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Resilient Homes takes on the day’s Battery Innovation thread, translating the news into a single visual moment. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. The composition keeps the human stakes of Battery Innovation in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 2010 fashion. Australian family in suburban home, lights on during storm. Battery unit glowing. Rain on windows, eucalyptus trees bending. Oil brushwork, canvas texture, cozy interior, no text.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1712174400,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/03.png style=flux_klein size=1024x1024 seed=1712174400 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Circular Roads",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Circular Roads answers a strand of today’s news with a focused visual reading. Meanwhile, in Hawaii, engineers are transforming ocean plastic and fishing nets into durable asphalt roads, demonstrating how circular economy principles can tackle pollution while building infrastructure. Hawaii Turns Ocean Plastic and Fishing Nets into Roads. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1995 fashion. Australian workers mixing ocean plastic and fishing nets into asphalt. Coastal cliff background, reef edge. Oil brushwork, canvas texture, vibrant colors, no text.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 528291147,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/04.png style=flux_klein size=1024x1024 seed=528291147 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Solar Surge",
+      "tone": "news",
+      "fashionYear": "1920",
+      "emailHero": false,
+      "description": "Solar Surge answers a strand of today’s news with a focused visual reading. Australia is leading a global energy transition, with record renewable generation and battery storage driving wholesale electricity prices to historic lows despite record demand. This shift is not only lowering energy bills but also enhancing community resilience, with household batteries now serving as critical backup power during severe weather events like storms and heatwaves, ensuring essential services remain online for vulnerable residents. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity. 1920 fashion. Australian suburban rooftops covered in solar panels. Sun shining, eucalyptus scrub. Oil brushwork, canvas texture, bright daylight, no text.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1576720010,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/05.png style=flux_klein size=1024x1024 seed=1576720010 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Community Battery Heart",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": false,
+      "description": "A painterly vanitas scene in a Melbourne suburban garden. It depicts a large, glowing household battery unit acting as a protective symbol for a family during a severe storm. The image highlights how home storage provides resilience and keeps essential services online for vulnerable residents.",
+      "prompt": "Painterly fine-art vanitas, glossy symbolic household battery unit glowing amber, mirror and lipstick, hyperreal reflections, feminist clarity. 1905 Melbourne garden, Edwardian dress, eucalyptus trees, storm clouds. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1406373661,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/06.png style=flux_klein size=1024x1024 seed=1406373661 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Pilbara Hydrogen Dawn",
+      "tone": "good_news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Set in the red desert of Western Australia, this artwork celebrates the discovery that iron-rich soils generate natural hydrogen. A diverse group of Australian scientists and local observers stand before the glowing earth, symbolizing wonder and the unlocking of a massive clean energy source beneath the Pilbara.",
+      "prompt": "Painterly fine-art, glossy symbolic hydrogen molecules rising from red iron-rich soil, mirror and lipstick vanitas, hyperreal reflections. 1962 Pilbara outback, modernist Australian fashion, eucalyptus scrub, desert light. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 354195640,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/07.png style=flux_klein size=1024x1024 seed=354195640 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Circular Reef Roads",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "A vibrant coastal scene in Hawaii-inspired Australian reef settings, where engineers transform ocean plastic and fishing nets into durable asphalt roads. The image demonstrates circular economy principles, tackling pollution while building infrastructure, with a sense of community pride and creative problem-solving.",
+      "prompt": "Painterly fine-art, glossy symbolic recycled plastic asphalt blocks, mirror and lipstick vanitas, hyperreal reflections. 1988 coastal cliffs, 1980s Australian fashion, reef waters, fishing nets. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 40162626,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/08.png style=flux_klein size=1024x1024 seed=40162626 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Solar Grid Victory",
+      "tone": "news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "A sweeping view of a Sydney rooftop covered in solar panels, marking the global milestone where solar and wind surpassed fossil fuels. The scene reflects the record renewable generation driving wholesale electricity prices to historic lows, despite record demand and a 24% drop in gas-fired generation.",
+      "prompt": "Painterly fine-art, glossy symbolic solar panel array, mirror and lipstick vanitas, hyperreal reflections. 2015 Sydney rooftop, contemporary Australian fashion, harbour view, city skyline. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 537616395,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/09.png style=flux_klein size=1024x1024 seed=537616395 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Resilient Home Shelter",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "Inside a Brisbane home during a heatwave, a family gathers around a battery-powered backup system. The image emphasizes survivor dignity and community resilience, showing how household batteries serve as critical backup power, ensuring essential services remain online for vulnerable residents during extreme weather.",
+      "prompt": "Painterly fine-art, glossy symbolic backup power unit, mirror and lipstick vanitas, hyperreal reflections. 2023 Brisbane interior, modern casual Australian fashion, rainforest window view, warm light. Visible brushwork, pigment on canvas, no digital cameras, no Bauhaus squares. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1312596854,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-25/10.png style=flux_klein size=1024x1024 seed=1312596854 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
