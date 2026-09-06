@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-17",
+  "artist": {
+    "id": "puntillism_signac",
+    "name": "Paul Signac",
+    "era": "Neo-Impressionism FR",
+    "renderMode": "painterly",
+    "aspectRatio": "4:3",
+    "tags": [
+      "pointillism",
+      "europe"
+    ],
+    "bio": "Paul Victor Jules Signac was a French Neo-Impressionist painter who, with Georges Seurat, helped develop the artistic technique Pointillism.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_Signac%2C_ca._1883.jpg/330px-Paul_Signac%2C_ca._1883.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "In a significant victory for Australian workers, the Fair Work Commission has approved a 4.75% increase to award wages, effective from July 2026, ensuring that millions of employees receive a tangible boost to their living standards. This decision follows a robust campaign by unions who initially sought a 6% rise, reflecting a strong commitment to protecting the financial security of the lowest-paid workers in the country. The national minimum wage has also been adjusted to $26.44 per hour, reinforcing the legal floor for fair compensation and ensuring that casual workers receive their mandated 25% loading.\n\nBeyond the immediate financial gains, the Australian workplace is seeing a renewed focus on solidarity and collective bargaining. Unions and government officials, including Climate Change Minister Chris Bowen, are engaging in constructive dialogue to address broader economic challenges, such as the impact of global trade tensions on local living standards. This period also marks a moment of remembrance for the Beaconsfield mine disaster, where the community continues to honor the resilience of survivors and the enduring importance of workplace safety and worker welfare.\n\nInternationally, the narrative of human achievement and innovation remains strong. Research from institutions like UCL and the World Economic Forum highlights how workplace learning and curiosity are driving innovation among 'routine' workers, proving that human ingenuity is a key driver of progress. Programs like the Cisco Networking Academies have successfully reskilled over 6 million students worldwide, demonstrating a global commitment to helping workers adapt to a changing job ecosystem. These stories collectively underscore a world where human care, scientific progress, and community resilience are at the forefront of the future of work.",
+  "themes": [
+    "Australian Wage Growth",
+    "Union Solidarity",
+    "Workplace Safety Remembrance",
+    "Global Reskilling",
+    "Worker Innovation",
+    "Human-Centered Technology"
+  ],
+  "headlines": [
+    {
+      "title": "Thousands of Aussie workers to get pay rise in ‘world-leading’ changes",
+      "url": "https://www.labourstart.org/news/country.php?country=Australia&langcode=en"
+    },
+    {
+      "title": "Unions have won a 4.75% pay rise for millions of workers",
+      "url": "https://www.sda.au/news/unions-have-won-a-4-75-pay-rise-for-millions-of-workers/"
+    },
+    {
+      "title": "BHP, Port Hedland unions fail to reach wage deal; talks to resume",
+      "url": "https://www.labourstart.org/news/country.php?country=Australia&langcode=en"
+    },
+    {
+      "title": "Climate Change Minister Chris Bowen turns to unions",
+      "url": "https://www.labourstart.org/news/country.php?country=Australia&langcode=en"
+    },
+    {
+      "title": "Beaconsfield mine tragedy: 18 years of remembrance and resilience",
+      "url": "https://awu.net.au/vic/news/"
+    },
+    {
+      "title": "A commitment to discovery will allow innovation to thrive",
+      "url": "https://www.weforum.org/stories/2017/01/a-commitment-to-discovery-will-allow-innovation-to-thrive/"
+    },
+    {
+      "title": "Work-related curiosity positively predicts worker innovation",
+      "url": "https://www.researchgate.net/publication/307401019_Work-related_curiosity_positively_predicts_worker_innovation"
+    },
+    {
+      "title": "Stimulating the innovation potential of ‘routine’ workers through workplace learning",
+      "url": "https://discovery.ucl.ac.uk/1527286/"
+    },
+    {
+      "title": "Myanmar Finance Sector Union calls on Australia to sanction Myanmar’s Central Bank",
+      "url": "https://www.labourstart.org/news/country.php?country=Australia&langcode=en"
+    },
+    {
+      "title": "Minimum Wage in Australia 2026: Rates, Awards and Your Rights",
+      "url": "https://www.australianunions.org.au/factsheet/minimum-wage/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Unions secure 4.75% pay rise for millions of Australian workers",
+      "url": "https://www.sda.au/news/unions-have-won-a-4-75-pay-rise-for-millions-of-workers/",
+      "angle": "A constructive outcome from the Annual Wage Review that directly improves the financial well-being and agency of the lowest-paid workers in Australia."
+    },
+    {
+      "title": "Cisco Networking Academies reskill 6 million students worldwide",
+      "url": "https://www.weforum.org/stories/2017/01/a-commitment-to-discovery-will-allow-innovation-to-thrive/",
+      "angle": "A global example of human care and education, showing how structured learning programs empower individuals to build, design, and maintain the networks of the future."
+    },
+    {
+      "title": "Research reveals curiosity as a key driver of worker innovation",
+      "url": "https://www.researchgate.net/publication/307401019_Work-related_curiosity_positively_predicts_worker_innovation",
+      "angle": "Scientific evidence that human traits like curiosity and creative self-efficacy are essential for innovation, highlighting the value of human ingenuity in the workplace."
+    },
+    {
+      "title": "Workplace learning stimulates innovation for 'routine' workers",
+      "url": "https://discovery.ucl.ac.uk/1527286/",
+      "angle": "A study demonstrating how formal and informal learning environments help lower-grade workers expand their skills and participate in employee-driven innovation."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "LabourStart - Australia",
+      "url": "https://www.labourstart.org/news/country.php?country=Australia&langcode=en",
+      "snippet": "Other news Jetstar&#x27;s profits soar as passengers face more fees and workers push for bigger share 2026-08-18 [ABC] Western Australia BHP, Port Hedland unions fail to reach wage deal; talks to resume on August 25 2026-08-18 [Reuters] Myanmar Finance Sector Union calls on Australia to sanction Myanmar’s Central Bank 2026-08-18 [UNI Global Union] Climate Change Minister Chris Bowen turns to unions 2026-08-17 [News24] Working people’s super can’t be trusted under a Hanson and Bragg partnership 2026-08-17 [ACTU] Thousands of Aussie workers to get pay rise in ‘world-leading’ changes 2026-08",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News | Australian Unions",
+      "url": "https://www.australianunions.org.au/latest-news/",
+      "snippet": "All the latest news stories, updates to work rights, campaign developments and union member wins from across the movement.",
+      "source": "brave"
+    },
+    {
+      "title": "Minimum Wage in Australia 2026: Rates, Awards and Your Rights | Australian Unions",
+      "url": "https://www.australianunions.org.au/factsheet/minimum-wage/",
+      "snippet": "<strong>The national minimum wage is $26.44 per hour as of 1 July 2026</strong>. Employers cannot pay you less than the legal minimum wage. Casual workers must receive at least a 25% loading on top of their hourly rate.",
+      "source": "brave"
+    },
+    {
+      "title": "Unions have won a 4.75% pay rise for millions of workers - SDA",
+      "url": "https://www.sda.au/news/unions-have-won-a-4-75-pay-rise-for-millions-of-workers/",
+      "snippet": "The Fair Work Commission handed down its Annual Wage Review decision this morning, <strong>increasing award wages by 4.75%</strong>. This increase will apply from the first full pay period on or after 1 July 2026.",
+      "source": "brave"
+    },
+    {
+      "title": "News - The Australian Workers' Union : The Australian Workers' Union",
+      "url": "https://awu.net.au/vic/news/",
+      "snippet": "On this day, 18 years ago, <strong>tragedy struck the Beaconsfield mine, located 40 km north-west of Launceston</strong>. A rock fall trapped 17 miners underground, leaving three of them in dire circumstances.",
+      "source": "brave"
+    },
+    {
+      "title": "Unions increase their minimum wages claim to 6% - Australian Council of Trade Unions",
+      "url": "https://www.actu.org.au/media-release/unions-increase-their-minimum-wages-claim-to-6/",
+      "snippet": "Australian Unions will argue for a <strong>6% Annual Wage Review increase</strong> for the country’s 3 million lowest paid workers as Trump’s war continues to tear into workers’ living standards.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia workers site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+workers+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: workers unions wages workplace safety good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=workers+unions+wages+workplace+safety+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Stimulating the innovation potential of ‘routine’ workers through workplace learning - UCL Discovery",
+      "url": "https://discovery.ucl.ac.uk/1527286/",
+      "snippet": "‘Tracking’ of employees in selected organizational contexts has highlighted ways in which interplay between formal and informal workplace learning can help to create the environments for employees in lower grade jobs to use and expand their skills. This workplace learning is a precondition, a stimulus and an essential ingredient for participation in employee-driven innovation, as workers engage with others to vary, and eventually to change, work practices.",
+      "source": "brave"
+    },
+    {
+      "title": "www.pwc.com/people Workforce of the future The competing forces shaping 2030",
+      "url": "https://www.pwc.com.au/pdf/workforce-of-the-future-the-competing-forces-shaping-2030.pdf",
+      "snippet": "Artisans, makers and ‘new Worker Guilds’ thrive. Humanness is highly valued. Organisations and individuals race to give consumers what they want. Innovation outpaces regulation. Digital platforms give outsized reach · and influence to those with a winning idea. Specialists and niche profit- ... In a world ...",
+      "source": "brave"
+    },
+    {
+      "title": "Humanity Works: Merging Technologies and People for the Workforce of the Future : Levit, Alexandra: Amazon.com.au: Books",
+      "url": "https://www.amazon.com.au/Humanity-Works-Merging-Technologies-Workforce/dp/0749483458",
+      "snippet": "She consults and writes on leadership development, human resources, technology adoption, entrepreneurship, innovation, career and workplace trends on behalf of numerous Fortune 500 companies including American Express, Canon, Deloitte, DeVry University, Intuit, SilkRoad, and Staples, and has spoken on these topics at hundreds of organizations around the world including Abbott, ADP, Bank of America, Cardinal Health, Campbell Soup, Exelon, the Federal Reserve Bank, the Human Capital Institute, McDonalds, Microsoft, PepsiCo, the Society of Human Resource Management, and Whirlpool.",
+      "source": "brave"
+    },
+    {
+      "title": "A commitment to discovery will allow innovation to thrive | World Economic Forum",
+      "url": "https://www.weforum.org/stories/2017/01/a-commitment-to-discovery-will-allow-innovation-to-thrive/",
+      "snippet": "In technology, for example, job roles are becoming more complex, and to be successful, individuals will need a balance of depth in data analytics, security, device management and application development, while also mastering softer competencies such as creativity, innovative design and entrepreneurship. As the job ecosystem changes, the key is to help workers who might feel locked out of the job market to get reskilled for new roles. At Cisco, we have seen great success with the Cisco Networking Academies, a programme that for nearly 20 years has given more than 6 million students worldwide the skills needed to build, design and maintain computer networks.",
+      "source": "brave"
+    },
+    {
+      "title": "(PDF) Work-related curiosity positively predicts worker innovation",
+      "url": "https://www.researchgate.net/publication/307401019_Work-related_curiosity_positively_predicts_worker_innovation",
+      "snippet": "The study found: Degree of human-AI interaction, creative self-efficacy, and creative role identity were identified as having a direct correlation with users’ innovative behaviors, and the remaining independent variables had an indirect correlation with the dependent variables; tool performance, creative role identity, and perceived playfulness were the necessary conditions for users to achieve innovative behaviors; and four types of innovative behavioral conditioning configurations were further identified, i.e., Technology-Efficiency Synergy (81.5% coverage), Individual Cognitively Dominant (84% coverage), Interactive Empowerment (77.9% coverage) and Social Compensatory (40.6% coverage).",
+      "source": "brave"
+    },
+    {
+      "title": "Innovation at work: 4 real-world examples that get it right | Interact software",
+      "url": "https://www.interactsoftware.com/blog/innovation-at-work-examples/",
+      "snippet": "The company deployed several strategies to create a cohesive culture among cabin crews and office workers, including using its intranet to build community. The team also produced podcasts that shared employee stories and highlighted the goings on in different departments. Idea sharing itself served as a major path to cohesion as well. Allowing staff to see and collaborate on ideas from every corner of the organization went a long way toward creating a unified company culture. As a creative company, Warner Bros. Discovery sought to capture the creative, innovative ideas of its workforce.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian workers unions wages workplace safety news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+workers+unions+wages+workplace+safety+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1974",
+      "emailHero": true,
+      "description": "A unified Sydney Harbour scene weaving wage growth, union strength, safety remembrance, and global reskilling. Diverse workers in 1970s attire stand together, symbolizing the 4.75% pay rise and collective bargaining. The composition honors the Beaconsfield mine spirit through safe, dignified labor and community resilience.",
+      "prompt": "Neo-Impressionist mosaic dots, painterly fine-art, Sydney Harbour, 1974 fashion, diverse Australian workers, union solidarity, wage growth, workplace safety, global reskilling, Mediterranean sail light, joyful scientific color, canvas texture, pigment, brushwork, no digital cameras, no photoreal CGI. Unified Australian scene weaving together these themes: Australian Wage Growth, Union Solidarity, Workplace Safety Remembrance, Global Reskilling, Worker Innovation, Human-Centered Technology. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1206023307,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/01.png style=flux_klein size=1152x896 seed=1206023307 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "The Reskilling Wave",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Young Australians in 1998 attire gather at a Brisbane community center, representing the Cisco Networking Academies reskilling 6 million students worldwide. The scene highlights human ingenuity and structured learning empowering individuals to build the networks of the future through curiosity and creative self-efficacy.",
+      "prompt": "Neo-Impressionist mosaic dots, painterly fine-art, Brisbane community center, 1998 fashion, young Australians, reskilling, networking, innovation, curiosity, human ingenuity, Mediterranean sail light, joyful scientific color, canvas texture, pigment, brushwork, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 64065094,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/02.png style=flux_klein size=1152x896 seed=64065094 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Routine Innovation",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "Warehouse workers in 2012 attire collaborate in a Melbourne logistics hub, illustrating research on workplace learning stimulating innovation for routine workers. The image shows how formal and informal learning environments help lower-grade workers expand skills and participate in employee-driven progress, reinforcing human-centered technology.",
+      "prompt": "Neo-Impressionist mosaic dots, painterly fine-art, Melbourne logistics hub, 2012 fashion, warehouse workers, routine innovation, workplace learning, skill expansion, human-centered technology, Mediterranean sail light, joyful scientific color, canvas texture, pigment, brushwork, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 682034018,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/03.png style=flux_klein size=1152x896 seed=682034018 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Beaconsfield Dignity",
+      "tone": "news",
+      "fashionYear": "2014",
+      "emailHero": false,
+      "description": "A quiet memorial in the Tasmanian bush, 2014 attire, honoring the Beaconsfield mine disaster survivors. The scene emphasizes community resilience, worker welfare, and the enduring importance of workplace safety, visualized with human care and dignity, reflecting the national remembrance and support for those affected by industrial tragedies.",
+      "prompt": "Neo-Impressionist mosaic dots, painterly fine-art, Tasmanian bush, 2014 fashion, memorial, Beaconsfield mine, survivor dignity, community resilience, workplace safety, worker welfare, Mediterranean sail light, joyful scientific color, canvas texture, pigment, brushwork, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 217100204,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/04.png style=flux_klein size=1152x896 seed=217100204 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Wage Floor",
+      "tone": "good_news",
+      "fashionYear": "2026",
+      "emailHero": false,
+      "description": "Suburban Australian families in 2026 attire enjoy a park, symbolizing the tangible boost from the 4.75% award wage increase and the $26.44 national minimum wage. The scene reflects improved living standards, financial security for lowest-paid workers, and the constructive outcome of the Annual Wage Review ensuring fair compensation.",
+      "prompt": "Neo-Impressionist mosaic dots, painterly fine-art, Australian suburban park, 2026 fashion, families, wage growth, financial security, fair compensation, living standards, Mediterranean sail light, joyful scientific color, canvas texture, pigment, brushwork, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 891656812,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/05.png style=flux_klein size=1152x896 seed=891656812 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour of Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1906",
+      "emailHero": false,
+      "description": "Harbour of Solidarity takes on the day’s Australian Wage Growth thread, translating the news into a single visual moment. Research from institutions like UCL and the World Economic Forum highlights how workplace learning and curiosity are driving innovation among 'routine' workers, proving that human ingenuity is a key driver of progress. Stimulating the innovation potential of ‘routine’ workers through workplace learning. The composition keeps the human stakes of Australian Wage Growth in view without turning the news into spectacle.",
+      "prompt": "Neo-Impressionist harbor painting in the spirit of Signac: mosaic dots, Mediterranean sail light, joyful scientific color. Painterly fine-art, oil on canvas, visible brushstrokes. Sydney Harbour, 1906 fashion, workers in flat caps and wool suits. Union solidarity, wage floor, diverse Australian faces. No digital, no tenebrist. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1110809889,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/06.png style=flux_klein size=1152x896 seed=1110809889 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "The Reskilling Wave",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "The Reskilling Wave takes on the day’s Global Reskilling thread, translating the news into a single visual moment. Research from institutions like UCL and the World Economic Forum highlights how workplace learning and curiosity are driving innovation among 'routine' workers, proving that human ingenuity is a key driver of progress. Stimulating the innovation potential of ‘routine’ workers through workplace learning. The composition keeps the human stakes of Global Reskilling in view without turning the news into spectacle.",
+      "prompt": "Neo-Impressionist interior in Signac’s style: pointillism, bright pigment, scientific color harmony. Painterly, oil on canvas, textured strokes. Brisbane, 1988 fashion, denim and casual wear. Students learning, Cisco reskilling, human ingenuity. Diverse Australian faces. No CGI, no Caravaggio shadows. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1345218878,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/07.png style=flux_klein size=1152x896 seed=1345218878 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Routine Innovation",
+      "tone": "good_news",
+      "fashionYear": "2008",
+      "emailHero": false,
+      "description": "Routine Innovation takes on the day’s Worker Innovation thread, translating the news into a single visual moment. Research from institutions like UCL and the World Economic Forum highlights how workplace learning and curiosity are driving innovation among 'routine' workers, proving that human ingenuity is a key driver of progress. Stimulating the innovation potential of ‘routine’ workers through workplace learning. The composition keeps the human stakes of Worker Innovation in view without turning the news into spectacle.",
+      "prompt": "Neo-Impressionist industrial scene, Signac influence: dot mosaic, vivid light, joyful color. Painterly, oil on canvas, expressive brushwork. Melbourne, 2008 fashion, casual workwear. Routine workers, curiosity, innovation, human-centered tech. Diverse faces. No photoreal, no charcoal. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 346341340,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/08.png style=flux_klein size=1152x896 seed=346341340 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Beaconsfield Dignity",
+      "tone": "news",
+      "fashionYear": "1926",
+      "emailHero": false,
+      "description": "Beaconsfield Dignity answers a strand of today’s news with a focused visual reading. This period also marks a moment of remembrance for the Beaconsfield mine disaster, where the community continues to honor the resilience of survivors and the enduring importance of workplace safety and worker welfare. Research from institutions like UCL and the World Economic Forum highlights how workplace learning and curiosity are driving innovation among 'routine' workers, proving that human ingenuity is a key driver of progress. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Neo-Impressionist memorial, Signac style: pointillist dots, soft light, scientific color. Painterly, oil on canvas, gentle strokes. Beaconsfield, 1926 fashion, modest suits. Mine survivors, dignity, safety, community resilience. Diverse Australian faces. No gore, no tenebrist. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1960312896,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/09.png style=flux_klein size=1152x896 seed=1960312896 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Wage Floor",
+      "tone": "good_news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Wage Floor takes on the day’s Australian Wage Growth thread, translating the news into a single visual moment. The national minimum wage has also been adjusted to $26.44 per hour, reinforcing the legal floor for fair compensation and ensuring that casual workers receive their mandated 25% loading. In a significant victory for Australian workers, the Fair Work Commission has approved a 4.75% increase to award wages, effective from July 2026, ensuring that millions of employees receive a tangible boost to their living standards. The composition keeps the human stakes of Australian Wage Growth in view without turning the news into spectacle.",
+      "prompt": "Neo-Impressionist street scene, Signac influence: mosaic dots, bright pigment, joyful color. Painterly, oil on canvas, visible texture. Sydney, 2018 fashion, modern casual. Casual workers, wage floor, fair compensation, human care. Diverse faces. No digital, no Caravaggio. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1144878101,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-17/10.png style=flux_klein size=1152x896 seed=1144878101 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
