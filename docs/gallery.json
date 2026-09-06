@@ -23,6 +23,11 @@
         "Wildlife Safety Incidents"
       ],
       "summary": "Australian politics on 6 September 2026 was dominated by a significant legislative push regarding digital regulation and social media. The Albanese government is set to unveil draft laws requiring social media platforms to offer users an algorithm opt-out, accompanied by a proposed $100m penalty for harmful algorithms. While Labor Minister Anika Wells is expected to introduce the legislation, the Coalition has criticized the move as an \"attempt to censor the internet,\" with Deputy Prime Minister Angus Taylor expressing \"deep scepticism\" about the measures. This debate comes amid growing public concern over the impact of social media on mental health, particularly for teenagers.\n\nIn economic and industrial news, the federal government announced a $78m scheme to provide free qualifications for up to 6,000 tradies, aiming to address critical skills shortages in the construction sector. Separately, the Coalition proposed a plan to criminalize the burning of the Australian flag, a move Labor dismissed as an \"element of desperation\" to undercut One Nation. The Coalition also suggested making flag burning illegal to protect \"national pride,\" while simultaneously floating ideas on superannuation access for first-time home buyers. Meanwhile, the Coalition's proposal for an 80% reduction in tobacco excise was criticized for failing to model the potential impact on smoking rates.\n\nEnvironmental and safety concerns also featured prominently in the news cycle. A rapidly developing El Niño event in the Pacific is breaking records and alarming experts, with forecasts suggesting it could be the strongest ever recorded, potentially leading to severe weather extremes. Additionally, early fire bans were implemented in New South Wales and Queensland due to a hot start to spring. In a tragic incident, a crocodile handler died after an attack at a wildlife park in Papua New Guinea, while a manhunt was launched in Victoria following an alleged axe attack that left three people with serious injuries.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
       "images": [
         {
           "index": 1,

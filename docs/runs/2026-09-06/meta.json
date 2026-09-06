@@ -235,5 +235,10 @@
       "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/10.png style=flux_klein size=896x1152 seed=496871718 comfy=http://127.0.0.1:8188",
       "skipped": false
     }
-  ]
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  }
 }
