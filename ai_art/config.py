@@ -8,7 +8,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE_DIR = ROOT / "site"
+SITE_DIR = ROOT / "docs"
 RUNS_DIR = SITE_DIR / "runs"
 ARTISTS_PATH = ROOT / "artists.json"
 LOG_DIR = ROOT / "logs"

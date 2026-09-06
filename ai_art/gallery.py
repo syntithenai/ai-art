@@ -1,4 +1,4 @@
-"""Rebuild gallery.json and site/index.html from run metadata."""
+"""Rebuild gallery.json and docs/index.html from run metadata."""
 
 from __future__ import annotations
 

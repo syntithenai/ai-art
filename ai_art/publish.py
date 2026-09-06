@@ -1,4 +1,4 @@
-"""Commit site/ changes and push to GitHub Pages remote."""
+"""Commit docs/ changes and push to GitHub Pages remote."""
 
 from __future__ import annotations
 
@@ -27,7 +27,7 @@ def publish_site(*, message: str | None = None) -> str:
     if not git_available():
         raise RuntimeError("not a git repo — init/publish repo first")
 
-    _run(["git", "add", "site", "artists.json", "README.md"], check=False)
+    _run(["git", "add", "docs", "artists.json", "README.md"], check=False)
     status = _run(["git", "status", "--porcelain"], check=False)
     if not (status.stdout or "").strip():
         log("publish: nothing to commit")

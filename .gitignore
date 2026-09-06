@@ -7,3 +7,4 @@ logs/*.log
 logs/comfy.pid
 *.__gen.png
 .DS_Store
+ai_art.egg-info/
