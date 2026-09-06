@@ -10,6 +10,7 @@
     profileBtn: document.getElementById('authProfileBtn'),
     avatarImg: document.getElementById('authAvatarImg'),
     avatarFallback: document.getElementById('authAvatarFallback'),
+    avatarIcon: document.getElementById('authAvatarIcon'),
     profileLabel: document.getElementById('authProfileLabel'),
     dialog: document.getElementById('profileDialog'),
     close: document.getElementById('profileDialogClose'),
