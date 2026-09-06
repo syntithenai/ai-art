@@ -3,11 +3,12 @@
     {
       "id": "adams",
       "name": "Ansel Adams",
-      "era": "20th c.",
+      "era": "20th c. US",
       "tags": [
         "photography",
         "landscape",
-        "bw"
+        "bw",
+        "north-america"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal black-and-white landscape photography in the spirit of Ansel Adams: monumental tonal range from deep velvet blacks to luminous whites, razor-sharp focus across vast depth, dramatic high-contrast clouds, majestic scale, large-format clarity.",
@@ -17,11 +18,12 @@
     {
       "id": "salgado",
       "name": "Sebastião Salgado",
-      "era": "contemporary",
+      "era": "contemporary BR",
       "tags": [
         "photography",
         "documentary",
-        "bw"
+        "bw",
+        "latin-america"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal documentary photography in the spirit of Sebastião Salgado: silver gelatin blacks and pearly greys, humanist scale, epic environmental context, textured skin and earth, solemn dignified lighting.",
@@ -31,11 +33,12 @@
     {
       "id": "goldin",
       "name": "Nan Goldin-adjacent documentary color",
-      "era": "late 20th c.",
+      "era": "late 20th c. US",
       "tags": [
         "photography",
         "editorial",
-        "color"
+        "color",
+        "north-america"
       ],
       "renderMode": "photoreal",
       "styleLock": "Intimate photoreal color documentary still: available light, emotional immediacy, slightly imperfect framing, warm tungsten and cool window mixes, lived-in rooms, candid honesty without glamour retouching.",
@@ -45,11 +48,12 @@
     {
       "id": "leibovitz",
       "name": "Annie Leibovitz-adjacent editorial",
-      "era": "contemporary",
+      "era": "contemporary US",
       "tags": [
         "photography",
         "editorial",
-        "portrait"
+        "portrait",
+        "north-america"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal editorial portraiture: cinematic key light, rich color grade, carefully staged yet natural gesture, shallow depth of field, magazine-cover presence, precise wardrobe and prop storytelling.",
@@ -59,11 +63,12 @@
     {
       "id": "aussie_landscape_photo",
       "name": "Australian landscape photography",
-      "era": "contemporary",
+      "era": "contemporary AU",
       "tags": [
         "photography",
         "australia",
-        "landscape"
+        "landscape",
+        "oceania"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal Australian landscape photography: clear southern light, ochre earth, eucalyptus haze, vast sky, coastal salt air or outback distance, high-detail natural textures, National Geographic clarity.",
@@ -76,7 +81,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "documentary"
+        "documentary",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal golden-hour documentary still: low sun rim light, long soft shadows, warm amber and cool shadow contrast, handheld authenticity, environmental storytelling.",
@@ -90,7 +96,8 @@
       "tags": [
         "photography",
         "street",
-        "bw"
+        "bw",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal black-and-white street photography: decisive moment, layered midground action, grain of fast film, deep focus sidewalks, candid urban geometry.",
@@ -103,7 +110,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "cinema"
+        "cinema",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal cinematic film still: anamorphic lens feel, motivated practical lights, rich color science grade, shallow DOF, production-design detail, quiet narrative tension.",
@@ -116,7 +124,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "nature"
+        "nature",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal macro nature photography: razor detail on organic surfaces, creamy bokeh, dewdrops and fiber texture, controlled natural light, scientific beauty.",
@@ -129,7 +138,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "architecture"
+        "architecture",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal architectural photography: corrected verticals, precise geometry, dusk blue-hour glow with warm interior spill, clean materials, quiet monumental composition.",
@@ -143,10 +153,10 @@
       "tags": [
         "photography",
         "ocean",
-        "australia"
+        "global"
       ],
       "renderMode": "photoreal",
-      "styleLock": "Photoreal coastal photography: translucent turquoise shallows, whitewater texture, wet sand reflections, crisp horizon, Southern Ocean light, salt spray atmosphere.",
+      "styleLock": "Photoreal coastal photography: translucent turquoise shallows, whitewater texture, wet sand reflections, crisp horizon, salt spray atmosphere.",
       "negativeHint": "pool-water turquoise fake, heavy vignette, painted waves",
       "aspectRatio": "16:9"
     },
@@ -157,637 +167,12 @@
       "tags": [
         "photography",
         "news",
-        "documentary"
+        "documentary",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal color reportage photography: truthful color, environmental context, decisive gesture, available light, journalistic clarity without sensational staging.",
       "negativeHint": "glamour retouch, fantasy lighting, surreal props",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "rembrandt",
-      "name": "Rembrandt",
-      "era": "17th c.",
-      "tags": [
-        "baroque",
-        "oil",
-        "portrait"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Oil painting in the spirit of Rembrandt: warm chiaroscuro, thick luminous flesh tones against deep umber ground, quiet psychological gravity, visible brush and glaze depth.",
-      "negativeHint": "flat digital shading, neon colors, anime eyes",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "vermeer",
-      "name": "Johannes Vermeer",
-      "era": "17th c.",
-      "tags": [
-        "dutch",
-        "oil",
-        "interior"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Oil painting in the spirit of Vermeer: cool north-window light, pearl highlights, intimate interior geometry, serene stillness, finely observed fabrics and maps.",
-      "negativeHint": "harsh spotlight, cluttered baroque drama, modern gadgets",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "monet",
-      "name": "Claude Monet",
-      "era": "19th c.",
-      "tags": [
-        "impressionism",
-        "landscape"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Impressionist oil painting in the spirit of Monet: broken color, shimmering light on water and air, soft edges, vibrating complementary hues, outdoor atmosphere over hard line.",
-      "negativeHint": "hard outlines, photographic sharpness, muddy brown soup",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "van_gogh",
-      "name": "Vincent van Gogh",
-      "era": "19th c.",
-      "tags": [
-        "post-impressionism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Van Gogh: energetic impasto swirls, emotional color, rhythmic directional strokes, thick paint ridges catching light, intense sky and field energy.",
-      "negativeHint": "smooth airbrush, photoreal skin pores, flat vector shapes",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "hokusai",
-      "name": "Katsushika Hokusai",
-      "era": "Edo",
-      "tags": [
-        "ukiyo-e",
-        "woodblock"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Ukiyo-e woodblock print spirit of Hokusai: bold contour, flat layered color, stylized wave and mountain rhythm, decorative pattern, Japanese printmaking clarity.",
-      "negativeHint": "western oil impasto, photoreal foam, 3D CGI",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "mucha",
-      "name": "Alphonse Mucha",
-      "era": "Art Nouveau",
-      "tags": [
-        "art-nouveau",
-        "decorative"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Art Nouveau illustration in the spirit of Mucha: elegant flowing hair and floral halos, pastel decorative panels, graceful line, ornamental framing motifs without readable text.",
-      "negativeHint": "brutalist geometry, photoreal pores, heavy metal dark tones",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "hopper",
-      "name": "Edward Hopper",
-      "era": "20th c.",
-      "tags": [
-        "american",
-        "realism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Edward Hopper: lonely architectural light, long shadows, quiet American stillness, clear planes of color, cinematic solitude.",
-      "negativeHint": "busy crowds, neon cyberpunk, impressionist blur",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "okeeffe",
-      "name": "Georgia O'Keeffe",
-      "era": "20th c.",
-      "tags": [
-        "modernism",
-        "floral"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Georgia O'Keeffe: magnified organic forms, smooth sculptural petals and bones, desert pastel palette, monumental close-up simplicity.",
-      "negativeHint": "busy collage, tiny scattered details, harsh comic outlines",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "nolan",
-      "name": "Sidney Nolan",
-      "era": "20th c.",
-      "tags": [
-        "australian",
-        "modernism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Sidney Nolan: Australian mythic landscape, bold simplified forms, enamel-like color planes, harsh sun, Ned Kelly-era atmosphere without copying protected icons literally.",
-      "negativeHint": "European cottage pastoral, soft watercolor haze only",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "whiteley",
-      "name": "Brett Whiteley",
-      "era": "20th c.",
-      "tags": [
-        "australian",
-        "expressionism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Brett Whiteley: sensual calligraphic line, Sydney harbour light, erotic curve and bird motif energy, vivid ultramarine and warm flesh accents, restless modern lyricism.",
-      "negativeHint": "stiff academic realism, dull grey palette",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "preston",
-      "name": "Margaret Preston",
-      "era": "20th c.",
-      "tags": [
-        "australian",
-        "modernist-print"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Modernist still-life and flora in the spirit of Margaret Preston: strong design, flattened decorative native plants, bold color blocks, print-aware composition, Australian domestic modernism.",
-      "negativeHint": "Victorian clutter, photoreal dewdrop macro only",
-      "aspectRatio": "1:1"
-    },
-    {
-      "id": "turner",
-      "name": "J.M.W. Turner",
-      "era": "19th c.",
-      "tags": [
-        "romanticism",
-        "seascape"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Romantic oil painting in the spirit of Turner: luminous vaporous light, dissolving forms in mist and spray, golden and storm-grey atmosphere, sublime weather drama.",
-      "negativeHint": "hard comic outlines, flat poster color, crisp product photography",
-      "aspectRatio": "16:9"
-    },
-    {
-      "id": "caravaggio",
-      "name": "Caravaggio",
-      "era": "Baroque",
-      "tags": [
-        "baroque",
-        "chiaroscuro"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Baroque oil painting in the spirit of Caravaggio: extreme tenebrism, single harsh light carving figures from darkness, raw realism, dramatic gesture, earth pigments.",
-      "negativeHint": "pastel impressionism, cute cartoon faces, even softbox light",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "klimt",
-      "name": "Gustav Klimt",
-      "era": "Vienna Secession",
-      "tags": [
-        "symbolism",
-        "decorative"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Klimt: ornamental gold patterning, mosaic-like surfaces, intimate figures wrapped in decorative geometry, jewel tones against flattened space.",
-      "negativeHint": "plain photoreal office scenes, rough charcoal only",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "matisse",
-      "name": "Henri Matisse",
-      "era": "Fauvism",
-      "tags": [
-        "fauvism",
-        "color"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Matisse: joyous Fauvist color, simplified contour, decorative interior pattern, flat yet lively planes, Mediterranean warmth.",
-      "negativeHint": "brown academic underpainting only, photoreal skin detail",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "cezanne",
-      "name": "Paul Cézanne",
-      "era": "Post-Impressionism",
-      "tags": [
-        "structure",
-        "still-life"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Cézanne: constructive brush planes, solid fruit and mountain volumes, cool-warm modulation, deliberate unfinished edges, structural seeing.",
-      "negativeHint": "slick airbrush gradients, anime lineart",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "hockney",
-      "name": "David Hockney",
-      "era": "contemporary",
-      "tags": [
-        "pop",
-        "california",
-        "pool"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of David Hockney: clear acrylic color, swimming-pool blues, crisp shadows, cheerful modern domestic geometry, bright California/Australian outdoor light feel.",
-      "negativeHint": "muddy tonalism, gothic darkness, heavy impasto brown",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "kahlo",
-      "name": "Frida Kahlo-adjacent symbolism",
-      "era": "20th c.",
-      "tags": [
-        "symbolism",
-        "portrait"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Symbolic personal painting: frontal intimate portrait energy, vivid folk color, surreal personal emblems, botanical and animal companions, clear narrative detail without text.",
-      "negativeHint": "generic stock selfie, bland corporate portrait",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "magritte",
-      "name": "René Magritte",
-      "era": "Surrealism",
-      "tags": [
-        "surrealism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Surreal painting in the spirit of Magritte: clean illusionistic rendering, quiet sky and bowler-hat absurdity of displaced objects, deadpan lighting, philosophical visual pun without captions.",
-      "negativeHint": "messy expressionist smear, horror gore",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "dali",
-      "name": "Salvador Dalí",
-      "era": "Surrealism",
-      "tags": [
-        "surrealism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Surreal oil painting in the spirit of Dalí: hyper-crisp desert light, melting metamorphosis, long shadows, meticulous miniature detail in vast empty plains.",
-      "negativeHint": "soft impressionist blur, cute kawaii forms",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "whistler",
-      "name": "James McNeill Whistler",
-      "era": "19th c.",
-      "tags": [
-        "tonalism",
-        "nocturne"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Tonalist painting in the spirit of Whistler: soft nocturne greys and blues, musical arrangement of muted tones, foggy harbors, restrained elegance.",
-      "negativeHint": "high-chroma neon, hard comic outlines",
-      "aspectRatio": "16:9"
-    },
-    {
-      "id": "sargent",
-      "name": "John Singer Sargent",
-      "era": "19th–20th c.",
-      "tags": [
-        "portrait",
-        "oil"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Oil portraiture in the spirit of Sargent: bravura brushwork, luminous fabrics, confident unfinished edges, aristocratic light, lively likeness without photographic hardness.",
-      "negativeHint": "stiff mannequin pose, plastic skin, AI melted hands emphasis",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "waterhouse",
-      "name": "John William Waterhouse",
-      "era": "Pre-Raphaelite",
-      "tags": [
-        "romantic",
-        "narrative"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Pre-Raphaelite narrative painting spirit: rich jewel colors, mythic storytelling, detailed flora, luminous skin, romantic atmosphere.",
-      "negativeHint": "modern streetwear, cyberpunk city",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "rothko_field",
-      "name": "Mark Rothko-adjacent color field",
-      "era": "20th c.",
-      "tags": [
-        "abstract",
-        "color-field"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Abstract color-field painting: soft-edged luminous rectangles of color hovering in atmospheric wash, meditative emotion, no figurative detail, gallery-scale presence.",
-      "negativeHint": "hard geometric Bauhaus only, busy figurative scenes",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "pollock_drip",
-      "name": "Jackson Pollock-adjacent action",
-      "era": "20th c.",
-      "tags": [
-        "abstract",
-        "expressionism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Abstract expressionist action painting: layered drips and spatters, all-over energy, tangled rhythmic lines, industrial paint density, no central figure.",
-      "negativeHint": "neat illustration characters, clean vector logos",
-      "aspectRatio": "1:1"
-    },
-    {
-      "id": "wyeth",
-      "name": "Andrew Wyeth",
-      "era": "20th c.",
-      "tags": [
-        "realism",
-        "americana"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Tempera-like realist painting in the spirit of Wyeth: dry grass textures, austere rural light, quiet melancholy, precise observation, muted earth palette.",
-      "negativeHint": "tropical paradise colors, cartoon exaggeration",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "basquiat",
-      "name": "Jean-Michel Basquiat-adjacent neo-expressionism",
-      "era": "late 20th c.",
-      "tags": [
-        "neo-expressionism",
-        "street"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Neo-expressionist painting energy: raw scrawl, crown-like motifs, layered textural marks without readable words, urgent color, street-poetry intensity.",
-      "negativeHint": "clean corporate illustration, photoreal portraits only",
-      "aspectRatio": "1:1"
-    },
-    {
-      "id": "japanese_sumi",
-      "name": "Sumi-e ink painting",
-      "era": "classical",
-      "tags": [
-        "ink",
-        "east-asian"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Sumi-e ink painting: expressive black brush on warm paper, controlled voids, misty mountains or bamboo economy of stroke, contemplative asymmetry.",
-      "negativeHint": "heavy western oil impasto, full-color photoreal",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "australian_heidelberg",
-      "name": "Heidelberg School",
-      "era": "1890s AU",
-      "tags": [
-        "australian",
-        "impressionism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Australian Heidelberg School plein-air painting: dappled eucalyptus shade, golden paddocks, blue distant ranges, informal bush light, colonial-era picnic atmosphere without text.",
-      "negativeHint": "European thatched cottages as default, neon skies",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "drysdale",
-      "name": "Russell Drysdale",
-      "era": "20th c. AU",
-      "tags": [
-        "australian",
-        "outback"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Russell Drysdale: elongated outback figures, sparse red earth towns, harsh noon light, psychological distance, dry Australian interior.",
-      "negativeHint": "lush rainforest default, cute cartoon townsfolk",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "boyd",
-      "name": "Arthur Boyd",
-      "era": "20th c. AU",
-      "tags": [
-        "australian",
-        "expressionism"
-      ],
-      "renderMode": "painterly",
-      "styleLock": "Painting in the spirit of Arthur Boyd: mythic Australian landscape with expressive figures, warm earth and fiery sky, moral allegory energy, rich oil textures.",
-      "negativeHint": "cold Scandinavian minimalism, stock photo realism",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "bauhaus_poster",
-      "name": "Bauhaus poster",
-      "era": "1920s",
-      "tags": [
-        "graphic",
-        "poster"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Bauhaus graphic poster design: primary geometric shapes, asymmetric layout, bold sans bars of color, constructivist clarity, no readable typography—shape only.",
-      "negativeHint": "baroque ornament, photoreal textures, cursive script",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "ukiyo_e_graphic",
-      "name": "Ukiyo-e graphic print",
-      "era": "Edo",
-      "tags": [
-        "graphic",
-        "woodblock"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Graphic ukiyo-e print: flat color blocks, strong black key lines, patterned kimono and wave motifs, theatrical staging, woodblock registration feel.",
-      "negativeHint": "oil painterly blend, 3D rendering",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "art_nouveau_poster",
-      "name": "Art Nouveau poster",
-      "era": "1900",
-      "tags": [
-        "graphic",
-        "poster"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Art Nouveau poster graphic: whiplash curves, botanical borders, elegant silhouette, muted metallic accents, decorative panel structure without text.",
-      "negativeHint": "brutalist concrete, photoreal street photo",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "midcentury_travel",
-      "name": "Mid-century travel poster",
-      "era": "1950s",
-      "tags": [
-        "graphic",
-        "poster",
-        "travel"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Mid-century modern travel poster: simplified landmark silhouettes, limited ink palette, screenprint texture, optimistic geometry, Australian destination vibe without slogans.",
-      "negativeHint": "photoreal skyline, busy collage stickers",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "linocut",
-      "name": "Linocut print",
-      "era": "20th c.",
-      "tags": [
-        "graphic",
-        "printmaking"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Linocut / woodcut print: carved gouge marks, high-contrast ink, reduced values, handmade registration, graphic storytelling power.",
-      "negativeHint": "smooth airbrush gradients, photographic detail",
-      "aspectRatio": "1:1"
-    },
-    {
-      "id": "watercolor_botanical",
-      "name": "Watercolor botanical plate",
-      "era": "scientific illustration",
-      "tags": [
-        "graphic",
-        "botanical"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Watercolor botanical illustration: delicate translucent washes, scientific clarity of leaf and stem, cream paper ground, elegant specimen layout without labels.",
-      "negativeHint": "heavy oil impasto, neon cyber colors",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "swiss_international",
-      "name": "Swiss International Style",
-      "era": "mid 20th c.",
-      "tags": [
-        "graphic",
-        "modern"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Swiss International graphic design: grid discipline, red-and-black or limited palette, photographic cutout feel with flat color fields, objective clarity, no readable type.",
-      "negativeHint": "ornamental florals, messy scrapbook collage",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "soviet_constructivist",
-      "name": "Constructivist poster",
-      "era": "1920s",
-      "tags": [
-        "graphic",
-        "poster"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Constructivist poster graphic: diagonal dynamism, photomontage planes, red-black-beige, industrial geometry, urgent visual propaganda energy without slogans.",
-      "negativeHint": "pastel cottagecore, soft watercolor bloom",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "pop_art",
-      "name": "Pop art print",
-      "era": "1960s",
-      "tags": [
-        "graphic",
-        "pop"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Pop art graphic print: Ben-Day dots, bold comic contour, saturated commercial color, ironic mass-culture objects, flat silkscreen layers.",
-      "negativeHint": "subtle tonal oil painting, muted earth only",
-      "aspectRatio": "1:1"
-    },
-    {
-      "id": "stencil_street",
-      "name": "Stencil street art",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "street"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Stencil street-art graphic: sprayed layers on concrete, high-contrast silhouette, urban wall texture, political clarity without readable slogans.",
-      "negativeHint": "gallery oil varnish look, soft impressionism",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "risograph",
-      "name": "Risograph print",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "print"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Risograph print aesthetic: misregistered fluorescent layers, grainy ink, limited spot colors, handmade zine charm, flat illustrative forms.",
-      "negativeHint": "photoreal CGI, smooth vector gradients only",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "charcoal_poster",
-      "name": "Charcoal and ink poster",
-      "era": "modern",
-      "tags": [
-        "graphic",
-        "drawing"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Graphic charcoal and ink drawing: bold massed blacks, scratched highlights, poster-scale figure or landmark, raw paper tooth.",
-      "negativeHint": "candy pastel palette, 3D render sheen",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "australian_surf_poster",
-      "name": "Australian surf poster",
-      "era": "1970s",
-      "tags": [
-        "graphic",
-        "australia",
-        "surf"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Australian surf culture poster graphic: simplified wave curl, sunburst, board silhouette, limited tropical inks, screenprint nostalgia without brand logos or text.",
-      "negativeHint": "photoreal surfer stock photo, gothic darkness",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "map_illustration",
-      "name": "Illustrated map graphic",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "map"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Illustrated map graphic: playful cartographic icons, soft terrain washes, coastline clarity, bird's-eye storytelling without street-name text.",
-      "negativeHint": "Google Maps screenshot look, tiny unreadable labels",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "editorial_collage",
-      "name": "Editorial collage",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "collage"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Editorial paper collage: cut newsprint textures (illegible), layered photographs as shapes, bold color blocks, contemporary magazine art direction without readable headlines.",
-      "negativeHint": "single clean oil portrait only, seamless photoreal composite",
-      "aspectRatio": "3:4"
-    },
-    {
-      "id": "kids_picturebook",
-      "name": "Picture-book illustration",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "illustration"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Warm picture-book illustration: soft gouache shapes, friendly simplification, gentle storytelling light, cohesive palette, inviting without childish clutter.",
-      "negativeHint": "horror surrealism, hyperreal pores, busy UI stickers",
-      "aspectRatio": "4:3"
-    },
-    {
-      "id": "neon_noir_graphic",
-      "name": "Neon noir graphic",
-      "era": "contemporary",
-      "tags": [
-        "graphic",
-        "noir"
-      ],
-      "renderMode": "graphic",
-      "styleLock": "Neon noir graphic illustration: ink blacks with electric cyan/magenta accents, rainy city silhouette, high-contrast poster framing, no readable signage.",
-      "negativeHint": "sunny pastoral, soft watercolor botanicals",
       "aspectRatio": "3:4"
     },
     {
@@ -796,7 +181,8 @@
       "era": "late 20th c.",
       "tags": [
         "photography",
-        "instant"
+        "instant",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal instant-film still: soft chemical colors, slight light leak, square intimate framing, nostalgic snapshot honesty.",
@@ -809,7 +195,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "aerial"
+        "aerial",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal aerial landscape: geometric farmland or reef patterns, clear atmospheric perspective, high-altitude clarity, abstract-from-above composition.",
@@ -822,7 +209,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "food"
+        "food",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal editorial food photography: natural sidelight, tactile ingredients, shallow DOF crumbs and steam, honest appetite, styled but not plastic.",
@@ -835,7 +223,8 @@
       "era": "contemporary",
       "tags": [
         "photography",
-        "sports"
+        "sports",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal sports action still: frozen peak motion, telephoto compression, stadium or outdoor field context, dramatic grit and sweat detail.",
@@ -849,7 +238,8 @@
       "tags": [
         "photography",
         "urban",
-        "night"
+        "night",
+        "global"
       ],
       "renderMode": "photoreal",
       "styleLock": "Photoreal night city photography: controlled high-ISO grain, neon reflections on wet streets, layered windows, cinematic urban solitude.",
@@ -857,12 +247,932 @@
       "aspectRatio": "16:9"
     },
     {
-      "id": "friedrich",
-      "name": "Caspar David Friedrich",
-      "era": "Romanticism",
+      "id": "cartier_bresson",
+      "name": "Henri Cartier-Bresson",
+      "era": "20th c. FR",
+      "tags": [
+        "photography",
+        "street",
+        "bw",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal street photography in the spirit of Cartier-Bresson: decisive geometric framing, Leica-era black-and-white grain, human gesture locked in perfect composition, quiet wit.",
+      "negativeHint": "posed studio portraits, heavy color grading",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "araki",
+      "name": "Nobuyoshi Araki-adjacent tokyo diary",
+      "era": "contemporary JP",
+      "tags": [
+        "photography",
+        "diary",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal intimate Tokyo diary photography: raw flash, floral and urban clutter, emotional immediacy, slightly chaotic framing, lived-in Japanese city texture—tasteful, not exploitative.",
+      "negativeHint": "pornographic framing, plastic fashion catalog",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "sugimoto",
+      "name": "Hiroshi Sugimoto",
+      "era": "contemporary JP",
+      "tags": [
+        "photography",
+        "minimal",
+        "bw",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal long-exposure photography in the spirit of Sugimoto: seascapes with infinite horizon, theater interiors glowing white, meditative black-and-white stillness, conceptual clarity.",
+      "negativeHint": "busy street chaos, saturated tourist color",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "moriyama",
+      "name": "Daido Moriyama",
+      "era": "contemporary JP",
+      "tags": [
+        "photography",
+        "street",
+        "bw",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal high-contrast grainy street photography in the spirit of Moriyama: tilted frames, harsh flash, Tokyo alley grit, nervous black-and-white energy.",
+      "negativeHint": "clean corporate architecture shots, pastel softness",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "penn",
+      "name": "Irving Penn",
+      "era": "20th c. US",
+      "tags": [
+        "photography",
+        "fashion",
+        "portrait",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal studio photography in the spirit of Irving Penn: sculptural light, elegant simplicity, precise still-life or portrait geometry, refined tonal control.",
+      "negativeHint": "messy documentary clutter, neon cyberpunk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "avenon",
+      "name": "Richard Avedon-adjacent portrait",
+      "era": "20th c. US",
+      "tags": [
+        "photography",
+        "portrait",
+        "bw",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal white-backdrop portraiture: razor psychological clarity, minimal props, high-key or stark contrast, fashion-documentary hybrid intensity.",
+      "negativeHint": "busy environmental clutter, soft romantic gauze",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "newton",
+      "name": "Helmut Newton-adjacent fashion",
+      "era": "20th c. DE/FR",
+      "tags": [
+        "photography",
+        "fashion",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal fashion photography with bold contrast, strong poses, glamorous hard light, cinematic European night or sunlit terrace atmosphere—elegant, not vulgar.",
+      "negativeHint": "cheap stock lingerie look, warped anatomy",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "dooisneau",
+      "name": "Robert Doisneau",
+      "era": "20th c. FR",
+      "tags": [
+        "photography",
+        "street",
+        "bw",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal humanist Paris street photography: gentle humor, everyday tenderness, soft grey tones, postwar European sidewalk life.",
+      "negativeHint": "harsh cyberpunk night, glamour retouch",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "brandt",
+      "name": "Bill Brandt",
+      "era": "20th c. UK",
+      "tags": [
+        "photography",
+        "bw",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal high-contrast British photography in the spirit of Brandt: deep blacks, distorted wide-angle intimacy, moody English interiors and landscapes.",
+      "negativeHint": "sunny California palette, flat phone snapshot",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "struth",
+      "name": "Thomas Struth",
+      "era": "contemporary DE",
+      "tags": [
+        "photography",
+        "architecture",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal large-format photography in the spirit of Struth: museum crowds, urban canyons, precise observational distance, cool daylight clarity.",
+      "negativeHint": "soft romantic fog, cartoon exaggeration",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "gursky",
+      "name": "Andreas Gursky",
+      "era": "contemporary DE",
+      "tags": [
+        "photography",
+        "large-format",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal monumental photography in the spirit of Gursky: vast human systems, repetitive architecture or crowds from elevated viewpoint, hyper-detailed panorama, cool contemporary scale.",
+      "negativeHint": "intimate close-up portrait only, painterly smear",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "crewson",
+      "name": "Gregory Crewdson",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "cinematic",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal cinematic staged tableau: suburban twilight, uncanny stillness, movie-lighting craft, narrative tension in ordinary American spaces.",
+      "negativeHint": "candid street snapshot, watercolor softness",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "wall",
+      "name": "Jeff Wall",
+      "era": "contemporary CA",
+      "tags": [
+        "photography",
+        "tableau",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal staged documentary tableau: carefully constructed everyday scenes, luminous lightbox clarity, subtle narrative ambiguity.",
+      "negativeHint": "abstract color fields, comic outlines",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "sherman_photo",
+      "name": "Cindy Sherman-adjacent staged portrait",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "conceptual",
+        "portrait",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal staged character portraiture: cinematic costume and makeup storytelling, single figure as archetype, film-still ambiguity without celebrity likeness.",
+      "negativeHint": "plain passport photo, landscape only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "mann",
+      "name": "Sally Mann-adjacent lyrical south",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "lyric",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal lyrical large-format photography: soft southern light, antique lens atmosphere, intimate landscape and figure poetry, warm ethereal grain.",
+      "negativeHint": "hard commercial flash, neon city",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "parker_photo",
+      "name": "Gordon Parks",
+      "era": "20th c. US",
+      "tags": [
+        "photography",
+        "documentary",
+        "bw",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal documentary photography in the spirit of Gordon Parks: dignified humanist storytelling, rich black-and-white or truthful color, social context with empathy.",
+      "negativeHint": "glamour fashion gloss, surreal distortion",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bresson_india",
+      "name": "Raghu Rai",
+      "era": "contemporary IN",
+      "tags": [
+        "photography",
+        "documentary",
+        "asia",
+        "india"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Indian documentary photography: dense street life, vivid yet honest color or strong B&W, monsoon light, festival and everyday Mumbai/Delhi energy.",
+      "negativeHint": "exotic tourist cliché filters, empty studio",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "abbas",
+      "name": "Abbas Attar-adjacent photojournalism",
+      "era": "20th c.",
+      "tags": [
+        "photography",
+        "photojournalism",
+        "middle-east",
+        "africa"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal photojournalism: decisive conflict or ritual moments, respectful distance, strong reportage framing, truthful available light.",
+      "negativeHint": "staged fantasy battle, painterly blood effects",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "malick_sidibe",
+      "name": "Malick Sidibé",
+      "era": "20th c. ML",
+      "tags": [
+        "photography",
+        "portrait",
+        "africa"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal studio portraiture in the spirit of Malick Sidibé: joyful West African youth culture, patterned backdrops, flash clarity, dancing energy and sharp style.",
+      "negativeHint": "gloomy European fog, soft impressionist blur",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "keita",
+      "name": "Seydou Keïta",
+      "era": "20th c. ML",
+      "tags": [
+        "photography",
+        "portrait",
+        "africa",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Bamako studio portraiture in the spirit of Seydou Keïta: elegant patterned cloth, dignified pose, rich black-and-white tonality, mid-century West African pride.",
+      "negativeHint": "harsh paparazzi chaos, neon cyber color",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ractliffe",
+      "name": "Jo Ractliffe-adjacent southern africa",
+      "era": "contemporary ZA",
+      "tags": [
+        "photography",
+        "landscape",
+        "africa",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal southern African landscape photography: sparse land, quiet aftermath atmosphere, restrained black-and-white or muted color, observational distance.",
+      "negativeHint": "tropical paradise postcard, heavy HDR",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "hosoe",
+      "name": "Eikoh Hosoe",
+      "era": "20th c. JP",
+      "tags": [
+        "photography",
+        "expressive",
+        "asia",
+        "japan",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal expressive Japanese photography: dramatic body and shadow choreography, theatrical contrast, poetic surreal tension in black-and-white.",
+      "negativeHint": "flat corporate headshot, pastel kawaii only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "arnold",
+      "name": "Eve Arnold",
+      "era": "20th c. US",
+      "tags": [
+        "photography",
+        "photojournalism",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Magnum-style photojournalism: intimate access, warm honesty, film grain, unguarded human moments in truthful color or B&W.",
+      "negativeHint": "overproduced fashion set, CGI faces",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "mccurry",
+      "name": "Steve McCurry",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "travel",
+        "color",
+        "global"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal travel photography with saturated yet natural color, piercing environmental portraits, textured markets and landscapes, National Geographic clarity.",
+      "negativeHint": "grey muddy drabness, cartoon exaggeration",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "platon",
+      "name": "Platon-adjacent power portrait",
+      "era": "contemporary UK",
+      "tags": [
+        "photography",
+        "portrait",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal close-cropped power portrait: stark white or simple ground, intense eye contact, sculptural facial detail, editorial gravitas.",
+      "negativeHint": "busy environmental chaos, soft dreamy gauze",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "lachapelle",
+      "name": "David LaChapelle-adjacent pop surreal photo",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "pop",
+        "color",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal hyper-saturated pop-surreal photography: candy colors, theatrical sets, glossy contemporary allegory—bold, not crude.",
+      "negativeHint": "muted tonalist fog, documentary grit only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "tilmans",
+      "name": "Wolfgang Tillmans",
+      "era": "contemporary DE",
+      "tags": [
+        "photography",
+        "contemporary",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal contemporary photography in the spirit of Tillmans: casual intimacy, abstract light studies, club and still-life fragments, understated observational cool.",
+      "negativeHint": "baroque oil drama, heavy golden-hour cliché",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "shore",
+      "name": "Stephen Shore",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "color",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal color photography in the spirit of Stephen Shore: deadpan American vernacular, motel and intersection clarity, large-format ordinary beauty.",
+      "negativeHint": "fantasy surreal props, painterly impasto",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "eggleston",
+      "name": "William Eggleston",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "color",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal dye-transfer color photography spirit of Eggleston: Southern vernacular, saturated ordinary objects, democratic framing, strange beauty in the everyday.",
+      "negativeHint": "epic mountain postcard only, black-and-white grain mandatory",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "frank",
+      "name": "Robert Frank",
+      "era": "20th c. CH/US",
+      "tags": [
+        "photography",
+        "bw",
+        "road",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal road-trip black-and-white photography in the spirit of Robert Frank: off-kilter America, grain, loneliness, imperfect poetic frames.",
+      "negativeHint": "polished advertising symmetry, neon cyberpunk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "koudelka",
+      "name": "Josef Koudelka",
+      "era": "20th c. CZ",
+      "tags": [
+        "photography",
+        "bw",
+        "europe"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal high-contrast photography in the spirit of Koudelka: exile and ritual, strong diagonal energy, deep blacks, Eastern European grit.",
+      "negativeHint": "pastel soft lifestyle blog look",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pierre_verger",
+      "name": "Pierre Verger",
+      "era": "20th c. FR/BR",
+      "tags": [
+        "photography",
+        "documentary",
+        "latin-america",
+        "africa"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal mid-century documentary of Afro-Atlantic cultures: respectful ceremonial and street life, classic B&W reportage clarity.",
+      "negativeHint": "exoticizing fantasy costume kitsch",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "grannan",
+      "name": "Katy Grannan-adjacent roadside portrait",
+      "era": "contemporary US",
+      "tags": [
+        "photography",
+        "portrait",
+        "north-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal bright daylight roadside portraiture: direct gaze, ordinary American edges, unvarnished honesty, hard noon light.",
+      "negativeHint": "soft Rembrandt studio only, fantasy makeup",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "era": "17th c. NL",
+      "tags": [
+        "baroque",
+        "oil",
+        "portrait",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil painting in the spirit of Rembrandt: warm chiaroscuro, thick luminous flesh tones against deep umber ground, quiet psychological gravity, visible brush and glaze depth.",
+      "negativeHint": "flat digital shading, neon colors, anime eyes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "vermeer",
+      "name": "Johannes Vermeer",
+      "era": "17th c. NL",
+      "tags": [
+        "dutch",
+        "oil",
+        "interior",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil painting in the spirit of Vermeer: cool north-window light, pearl highlights, intimate interior geometry, serene stillness, finely observed fabrics and maps.",
+      "negativeHint": "harsh spotlight, cluttered baroque drama, modern gadgets",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "era": "19th c. FR",
+      "tags": [
+        "impressionism",
+        "landscape",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Impressionist oil painting in the spirit of Monet: broken color, shimmering light on water and air, soft edges, vibrating complementary hues, outdoor atmosphere over hard line.",
+      "negativeHint": "hard outlines, photographic sharpness, muddy brown soup",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "van_gogh",
+      "name": "Vincent van Gogh",
+      "era": "19th c. NL/FR",
+      "tags": [
+        "post-impressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Van Gogh: energetic impasto swirls, emotional color, rhythmic directional strokes, thick paint ridges catching light, intense sky and field energy.",
+      "negativeHint": "smooth airbrush, photoreal skin pores, flat vector shapes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hokusai",
+      "name": "Katsushika Hokusai",
+      "era": "Edo JP",
+      "tags": [
+        "ukiyo-e",
+        "woodblock",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ukiyo-e woodblock print spirit of Hokusai: bold contour, flat layered color, stylized wave and mountain rhythm, decorative pattern, Japanese printmaking clarity.",
+      "negativeHint": "western oil impasto, photoreal foam, 3D CGI",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "mucha",
+      "name": "Alphonse Mucha",
+      "era": "Art Nouveau CZ/FR",
+      "tags": [
+        "art-nouveau",
+        "decorative",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Art Nouveau illustration in the spirit of Mucha: elegant flowing hair and floral halos, pastel decorative panels, graceful line, ornamental framing motifs without readable text.",
+      "negativeHint": "brutalist geometry, photoreal pores, heavy metal dark tones",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hopper",
+      "name": "Edward Hopper",
+      "era": "20th c. US",
+      "tags": [
+        "american",
+        "realism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Edward Hopper: lonely architectural light, long shadows, quiet American stillness, clear planes of color, cinematic solitude.",
+      "negativeHint": "busy crowds, neon cyberpunk, impressionist blur",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "okeeffe",
+      "name": "Georgia O'Keeffe",
+      "era": "20th c. US",
+      "tags": [
+        "modernism",
+        "floral",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Georgia O'Keeffe: magnified organic forms, smooth sculptural petals and bones, desert pastel palette, monumental close-up simplicity.",
+      "negativeHint": "busy collage, tiny scattered details, harsh comic outlines",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "nolan",
+      "name": "Sidney Nolan",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "modernism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Sidney Nolan: Australian mythic landscape, bold simplified forms, enamel-like color planes, harsh sun, Ned Kelly-era atmosphere without copying protected icons literally.",
+      "negativeHint": "European cottage pastoral, soft watercolor haze only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "whiteley",
+      "name": "Brett Whiteley",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "expressionism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Brett Whiteley: sensual calligraphic line, Sydney harbour light, erotic curve and bird motif energy, vivid ultramarine and warm flesh accents, restless modern lyricism.",
+      "negativeHint": "stiff academic realism, dull grey palette",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "preston",
+      "name": "Margaret Preston",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "modernist-print",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modernist still-life and flora in the spirit of Margaret Preston: strong design, flattened decorative native plants, bold color blocks, print-aware composition, Australian domestic modernism.",
+      "negativeHint": "Victorian clutter, photoreal dewdrop macro only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "turner",
+      "name": "J.M.W. Turner",
+      "era": "19th c. UK",
+      "tags": [
+        "romanticism",
+        "seascape",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Romantic oil painting in the spirit of Turner: luminous vaporous light, dissolving forms in mist and spray, golden and storm-grey atmosphere, sublime weather drama.",
+      "negativeHint": "hard comic outlines, flat poster color, crisp product photography",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "caravaggio",
+      "name": "Caravaggio",
+      "era": "Baroque IT",
+      "tags": [
+        "baroque",
+        "chiaroscuro",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Baroque oil painting in the spirit of Caravaggio: extreme tenebrism, single harsh light carving figures from darkness, raw realism, dramatic gesture, earth pigments.",
+      "negativeHint": "pastel impressionism, cute cartoon faces, even softbox light",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "klimt",
+      "name": "Gustav Klimt",
+      "era": "Vienna Secession AT",
+      "tags": [
+        "symbolism",
+        "decorative",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Klimt: ornamental gold patterning, mosaic-like surfaces, intimate figures wrapped in decorative geometry, jewel tones against flattened space.",
+      "negativeHint": "plain photoreal office scenes, rough charcoal only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "matisse",
+      "name": "Henri Matisse",
+      "era": "Fauvism FR",
+      "tags": [
+        "fauvism",
+        "color",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Matisse: joyous Fauvist color, simplified contour, decorative interior pattern, flat yet lively planes, Mediterranean warmth.",
+      "negativeHint": "brown academic underpainting only, photoreal skin detail",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "cezanne",
+      "name": "Paul Cézanne",
+      "era": "Post-Impressionism FR",
+      "tags": [
+        "structure",
+        "still-life",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Cézanne: constructive brush planes, solid fruit and mountain volumes, cool-warm modulation, deliberate unfinished edges, structural seeing.",
+      "negativeHint": "slick airbrush gradients, anime lineart",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "hockney",
+      "name": "David Hockney",
+      "era": "contemporary UK",
+      "tags": [
+        "pop",
+        "california",
+        "pool",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of David Hockney: clear acrylic color, swimming-pool blues, crisp shadows, cheerful modern domestic geometry, bright California/Australian outdoor light feel.",
+      "negativeHint": "muddy tonalism, gothic darkness, heavy impasto brown",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "kahlo",
+      "name": "Frida Kahlo-adjacent symbolism",
+      "era": "20th c. MX",
+      "tags": [
+        "symbolism",
+        "portrait",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Symbolic personal painting: frontal intimate portrait energy, vivid folk color, surreal personal emblems, botanical and animal companions, clear narrative detail without text.",
+      "negativeHint": "generic stock selfie, bland corporate portrait",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "magritte",
+      "name": "René Magritte",
+      "era": "Surrealism BE",
+      "tags": [
+        "surrealism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal painting in the spirit of Magritte: clean illusionistic rendering, quiet sky and bowler-hat absurdity of displaced objects, deadpan lighting, philosophical visual pun without captions.",
+      "negativeHint": "messy expressionist smear, horror gore",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "dali",
+      "name": "Salvador Dalí",
+      "era": "Surrealism ES",
+      "tags": [
+        "surrealism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal oil painting in the spirit of Dalí: hyper-crisp desert light, melting metamorphosis, long shadows, meticulous miniature detail in vast empty plains.",
+      "negativeHint": "soft impressionist blur, cute kawaii forms",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "whistler",
+      "name": "James McNeill Whistler",
+      "era": "19th c. US/UK",
+      "tags": [
+        "tonalism",
+        "nocturne",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Tonalist painting in the spirit of Whistler: soft nocturne greys and blues, musical arrangement of muted tones, foggy harbors, restrained elegance.",
+      "negativeHint": "high-chroma neon, hard comic outlines",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "sargent",
+      "name": "John Singer Sargent",
+      "era": "19th–20th c. US/EU",
+      "tags": [
+        "portrait",
+        "oil",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Oil portraiture in the spirit of Sargent: bravura brushwork, luminous fabrics, confident unfinished edges, aristocratic light, lively likeness without photographic hardness.",
+      "negativeHint": "stiff mannequin pose, plastic skin, AI melted hands emphasis",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "waterhouse",
+      "name": "John William Waterhouse",
+      "era": "Pre-Raphaelite UK",
       "tags": [
         "romantic",
-        "landscape"
+        "narrative",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Pre-Raphaelite narrative painting spirit: rich jewel colors, mythic storytelling, detailed flora, luminous skin, romantic atmosphere.",
+      "negativeHint": "modern streetwear, cyberpunk city",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rothko_field",
+      "name": "Mark Rothko-adjacent color field",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "color-field",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract color-field painting: soft-edged luminous rectangles of color hovering in atmospheric wash, meditative emotion, no figurative detail, gallery-scale presence.",
+      "negativeHint": "hard geometric Bauhaus only, busy figurative scenes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pollock_drip",
+      "name": "Jackson Pollock-adjacent action",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "expressionism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract expressionist action painting: layered drips and spatters, all-over energy, tangled rhythmic lines, industrial paint density, no central figure.",
+      "negativeHint": "neat illustration characters, clean vector logos",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "wyeth",
+      "name": "Andrew Wyeth",
+      "era": "20th c. US",
+      "tags": [
+        "realism",
+        "americana",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Tempera-like realist painting in the spirit of Wyeth: dry grass textures, austere rural light, quiet melancholy, precise observation, muted earth palette.",
+      "negativeHint": "tropical paradise colors, cartoon exaggeration",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "basquiat",
+      "name": "Jean-Michel Basquiat-adjacent neo-expressionism",
+      "era": "late 20th c. US",
+      "tags": [
+        "neo-expressionism",
+        "street",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Neo-expressionist painting energy: raw scrawl, crown-like motifs, layered textural marks without readable words, urgent color, street-poetry intensity.",
+      "negativeHint": "clean corporate illustration, photoreal portraits only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "japanese_sumi",
+      "name": "Sumi-e ink painting",
+      "era": "classical JP",
+      "tags": [
+        "ink",
+        "east-asian",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Sumi-e ink painting: expressive black brush on warm paper, controlled voids, misty mountains or bamboo economy of stroke, contemplative asymmetry.",
+      "negativeHint": "heavy western oil impasto, full-color photoreal",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "australian_heidelberg",
+      "name": "Heidelberg School",
+      "era": "1890s AU",
+      "tags": [
+        "australian",
+        "impressionism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Australian Heidelberg School plein-air painting: dappled eucalyptus shade, golden paddocks, blue distant ranges, informal bush light, colonial-era picnic atmosphere without text.",
+      "negativeHint": "European thatched cottages as default, neon skies",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "drysdale",
+      "name": "Russell Drysdale",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "outback",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Russell Drysdale: elongated outback figures, sparse red earth towns, harsh noon light, psychological distance, dry Australian interior.",
+      "negativeHint": "lush rainforest default, cute cartoon townsfolk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "boyd",
+      "name": "Arthur Boyd",
+      "era": "20th c. AU",
+      "tags": [
+        "australian",
+        "expressionism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Arthur Boyd: mythic Australian landscape with expressive figures, warm earth and fiery sky, moral allegory energy, rich oil textures.",
+      "negativeHint": "cold Scandinavian minimalism, stock photo realism",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "friedrich",
+      "name": "Caspar David Friedrich",
+      "era": "Romanticism DE",
+      "tags": [
+        "romantic",
+        "landscape",
+        "europe"
       ],
       "renderMode": "painterly",
       "styleLock": "Romantic landscape painting in the spirit of Friedrich: lone Rückenfigur scale, misty cliffs and ruins, sublime dawn or dusk, contemplative silence.",
@@ -872,10 +1182,11 @@
     {
       "id": "bosch",
       "name": "Hieronymus Bosch-adjacent fantasy",
-      "era": "Northern Renaissance",
+      "era": "Northern Renaissance NL",
       "tags": [
         "fantasy",
-        "narrative"
+        "narrative",
+        "europe"
       ],
       "renderMode": "painterly",
       "styleLock": "Northern Renaissance fantasy panel energy: dense allegorical detail, strange hybrid creatures, panoramic moral landscape, jewel-like tempera clarity—imaginative, not grotesque gore.",
@@ -885,10 +1196,11 @@
     {
       "id": "chagall",
       "name": "Marc Chagall",
-      "era": "20th c.",
+      "era": "20th c. BY/FR",
       "tags": [
         "modernism",
-        "lyric"
+        "lyric",
+        "europe"
       ],
       "renderMode": "painterly",
       "styleLock": "Painting in the spirit of Chagall: floating figures, village dream logic, lyrical blues and reds, folk-memory tenderness, airborne perspective.",
@@ -898,9 +1210,10 @@
     {
       "id": "picasso_blue",
       "name": "Picasso Blue Period-adjacent",
-      "era": "early 20th c.",
+      "era": "early 20th c. ES/FR",
       "tags": [
-        "modernism"
+        "modernism",
+        "europe"
       ],
       "renderMode": "painterly",
       "styleLock": "Early modernist painting: elongated melancholic figures, cool blue-green monochrome, simplified form, quiet empathy.",
@@ -908,12 +1221,40 @@
       "aspectRatio": "3:4"
     },
     {
+      "id": "picasso_cubist",
+      "name": "Picasso Cubism-adjacent",
+      "era": "early 20th c. ES/FR",
+      "tags": [
+        "cubism",
+        "modernism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Analytical/synthetic Cubist painting energy: fractured planes, multiple viewpoints, ochre-grey or collage-like facets, still-life and figure reconstructed as geometry.",
+      "negativeHint": "smooth photorealism, single-point perspective only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "braque",
+      "name": "Georges Braque",
+      "era": "early 20th c. FR",
+      "tags": [
+        "cubism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Cubist painting in the spirit of Braque: muted ochres and greys, overlapping faceted forms, textured papier-collé feel, quiet structural still-life.",
+      "negativeHint": "neon pop colors, soft watercolor blooms",
+      "aspectRatio": "1:1"
+    },
+    {
       "id": "mondrian",
       "name": "Piet Mondrian-adjacent neoplasticism",
-      "era": "20th c.",
+      "era": "20th c. NL",
       "tags": [
         "abstract",
-        "grid"
+        "grid",
+        "europe"
       ],
       "renderMode": "graphic",
       "styleLock": "Neoplastic abstract graphic: orthogonal black grid, primary red yellow blue planes, white ground, perfect balance, no diagonals or curves.",
@@ -923,14 +1264,2846 @@
     {
       "id": "escher",
       "name": "M.C. Escher-adjacent tessellation",
-      "era": "20th c.",
+      "era": "20th c. NL",
       "tags": [
         "graphic",
-        "impossible"
+        "impossible",
+        "europe"
       ],
       "renderMode": "graphic",
       "styleLock": "Graphic tessellation and impossible architecture: precise line, interlocking metamorphosis, cool intellectual puzzle space, lithograph clarity.",
       "negativeHint": "loose watercolor bloom, soft portraiture",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "era": "Renaissance IT",
+      "tags": [
+        "renaissance",
+        "fresco",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "High Renaissance painting/fresco spirit of Michelangelo: heroic anatomy, sculptural musculature, monumental figures, dynamic contraposto, classical grandeur.",
+      "negativeHint": "cute chibi proportions, flat poster color only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "leonardo",
+      "name": "Leonardo da Vinci",
+      "era": "Renaissance IT",
+      "tags": [
+        "renaissance",
+        "sfumato",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Renaissance painting in the spirit of Leonardo: soft sfumato transitions, mysterious atmosphere, precise observation of nature, subtle psychological presence.",
+      "negativeHint": "hard comic outlines, neon cyberpunk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "botticelli",
+      "name": "Sandro Botticelli",
+      "era": "Early Renaissance IT",
+      "tags": [
+        "renaissance",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Early Renaissance tempera spirit of Botticelli: graceful linear figures, mythic allegory, delicate florals, pale luminous skin, lyrical composition.",
+      "negativeHint": "heavy impasto expressionism, photoreal pores",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael",
+      "era": "High Renaissance IT",
+      "tags": [
+        "renaissance",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "High Renaissance harmony in the spirit of Raphael: balanced composition, serene Madonnas and architecture, clear sweet color, idealized clarity.",
+      "negativeHint": "chaotic drip painting, horror surrealism",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "titian",
+      "name": "Titian",
+      "era": "Venetian Renaissance IT",
+      "tags": [
+        "renaissance",
+        "colorito",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Venetian Renaissance oil in the spirit of Titian: rich colorito, glowing flesh, luxurious fabrics, atmospheric depth, sensual mythic narrative.",
+      "negativeHint": "flat graphic poster, cold minimal grey",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rubens",
+      "name": "Peter Paul Rubens",
+      "era": "Baroque FL",
+      "tags": [
+        "baroque",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Flemish Baroque painting in the spirit of Rubens: swirling movement, rosy flesh, abundant dynamism, dramatic skies, opulent allegory.",
+      "negativeHint": "sparse minimalism, dry Wyeth austerity",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "velazquez",
+      "name": "Diego Velázquez",
+      "era": "Baroque ES",
+      "tags": [
+        "baroque",
+        "spain",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Spanish Baroque painting in the spirit of Velázquez: freestyle brush economy, courtly atmosphere, truthful light, masterpiece spatial ambiguity.",
+      "negativeHint": "garish Fauvist clash, anime eyes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "goya",
+      "name": "Francisco Goya",
+      "era": "18th–19th c. ES",
+      "tags": [
+        "romantic",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Goya: psychological darkness or satirical edge, loose late brush, stark contrasts, human folly and dignity.",
+      "negativeHint": "cute pastel kawaii, clean corporate vector",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "delacroix",
+      "name": "Eugène Delacroix",
+      "era": "Romanticism FR",
+      "tags": [
+        "romantic",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Romantic painting in the spirit of Delacroix: vibrant color, energetic brush, exotic or historical drama, emotional storm.",
+      "negativeHint": "cool deadpan photography look, neoplastic grid",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "ingres",
+      "name": "Jean-Auguste-Dominique Ingres",
+      "era": "Neoclassical FR",
+      "tags": [
+        "neoclassical",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Neoclassical painting in the spirit of Ingres: porcelain finish, sinuous line, idealized form, cool clarity and odalisque elegance.",
+      "negativeHint": "rough expressionist smear, street graffiti",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "constable",
+      "name": "John Constable",
+      "era": "19th c. UK",
+      "tags": [
+        "landscape",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "English landscape painting in the spirit of Constable: lively cloud studies, fresh greens, rural Suffolk light, naturalist sincerity.",
+      "negativeHint": "desert surrealism, pop Ben-Day dots",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "courbet",
+      "name": "Gustave Courbet",
+      "era": "Realism FR",
+      "tags": [
+        "realism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Realist painting in the spirit of Courbet: earthy material truth, working figures, dense paint, unidealized rural or studio life.",
+      "negativeHint": "ethereal Pre-Raphaelite glow, neon night city",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "manet",
+      "name": "Édouard Manet",
+      "era": "19th c. FR",
+      "tags": [
+        "impressionism",
+        "modern",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Manet: frank modern subjects, bold flattened blacks, café and park light, bridge between realism and Impressionism.",
+      "negativeHint": "medieval gold ground icons, pure abstract drip",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "degas",
+      "name": "Edgar Degas",
+      "era": "Impressionism FR",
+      "tags": [
+        "impressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting/pastel in the spirit of Degas: asymmetrical crop, dancers and bathers, chalky pastel texture, observational modern life.",
+      "negativeHint": "centered heraldic symmetry, heavy gothic gloom",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "renoir",
+      "name": "Pierre-Auguste Renoir",
+      "era": "Impressionism FR",
+      "tags": [
+        "impressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Impressionist painting in the spirit of Renoir: warm dappled light, soft flesh, sociable leisure, feathery brush, rosy atmosphere.",
+      "negativeHint": "cold industrial Brutalism, harsh tenebrism only",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "seurat",
+      "name": "Georges Seurat",
+      "era": "Neo-Impressionism FR",
+      "tags": [
+        "pointillism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Pointillist painting in the spirit of Seurat: optical dots of pure color, serene modern parks, scientific calm, luminous stillness.",
+      "negativeHint": "loose wet-in-wet watercolor chaos, photoreal HDR",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "gauguin",
+      "name": "Paul Gauguin",
+      "era": "Post-Impressionism FR",
+      "tags": [
+        "synthetism",
+        "europe",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Synthetist painting in the spirit of Gauguin: flat symbolic color, bold outlines, tropical or Breton mythic stillness, decorative primitivist design—avoid colonial caricature; focus on color structure and landscape.",
+      "negativeHint": "photoreal tourist postcard, grey tonalism",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "toulouse_lautrec",
+      "name": "Henri de Toulouse-Lautrec",
+      "era": "Fin de siècle FR",
+      "tags": [
+        "poster",
+        "belle-epoque",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Belle Époque painting/lithograph spirit: cabaret energy, cropped figures, chalky color, Paris nightlife silhouette without readable posters text.",
+      "negativeHint": "pastoral Constable greens, minimal white cube",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "munch",
+      "name": "Edvard Munch",
+      "era": "Expressionism NO",
+      "tags": [
+        "expressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Expressionist painting in the spirit of Munch: swirling psychological landscape, anguished color, thin haunted figures, Nordic emotional weather.",
+      "negativeHint": "cheerful Hockney pools, corporate memphis pattern",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kirchner",
+      "name": "Ernst Ludwig Kirchner",
+      "era": "Die Brücke DE",
+      "tags": [
+        "expressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "German Expressionist painting: jagged urban figures, acidic color, angular woodcut energy, modern city anxiety.",
+      "negativeHint": "soft sfumato Renaissance calm, pastel Mucha only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kandinsky",
+      "name": "Wassily Kandinsky",
+      "era": "Abstraction RU/DE",
+      "tags": [
+        "abstract",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract painting in the spirit of Kandinsky: musical color improvisation, floating geometric and organic forms, spiritual synesthesia, no readable symbols.",
+      "negativeHint": "photoreal street scene, classical portraiture",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "malevich",
+      "name": "Kazimir Malevich",
+      "era": "Suprematism RU",
+      "tags": [
+        "abstract",
+        "suprematism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Suprematist abstract painting: floating geometric planes on white infinite space, radical simplicity, cosmic non-objectivity.",
+      "negativeHint": "busy figurative narrative, impressionist landscape",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "miro",
+      "name": "Joan Miró",
+      "era": "20th c. ES",
+      "tags": [
+        "surrealism",
+        "abstract",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Miró: playful biomorphic signs, starry fields, primary accents on soft grounds, childlike cosmic poetry without text.",
+      "negativeHint": "heavy oil realism, architectural photography",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ernst",
+      "name": "Max Ernst",
+      "era": "Surrealism DE/FR",
+      "tags": [
+        "surrealism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal painting in the spirit of Ernst: frottage textures, forest of strange growths, dream archaeology, uncanny natural history.",
+      "negativeHint": "clean Swiss poster grid, fashion gloss photo",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "de_chirico",
+      "name": "Giorgio de Chirico",
+      "era": "Metaphysical IT",
+      "tags": [
+        "surrealism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Metaphysical painting: empty piazzas, long afternoon shadows, classical mannequins, uncanny quiet architecture.",
+      "negativeHint": "busy impressionist crowd, drip action painting",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "modigliani",
+      "name": "Amedeo Modigliani",
+      "era": "early 20th c. IT/FR",
+      "tags": [
+        "modernism",
+        "portrait",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Modigliani: elongated necks and almond eyes, warm earth palette, intimate modernist portrait, mask-like elegance.",
+      "negativeHint": "cubist shatter, photoreal pores",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "schiele",
+      "name": "Egon Schiele",
+      "era": "early 20th c. AT",
+      "tags": [
+        "expressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Expressionist drawing/painting in the spirit of Schiele: contorted line, raw psychological figure, stark contour, urgent flesh tones.",
+      "negativeHint": "smooth Ingres porcelain, cheerful Renoir picnic",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bacon",
+      "name": "Francis Bacon",
+      "era": "20th c. UK/IE",
+      "tags": [
+        "expressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Francis Bacon: visceral figure distortion in geometric cages, smeared flesh, existential drama, controlled chaos.",
+      "negativeHint": "cute illustration, calm Vermeer interior",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "freud",
+      "name": "Lucian Freud",
+      "era": "20th c. UK",
+      "tags": [
+        "realism",
+        "portrait",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painted flesh realism in the spirit of Lucian Freud: thick impasto skin, unflinching portrait, studio glare, psychological weight.",
+      "negativeHint": "airbrushed beauty ads, abstract color field only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "richter",
+      "name": "Gerhard Richter",
+      "era": "contemporary DE",
+      "tags": [
+        "contemporary",
+        "blur",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Gerhard Richter: photo-blur oil squeegee, or abstract scraped color veils, cool German contemporary ambiguity.",
+      "negativeHint": "ukiyo-e flat prints, neon pop comics",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "doig",
+      "name": "Peter Doig",
+      "era": "contemporary UK/TT",
+      "tags": [
+        "contemporary",
+        "landscape",
+        "europe",
+        "caribbean"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary painting in the spirit of Peter Doig: dreamlike landscape memory, cinematic color, soft mystery, filmic stillness.",
+      "negativeHint": "hard Bauhaus geometry, reportage flash photo",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "tuymans",
+      "name": "Luc Tuymans",
+      "era": "contemporary BE",
+      "tags": [
+        "contemporary",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary painting in the spirit of Tuymans: washed pale memory images, quiet political afterimage, thin paint, muted unease.",
+      "negativeHint": "high-chroma Fauvism, glossy fashion photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "neh",
+      "name": "Chris Ofili-adjacent decorative figuration",
+      "era": "contemporary UK/NG",
+      "tags": [
+        "contemporary",
+        "africa",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary decorative figuration: luminous layered pattern, rich color, mythical modern figures, ornate surface without cultural caricature.",
+      "negativeHint": "stark Brutalist grey photo, minimal Mondrian only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "el_anatsui",
+      "name": "El Anatsui-adjacent shimmering assemblage",
+      "era": "contemporary GH/NG",
+      "tags": [
+        "contemporary",
+        "africa",
+        "sculpture-as-paint"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Shimmering metallic tapestry-like surface energy inspired by El Anatsui: cascading bottle-cap glints as abstract landscape of light, African contemporary monumental shimmer—painterly, not literal sculpture photo.",
+      "negativeHint": "smooth Renaissance sfumato portraits",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "kentridge",
+      "name": "William Kentridge",
+      "era": "contemporary ZA",
+      "tags": [
+        "contemporary",
+        "africa",
+        "charcoal"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Charcoal animation-still spirit of Kentridge: sooty erasures, processional figures, Johannesburg industrial melancholy, drawn cinema.",
+      "negativeHint": "candy pop Ben-Day, clean vector logos",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "ouattara",
+      "name": "Ouattara Watts-adjacent afro-modern",
+      "era": "contemporary CI/US",
+      "tags": [
+        "contemporary",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Afro-modern abstract painting: symbolic signs, rich earth and cosmic blues, layered cultural glyphs without readable text, spiritual energy.",
+      "negativeHint": "Dutch Golden Age still-life only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "thomas",
+      "name": "Alma Thomas",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "color",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract painting in the spirit of Alma Thomas: mosaic dashes of bright color, radiant garden-like fields, joyful rhythmic pattern.",
+      "negativeHint": "tenebrist Caravaggio drama, grey documentary photo",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "lewis",
+      "name": "Norman Lewis",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract painting in the spirit of Norman Lewis: calligraphic night processions, sparks of color in dark fields, lyrical social abstraction.",
+      "negativeHint": "hard Mondrian grid only, tourist postcard",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "lawrence",
+      "name": "Jacob Lawrence",
+      "era": "20th c. US",
+      "tags": [
+        "modernism",
+        "narrative",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modernist narrative painting in the spirit of Jacob Lawrence: flat tempera planes, strong design, Migration-series clarity, dignified storytelling without text.",
+      "negativeHint": "soft Impressionist haze, photoreal HDR",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bearden",
+      "name": "Romare Bearden",
+      "era": "20th c. US",
+      "tags": [
+        "collage",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Collage painting in the spirit of Bearden: jazz-era cut paper figures, rich pattern, Harlem memory, layered photographic fragments as design.",
+      "negativeHint": "empty color-field rectangles only",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "neel",
+      "name": "Alice Neel",
+      "era": "20th c. US",
+      "tags": [
+        "portrait",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Portrait painting in the spirit of Alice Neel: psychologically direct sitters, candid contour, unvarnished modern life, intimate studio honesty.",
+      "negativeHint": "glamour retouch photo, abstract drip only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rivera",
+      "name": "Diego Rivera",
+      "era": "20th c. MX",
+      "tags": [
+        "muralism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mexican muralism in the spirit of Rivera: monumental workers and history, solid volumes, public narrative fresco energy, earth and sky clarity—no slogans.",
+      "negativeHint": "tiny intimate Dutch interior only, soft Whistler nocturne",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "orozco",
+      "name": "José Clemente Orozco",
+      "era": "20th c. MX",
+      "tags": [
+        "muralism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mexican muralism in the spirit of Orozco: tragic monumental figures, fiery allegory, stark architectural drama, moral force.",
+      "negativeHint": "pastel Impressionist picnic, cute stickers",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "siqueiros",
+      "name": "David Alfaro Siqueiros",
+      "era": "20th c. MX",
+      "tags": [
+        "muralism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mexican muralism in the spirit of Siqueiros: dynamic foreshortening, industrial modernity, bold polyangular composition, revolutionary energy without text.",
+      "negativeHint": "quiet Vermeer room, sumi empty mist only",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "tamayo",
+      "name": "Rufino Tamayo",
+      "era": "20th c. MX",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Tamayo: saturated Mexican color, simplified mythic figures, textured modern surfaces, lyrical primitivism.",
+      "negativeHint": "grey Richter blur photo, Swiss grid poster",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "botero",
+      "name": "Fernando Botero",
+      "era": "contemporary CO",
+      "tags": [
+        "figurative",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Figurative painting in the spirit of Botero: volumetric inflated forms, satirical plump dignity, smooth Colombian color, monumental stillness.",
+      "negativeHint": "elongated Schiele line, drip Pollock chaos",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "lam",
+      "name": "Wifredo Lam",
+      "era": "20th c. CU",
+      "tags": [
+        "surrealism",
+        "latin-america",
+        "caribbean"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Wifredo Lam: Afro-Cuban surreal hybrid figures, jungle verticals, spiritual modernism, masked metamorphosis.",
+      "negativeHint": "English Constable pasture, clean Bauhaus bars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "matta",
+      "name": "Roberto Matta",
+      "era": "20th c. CL",
+      "tags": [
+        "surrealism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal biomorphic space in the spirit of Matta: psychic morphologies, cosmic architecture, electric Latin American surrealism.",
+      "negativeHint": "Dutch still-life breakfast, photoreal food",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "tarsila",
+      "name": "Tarsila do Amaral",
+      "era": "20th c. BR",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Brazilian modernism in the spirit of Tarsila: anthropophagic landscape, bold simplified forms, tropical color, Antropofagia clarity.",
+      "negativeHint": "foggy Whistler nocturne, grey concrete only",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "portinari",
+      "name": "Cândido Portinari",
+      "era": "20th c. BR",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Brazilian modernist painting in the spirit of Portinari: social dignity of workers, earth pigments, mural-scale humanity, coffee and drought narratives without text.",
+      "negativeHint": "pop Ben-Day irony, neon night Tokyo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kusama",
+      "name": "Yayoi Kusama",
+      "era": "contemporary JP",
+      "tags": [
+        "contemporary",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting/installation spirit of Kusama: infinity nets and polka dots, obsessive pattern, pumpkin-bright color fields, mirrored infinity sensation as 2D pattern world.",
+      "negativeHint": "Caravaggio tenebrism, sober court portrait",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "murakami",
+      "name": "Takashi Murakami-adjacent superflat",
+      "era": "contemporary JP",
+      "tags": [
+        "contemporary",
+        "superflat",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Superflat graphic painting: high-chroma cute-fierce motifs, flat commercial sheen, anime-adjacent pop without logos or readable text.",
+      "negativeHint": "Rembrandt brown umbers, documentary grit photo",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "nara",
+      "name": "Yoshitomo Nara",
+      "era": "contemporary JP",
+      "tags": [
+        "contemporary",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Nara: large-headed figures, sparse ground, quiet rebellious cuteness, flat pastel contemporary Japanese pop.",
+      "negativeHint": "busy Baroque allegory, Gursky mega-crowd",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "ai_weiwei_graphic",
+      "name": "Chinese contemporary conceptual graphic",
+      "era": "contemporary CN",
+      "tags": [
+        "contemporary",
+        "asia",
+        "china"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Contemporary Chinese conceptual graphic: stark monumental simplicity, political poetry as pure form, black-red-wood material clarity—no slogans or portraits of living leaders.",
+      "negativeHint": "rococo ornament overload, soft Renoir flesh",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "zhang_daohan",
+      "name": "Chinese literati landscape",
+      "era": "classical CN",
+      "tags": [
+        "ink",
+        "landscape",
+        "asia",
+        "china"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Chinese literati ink landscape: towering mist mountains, empty-far composition, calligraphic texture strokes, poetic scholar solitude on silk/paper.",
+      "negativeHint": "Western oil impasto, neon cyberpunk",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "qi_baishi",
+      "name": "Qi Baishi",
+      "era": "20th c. CN",
+      "tags": [
+        "ink",
+        "asia",
+        "china"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Chinese ink-and-color painting in the spirit of Qi Baishi: lively shrimp, frogs, blossoms; playful brush economy, folk warmth, expressive simplicity.",
+      "negativeHint": "photoreal macro dew, Constructivist diagonals",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "xu_beihong",
+      "name": "Xu Beihong",
+      "era": "20th c. CN",
+      "tags": [
+        "ink",
+        "asia",
+        "china"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modern Chinese ink painting in the spirit of Xu Beihong: powerful horses or figures, Western anatomy meeting ink brush, heroic vitality.",
+      "negativeHint": "kawaii superflat stickers, soft Monet waterlilies only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bada_shanren",
+      "name": "Bada Shanren",
+      "era": "Qing CN",
+      "tags": [
+        "ink",
+        "asia",
+        "china"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Chinese ink painting in the spirit of Bada Shanren: lonely birds and rocks, eccentric abbreviated brush, ironic emptiness, literati solitude.",
+      "negativeHint": "busy Venetian colorito, fashion editorial gloss",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hiroshige",
+      "name": "Utagawa Hiroshige",
+      "era": "Edo JP",
+      "tags": [
+        "ukiyo-e",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ukiyo-e landscape in the spirit of Hiroshige: poetic rain and bridges, travel views, atmospheric Japanese weather, woodblock color bands.",
+      "negativeHint": "Cubist facets, heavy oil portraiture",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "utamaro",
+      "name": "Kitagawa Utamaro",
+      "era": "Edo JP",
+      "tags": [
+        "ukiyo-e",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ukiyo-e bijin-ga spirit of Utamaro: elegant feminine contour, patterned kimono, refined close-up composition, soft mineral color—graceful, not exploitative.",
+      "negativeHint": "sports action freeze-frame, Brutalist concrete",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "sesshu",
+      "name": "Sesshū Tōyō",
+      "era": "Muromachi JP",
+      "tags": [
+        "ink",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Japanese ink landscape in the spirit of Sesshū: bold haboku splashed ink, monumental cliffs, Zen austerity, powerful empty space.",
+      "negativeHint": "candy-colored pop art, photoreal food",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "varma",
+      "name": "Raja Ravi Varma",
+      "era": "19th c. IN",
+      "tags": [
+        "academic",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Indo-academic oil painting in the spirit of Raja Ravi Varma: mythic narrative clarity, luminous saris, theatrical Indian storytelling light.",
+      "negativeHint": "sumi mist monochrome only, Swiss red-black poster",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "tagore_aban",
+      "name": "Abanindranath Tagore",
+      "era": "early 20th c. IN",
+      "tags": [
+        "bengal-school",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Bengal School wash painting: misty tempera-like washes, lyrical Indian revival, soft contours, poetic nationalism as atmosphere not slogan.",
+      "negativeHint": "hard pop Ben-Day, Gursky stadium crowds",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "sher_gil",
+      "name": "Amrita Sher-Gil",
+      "era": "20th c. IN/HU",
+      "tags": [
+        "modernism",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modernist painting in the spirit of Amrita Sher-Gil: solid figures, earthy Indian palette, melancholic dignity, Post-Impressionist structure.",
+      "negativeHint": "ukiyo-e tourist Mount Fuji cliché, neon Tokyo nights",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "souza",
+      "name": "F.N. Souza",
+      "era": "20th c. IN",
+      "tags": [
+        "modernism",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Indian modernist painting in the spirit of Souza: raw contour, visceral heads and nudes, bold line, Progressive Artists' Group intensity.",
+      "negativeHint": "soft Constable clouds, pastel lifestyle blog",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "husain",
+      "name": "M.F. Husain",
+      "era": "20th c. IN",
+      "tags": [
+        "modernism",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Modernist painting in the spirit of M.F. Husain: galloping line, horses and mythic modern India, vibrant planes, cinematic motion—avoid religious controversy; focus on kinetic form and color.",
+      "negativeHint": "Dutch breakfast still-life, photoreal passport photo",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "miniature_mughal",
+      "name": "Mughal miniature painting",
+      "era": "Mughal IN",
+      "tags": [
+        "miniature",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mughal miniature painting: jewel detail, flat decorative space, courtly gardens and processions, fine outline, Persian-Indian hybrid elegance without calligraphy text.",
+      "negativeHint": "large oil impasto, street photography grain",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "persian_miniature",
+      "name": "Persian miniature painting",
+      "era": "classical IR",
+      "tags": [
+        "miniature",
+        "middle-east",
+        "asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Persian miniature painting: intricate garden geometry, flattened perspective, luminous mineral color, poetic gathering scenes without readable script.",
+      "negativeHint": "Western Baroque tenebrism, Gursky stock exchange",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "islamic_geometry",
+      "name": "Islamic geometric ornament",
+      "era": "classical",
+      "tags": [
+        "geometry",
+        "middle-east",
+        "africa",
+        "asia"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Islamic geometric ornament: precise star polygons, interlaced girih, arabesque vegetal borders, luminous tile rhythm—no calligraphy or Quranic text.",
+      "negativeHint": "figurative oil portrait, Impressionist landscape",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "ottoman_miniature",
+      "name": "Ottoman miniature",
+      "era": "classical TR",
+      "tags": [
+        "miniature",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ottoman miniature painting: ceremonial processions, stylized architecture, bright opaque color, manuscript page clarity without script.",
+      "negativeHint": "abstract expressionist drip, neon noir photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ancient_egyptian",
+      "name": "Ancient Egyptian wall painting",
+      "era": "Pharaonic EG",
+      "tags": [
+        "ancient",
+        "africa",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ancient Egyptian wall painting: profile-composite figures, hierarchical scale, mineral flat color, Nile ceremonial clarity, register bands without hieroglyph-readable text.",
+      "negativeHint": "Renaissance sfumato, contemporary street photo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "nubian_fresco",
+      "name": "Nubian / Sudanese fresco spirit",
+      "era": "classical SD",
+      "tags": [
+        "ancient",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Nubian fresco spirit: elongated dark figures, crown and jewelry pattern, ochre and lapis flatness, Nile court elegance without readable glyphs.",
+      "negativeHint": "Dutch still-life oysters, Bauhaus bars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ethiopian_icon",
+      "name": "Ethiopian church painting",
+      "era": "classical ET",
+      "tags": [
+        "icon",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ethiopian Orthodox painting spirit: frontal sacred figures, large eyes, patterned robes, narrative registers, vivid tempera—devotional atmosphere without legible Ge'ez text.",
+      "negativeHint": "photoreal nightlife, Cubist café still-life",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "yoruba_sculpture_paint",
+      "name": "Yoruba sculptural painting energy",
+      "era": "classical/modern NG",
+      "tags": [
+        "africa",
+        "figurative"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Yoruba-inspired sculptural painting energy: rhythmic carved-form figures, indigo and earth pigments, ceremonial dignity, patterned cloth—respectful, not tourist caricature.",
+      "negativeHint": "Whistler fog harbor, Swiss typography poster",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "shona_stone_spirit",
+      "name": "Shona stone sculpture spirit as paint",
+      "era": "contemporary ZW",
+      "tags": [
+        "africa",
+        "sculpture-as-paint"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Shona stone sculpture translated to painterly form: polished biomorphic figures, serene monumentality, green-black stone sheen as painted volume.",
+      "negativeHint": "busy ukiyo-e crowds, pop Ben-Day comics",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "korean_minhwa",
+      "name": "Korean minhwa folk painting",
+      "era": "Joseon KR",
+      "tags": [
+        "folk",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Korean minhwa folk painting: bold tigers, magpies, blossoms; humorous charm, flat decorative color, folk auspicious energy without Hangul text.",
+      "negativeHint": "Caravaggio dark drama, architectural photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "korean_landscape",
+      "name": "Korean true-view landscape",
+      "era": "Joseon KR",
+      "tags": [
+        "landscape",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Korean true-view (jingyeong) landscape: distinctive mountain character, scholarly ink atmosphere, Korean peninsula light and mist.",
+      "negativeHint": "Venetian mythological nude feast, neon Tokyo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "thai_mural",
+      "name": "Thai temple mural spirit",
+      "era": "classical TH",
+      "tags": [
+        "mural",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Thai temple mural spirit: elongated graceful figures, gold and jewel tones, narrative celestial gardens, flat decorative space without readable script.",
+      "negativeHint": "German Expressionist angles, reportage flash",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "balinese_kamasan",
+      "name": "Balinese Kamasan painting",
+      "era": "classical ID",
+      "tags": [
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Balinese Kamasan classical painting: wayang-like profiles, dense mythic narrative, ochre-black-white-red palette, ceremonial storytelling without text.",
+      "negativeHint": "minimal Malevich square, Eggleston motel photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "maori_kowhaiwhai",
+      "name": "Māori kowhaiwhai pattern spirit",
+      "era": "classical NZ",
+      "tags": [
+        "oceania",
+        "pattern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Māori kowhaiwhai pattern spirit: rhythmic koru curves, red-black-white rafter patterns, bold graphic ancestral design—respectful pattern study, not sacred appropriation of specific iwi marks.",
+      "negativeHint": "Dutch floral still-life, soft Impressionism",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "pacific_tapa",
+      "name": "Pacific tapa cloth pattern",
+      "era": "classical Pacific",
+      "tags": [
+        "oceania",
+        "pattern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Pacific tapa cloth graphic: stamped geometric plant motifs, earth brown and black on bark-cloth ground, ceremonial textile rhythm.",
+      "negativeHint": "neon cyberpunk, Cubist café",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "canadian_group7",
+      "name": "Group of Seven",
+      "era": "20th c. CA",
+      "tags": [
+        "landscape",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Canadian Group of Seven landscape: rugged Shield rock, autumn blaze, northern light, bold simplified wilderness forms.",
+      "negativeHint": "tropical Tarsila palm only, fashion studio",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "carr",
+      "name": "Emily Carr",
+      "era": "20th c. CA",
+      "tags": [
+        "landscape",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Painting in the spirit of Emily Carr: swirling West Coast forests, totemic vertical energy as landscape form, spiritual British Columbia greenery—landscape focus, not copying sacred pole designs.",
+      "negativeHint": "Persian miniature gardens, pop comics",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bauhaus_poster",
+      "name": "Bauhaus poster",
+      "era": "1920s DE",
+      "tags": [
+        "graphic",
+        "poster",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Bauhaus graphic poster design: primary geometric shapes, asymmetric layout, bold sans bars of color, constructivist clarity, no readable typography—shape only.",
+      "negativeHint": "baroque ornament, photoreal textures, cursive script",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ukiyo_e_graphic",
+      "name": "Ukiyo-e graphic print",
+      "era": "Edo JP",
+      "tags": [
+        "graphic",
+        "woodblock",
+        "asia"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic ukiyo-e print: flat color blocks, strong black key lines, patterned kimono and wave motifs, theatrical staging, woodblock registration feel.",
+      "negativeHint": "oil painterly blend, 3D rendering",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "art_nouveau_poster",
+      "name": "Art Nouveau poster",
+      "era": "1900 EU",
+      "tags": [
+        "graphic",
+        "poster",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Art Nouveau poster graphic: whiplash curves, botanical borders, elegant silhouette, muted metallic accents, decorative panel structure without text.",
+      "negativeHint": "brutalist concrete, photoreal street photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "midcentury_travel",
+      "name": "Mid-century travel poster",
+      "era": "1950s",
+      "tags": [
+        "graphic",
+        "poster",
+        "travel",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Mid-century modern travel poster: simplified landmark silhouettes, limited ink palette, screenprint texture, optimistic geometry, destination vibe without slogans.",
+      "negativeHint": "photoreal skyline, busy collage stickers",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "linocut",
+      "name": "Linocut print",
+      "era": "20th c.",
+      "tags": [
+        "graphic",
+        "printmaking",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Linocut / woodcut print: carved gouge marks, high-contrast ink, reduced values, handmade registration, graphic storytelling power.",
+      "negativeHint": "smooth airbrush gradients, photographic detail",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "watercolor_botanical",
+      "name": "Watercolor botanical plate",
+      "era": "scientific illustration",
+      "tags": [
+        "graphic",
+        "botanical",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Watercolor botanical illustration: delicate translucent washes, scientific clarity of leaf and stem, cream paper ground, elegant specimen layout without labels.",
+      "negativeHint": "heavy oil impasto, neon cyber colors",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "swiss_international",
+      "name": "Swiss International Style",
+      "era": "mid 20th c. CH",
+      "tags": [
+        "graphic",
+        "modern",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Swiss International graphic design: grid discipline, red-and-black or limited palette, photographic cutout feel with flat color fields, objective clarity, no readable type.",
+      "negativeHint": "ornamental florals, messy scrapbook collage",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "soviet_constructivist",
+      "name": "Constructivist poster",
+      "era": "1920s RU",
+      "tags": [
+        "graphic",
+        "poster",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Constructivist poster graphic: diagonal dynamism, photomontage planes, red-black-beige, industrial geometry, urgent visual propaganda energy without slogans.",
+      "negativeHint": "pastel cottagecore, soft watercolor bloom",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pop_art",
+      "name": "Pop art print",
+      "era": "1960s US/UK",
+      "tags": [
+        "graphic",
+        "pop",
+        "north-america",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Pop art graphic print: Ben-Day dots, bold comic contour, saturated commercial color, ironic mass-culture objects, flat silkscreen layers.",
+      "negativeHint": "subtle tonal oil painting, muted earth only",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "stencil_street",
+      "name": "Stencil street art",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "street",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Stencil street-art graphic: sprayed layers on concrete, high-contrast silhouette, urban wall texture, political clarity without readable slogans.",
+      "negativeHint": "gallery oil varnish look, soft impressionism",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "risograph",
+      "name": "Risograph print",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "print",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Risograph print aesthetic: misregistered fluorescent layers, grainy ink, limited spot colors, handmade zine charm, flat illustrative forms.",
+      "negativeHint": "photoreal CGI, smooth vector gradients only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "charcoal_poster",
+      "name": "Charcoal and ink poster",
+      "era": "modern",
+      "tags": [
+        "graphic",
+        "drawing",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic charcoal and ink drawing: bold massed blacks, scratched highlights, poster-scale figure or landmark, raw paper tooth.",
+      "negativeHint": "candy pastel palette, 3D render sheen",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "australian_surf_poster",
+      "name": "Australian surf poster",
+      "era": "1970s AU",
+      "tags": [
+        "graphic",
+        "australia",
+        "surf",
+        "oceania"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Australian surf culture poster graphic: simplified wave curl, sunburst, board silhouette, limited tropical inks, screenprint nostalgia without brand logos or text.",
+      "negativeHint": "photoreal surfer stock photo, gothic darkness",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "map_illustration",
+      "name": "Illustrated map graphic",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "map",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Illustrated map graphic: playful cartographic icons, soft terrain washes, coastline clarity, bird's-eye storytelling without street-name text.",
+      "negativeHint": "Google Maps screenshot look, tiny unreadable labels",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "editorial_collage",
+      "name": "Editorial collage",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "collage",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Editorial paper collage: cut newsprint textures (illegible), layered photographs as shapes, bold color blocks, contemporary magazine art direction without readable headlines.",
+      "negativeHint": "single clean oil portrait only, seamless photoreal composite",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kids_picturebook",
+      "name": "Picture-book illustration",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "illustration",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Warm picture-book illustration: soft gouache shapes, friendly simplification, gentle storytelling light, cohesive palette, inviting without childish clutter.",
+      "negativeHint": "horror surrealism, hyperreal pores, busy UI stickers",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "neon_noir_graphic",
+      "name": "Neon noir graphic",
+      "era": "contemporary",
+      "tags": [
+        "graphic",
+        "noir",
+        "global"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Neon noir graphic illustration: ink blacks with electric cyan/magenta accents, rainy city silhouette, high-contrast poster framing, no readable signage.",
+      "negativeHint": "sunny pastoral, soft watercolor botanicals",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "warhol",
+      "name": "Andy Warhol-adjacent silkscreen",
+      "era": "20th c. US",
+      "tags": [
+        "pop",
+        "graphic",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Silkscreen pop graphic in the spirit of Warhol: repeated icon grids, off-register color, celebrity-as-shape without real celebrity likenesses, factory-flat ink.",
+      "negativeHint": "Romantic sublime landscape, soft sfumato",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "lichtenstein",
+      "name": "Roy Lichtenstein",
+      "era": "20th c. US",
+      "tags": [
+        "pop",
+        "graphic",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Pop painting/print in the spirit of Lichtenstein: Ben-Day dots, comic contours, primary drama, ironic flatness without speech balloons text.",
+      "negativeHint": "sumi mist mountains, documentary B&W grit",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "haring",
+      "name": "Keith Haring",
+      "era": "late 20th c. US",
+      "tags": [
+        "graphic",
+        "street",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic line figures in the spirit of Haring: radiant babies and barking dogs energy, bold continuous outline, subway-poster flat color, joyful activism without slogans.",
+      "negativeHint": "Dutch Golden Age banquet, photoreal pores",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "albers",
+      "name": "Josef Albers",
+      "era": "20th c. DE/US",
+      "tags": [
+        "graphic",
+        "color",
+        "europe",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Homage-to-the-square color study: nested squares of interacting color, Bauhaus precision, optical color pedagogy as pure composition.",
+      "negativeHint": "busy figurative narrative, street photo grain",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "cassandre",
+      "name": "A.M. Cassandre",
+      "era": "20th c. FR",
+      "tags": [
+        "graphic",
+        "poster",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Art Deco poster in the spirit of Cassandre: monumental machine-age silhouettes, ocean liners and rails as pure form, elegant geometry without type.",
+      "negativeHint": "loose Impressionist gardens, soft portraiture",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "beardsley",
+      "name": "Aubrey Beardsley",
+      "era": "Fin de siècle UK",
+      "tags": [
+        "graphic",
+        "drawing",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Graphic ink in the spirit of Beardsley: decadent black-white arabesques, elegant grotesque, Art Nouveau line drama without captions.",
+      "negativeHint": "color-field Rothko rectangles, sports photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "dulac",
+      "name": "Edmund Dulac",
+      "era": "early 20th c. FR/UK",
+      "tags": [
+        "graphic",
+        "illustration",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Golden Age illustration in the spirit of Dulac: jeweled fairy-tale atmosphere, Orientalist decorative romance handled as pattern and light, watercolor richness.",
+      "negativeHint": "Brutalist concrete photo, Constructivist red bars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rackham",
+      "name": "Arthur Rackham",
+      "era": "early 20th c. UK",
+      "tags": [
+        "graphic",
+        "illustration",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Illustration in the spirit of Rackham: twisted woodland ink, muted watercolor, fairy-tale melancholy, intricate branch silhouettes.",
+      "negativeHint": "pop fluorescent silkscreen, Gursky mall",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "sendak",
+      "name": "Maurice Sendak-adjacent picture book",
+      "era": "20th c. US",
+      "tags": [
+        "graphic",
+        "illustration",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Picture-book crosshatch illustration: moonlit wildness, cross-hatched beasts, emotional childhood adventure, warm lamp light.",
+      "negativeHint": "Islamic girih geometry only, fashion gloss",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "polish_poster",
+      "name": "Polish School of Posters",
+      "era": "20th c. PL",
+      "tags": [
+        "graphic",
+        "poster",
+        "europe"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Polish School of Posters: witty surreal metaphor, painterly graphic collage, bold conceptual image, theatrical cinema energy without titles.",
+      "negativeHint": "photoreal product shot, soft Monet pond",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "cuban_osp",
+      "name": "Cuban OSPAAAL poster spirit",
+      "era": "20th c. CU",
+      "tags": [
+        "graphic",
+        "poster",
+        "latin-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Cuban political poster graphic spirit: vibrant screenprint solidarity imagery, bold symbolic figures, tropical modernist flat color—no slogans or leader faces.",
+      "negativeHint": "Dutch still-life cheese, Whistler fog",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "japanese_matchbox",
+      "name": "Japanese matchbox / ephemera graphic",
+      "era": "20th c. JP",
+      "tags": [
+        "graphic",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Japanese matchbox ephemera graphic: tiny bold icons, limited ink, charming commercial modernism, stamp-like clarity without text.",
+      "negativeHint": "large Romantic cliffscape, thick Freud flesh",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "shahzia",
+      "name": "Shahzia Sikander-adjacent neo-miniature",
+      "era": "contemporary PK/US",
+      "tags": [
+        "miniature",
+        "contemporary",
+        "asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Neo-miniature painting: translucent layered figures, Indo-Persian detail meeting contemporary space, jewel-like hybrid narratives without script.",
+      "negativeHint": "sports telephoto freeze, Bauhaus primary bars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "el_greco",
+      "name": "El Greco",
+      "era": "Mannerism ES",
+      "tags": [
+        "mannerism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mannerist painting in the spirit of El Greco: elongated spiritual figures, stormy Toledo skies, flickering acidic light, mystical tension.",
+      "negativeHint": "flat Pop Ben-Day, cheerful Hockney pool",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "arcimboldo",
+      "name": "Giuseppe Arcimboldo",
+      "era": "Renaissance IT",
+      "tags": [
+        "mannerism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Composite still-life portraiture in the spirit of Arcimboldo: faces made of fruit, fish, or books, witty allegorical seasons, precise miniature objects.",
+      "negativeHint": "empty color field, street photography",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rodin",
+      "name": "Auguste Rodin-adjacent sculptural paint",
+      "era": "19th–20th c. FR",
+      "tags": [
+        "sculpture-as-paint",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Sculptural painting energy in the spirit of Rodin: tactile modeled flesh in paint, dramatic partial figures, bronze-like light across vigorous modeling.",
+      "negativeHint": "flat vector poster, ukiyo-e tourism",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "brancusi",
+      "name": "Constantin Brâncuși-adjacent form",
+      "era": "20th c. RO/FR",
+      "tags": [
+        "sculpture-as-paint",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Essential sculptural form as painting: polished ovoid purity, bird-in-space silhouette, sacred simplicity, modern stone/bronze calm.",
+      "negativeHint": "busy Bosch allegory, dense minhwa tigers",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "giacometti",
+      "name": "Alberto Giacometti",
+      "era": "20th c. CH",
+      "tags": [
+        "sculpture-as-paint",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Elongated existential figures in the spirit of Giacometti: thin walking silhouettes, scratchy grey atmosphere, fragile monumentality.",
+      "negativeHint": "Botero volume plumpness, candy pop",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "moore",
+      "name": "Henry Moore",
+      "era": "20th c. UK",
+      "tags": [
+        "sculpture-as-paint",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Reclining sculptural forms in the spirit of Henry Moore: hollowed biomorphic stone, landscape-body hybrid, British modern monument.",
+      "negativeHint": "Persian miniature detail overload, neon noir",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "hopper_photo_hybrid",
+      "name": "American Precisionism",
+      "era": "20th c. US",
+      "tags": [
+        "precisionism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Precisionist painting: hard-edged American factories and bridges, cool geometry, industrial clarity, Sheeler-like crystalline light.",
+      "negativeHint": "soft Impressionist gardens, drip chaos",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "demuth",
+      "name": "Charles Demuth",
+      "era": "20th c. US",
+      "tags": [
+        "precisionism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Precisionist/poster portrait energy: industrial beams and numbers as pure form, sharp planes, American modern clarity without readable words.",
+      "negativeHint": "sumi mist, romantic fog cliffs",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "okeeffe_city",
+      "name": "O'Keeffe New York",
+      "era": "20th c. US",
+      "tags": [
+        "modernism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "O'Keeffe city paintings spirit: soaring Manhattan canyons, simplified skyscraper light, dramatic urban sublime.",
+      "negativeHint": "rural Wyeth grass only, Persian garden",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "davis",
+      "name": "Stuart Davis",
+      "era": "20th c. US",
+      "tags": [
+        "modernism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "American Cubist-jazz painting in the spirit of Stuart Davis: snappy billboard planes, syncopated color, modern still-life energy without text.",
+      "negativeHint": "tenebrist saints, soft Whistler nocturne",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "hofmann",
+      "name": "Hans Hofmann",
+      "era": "20th c. DE/US",
+      "tags": [
+        "abstract",
+        "expressionism",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract painting in the spirit of Hofmann: push-pull color rectangles, vigorous painterly slabs, European-American modern teaching energy.",
+      "negativeHint": "ukiyo-e rain bridge, photoreal sushi",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "frankenthaler",
+      "name": "Helen Frankenthaler",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "color-field",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Color-field soak-stain painting in the spirit of Frankenthaler: poured translucent washes, lyrical landscape suggestion, airy canvas stain.",
+      "negativeHint": "hard comic outlines, carved linocut only",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "louis",
+      "name": "Morris Louis",
+      "era": "20th c. US",
+      "tags": [
+        "abstract",
+        "color-field",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Veil and stripe color-field painting: flowing poured acrylic rivers, luminous translucent bands, quiet monumental abstraction.",
+      "negativeHint": "figurative mural workers, street flash photo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "martin",
+      "name": "Agnes Martin",
+      "era": "20th c. CA/US",
+      "tags": [
+        "minimal",
+        "abstract",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Minimal grid painting in the spirit of Agnes Martin: pencil lines and pale washes, meditative subtlety, quiet infinite calm.",
+      "negativeHint": "loud Constructivist diagonals, Bosch chaos",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "judd_graphic",
+      "name": "Donald Judd-adjacent minimal boxes",
+      "era": "20th c. US",
+      "tags": [
+        "minimal",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Minimalist industrial boxes as graphic space: repeated rectangular volumes, metal/Plexi clarity, serial order, cool gallery light.",
+      "negativeHint": "ornamental Art Nouveau, expressionist scream",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "flavin",
+      "name": "Dan Flavin-adjacent light",
+      "era": "20th c. US",
+      "tags": [
+        "minimal",
+        "light",
+        "north-america"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Minimal fluorescent light installation as image: colored tube glow washing architecture, serial lamps, ethereal institutional color.",
+      "negativeHint": "pastoral Constable, Mughal jewel garden",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "irish_yeats",
+      "name": "Jack B. Yeats",
+      "era": "20th c. IE",
+      "tags": [
+        "expressionism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Irish expressionist painting in the spirit of Jack B. Yeats: stormy color, poetic figures in west Ireland weather, emotional landscape.",
+      "negativeHint": "hard Swiss grid, clean product photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "scandinavian_hammershoi",
+      "name": "Vilhelm Hammershøi",
+      "era": "19th–20th c. DK",
+      "tags": [
+        "interior",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Quiet interior painting in the spirit of Hammershøi: grey Danish rooms, solitary figures from behind, soft doorways, meditative silence.",
+      "negativeHint": "Fauvist clash, neon pop",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "larsson",
+      "name": "Carl Larsson",
+      "era": "19th–20th c. SE",
+      "tags": [
+        "watercolor",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Swedish watercolor/illustration in the spirit of Carl Larsson: sunny domestic Arts-and-Crafts home, clear line and wash, cozy Nordic light.",
+      "negativeHint": "Bacon cage horror, Constructivist propaganda",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "hilma",
+      "name": "Hilma af Klint",
+      "era": "early 20th c. SE",
+      "tags": [
+        "abstract",
+        "spiritual",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Abstract spiritual painting in the spirit of Hilma af Klint: large geometric diagrams, soft temple color, occult botanical cosmology without text.",
+      "negativeHint": "street photography, Botero satire",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "russian_icon",
+      "name": "Russian Orthodox icon",
+      "era": "medieval RU",
+      "tags": [
+        "icon",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Russian icon painting: gold ground, reverse perspective, solemn frontal saints, egg tempera glow—devotional calm without readable Church Slavonic.",
+      "negativeHint": "pop silkscreen irony, sports action",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "byzantine_mosaic",
+      "name": "Byzantine mosaic",
+      "era": "Byzantine",
+      "tags": [
+        "mosaic",
+        "europe",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Byzantine mosaic: glittering tesserae, hierarchical sacred figures, gold shimmer, formal frontal solemnity without readable Greek.",
+      "negativeHint": "Impressionist broken color landscape, Eggleston motel",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ajanta",
+      "name": "Ajanta cave painting spirit",
+      "era": "classical IN",
+      "tags": [
+        "mural",
+        "asia",
+        "india"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ajanta cave mural spirit: fluid Bodhisattva grace, earth reds and greens, narrative Buddhist atmosphere, soft classical Indian contour without script.",
+      "negativeHint": "Bauhaus bars, night city neon photo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "dunhuang",
+      "name": "Dunhuang mural spirit",
+      "era": "classical CN",
+      "tags": [
+        "mural",
+        "asia",
+        "china"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Dunhuang Silk Road mural spirit: flying apsaras, mineral blues and vermilions, cave-wall narrative elegance without readable sutra text.",
+      "negativeHint": "Polish poster surreal irony, Freud flesh close-up",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "fresco_giotto",
+      "name": "Giotto",
+      "era": "Proto-Renaissance IT",
+      "tags": [
+        "fresco",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Proto-Renaissance fresco in the spirit of Giotto: solid human emotion, blue chapel skies, narrative clarity, early spatial feeling.",
+      "negativeHint": "superflat Murakami, Gursky amazon warehouse",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "fra_angelico",
+      "name": "Fra Angelico",
+      "era": "Early Renaissance IT",
+      "tags": [
+        "renaissance",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Early Renaissance tempera in the spirit of Fra Angelico: angelic pastel devotion, gold accents, serene Annunciation light, delicate sanctity.",
+      "negativeHint": "Basquiat scrawl, sports photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "puntillism_signac",
+      "name": "Paul Signac",
+      "era": "Neo-Impressionism FR",
+      "tags": [
+        "pointillism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Neo-Impressionist harbor painting in the spirit of Signac: mosaic dots, Mediterranean sail light, joyful scientific color.",
+      "negativeHint": "tenebrist Caravaggio, charcoal Kentridge",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "bonnard",
+      "name": "Pierre Bonnard",
+      "era": "Nabis FR",
+      "tags": [
+        "intimism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Intimist painting in the spirit of Bonnard: bath and table memory color, shimmering domestic pattern, warm Nabis glow.",
+      "negativeHint": "hard Precisionist factories, stencil street art",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "vuillard",
+      "name": "Édouard Vuillard",
+      "era": "Nabis FR",
+      "tags": [
+        "intimism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Intimist painting in the spirit of Vuillard: wallpaper-pattern rooms, quiet figures dissolving into décor, muted tapestry color.",
+      "negativeHint": "epic Friedrich cliffs, neon noir",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "redon",
+      "name": "Odilon Redon",
+      "era": "Symbolism FR",
+      "tags": [
+        "symbolism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Symbolist pastel/painting in the spirit of Redon: dream flowers and floating heads, velvet blacks, visionary soft color.",
+      "negativeHint": "Swiss grid objectivity, sports telephoto",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "moreau",
+      "name": "Gustave Moreau",
+      "era": "Symbolism FR",
+      "tags": [
+        "symbolism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Symbolist painting in the spirit of Moreau: jeweled mythic decadence, intricate armor and flora, salon fantasy detail.",
+      "negativeHint": "minimal Agnes Martin lines, reportage photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "bekstinski",
+      "name": "Zdzisław Beksiński",
+      "era": "20th c. PL",
+      "tags": [
+        "surrealism",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Dystopian surreal painting in the spirit of Beksiński: organic architecture of ruin, amber apocalypse light, haunting figurative landscape—eerie, not gore-porn.",
+      "negativeHint": "cheerful Larsson home, Hockney splash",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "close",
+      "name": "Chuck Close-adjacent grid portrait",
+      "era": "contemporary US",
+      "tags": [
+        "photoreal",
+        "portrait",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Large grid-built portrait painting: photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity.",
+      "negativeHint": "loose Impressionist garden, ukiyo-e rain",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "estes",
+      "name": "Richard Estes",
+      "era": "contemporary US",
+      "tags": [
+        "photoreal",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Photorealist city painting in the spirit of Estes: mirrored shop windows, crisp reflections, urban glass complexity, daylight clarity.",
+      "negativeHint": "sumi empty mist, abstract drip",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "flack",
+      "name": "Audrey Flack",
+      "era": "contemporary US",
+      "tags": [
+        "photoreal",
+        "still-life",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Photorealist still-life: glossy symbolic objects, mirror and lipstick vanitas, hyperreal reflections, feminist vanitas clarity.",
+      "negativeHint": "literati mountain emptiness, Bauhaus squares",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "skunder",
+      "name": "Skunder Boghossian",
+      "era": "20th c. ET/US",
+      "tags": [
+        "contemporary",
+        "africa",
+        "ethiopia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Ethiopian modernist painting in the spirit of Skunder: cosmic relief textures, African mythic space, layered mixed-media cosmos, spiritual modernity.",
+      "negativeHint": "Dutch breakfast still-life, Swiss grid",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "ben_ennoun",
+      "name": "Baya",
+      "era": "20th c. DZ",
+      "tags": [
+        "folk-modern",
+        "africa",
+        "maghreb"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Algerian modernist-folk painting in the spirit of Baya: joyful women, birds, and gardens, bold contour, Maghrebi color celebration.",
+      "negativeHint": "grey Hammershøi rooms, Constructivist bars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "cheri_samba",
+      "name": "Chéri Samba",
+      "era": "contemporary CD",
+      "tags": [
+        "popular-painting",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Congolese popular painting energy: vivid narrative street scenes, comic clarity, Kinshasa modern life—figures and city color without readable speech text.",
+      "negativeHint": "sumi mist mountains, Agnes Martin grids",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "aboudia",
+      "name": "Aboudia",
+      "era": "contemporary CI",
+      "tags": [
+        "contemporary",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary Ivorian painting: raw childlike urban figures, layered street energy, Abidjan youth urgency, expressive graffiti-adjacent paint without slogans.",
+      "negativeHint": "Vermeer pearl quiet, botanical watercolor plate",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "njideka",
+      "name": "Njideka Akunyili Crosby",
+      "era": "contemporary NG/US",
+      "tags": [
+        "contemporary",
+        "africa",
+        "north-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary painting: domestic interiors layered with photo-transfer patterns, Nigerian-American intimacy, intricate cultural collage surfaces.",
+      "negativeHint": "empty Malevich square, sports freeze-frame",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "magdalene",
+      "name": "Magdalene Odundo-adjacent ceramic form",
+      "era": "contemporary KE/UK",
+      "tags": [
+        "africa",
+        "sculpture-as-paint"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Burnished ceramic vessel forms as painted still-life: elegant African studio pottery silhouettes, terracotta to graphite sheen, serene volume.",
+      "negativeHint": "busy Bosch panel, neon noir comic",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "goncalo_mabunda",
+      "name": "Gonçalo Mabunda-adjacent assemblage",
+      "era": "contemporary MZ",
+      "tags": [
+        "africa",
+        "contemporary"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mozambican arms-to-art energy as painted metallic masks: throne and face motifs from recycled industrial gleam, solemn contemporary African allegory.",
+      "negativeHint": "soft Renoir picnic, pastel Mucha",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "irma_stern",
+      "name": "Irma Stern",
+      "era": "20th c. ZA",
+      "tags": [
+        "expressionism",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "South African expressionist painting in the spirit of Irma Stern: lush color, bold portraits and still-lifes, Cape modern intensity.",
+      "negativeHint": "minimal fluorescent tubes, Persian miniature only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "gerard_sekoto",
+      "name": "Gerard Sekoto",
+      "era": "20th c. ZA",
+      "tags": [
+        "modernism",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "South African modernist painting in the spirit of Sekoto: township street dignity, warm earth color, social observation with empathy.",
+      "negativeHint": "superflat kawaii, Islamic girih only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "george_pemba",
+      "name": "George Pemba",
+      "era": "20th c. ZA",
+      "tags": [
+        "realism",
+        "africa"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "South African genre painting in the spirit of Pemba: everyday Eastern Cape life, clear narrative realism, community scenes.",
+      "negativeHint": "Rothko rectangles, neon Tokyo nights",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "louay_kayyali",
+      "name": "Louay Kayyali",
+      "era": "20th c. SY",
+      "tags": [
+        "modernism",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Syrian modernist painting in the spirit of Kayyali: dignified ordinary figures, restrained palette, quiet social pathos, Levantine modern realism.",
+      "negativeHint": "Pop Ben-Day irony, drip Pollock",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "fateh_moudaress",
+      "name": "Fateh Moudarres",
+      "era": "20th c. SY",
+      "tags": [
+        "modernism",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Syrian modernist painting: ancestral faces and desert signs, textured earth relief, mythic Middle Eastern modernism.",
+      "negativeHint": "Hockney pool splash, fashion gloss photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "jewad_selim",
+      "name": "Jewad Selim",
+      "era": "20th c. IQ",
+      "tags": [
+        "modernism",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Iraqi modernist painting/sculpture spirit of Jewad Selim: Baghdad Group clarity, stylized figures, ancient Mesopotamia meeting modern form.",
+      "negativeHint": "Eggleston motel photo, soft Whistler fog",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "shakir_hassan",
+      "name": "Shakir Hassan Al Said",
+      "era": "20th c. IQ",
+      "tags": [
+        "modernism",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Iraqi One Dimension aesthetic: letter-like abstract marks as pure form (illegible), contemplative desert modernism, calligraphic abstraction without readable text.",
+      "negativeHint": "Pre-Raphaelite romance, sports action",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "monir",
+      "name": "Monir Farmanfarmaian",
+      "era": "20th c. IR",
+      "tags": [
+        "geometry",
+        "middle-east",
+        "asia"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Iranian mirror-mosaic geometric art spirit: dazzling girih reflections, cut-mirror stars, contemporary Islamic geometry as light architecture.",
+      "negativeHint": "Freud flesh portrait, charcoal Kentridge soot",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "charles_hossein",
+      "name": "Charles-Hossein Zenderoudi",
+      "era": "contemporary IR/FR",
+      "tags": [
+        "graphic",
+        "middle-east"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Saqqakhaneh graphic modernism: talismanic signs and numerals as abstract pattern (illegible), bold Iranian pop-calligraphy energy without readable words.",
+      "negativeHint": "Constable clouds, Vermeer interiors",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "parviz",
+      "name": "Parviz Tanavoli-adjacent heech",
+      "era": "contemporary IR",
+      "tags": [
+        "sculpture-as-paint",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Sculptural 'heech' nothingness forms as painted bronze calligraphy-shape (abstract, illegible): Persian modern sculpture calm, poetic void.",
+      "negativeHint": "busy minhwa tigers, neon noir",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "miniature_timurid",
+      "name": "Timurid miniature",
+      "era": "classical Central Asia",
+      "tags": [
+        "miniature",
+        "asia",
+        "middle-east"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Timurid miniature painting: refined Herat garden courts, ultramarine and gold, precise horsemen and architecture, manuscript jewel clarity without script.",
+      "negativeHint": "Gursky panorama crowds, stencil graffiti",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "sogdian_mural",
+      "name": "Sogdian Silk Road mural",
+      "era": "classical Central Asia",
+      "tags": [
+        "mural",
+        "asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Sogdian mural spirit: banquet and merchant scenes, vivid Central Asian costume pattern, Silk Road narrative flatness without readable script.",
+      "negativeHint": "Swiss International poster, night city photo",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "farid_belkahia",
+      "name": "Farid Belkahia",
+      "era": "20th c. MA",
+      "tags": [
+        "modernism",
+        "africa",
+        "maghreb"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Moroccan modernist painting on skin/copper energy: Amazigh signs, henna-like biomorphic emblems, Maghrebi material modernity.",
+      "negativeHint": "American Precisionist factories, Botero satire",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "torres_garcia",
+      "name": "Joaquín Torres-García",
+      "era": "20th c. UY",
+      "tags": [
+        "constructivism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Universal Constructivism: grid of symbolic pictographs, earthy Montevideo modernism, toy-like cosmic order without readable words.",
+      "negativeHint": "soft Impressionist Seine, fashion editorial",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "xul_solar",
+      "name": "Xul Solar",
+      "era": "20th c. AR",
+      "tags": [
+        "surrealism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Argentine visionary painting in the spirit of Xul Solar: mystical city architectures, watercolor cosmic flags, playful esoteric modernism without text.",
+      "negativeHint": "reportage flash photo, Dutch still-life",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "antonio_berni",
+      "name": "Antonio Berni",
+      "era": "20th c. AR",
+      "tags": [
+        "social-realism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Argentine New Realism: Juanito/Ramona narrative dignity, textured social collage-paint, Buenos Aires periphery humanity without slogans.",
+      "negativeHint": "Albers nested squares only, sumi mist",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "obregon",
+      "name": "Alejandro Obregón",
+      "era": "20th c. CO",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Colombian modernist painting: Caribbean light, condors and still-lifes, expressive color, Barranquilla modern energy.",
+      "negativeHint": "Hammershøi grey rooms, Islamic tile only",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "reveron",
+      "name": "Armando Reverón",
+      "era": "20th c. VE",
+      "tags": [
+        "impressionism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Venezuelan coastal painting in the spirit of Reverón: bleached Caribbean light, white-on-white shimmer, fragile seaside modernity.",
+      "negativeHint": "tenebrist Caravaggio, Constructivist red",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "maria_izquierdo",
+      "name": "María Izquierdo",
+      "era": "20th c. MX",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mexican modernist painting in the spirit of María Izquierdo: circus and still-life allegory, bold folk-modern color, intimate surreal Mexico.",
+      "negativeHint": "Gursky stock floor, Agnes Martin pale grid",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "carrington",
+      "name": "Leonora Carrington",
+      "era": "20th c. UK/MX",
+      "tags": [
+        "surrealism",
+        "latin-america",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal painting in the spirit of Leonora Carrington: alchemical kitchens, hybrid creatures, Celtic-Mexican dream logic, precise weird narrative.",
+      "negativeHint": "sports action, Swiss grid poster",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "varo",
+      "name": "Remedios Varo",
+      "era": "20th c. ES/MX",
+      "tags": [
+        "surrealism",
+        "latin-america",
+        "europe"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Surreal painting in the spirit of Remedios Varo: scientific witches, tower laboratories, delicate fantasy engineering, mystical craft.",
+      "negativeHint": "street B&W grit, Botero plump satire",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "anita_malfatti",
+      "name": "Anita Malfatti",
+      "era": "20th c. BR",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Brazilian modernist painting in the spirit of Anita Malfatti: Expressionist color portraits, Semana de Arte Moderna energy, bold contour.",
+      "negativeHint": "Persian miniature gardens, soft Whistler",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "emiliano_di_cavalcanti",
+      "name": "Emiliano Di Cavalcanti",
+      "era": "20th c. BR",
+      "tags": [
+        "modernism",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Brazilian modernist painting: Carioca popular life, sensual color, samba-era urban lyricism, modernist Brazil without text.",
+      "negativeHint": "Malevich white square, night architectural photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "affandi",
+      "name": "Affandi",
+      "era": "20th c. ID",
+      "tags": [
+        "expressionism",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Indonesian expressionist painting in the spirit of Affandi: squeezed-paint lines, volcanic energy, self and landscape fury, raw modern Indonesia.",
+      "negativeHint": "quiet Vermeer, botanical plate",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "sudjojono",
+      "name": "S. Sudjojono",
+      "era": "20th c. ID",
+      "tags": [
+        "realism",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Indonesian modernist realism: everyday people, honest social seeing, PERSAGI clarity, anti-romantic truthfulness.",
+      "negativeHint": "Kusama dots, fashion gloss",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "latiff",
+      "name": "Latiff Mohidin",
+      "era": "contemporary MY",
+      "tags": [
+        "modernism",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Malaysian modern painting: Pago-Pago sculptural motifs, tropical structure, Southeast Asian modernist totems as abstract form.",
+      "negativeHint": "Dutch still-life oysters, Eggleston cars",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "victor_tan",
+      "name": "Victor Tan / SE Asian contemporary ink hybrid",
+      "era": "contemporary SG",
+      "tags": [
+        "contemporary",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Contemporary Southeast Asian ink-hybrid painting: urban tropical density, calligraphic gesture meeting city haze, humid modern atmosphere.",
+      "negativeHint": "Pre-Raphaelite myth, Mondrian grid",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "fernando_amorsolo",
+      "name": "Fernando Amorsolo",
+      "era": "20th c. PH",
+      "tags": [
+        "impressionism",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Filipino painting in the spirit of Amorsolo: golden Philippine sunlight, rural genre warmth, backlit fields and bayanihan glow.",
+      "negativeHint": "Bacon distortion, neon noir",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "botong",
+      "name": "Carlos Francisco (Botong)",
+      "era": "20th c. PH",
+      "tags": [
+        "mural",
+        "asia",
+        "southeast-asia"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Filipino mural painting in the spirit of Botong: historical pageant color, rhythmic community scenes, Philippine narrative muralism without text.",
+      "negativeHint": "instant Polaroid snapshot, Albers squares",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "lee_jungseop",
+      "name": "Lee Jung-seop",
+      "era": "20th c. KR",
+      "tags": [
+        "modernism",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Korean modernist painting: bulls and family exile pathos, strong contour, mid-century Korean expression, earthy urgency.",
+      "negativeHint": "Hockney acrylic pools, travel poster flat",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "park_seobo",
+      "name": "Park Seo-bo",
+      "era": "contemporary KR",
+      "tags": [
+        "abstract",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Dansaekhwa painting in the spirit of Park Seo-bo: repetitive pencil-on-paint furrows, meditative monochrome process, Korean abstract materiality.",
+      "negativeHint": "busy Arcimboldo fruit faces, pop comics",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "lee_ufan",
+      "name": "Lee Ufan",
+      "era": "contemporary KR/JP",
+      "tags": [
+        "minimal",
+        "asia",
+        "korea",
+        "japan"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Mono-ha / Dialogue painting spirit of Lee Ufan: sparse brush encounters on empty ground, philosophical touch, East Asian minimal presence.",
+      "negativeHint": "dense Bosch allegory, neon city photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "kim_whanki",
+      "name": "Kim Whanki",
+      "era": "20th c. KR",
+      "tags": [
+        "abstract",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Korean abstract painting in the spirit of Kim Whanki: blue dotted constellations, moon-jar calm, lyrical modern Korea.",
+      "negativeHint": "street flash Moriyama, Constructivist diagonals",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "nam_june",
+      "name": "Nam June Paik-adjacent media collage",
+      "era": "contemporary KR/US",
+      "tags": [
+        "contemporary",
+        "asia",
+        "korea"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Media-art collage graphic: stacked CRT glow, rainbow tech nostalgia, playful TV Buddha energy as still collage without logos or readable UI text.",
+      "negativeHint": "Constable pastoral, Mughal court miniature",
+      "aspectRatio": "4:3"
+    },
+    {
+      "id": "colin_mccahon",
+      "name": "Colin McCahon",
+      "era": "20th c. NZ",
+      "tags": [
+        "modernism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "New Zealand modernist painting in the spirit of McCahon: stark landforms, blackboard-like spiritual landscapes, monumental simple shapes—atmosphere without readable biblical words.",
+      "negativeHint": "ukiyo-e bijin, fashion editorial",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "rita_angus",
+      "name": "Rita Angus",
+      "era": "20th c. NZ",
+      "tags": [
+        "modernism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "New Zealand modernist painting in the spirit of Rita Angus: clear regional portraits and hills, crisp color, Goddess of Mercy clarity as composition.",
+      "negativeHint": "Bacon smear, Gursky mega stores",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "tony_fomison",
+      "name": "Tony Fomison",
+      "era": "20th c. NZ",
+      "tags": [
+        "expressionism",
+        "oceania"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "New Zealand expressionist painting: dark mythic heads, Pacific gothic intensity, subterranean color, psychological weight.",
+      "negativeHint": "cheerful Amorsolo sunlight, Swiss poster",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "pacific_tattoo_graphic",
+      "name": "Pacific tattoo pattern graphic",
+      "era": "classical Pacific",
+      "tags": [
+        "oceania",
+        "pattern",
+        "graphic"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Pacific tattoo pattern graphic: dense geometric skin motifs as abstract textile/board design, black ink rhythm—respectful pattern study, not copying living persons' sacred pe'a/moko likenesses.",
+      "negativeHint": "Renoir soft flesh picnic, photoreal sushi",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "fan_ho",
+      "name": "Fan Ho",
+      "era": "20th c. HK",
+      "tags": [
+        "photography",
+        "asia",
+        "china",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Hong Kong street photography in the spirit of Fan Ho: dramatic shafts of light, alley geometry, poetic black-and-white urban theater.",
+      "negativeHint": "candy pop silkscreen, soft Impressionist gardens",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "lang_jingshan",
+      "name": "Lang Jingshan",
+      "era": "20th c. CN",
+      "tags": [
+        "photography",
+        "asia",
+        "china"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Pictorialist Chinese photography: composite landscape like ink painting, misty mountains as photo-poetry, literati photographic calm.",
+      "negativeHint": "harsh Moriyama flash, neon fashion",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "hashem_el_madani",
+      "name": "Hashem el Madani",
+      "era": "20th c. LB",
+      "tags": [
+        "photography",
+        "middle-east",
+        "portrait"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal studio portraiture of mid-century Lebanon: Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity.",
+      "negativeHint": "abstract drip, Constructivist montage",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "abbott",
+      "name": "Berenice Abbott",
+      "era": "20th c. US",
+      "tags": [
+        "photography",
+        "architecture",
+        "north-america",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal New York photography in the spirit of Abbott: changing city science, sharp architectural documentation, modernist B&W clarity.",
+      "negativeHint": "soft pictorial mist, Botero volumes",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "modotti",
+      "name": "Tina Modotti",
+      "era": "20th c. IT/MX",
+      "tags": [
+        "photography",
+        "latin-america",
+        "bw"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal modernist photography in the spirit of Modotti: Mexico still-life and workers, formal beauty meeting social seeing, crisp B&W.",
+      "negativeHint": "kawaii superflat, neon noir comic",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "alvarez_bravo",
+      "name": "Manuel Álvarez Bravo",
+      "era": "20th c. MX",
+      "tags": [
+        "photography",
+        "latin-america"
+      ],
+      "renderMode": "photoreal",
+      "styleLock": "Photoreal Mexican photography in the spirit of Álvarez Bravo: surreal everyday irony, strong sun geometry, poetic street stills.",
+      "negativeHint": "Polish poster paint metaphor, sumi bamboo only",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "iturria",
+      "name": "Ignacio Iturria",
+      "era": "contemporary UY",
+      "tags": [
+        "painting",
+        "latin-america"
+      ],
+      "renderMode": "painterly",
+      "styleLock": "Uruguayan painting of toy-like city blocks and lonely figures in thick paint, nostalgic Montevideo rooms, intimate Latin melancholy.",
+      "negativeHint": "Albers squares, sports stadium photo",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "japanese_sosaku",
+      "name": "Sōsaku-hanga creative print",
+      "era": "20th c. JP",
+      "tags": [
+        "graphic",
+        "asia",
+        "japan"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Sōsaku-hanga creative woodblock: self-drawn carved printed modern Japanese scenes, expressive registration, modern print individuality.",
+      "negativeHint": "photoreal HDR city, Rembrandt umber portrait",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "chinese_nianhua",
+      "name": "Chinese nianhua new year print",
+      "era": "folk CN",
+      "tags": [
+        "graphic",
+        "asia",
+        "china"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Chinese nianhua folk print: bright auspicious scenes, door gods and harvest joy as pure decorative image, bold outlines—no readable couplets.",
+      "negativeHint": "Richter blur photo, Giacometti thin grey",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "indian_kalighat",
+      "name": "Kalighat painting",
+      "era": "19th c. IN",
+      "tags": [
+        "graphic",
+        "asia",
+        "india"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Kalighat pat painting: bold contour, satirical and mythic Kolkata bazaar clarity, flat watercolor graphic punch without text.",
+      "negativeHint": "precisionist factories, Agnes Martin pencil grids",
+      "aspectRatio": "3:4"
+    },
+    {
+      "id": "indian_madhubani",
+      "name": "Madhubani / Mithila painting",
+      "era": "folk IN",
+      "tags": [
+        "graphic",
+        "asia",
+        "india"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Madhubani folk painting: intricate line-filled flora and figures, natural dyes, ritual decorative density—respectful folk pattern energy.",
+      "negativeHint": "night city neon photo, Cubist café",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "warli_graphic",
+      "name": "Warli painting",
+      "era": "folk IN",
+      "tags": [
+        "graphic",
+        "asia",
+        "india"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Warli folk painting: white geometric stick figures on earthen ground, ritual village rhythm, simple ceremonial scenes.",
+      "negativeHint": "Venetian Titian luxury, fashion gloss",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "african_adinkra",
+      "name": "Adinkra symbol textile graphic",
+      "era": "classical GH",
+      "tags": [
+        "graphic",
+        "africa",
+        "pattern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Adinkra symbol textile graphic: stamped proverb emblems as pure geometric cloth pattern (symbols as shapes, not translated text), Ghanaian graphic rhythm.",
+      "negativeHint": "soft Bonnard bathroom, sports action",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "kente_graphic",
+      "name": "Kente pattern graphic",
+      "era": "classical GH",
+      "tags": [
+        "graphic",
+        "africa",
+        "pattern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Kente cloth pattern graphic: luminous woven strip geometry, royal Ghanaian color bands, textile abstraction as composition.",
+      "negativeHint": "Hammershøi silence, Moriyama grain alley",
+      "aspectRatio": "1:1"
+    },
+    {
+      "id": "bogolan",
+      "name": "Bogolanfini mudcloth graphic",
+      "era": "classical ML",
+      "tags": [
+        "graphic",
+        "africa",
+        "pattern"
+      ],
+      "renderMode": "graphic",
+      "styleLock": "Bogolanfini mudcloth graphic: fermented mud black motifs on cloth, Bamana pattern language, earth graphic power.",
+      "negativeHint": "Pop Warhol repeats of soup-like brands, neon Tokyo",
       "aspectRatio": "1:1"
     }
   ]
