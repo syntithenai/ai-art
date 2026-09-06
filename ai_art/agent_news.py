@@ -125,9 +125,11 @@ class NewsAgent:
         *,
         max_tokens: int = 2048,
         temperature: float = 0.4,
-        retries: int = 4,
+        retries: int = 6,
     ) -> str:
         import time
+
+        from ai_art.preflight import ensure_qwen, log, qwen_health_ok
 
         payload = {
             "model": config.QWEN_MODEL,
@@ -154,13 +156,29 @@ class NewsAgent:
                 return str(content).strip()
             except (httpx.ConnectError, httpx.ReadError, httpx.RemoteProtocolError) as exc:
                 last_exc = exc
-                wait = min(2 ** attempt, 20)
-                # Peer run may have stopped Qwen for Comfy — wait and retry.
-                time.sleep(wait)
+                log(
+                    f"Qwen chat connection error (attempt {attempt}/{retries}): {exc}; "
+                    "re-ensuring Qwen"
+                )
+                try:
+                    ensure_qwen(allow_restart=True)
+                except Exception as ensure_exc:
+                    log(f"ensure_qwen during chat retry failed: {ensure_exc}")
+                time.sleep(min(2 ** attempt, 15))
             except httpx.HTTPStatusError as exc:
                 last_exc = exc
-                if exc.response is not None and exc.response.status_code in {502, 503, 504}:
-                    time.sleep(min(2 ** attempt, 20))
+                code = exc.response.status_code if exc.response is not None else 0
+                if code in {502, 503, 504}:
+                    log(
+                        f"Qwen chat HTTP {code} (attempt {attempt}/{retries}); "
+                        f"healthy={qwen_health_ok()}; waiting"
+                    )
+                    if not qwen_health_ok():
+                        try:
+                            ensure_qwen(allow_restart=True)
+                        except Exception as ensure_exc:
+                            log(f"ensure_qwen during 5xx retry failed: {ensure_exc}")
+                    time.sleep(min(2 ** attempt, 15))
                     continue
                 raise
         raise RuntimeError(f"Qwen chat failed after {retries} retries: {last_exc}") from last_exc
@@ -314,10 +332,16 @@ def run_news_to_prompts(
     on: date | None = None,
     count: int = 10,
 ) -> NewsResult:
+    from ai_art.preflight import ensure_qwen, log
+
     on = on or date.today()
     with NewsAgent() as agent:
         sources = agent.gather_sources(on)
         thin = len([s for s in sources if s.get("url")]) < 3
+        # Brave search can take 30s+; another process (Comfy MCP) may have
+        # stopped Qwen in the meantime — bring it back before any LLM call.
+        log("re-checking Qwen before summary/prompts")
+        ensure_qwen(allow_restart=True)
         summary_pack = agent.summarize(sources, on)
         if not summary_pack.get("summary"):
             summary_pack["summary"] = (
@@ -325,6 +349,7 @@ def run_news_to_prompts(
                 "Focus on weather, landscape, civic life, and community resilience themes."
             )
             thin = True
+        ensure_qwen(allow_restart=True)
         images = agent.write_prompts(
             summary_pack=summary_pack, artist=artist, count=count
         )
