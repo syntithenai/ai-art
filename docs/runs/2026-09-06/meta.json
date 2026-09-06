@@ -11,14 +11,14 @@
       "color-field"
     ]
   },
-  "summary": "Australian politics is currently dominated by a clash over digital regulation and national identity. The government is set to unveil draft laws requiring social media platforms to offer an algorithm opt-out, a move the Coalition has criticized as an attempt to censor the internet. Simultaneously, a Coalition proposal to criminalize flag burning has sparked a fierce debate, with Labor accusing the opposition of desperation and an attempt to chase One Nation's agenda. \n\nEnvironmental concerns are rising as an El Niño event spreads across the Pacific at an extraordinary pace, alarming experts with its magnitude and uncertainty. This climate shift is already impacting the country, with questions being raised about whether 2026 could be Australia's worst snow season. Additionally, a study highlights how habitat loss is forcing animals like possums and koalas into Australian homes, illustrating the human-wildlife conflict.\n\nIn the news cycle, a tragic incident in Papua New Guinea saw a crocodile handler die after being attacked at a wildlife park, with onlookers reporting the man was held for an hour before emergency services arrived. In sports, the NRL finals are underway, with the North Queensland Cowboys suffering a blow after star player Reuben Cotter was charged for a high tackle. Meanwhile, Australian journalist Cheng Lei has returned home after 1,154 days in a Chinese prison, offering a personal perspective on the long-standing diplomatic tensions between the two nations.",
+  "summary": "Australian politics on 6 September 2026 was dominated by a significant legislative push regarding digital regulation and social media. The Albanese government is set to unveil draft laws requiring social media platforms to offer users an algorithm opt-out, accompanied by a proposed $100m penalty for harmful algorithms. While Labor Minister Anika Wells is expected to introduce the legislation, the Coalition has criticized the move as an \"attempt to censor the internet,\" with Deputy Prime Minister Angus Taylor expressing \"deep scepticism\" about the measures. This debate comes amid growing public concern over the impact of social media on mental health, particularly for teenagers.\n\nIn economic and industrial news, the federal government announced a $78m scheme to provide free qualifications for up to 6,000 tradies, aiming to address critical skills shortages in the construction sector. Separately, the Coalition proposed a plan to criminalize the burning of the Australian flag, a move Labor dismissed as an \"element of desperation\" to undercut One Nation. The Coalition also suggested making flag burning illegal to protect \"national pride,\" while simultaneously floating ideas on superannuation access for first-time home buyers. Meanwhile, the Coalition's proposal for an 80% reduction in tobacco excise was criticized for failing to model the potential impact on smoking rates.\n\nEnvironmental and safety concerns also featured prominently in the news cycle. A rapidly developing El Niño event in the Pacific is breaking records and alarming experts, with forecasts suggesting it could be the strongest ever recorded, potentially leading to severe weather extremes. Additionally, early fire bans were implemented in New South Wales and Queensland due to a hot start to spring. In a tragic incident, a crocodile handler died after an attack at a wildlife park in Papua New Guinea, while a manhunt was launched in Victoria following an alleged axe attack that left three people with serious injuries.",
   "themes": [
-    "Digital Regulation",
-    "National Identity",
-    "Climate Change",
-    "Human-Wildlife Conflict",
-    "Sports",
-    "International Relations"
+    "Social Media Regulation",
+    "Construction Skills Shortage",
+    "Flag Burning Legislation",
+    "El Niño Weather Event",
+    "Tobacco Tax Policy",
+    "Wildlife Safety Incidents"
   ],
   "headlines": [
     {
@@ -26,32 +26,32 @@
       "url": "https://www.abc.net.au/"
     },
     {
+      "title": "Up to 6,000 tradies to get free qualifications under Labor scheme",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb"
+    },
+    {
       "title": "El Niño’s dark, red tongue spreads across Pacific at extraordinary pace",
       "url": "https://www.abc.net.au/"
     },
     {
-      "title": "Labor say Coalition plan to criminalise flag burning has ‘element of desperation’",
+      "title": "The Coalition proposal that could make flag burning illegal in Australia",
+      "url": "https://www.sbs.com.au/news"
+    },
+    {
+      "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
       "url": "https://www.theguardian.com/australia-news"
     },
     {
-      "title": "‘He couldn’t scream’: Crocodile handler dies after attack at PNG wildlife park",
-      "url": "https://www.abc.net.au/"
+      "title": "Flights halted as volcanic ash spreads across parts of Indonesia",
+      "url": "https://www.sbs.com.au/news"
     },
     {
-      "title": "Cowboys suffer huge finals blow, Dragons face Eels",
-      "url": "https://www.abc.net.au/news/justin"
-    },
-    {
-      "title": "Coming home ‘is not all roses’ for jailed journalist Cheng Lei",
-      "url": "https://www.abc.net.au/"
-    },
-    {
-      "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes",
+      "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
       "url": "https://www.theguardian.com/australia-news"
     },
     {
-      "title": "Flights in Indonesia suspended due to volcano",
-      "url": "https://www.abc.net.au/news/justin"
+      "title": "Big tobacco is back in town as cigarette tax fight lights up Australian politics",
+      "url": "https://www.theguardian.com/australia-news"
     }
   ],
   "thinSearch": false,
@@ -69,15 +69,15 @@
       "source": "brave"
     },
     {
-      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
-      "url": "https://www.nine.com.au/australia-news",
-      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "title": "Australia news live: up to 6,000 tradies to get free qualifications under Labor scheme | Australian politics | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+      "snippet": "Sun 6 Sep 2026 00.25 EDTFirst published on Sat 5 Sep 2026 18.49 EDT · Share · From · 3h ago · 21.39 EDT · <strong>Up to 6,000 tradies will get free qualifications under a $78m federal scheme designed to tackle construction skills shortages</strong>.",
       "source": "brave"
     },
     {
-      "title": "Just In - ABC News",
-      "url": "https://www.abc.net.au/news/justin",
-      "snippet": "Topic:PoliceSat 5 Sep 2026 at 5:43pmSat 5 Sep 2026 at 5:43pmSat 5 Sep 2026 at 5:43pm · <strong>Five children have been taken to hospital after jumping castles were picked up by winds in two separate incidents across Australia on one day</strong>.",
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
       "source": "brave"
     },
     {
@@ -87,9 +87,9 @@
       "source": "brave"
     },
     {
-      "title": "7NEWS Australia: Latest news, sport, video, entertainment and lifestyle from Australia and the world",
-      "url": "https://7news.com.au/",
-      "snippet": "Sunday 6 September 2026 · Click to open navigation · Local news: Sydney, NSW · Sydney · Melbourne · Brisbane · Queensland · Perth · Adelaide · Hobart · Darwin · 7News · ‘Observing how you navigate dad life has been a masterclass for a new dad like me.’ ·",
+      "title": "Australia news live updates: US strikes three Iranian oil tankers; Coalition tobacco tax cut plan didn’t model affect on smoking rates",
+      "url": "https://www.afr.com/world/middle-east/us-strikes-iran-live-updates-us-strikes-oil-tankers-20260906-p60urr",
+      "snippet": "Updated Sep 6, 2026 – 10.07am, first published at 6.09am · 16 mins ago — 9.53AM · Coalition didn’t model what 80 per cent reduction would do to smoking rates · 1 hr ago — 9.03AM · Coalition ‘open’ to super access for first-time home deposits ·",
       "source": "brave"
     },
     {
@@ -105,21 +105,134 @@
       "source": "error"
     },
     {
-      "title": "search error: Australian breaking news site:theguardian.com/australia-news",
-      "url": "",
-      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+breaking+news+site%3Atheguardian.com%2Faustralia-news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
-      "source": "error"
+      "title": "Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/all",
+      "snippet": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news live: home loan applications down by 15% since May budget, CBA says; child dies from infection after petting zoo visit | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+      "snippet": "Officials from the Commonwealth Bank say <strong>home loan applications have dropped by around 15% since the May federal budget</strong> when the Albanese government announced a winding back of generous tax breaks for property investors.",
+      "source": "brave"
+    },
+    {
+      "title": "Fugitive property developer won’t give evidence this week to Icac – as it happened | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "snippet": "The department of foreign affairs and trade (Dfat) has been in contact with the Australian, who is in Tibet and is receiving consular support. The news comes days after another Australian, Cara Severino, was safely located over the weekend.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news live: teenage boys fed misogynistic content within 23 minutes of joining social media, Plibersek says | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+      "snippet": "In case you missed the news overnight, we have an obituary for the late, great Gloria Steinem. Steinem was a groundbreaking campaigner for women everywhere who brought the feminist perspective to the mainstream. She was 92. Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 ... Gloria Steinem. Photograph: Seth Wenig/AP ... Four in five Australians believe governments should deliver social services directly but a majority no longer think politicians serve their interests, AAP reports.",
+      "source": "brave"
+    },
+    {
+      "title": "Morning Mail: El Niño could be strongest ever, bond market chaos, Gloria Steinem dies aged 92 | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/04/morning-mail-friday-ntwnfb",
+      "snippet": "Photograph: Emlyn Crockett/Australian Museum · Eureka moment | An associate professor in forensic psychology at the University of Sydney has won the prestigious Eureka science prize for her work in advancing how police and courts understand victim-survivor testimony in domestic violence cases. El Niño threat | The growing El Niño weather phenomenon to Australia’s east is already breaking heat records, with forecasts showing it will likely easily surpass previous events, according to Australia’s Bureau of Meteorology, as separate research suggested climate change had greatly shortened the odds of the event hitting record extremes.",
+      "source": "brave"
     }
   ],
   "images": [
     {
       "index": 1,
-      "title": "The Algorithmic Horizon",
-      "prompt": "A meditative, gallery-scale abstract color-field painting featuring a vertical composition that symbolizes the tension between digital regulation and national identity, rendered in a painterly fine-art style with visible canvas texture. The upper two-thirds of the canvas are dominated by a vast, atmospheric wash of deep indigo and muted violet, suggesting the vast, uncertain digital void or the weight of legislative debate, with soft, luminous edges where the pigment bleeds into the surrounding air. Hovering within this atmospheric field is a single, precise rectangle of stark, cool white, representing the proposed algorithm opt-out or a shield of identity, suspended with no hard borders but defined by the contrast of the surrounding dark wash. Below, the lower third transitions into a heavy, grounding mass of ochre and rust-red, evoking the Australian landscape and the earthy debate over flag burning and national symbols, with the pigment applied thickly in impasto strokes that suggest the friction of political conflict. The overall effect is one of suspended emotion and quiet tension, using the language of oil on canvas, with no figurative details, no text, and no logos, allowing the colors themselves to convey the narrative of a nation grappling with its digital and physical boundaries.",
+      "title": "The Algorithmic Veil",
+      "prompt": "A large-scale abstract color-field painting in the style of Mark Rothko, featuring luminous, soft-edged rectangles of deep indigo and electric blue hovering over a dark violet background, with the upper field fractured by subtle, translucent layers of gold that suggest a digital veil or filter, rendered in thick, painterly oil on raw canvas with visible impasto brushwork, evoking the meditative tension of digital regulation and the opt-out mechanism, gallery-scale presence, atmospheric wash, no figurative detail, no text, no logos, no hard geometric shapes, no photorealism.",
       "png": "01.png",
       "jpg": "01.jpg",
-      "seed": 1548748483,
-      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/01.png style=flux_klein size=896x1152 seed=1548748483 comfy=http://127.0.0.1:8188",
+      "seed": null,
+      "skipped": true
+    },
+    {
+      "index": 2,
+      "title": "Penalty of Harm",
+      "prompt": "An abstract color-field composition in the Rothko tradition, dominated by a central, glowing rectangle of angry crimson suspended in a field of murky grey-brown, with the crimson edges bleeding softly into the surrounding atmosphere to suggest a heavy, punitive weight, painted with broad, slow strokes of oil pigment on textured linen, conveying the emotional gravity of the $100m penalty for harmful algorithms and the debate on censorship, meditative and somber, no figures, no text, no digital artifacts, no hard lines, no busy scenes.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 2050352405,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/02.png style=flux_klein size=896x1152 seed=2050352405 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Sceptic’s Shadow",
+      "prompt": "A painterly abstract color-field work featuring two distinct, adjacent fields of color: a warm, optimistic amber on the left and a cool, detached slate blue on the right, separated by a thin, indistinct vertical wash of black that blurs the boundary, rendered in oil on canvas with soft, atmospheric edges, symbolizing the political divide between the Albanese government and the Coalition’s deep scepticism, no faces, no political symbols, no text, no hard Bauhaus geometry, no photorealism, gallery-scale emotional resonance.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 623024562,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/03.png style=flux_klein size=896x1152 seed=623024562 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Mental Health Horizon",
+      "prompt": "An abstract color-field painting in the style of Mark Rothko, with a vast, empty lower field of deep, calming teal giving way to a turbulent, swirling upper field of anxious, pale yellow and grey, the transition marked by soft, blurred edges that suggest a fragile boundary, painted with thick, expressive oil strokes on canvas, evoking the public concern over social media’s impact on teenage mental health, no figurative elements, no text, no logos, no hard edges, no digital look, meditative and atmospheric.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 466736476,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/04.png style=flux_klein size=896x1152 seed=466736476 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "The Tradesman’s Qualification",
+      "prompt": "A large, abstract color-field painting featuring a series of horizontal, luminous bands of warm ochre, burnt sienna, and raw umber, stacked vertically to suggest the layers of a construction site or the strata of skill acquisition, rendered in oil on canvas with heavy, tactile brushwork, symbolizing the $78m scheme for free qualifications for 6,000 tradies, no tools, no figures, no text, no hard geometric shapes, no photorealism, gallery-scale presence, atmospheric wash, meditative emotion.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 172446555,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/05.png style=flux_klein size=896x1152 seed=172446555 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Burning Flag",
+      "prompt": "An abstract color-field composition in the Rothko style, dominated by a central, flickering rectangle of vivid red that appears to be dissolving into a dark, smoky background of charcoal and black, with the red edges soft and blurred as if consumed by fire, painted in oil on canvas with visible, gestural brushstrokes, symbolizing the political debate over criminalizing flag burning and national pride, no flag imagery, no text, no logos, no hard edges, no photorealism, meditative and intense.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 192067418,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/06.png style=flux_klein size=896x1152 seed=192067418 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Desperation and One Nation",
+      "prompt": "A painterly abstract color-field work featuring a chaotic, swirling field of dark purple and deep blue, with a single, small, bright rectangle of white hovering uncertainly in the center, the white edges blurred and indistinct, rendered in oil on canvas with thick, emotional strokes, symbolizing the Coalition’s proposal as an element of desperation to undercut One Nation, no political figures, no text, no logos, no hard geometry, no photorealism, gallery-scale atmospheric presence.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 394690407,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/07.png style=flux_klein size=896x1152 seed=394690407 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Tobacco Excise Fog",
+      "prompt": "An abstract color-field painting in the style of Mark Rothko, with a vast, hazy field of pale, sickly green and grey, overlaid with subtle, translucent streaks of dark brown that suggest smoke or unmodeled consequences, the colors blending softly into one another, rendered in oil on canvas with thin, atmospheric washes, symbolizing the 80% reduction in tobacco excise and the failure to model its impact, no cigarettes, no text, no logos, no hard edges, no photorealism, meditative and ominous.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 818541381,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/08.png style=flux_klein size=896x1152 seed=818541381 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "El Niño’s Fury",
+      "prompt": "A large-scale abstract color-field painting featuring a dramatic, vertical composition with a lower field of deep, oceanic blue giving way to an upper field of scorching orange and red, the transition marked by a turbulent, blurred wash that suggests a breaking record or extreme weather, rendered in thick, expressive oil strokes on canvas, symbolizing the strongest ever recorded El Niño event, no weather icons, no text, no logos, no hard geometric shapes, no photorealism, gallery-scale emotional intensity.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 640564128,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/09.png style=flux_klein size=896x1152 seed=640564128 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Fire Ban and Wildlife Tragedy",
+      "prompt": "An abstract color-field work in the Rothko tradition, featuring a split composition: the left side dominated by a dry, fiery palette of rust, ochre, and black suggesting early fire bans, while the right side is a dark, murky field of deep green and grey suggesting a wildlife park tragedy, the two fields separated by a soft, indistinct vertical wash, rendered in oil on canvas with heavy, tactile brushwork, no crocodiles, no text, no logos, no hard edges, no photorealism, meditative and somber, gallery-scale presence.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 496871718,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-06/10.png style=flux_klein size=896x1152 seed=496871718 comfy=http://127.0.0.1:8188",
       "skipped": false
     }
   ]

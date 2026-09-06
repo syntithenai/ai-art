@@ -15,20 +15,74 @@
         ]
       },
       "themes": [
-        "Digital Regulation",
-        "National Identity",
-        "Climate Change",
-        "Human-Wildlife Conflict",
-        "Sports",
-        "International Relations"
+        "Social Media Regulation",
+        "Construction Skills Shortage",
+        "Flag Burning Legislation",
+        "El Niño Weather Event",
+        "Tobacco Tax Policy",
+        "Wildlife Safety Incidents"
       ],
-      "summary": "Australian politics is currently dominated by a clash over digital regulation and national identity. The government is set to unveil draft laws requiring social media platforms to offer an algorithm opt-out, a move the Coalition has criticized as an attempt to censor the internet. Simultaneously, a Coalition proposal to criminalize flag burning has sparked a fierce debate, with Labor accusing the opposition of desperation and an attempt to chase One Nation's agenda. \n\nEnvironmental concerns are rising as an El Niño event spreads across the Pacific at an extraordinary pace, alarming experts with its magnitude and uncertainty. This climate shift is already impacting the country, with questions being raised about whether 2026 could be Australia's worst snow season. Additionally, a study highlights how habitat loss is forcing animals like possums and koalas into Australian homes, illustrating the human-wildlife conflict.\n\nIn the news cycle, a tragic incident in Papua New Guinea saw a crocodile handler die after being attacked at a wildlife park, with onlookers reporting the man was held for an hour before emergency services arrived. In sports, the NRL finals are underway, with the North Queensland Cowboys suffering a blow after star player Reuben Cotter was charged for a high tackle. Meanwhile, Australian journalist Cheng Lei has returned home after 1,154 days in a Chinese prison, offering a personal perspective on the long-standing diplomatic tensions between the two nations.",
+      "summary": "Australian politics on 6 September 2026 was dominated by a significant legislative push regarding digital regulation and social media. The Albanese government is set to unveil draft laws requiring social media platforms to offer users an algorithm opt-out, accompanied by a proposed $100m penalty for harmful algorithms. While Labor Minister Anika Wells is expected to introduce the legislation, the Coalition has criticized the move as an \"attempt to censor the internet,\" with Deputy Prime Minister Angus Taylor expressing \"deep scepticism\" about the measures. This debate comes amid growing public concern over the impact of social media on mental health, particularly for teenagers.\n\nIn economic and industrial news, the federal government announced a $78m scheme to provide free qualifications for up to 6,000 tradies, aiming to address critical skills shortages in the construction sector. Separately, the Coalition proposed a plan to criminalize the burning of the Australian flag, a move Labor dismissed as an \"element of desperation\" to undercut One Nation. The Coalition also suggested making flag burning illegal to protect \"national pride,\" while simultaneously floating ideas on superannuation access for first-time home buyers. Meanwhile, the Coalition's proposal for an 80% reduction in tobacco excise was criticized for failing to model the potential impact on smoking rates.\n\nEnvironmental and safety concerns also featured prominently in the news cycle. A rapidly developing El Niño event in the Pacific is breaking records and alarming experts, with forecasts suggesting it could be the strongest ever recorded, potentially leading to severe weather extremes. Additionally, early fire bans were implemented in New South Wales and Queensland due to a hot start to spring. In a tragic incident, a crocodile handler died after an attack at a wildlife park in Papua New Guinea, while a manhunt was launched in Victoria following an alleged axe attack that left three people with serious injuries.",
       "images": [
         {
           "index": 1,
-          "title": "The Algorithmic Horizon",
+          "title": "The Algorithmic Veil",
           "jpg": "01.jpg",
           "png": "01.png"
+        },
+        {
+          "index": 2,
+          "title": "Penalty of Harm",
+          "jpg": "02.jpg",
+          "png": "02.png"
+        },
+        {
+          "index": 3,
+          "title": "The Sceptic’s Shadow",
+          "jpg": "03.jpg",
+          "png": "03.png"
+        },
+        {
+          "index": 4,
+          "title": "Mental Health Horizon",
+          "jpg": "04.jpg",
+          "png": "04.png"
+        },
+        {
+          "index": 5,
+          "title": "The Tradesman’s Qualification",
+          "jpg": "05.jpg",
+          "png": "05.png"
+        },
+        {
+          "index": 6,
+          "title": "The Burning Flag",
+          "jpg": "06.jpg",
+          "png": "06.png"
+        },
+        {
+          "index": 7,
+          "title": "Desperation and One Nation",
+          "jpg": "07.jpg",
+          "png": "07.png"
+        },
+        {
+          "index": 8,
+          "title": "Tobacco Excise Fog",
+          "jpg": "08.jpg",
+          "png": "08.png"
+        },
+        {
+          "index": 9,
+          "title": "El Niño’s Fury",
+          "jpg": "09.jpg",
+          "png": "09.png"
+        },
+        {
+          "index": 10,
+          "title": "Fire Ban and Wildlife Tragedy",
+          "jpg": "10.jpg",
+          "png": "10.png"
         }
       ]
     }
