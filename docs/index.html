@@ -239,6 +239,22 @@
       font-size: 0.95rem;
     }
     .detail-back:hover { text-decoration: underline; }
+    .day-back {
+      margin: 0 0 0.5rem;
+    }
+    .day-back .detail-back { margin-bottom: 0; }
+    .gallery-sentinel {
+      height: 1px;
+      margin: 0;
+      padding: 0;
+      pointer-events: none;
+    }
+    .gallery-more-status {
+      color: var(--muted);
+      font-size: 0.9rem;
+      text-align: center;
+      padding: 1.25rem 0 0.5rem;
+    }
     .detail {
       max-width: 720px;
     }
@@ -920,26 +936,19 @@
         return true;
       }
 
-      function renderHome() {
-        homeControls.classList.remove('hidden');
-        syncFiltersFromUrl();
-        const route = parseRoute();
-        const filtered = runs.filter(r => {
-          if (route.date && r.date !== route.date) return false;
-          return matchesFilters(r);
-        });
-        if (!filtered.length) {
-          main.innerHTML = '<p class="empty">No runs match this filter.</p>';
-          return;
-        }
-        main.innerHTML = filtered.map(run => {
-          const themes = (run.themes || []).join(' · ');
-          const imgs = (run.images || []).map(img => {
-            const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
-            const idx = img.index;
-            const title = img.title || '';
-            const caption = imageCaption(img);
-            return `
+      const HOME_PAGE_SIZE = 1;
+      let homeFiltered = [];
+      let homeVisibleCount = 0;
+      let homeObserver = null;
+
+      function runSectionHtml(run) {
+        const themes = (run.themes || []).join(' · ');
+        const imgs = (run.images || []).map(img => {
+          const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
+          const idx = img.index;
+          const title = img.title || '';
+          const caption = imageCaption(img);
+          return `
             <figure>
               <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}" loading="lazy"
                    data-fullsrc="${escapeAttr(src)}" data-action="fullscreen"
@@ -948,22 +957,92 @@
                 <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}">${escapeHtml(caption)}</a>
               </figcaption>
             </figure>`;
-          }).join('');
-          const summary = (run.summary || '').trim();
-          return `
-            <section class="run" data-artist="${escapeAttr((run.artist && run.artist.name) || '')}" id="${run.date}">
-              <div class="run-head">
-                <h2>${artistButton(run.artist)}</h2>
-                <span class="meta">${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</span>
-                ${themes ? `<div class="themes">${escapeHtml(themes)}</div>` : ''}
-                ${summary ? `<p class="run-summary">${escapeHtml(summary)}</p>` : ''}
-              </div>
-              <div class="grid">${imgs}</div>
-            </section>`;
         }).join('');
+        const summary = (run.summary || '').trim();
+        return `
+          <section class="run" data-artist="${escapeAttr((run.artist && run.artist.name) || '')}" id="${run.date}">
+            <div class="run-head">
+              <h2>${artistButton(run.artist)}</h2>
+              <span class="meta">${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</span>
+              ${themes ? `<div class="themes">${escapeHtml(themes)}</div>` : ''}
+              ${summary ? `<p class="run-summary">${escapeHtml(summary)}</p>` : ''}
+            </div>
+            <div class="grid">${imgs}</div>
+          </section>`;
+      }
+
+      function teardownHomeScroll() {
+        if (homeObserver) {
+          homeObserver.disconnect();
+          homeObserver = null;
+        }
+      }
+
+      function appendMoreHome() {
+        if (homeVisibleCount >= homeFiltered.length) {
+          teardownHomeScroll();
+          const sentinel = document.getElementById('gallerySentinel');
+          if (sentinel) sentinel.remove();
+          return;
+        }
+        const next = Math.min(homeVisibleCount + HOME_PAGE_SIZE, homeFiltered.length);
+        const more = homeFiltered.slice(homeVisibleCount, next);
+        homeVisibleCount = next;
+        const sentinel = document.getElementById('gallerySentinel');
+        const html = more.map(runSectionHtml).join('');
+        if (sentinel) {
+          sentinel.insertAdjacentHTML('beforebegin', html);
+        } else {
+          main.insertAdjacentHTML('beforeend', html);
+        }
+        if (homeVisibleCount >= homeFiltered.length) {
+          teardownHomeScroll();
+          if (sentinel) sentinel.remove();
+        }
+      }
+
+      function setupHomeScroll() {
+        teardownHomeScroll();
+        const sentinel = document.getElementById('gallerySentinel');
+        if (!sentinel || homeVisibleCount >= homeFiltered.length) return;
+        homeObserver = new IntersectionObserver((entries) => {
+          if (!entries.some(e => e.isIntersecting)) return;
+          appendMoreHome();
+        }, { root: null, rootMargin: '600px 0px', threshold: 0 });
+        homeObserver.observe(sentinel);
+      }
+
+      function renderHome() {
+        homeControls.classList.remove('hidden');
+        syncFiltersFromUrl();
+        const route = parseRoute();
+        homeFiltered = runs.filter(r => {
+          if (route.date && r.date !== route.date) return false;
+          return matchesFilters(r);
+        });
+        if (!homeFiltered.length) {
+          teardownHomeScroll();
+          main.innerHTML = '<p class="empty">No runs match this filter.</p>';
+          return;
+        }
+        const dayOnly = !!route.date;
+        homeVisibleCount = dayOnly
+          ? homeFiltered.length
+          : Math.min(HOME_PAGE_SIZE, homeFiltered.length);
+        const back = dayOnly
+          ? '<p class="day-back"><a class="detail-back" href="#">← All days</a></p>'
+          : '';
+        const slice = homeFiltered.slice(0, homeVisibleCount);
+        const sentinel = (!dayOnly && homeVisibleCount < homeFiltered.length)
+          ? '<div id="gallerySentinel" class="gallery-sentinel" aria-hidden="true"></div>'
+          : '';
+        main.innerHTML = back + slice.map(runSectionHtml).join('') + sentinel;
+        if (!dayOnly) setupHomeScroll();
+        else teardownHomeScroll();
       }
 
       function renderDetail(date, index) {
+        teardownHomeScroll();
         homeControls.classList.add('hidden');
         const found = findImage(date, index);
         if (!found) {
