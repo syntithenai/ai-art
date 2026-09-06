@@ -155,8 +155,19 @@
       justify-content: center;
       padding: 1rem;
       cursor: zoom-out;
+      touch-action: pan-y;
+      user-select: none;
     }
     .lightbox.open { display: flex; }
+    .lightbox-stage {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      max-width: min(96vw, 1400px);
+      max-height: 94vh;
+      cursor: default;
+    }
     .lightbox img {
       max-width: min(96vw, 1400px);
       max-height: 94vh;
@@ -165,6 +176,44 @@
       object-fit: contain;
       box-shadow: 0 8px 40px rgba(0,0,0,0.5);
       cursor: default;
+      transition: opacity 0.12s ease;
+    }
+    .lightbox-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 2.75rem;
+      height: 4.5rem;
+      border: none;
+      background: transparent;
+      color: rgba(232, 235, 228, 0.28);
+      font-size: 2.4rem;
+      line-height: 1;
+      cursor: pointer;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: color 0.15s ease, opacity 0.15s ease;
+      z-index: 2;
+    }
+    .lightbox-nav:hover,
+    .lightbox-nav:focus-visible {
+      color: rgba(232, 235, 228, 0.72);
+      outline: none;
+    }
+    .lightbox-nav:disabled {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .lightbox-prev { left: 0.15rem; }
+    .lightbox-next { right: 0.15rem; }
+    @media (max-width: 640px) {
+      .lightbox-nav {
+        width: 2.25rem;
+        font-size: 1.9rem;
+        color: rgba(232, 235, 228, 0.22);
+      }
     }
     .lightbox-close {
       position: absolute;
@@ -177,6 +226,7 @@
       line-height: 1;
       cursor: pointer;
       opacity: 0.8;
+      z-index: 3;
     }
     .lightbox-close:hover { opacity: 1; }
 
@@ -537,7 +587,11 @@
   <main id="gallery"><p class="empty">Loading…</p></main>
   <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Fullscreen image">
     <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
-    <img id="lightboxImg" alt="" />
+    <div class="lightbox-stage" id="lightboxStage">
+      <button type="button" class="lightbox-nav lightbox-prev" id="lightboxPrev" aria-label="Previous image">&#8249;</button>
+      <img id="lightboxImg" alt="" draggable="false" />
+      <button type="button" class="lightbox-nav lightbox-next" id="lightboxNext" aria-label="Next image">&#8250;</button>
+    </div>
   </div>
   <div id="artistDialog" class="artist-dialog" role="dialog" aria-modal="true" aria-labelledby="artistDialogName" hidden>
     <div class="artist-dialog-panel">
@@ -578,12 +632,20 @@
       const homeControls = document.getElementById('homeControls');
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightboxImg');
+      const lightboxStage = document.getElementById('lightboxStage');
+      const lightboxPrev = document.getElementById('lightboxPrev');
+      const lightboxNext = document.getElementById('lightboxNext');
       const artistDialog = document.getElementById('artistDialog');
       const artistDialogPhoto = document.getElementById('artistDialogPhoto');
       const artistDialogName = document.getElementById('artistDialogName');
       const artistDialogMeta = document.getElementById('artistDialogMeta');
       const artistDialogBio = document.getElementById('artistDialogBio');
       const artistDialogCredit = document.getElementById('artistDialogCredit');
+
+      let lightboxSlides = [];
+      let lightboxIndex = 0;
+      let swipeStartX = null;
+      let swipeStartY = null;
 
       function escapeHtml(s) {
         return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -670,24 +732,127 @@
         return { run, img };
       }
 
-      function openLightbox(src, alt) {
-        lightboxImg.src = src;
-        lightboxImg.alt = alt || '';
+      function slidesForRun(date) {
+        const run = runs.find(r => r.date === date);
+        if (!run) return [];
+        return (run.images || []).map(img => ({
+          src: 'runs/' + run.date + '/' + (img.jpg || img.png),
+          alt: img.title || '',
+          date: run.date,
+          index: img.index
+        }));
+      }
+
+      function showLightboxSlide(i) {
+        if (!lightboxSlides.length) return;
+        lightboxIndex = ((i % lightboxSlides.length) + lightboxSlides.length) % lightboxSlides.length;
+        const slide = lightboxSlides[lightboxIndex];
+        const apply = () => {
+          lightboxImg.src = slide.src;
+          lightboxImg.alt = slide.alt || '';
+          lightboxImg.style.opacity = '1';
+        };
+        if (lightbox.classList.contains('open') && lightboxImg.getAttribute('src')) {
+          lightboxImg.style.opacity = '0.35';
+          window.setTimeout(apply, 60);
+        } else {
+          apply();
+        }
+        const multi = lightboxSlides.length > 1;
+        lightboxPrev.disabled = !multi;
+        lightboxNext.disabled = !multi;
+        lightboxPrev.hidden = !multi;
+        lightboxNext.hidden = !multi;
+      }
+
+      function openLightbox(date, index) {
+        lightboxSlides = slidesForRun(date);
+        if (!lightboxSlides.length) return;
+        let i = lightboxSlides.findIndex(s => Number(s.index) === Number(index));
+        if (i < 0) i = 0;
         lightbox.classList.add('open');
         document.body.style.overflow = 'hidden';
+        showLightboxSlide(i);
       }
       function closeLightbox() {
         lightbox.classList.remove('open');
         lightboxImg.removeAttribute('src');
+        lightboxImg.style.opacity = '1';
+        lightboxSlides = [];
+        lightboxIndex = 0;
+        swipeStartX = null;
+        swipeStartY = null;
         document.body.style.overflow = '';
       }
+      function lightboxStep(delta) {
+        if (!lightbox.classList.contains('open') || lightboxSlides.length < 2) return;
+        showLightboxSlide(lightboxIndex + delta);
+      }
+
       lightbox.addEventListener('click', (e) => {
         if (e.target === lightbox || e.target === document.getElementById('lightboxClose')) {
           closeLightbox();
         }
       });
+      lightboxPrev.addEventListener('click', (e) => {
+        e.stopPropagation();
+        lightboxStep(-1);
+      });
+      lightboxNext.addEventListener('click', (e) => {
+        e.stopPropagation();
+        lightboxStep(1);
+      });
+      lightboxStage.addEventListener('click', (e) => {
+        e.stopPropagation();
+      });
+
+      function onSwipeStart(x, y) {
+        swipeStartX = x;
+        swipeStartY = y;
+      }
+      function onSwipeEnd(x, y) {
+        if (swipeStartX == null || swipeStartY == null) return;
+        const dx = x - swipeStartX;
+        const dy = y - swipeStartY;
+        swipeStartX = null;
+        swipeStartY = null;
+        if (Math.abs(dx) < 48 || Math.abs(dx) < Math.abs(dy) * 1.2) return;
+        lightboxStep(dx < 0 ? 1 : -1);
+      }
+      lightboxStage.addEventListener('touchstart', (e) => {
+        if (!e.touches || !e.touches[0]) return;
+        onSwipeStart(e.touches[0].clientX, e.touches[0].clientY);
+      }, { passive: true });
+      lightboxStage.addEventListener('touchend', (e) => {
+        const t = (e.changedTouches && e.changedTouches[0]) || null;
+        if (!t) return;
+        onSwipeEnd(t.clientX, t.clientY);
+      }, { passive: true });
+      lightboxStage.addEventListener('pointerdown', (e) => {
+        if (e.pointerType === 'touch') return;
+        if (e.button !== 0) return;
+        if (e.target.closest('.lightbox-nav')) return;
+        onSwipeStart(e.clientX, e.clientY);
+      });
+      lightboxStage.addEventListener('pointerup', (e) => {
+        if (e.pointerType === 'touch') return;
+        if (e.target.closest('.lightbox-nav')) return;
+        onSwipeEnd(e.clientX, e.clientY);
+      });
+
       document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && lightbox.classList.contains('open')) closeLightbox();
+        if (!lightbox.classList.contains('open')) return;
+        if (e.key === 'Escape') {
+          closeLightbox();
+          return;
+        }
+        if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          lightboxStep(-1);
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          lightboxStep(1);
+        }
       });
 
       function syncFiltersFromUrl() {
@@ -746,7 +911,8 @@
             return `
             <figure>
               <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}" loading="lazy"
-                   data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
+                   data-fullsrc="${escapeAttr(src)}" data-action="fullscreen"
+                   data-date="${escapeAttr(run.date)}" data-index="${escapeAttr(String(idx))}" />
               <figcaption>
                 <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}">${escapeHtml(caption)}</a>
               </figcaption>
@@ -797,7 +963,8 @@
           <article class="detail">
             <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
             <img class="hero" src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
-                 data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
+                 data-fullsrc="${escapeAttr(src)}" data-action="fullscreen"
+                 data-date="${escapeAttr(run.date)}" data-index="${escapeAttr(String(img.index))}" />
             <h2>${escapeHtml(title)}</h2>
             <p class="meta">${artistButton(run.artist)} · ${escapeHtml(formatAuDate(run.date))} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}${img.fashionYear ? ' · ' + escapeHtml(String(img.fashionYear)) : ''}</p>
             <div class="desc">${escapeHtml(desc)}</div>
@@ -832,7 +999,10 @@
         const img = t.closest('[data-action="fullscreen"]');
         if (img) {
           e.preventDefault();
-          openLightbox(img.getAttribute('data-fullsrc') || img.getAttribute('src'), img.getAttribute('alt'));
+          openLightbox(
+            img.getAttribute('data-date') || '',
+            img.getAttribute('data-index') || '1'
+          );
         }
       });
 
