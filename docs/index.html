@@ -104,12 +104,22 @@
       display: block;
       background: var(--panel);
       border: 1px solid var(--line);
+      cursor: zoom-in;
     }
     figcaption {
       margin-top: 0.45rem;
       font-size: 0.9rem;
       color: var(--muted);
       line-height: 1.35;
+    }
+    figcaption a {
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+    figcaption a:hover {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
     }
     .empty {
       color: var(--muted);
@@ -123,21 +133,95 @@
       font-size: 0.85rem;
     }
     a { color: var(--accent); }
+
+    /* Fullscreen lightbox */
+    .lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(0, 0, 0, 0.92);
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      cursor: zoom-out;
+    }
+    .lightbox.open { display: flex; }
+    .lightbox img {
+      max-width: min(96vw, 1400px);
+      max-height: 94vh;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+      cursor: default;
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 1rem;
+      right: 1.25rem;
+      background: transparent;
+      border: none;
+      color: var(--ink);
+      font-size: 2rem;
+      line-height: 1;
+      cursor: pointer;
+      opacity: 0.8;
+    }
+    .lightbox-close:hover { opacity: 1; }
+
+    /* Detail view */
+    .detail-back {
+      display: inline-block;
+      margin-bottom: 1.25rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+    .detail-back:hover { text-decoration: underline; }
+    .detail {
+      max-width: 720px;
+    }
+    .detail img {
+      width: 100%;
+      height: auto;
+      display: block;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      cursor: zoom-in;
+    }
+    .detail h2 {
+      margin: 1.25rem 0 0.35rem;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+    .detail .meta { margin-bottom: 1rem; }
+    .detail .desc {
+      line-height: 1.55;
+      color: var(--ink);
+      white-space: pre-wrap;
+    }
+    .home-controls.hidden,
+    .home-footer.hidden { display: none; }
   </style>
 </head>
 <body>
   <header>
     <h1>AI Art</h1>
-    <p class="sub">Daily artworks from Australian news, each day locked to one artist style via local Qwen + Comfy.</p>
-    <div class="controls">
+    <p class="sub">Daily artworks from Australian news.</p>
+    <div class="controls home-controls" id="homeControls">
       <label for="artistFilter">Filter by artist</label>
       <input id="artistFilter" type="search" placeholder="e.g. Hopper, Nolan, Adams…" autocomplete="off" />
     </div>
   </header>
   <main id="gallery"><p class="empty">Loading…</p></main>
-  <footer>
+  <footer class="home-footer" id="homeFooter">
     Generated locally. Source prompts and news summaries live in each run’s <code>meta.json</code>.
   </footer>
+  <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Fullscreen image">
+    <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
+    <img id="lightboxImg" alt="" />
+  </div>
   <script>
     async function load() {
       const res = await fetch('gallery.json?_=' + Date.now());
@@ -145,20 +229,66 @@
       const runs = data.runs || [];
       const main = document.getElementById('gallery');
       const input = document.getElementById('artistFilter');
+      const homeControls = document.getElementById('homeControls');
+      const homeFooter = document.getElementById('homeFooter');
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImg = document.getElementById('lightboxImg');
 
-      function applyHashFilter() {
-        const params = new URLSearchParams(location.search);
-        const q = params.get('artist') || '';
-        if (q) input.value = q;
-        const hash = location.hash.replace(/^#\/?/, '');
-        return { artist: input.value, date: /^\d{4}-\d{2}-\d{2}$/.test(hash) ? hash : '' };
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      }
+      function escapeAttr(s) { return escapeHtml(s); }
+
+      function parseRoute() {
+        const raw = location.hash.replace(/^#\/?/, '');
+        const parts = raw.split('/').filter(Boolean);
+        if (parts.length >= 2 && /^\d{4}-\d{2}-\d{2}$/.test(parts[0])) {
+          return { view: 'detail', date: parts[0], index: parseInt(parts[1], 10) };
+        }
+        if (parts.length === 1 && /^\d{4}-\d{2}-\d{2}$/.test(parts[0])) {
+          return { view: 'home', date: parts[0], index: null };
+        }
+        return { view: 'home', date: '', index: null };
       }
 
-      function render() {
-        const { artist, date } = applyHashFilter();
-        const q = (input.value || artist || '').trim().toLowerCase();
+      function findImage(date, index) {
+        const run = runs.find(r => r.date === date);
+        if (!run) return null;
+        const img = (run.images || []).find(i => Number(i.index) === Number(index));
+        if (!img) return null;
+        return { run, img };
+      }
+
+      function openLightbox(src, alt) {
+        lightboxImg.src = src;
+        lightboxImg.alt = alt || '';
+        lightbox.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
+      function closeLightbox() {
+        lightbox.classList.remove('open');
+        lightboxImg.removeAttribute('src');
+        document.body.style.overflow = '';
+      }
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox || e.target === document.getElementById('lightboxClose')) {
+          closeLightbox();
+        }
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && lightbox.classList.contains('open')) closeLightbox();
+      });
+
+      function renderHome() {
+        homeControls.classList.remove('hidden');
+        homeFooter.classList.remove('hidden');
+        const params = new URLSearchParams(location.search);
+        const qParam = params.get('artist') || '';
+        if (qParam && !input.value) input.value = qParam;
+        const route = parseRoute();
+        const q = (input.value || '').trim().toLowerCase();
         const filtered = runs.filter(r => {
-          if (date && r.date !== date) return false;
+          if (route.date && r.date !== route.date) return false;
           if (!q) return true;
           const hay = ((r.artist && r.artist.name) || '') + ' ' + ((r.artist && r.artist.id) || '');
           return hay.toLowerCase().includes(q);
@@ -169,11 +299,19 @@
         }
         main.innerHTML = filtered.map(run => {
           const themes = (run.themes || []).join(' · ');
-          const imgs = (run.images || []).map(img => `
+          const imgs = (run.images || []).map(img => {
+            const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
+            const idx = img.index;
+            const title = img.title || '';
+            return `
             <figure>
-              <img src="runs/${run.date}/${img.jpg || img.png}" alt="${escapeAttr(img.title || '')}" loading="lazy" />
-              <figcaption>${escapeHtml(img.title || '')}</figcaption>
-            </figure>`).join('');
+              <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}" loading="lazy"
+                   data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
+              <figcaption>
+                <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}" data-action="detail">${escapeHtml(title)}</a>
+              </figcaption>
+            </figure>`;
+          }).join('');
           return `
             <section class="run" data-artist="${escapeAttr((run.artist && run.artist.name) || '')}" id="${run.date}">
               <div class="run-head">
@@ -186,17 +324,56 @@
         }).join('');
       }
 
-      function escapeHtml(s) {
-        return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      function renderDetail(date, index) {
+        homeControls.classList.add('hidden');
+        homeFooter.classList.add('hidden');
+        const found = findImage(date, index);
+        if (!found) {
+          main.innerHTML = '<p class="empty">Artwork not found. <a href="#">Back</a></p>';
+          return;
+        }
+        const { run, img } = found;
+        const src = 'runs/' + run.date + '/' + (img.jpg || img.png);
+        const title = img.title || 'Untitled';
+        const desc = img.prompt || run.summary || '';
+        const artist = (run.artist && run.artist.name) || '';
+        const backHref = '#/' + run.date;
+        main.innerHTML = `
+          <article class="detail">
+            <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
+            <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
+                 data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
+            <h2>${escapeHtml(title)}</h2>
+            <p class="meta">${escapeHtml(artist)} · ${escapeHtml(run.date)} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</p>
+            <div class="desc">${escapeHtml(desc)}</div>
+          </article>`;
       }
-      function escapeAttr(s) { return escapeHtml(s); }
+
+      function render() {
+        const route = parseRoute();
+        if (route.view === 'detail') {
+          renderDetail(route.date, route.index);
+        } else {
+          renderHome();
+        }
+      }
+
+      main.addEventListener('click', (e) => {
+        const t = e.target;
+        if (!(t instanceof Element)) return;
+        const img = t.closest('[data-action="fullscreen"]');
+        if (img) {
+          e.preventDefault();
+          openLightbox(img.getAttribute('data-fullsrc') || img.getAttribute('src'), img.getAttribute('alt'));
+        }
+      });
 
       input.addEventListener('input', () => {
         const v = input.value.trim();
         const url = new URL(location.href);
         if (v) url.searchParams.set('artist', v); else url.searchParams.delete('artist');
         history.replaceState(null, '', url);
-        render();
+        if (parseRoute().view === 'home') render();
       });
       window.addEventListener('hashchange', render);
       render();

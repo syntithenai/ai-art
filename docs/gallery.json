@@ -28,61 +28,71 @@
           "index": 1,
           "title": "The Algorithmic Veil",
           "jpg": "01.jpg",
-          "png": "01.png"
+          "png": "01.png",
+          "prompt": "A large-scale abstract color-field painting in the style of Mark Rothko, featuring luminous, soft-edged rectangles of deep indigo and electric blue hovering over a dark violet background, with the upper field fractured by subtle, translucent layers of gold that suggest a digital veil or filter, rendered in thick, painterly oil on raw canvas with visible impasto brushwork, evoking the meditative tension of digital regulation and the opt-out mechanism, gallery-scale presence, atmospheric wash, no figurative detail, no text, no logos, no hard geometric shapes, no photorealism."
         },
         {
           "index": 2,
           "title": "Penalty of Harm",
           "jpg": "02.jpg",
-          "png": "02.png"
+          "png": "02.png",
+          "prompt": "An abstract color-field composition in the Rothko tradition, dominated by a central, glowing rectangle of angry crimson suspended in a field of murky grey-brown, with the crimson edges bleeding softly into the surrounding atmosphere to suggest a heavy, punitive weight, painted with broad, slow strokes of oil pigment on textured linen, conveying the emotional gravity of the $100m penalty for harmful algorithms and the debate on censorship, meditative and somber, no figures, no text, no digital artifacts, no hard lines, no busy scenes."
         },
         {
           "index": 3,
           "title": "The Sceptic’s Shadow",
           "jpg": "03.jpg",
-          "png": "03.png"
+          "png": "03.png",
+          "prompt": "A painterly abstract color-field work featuring two distinct, adjacent fields of color: a warm, optimistic amber on the left and a cool, detached slate blue on the right, separated by a thin, indistinct vertical wash of black that blurs the boundary, rendered in oil on canvas with soft, atmospheric edges, symbolizing the political divide between the Albanese government and the Coalition’s deep scepticism, no faces, no political symbols, no text, no hard Bauhaus geometry, no photorealism, gallery-scale emotional resonance."
         },
         {
           "index": 4,
           "title": "Mental Health Horizon",
           "jpg": "04.jpg",
-          "png": "04.png"
+          "png": "04.png",
+          "prompt": "An abstract color-field painting in the style of Mark Rothko, with a vast, empty lower field of deep, calming teal giving way to a turbulent, swirling upper field of anxious, pale yellow and grey, the transition marked by soft, blurred edges that suggest a fragile boundary, painted with thick, expressive oil strokes on canvas, evoking the public concern over social media’s impact on teenage mental health, no figurative elements, no text, no logos, no hard edges, no digital look, meditative and atmospheric."
         },
         {
           "index": 5,
           "title": "The Tradesman’s Qualification",
           "jpg": "05.jpg",
-          "png": "05.png"
+          "png": "05.png",
+          "prompt": "A large, abstract color-field painting featuring a series of horizontal, luminous bands of warm ochre, burnt sienna, and raw umber, stacked vertically to suggest the layers of a construction site or the strata of skill acquisition, rendered in oil on canvas with heavy, tactile brushwork, symbolizing the $78m scheme for free qualifications for 6,000 tradies, no tools, no figures, no text, no hard geometric shapes, no photorealism, gallery-scale presence, atmospheric wash, meditative emotion."
         },
         {
           "index": 6,
           "title": "The Burning Flag",
           "jpg": "06.jpg",
-          "png": "06.png"
+          "png": "06.png",
+          "prompt": "An abstract color-field composition in the Rothko style, dominated by a central, flickering rectangle of vivid red that appears to be dissolving into a dark, smoky background of charcoal and black, with the red edges soft and blurred as if consumed by fire, painted in oil on canvas with visible, gestural brushstrokes, symbolizing the political debate over criminalizing flag burning and national pride, no flag imagery, no text, no logos, no hard edges, no photorealism, meditative and intense."
         },
         {
           "index": 7,
           "title": "Desperation and One Nation",
           "jpg": "07.jpg",
-          "png": "07.png"
+          "png": "07.png",
+          "prompt": "A painterly abstract color-field work featuring a chaotic, swirling field of dark purple and deep blue, with a single, small, bright rectangle of white hovering uncertainly in the center, the white edges blurred and indistinct, rendered in oil on canvas with thick, emotional strokes, symbolizing the Coalition’s proposal as an element of desperation to undercut One Nation, no political figures, no text, no logos, no hard geometry, no photorealism, gallery-scale atmospheric presence."
         },
         {
           "index": 8,
           "title": "Tobacco Excise Fog",
           "jpg": "08.jpg",
-          "png": "08.png"
+          "png": "08.png",
+          "prompt": "An abstract color-field painting in the style of Mark Rothko, with a vast, hazy field of pale, sickly green and grey, overlaid with subtle, translucent streaks of dark brown that suggest smoke or unmodeled consequences, the colors blending softly into one another, rendered in oil on canvas with thin, atmospheric washes, symbolizing the 80% reduction in tobacco excise and the failure to model its impact, no cigarettes, no text, no logos, no hard edges, no photorealism, meditative and ominous."
         },
         {
           "index": 9,
           "title": "El Niño’s Fury",
           "jpg": "09.jpg",
-          "png": "09.png"
+          "png": "09.png",
+          "prompt": "A large-scale abstract color-field painting featuring a dramatic, vertical composition with a lower field of deep, oceanic blue giving way to an upper field of scorching orange and red, the transition marked by a turbulent, blurred wash that suggests a breaking record or extreme weather, rendered in thick, expressive oil strokes on canvas, symbolizing the strongest ever recorded El Niño event, no weather icons, no text, no logos, no hard geometric shapes, no photorealism, gallery-scale emotional intensity."
         },
         {
           "index": 10,
           "title": "Fire Ban and Wildlife Tragedy",
           "jpg": "10.jpg",
-          "png": "10.png"
+          "png": "10.png",
+          "prompt": "An abstract color-field work in the Rothko tradition, featuring a split composition: the left side dominated by a dry, fiery palette of rust, ochre, and black suggesting early fire bans, while the right side is a dark, murky field of deep green and grey suggesting a wildlife park tragedy, the two fields separated by a soft, indistinct vertical wash, rendered in oil on canvas with heavy, tactile brushwork, no crocodiles, no text, no logos, no hard edges, no photorealism, meditative and somber, gallery-scale presence."
         }
       ]
     }
