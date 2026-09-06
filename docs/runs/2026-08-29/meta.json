@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-29",
+  "artist": {
+    "id": "aboudia",
+    "name": "Aboudia",
+    "era": "contemporary CI",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "contemporary",
+      "africa"
+    ],
+    "bio": "Abdoulaye Diarrassouba, also known as Aboudia, is an Ivorian contemporary artist based in Brooklyn, New York, and who works from his studios in Abidjan and New York City.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "In 2026, the Australian education sector is navigating a period of significant transformation, driven by the integration of artificial intelligence and a renewed focus on skills harmonization. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. This push for innovation is supported by the 2026-27 federal budget, which recognizes that Australia cannot afford to slow down on research and innovation, even amidst economic challenges.\n\nInternationally, the discourse on higher education is shifting toward community-rooted research and the ethical use of technology. A special report by Nature highlights that nurturing research talent at local colleges is a necessity, while UNESCO initiatives continue to empower youth as researchers, providing them with critical thinking skills and ethical frameworks. However, these advancements are not without challenges; recent analyses from The Guardian reveal that 'paper mills' and AI hallucinations are infiltrating academic and political spaces, prompting a necessary conversation about integrity and the protection of genuine human inquiry.\n\nAmidst these structural changes, there is a strong undercurrent of human resilience and care. In Australia, Flinders University researchers are leading breakthroughs in mental health education for young people, while university staff in Sydney are advocating for stronger protections and job security in the age of AI. These stories reflect a broader global trend where education is viewed not just as a driver of economic productivity, but as a vital tool for wellbeing, community solidarity, and the cultivation of a thoughtful, skilled next generation.",
+  "themes": [
+    "Skills Harmonization",
+    "Youth Research",
+    "AI in Education",
+    "Mental Health",
+    "Academic Integrity",
+    "Community Universities"
+  ],
+  "headlines": [
+    {
+      "title": "Australia's Tertiary Harmonisation Roadmap",
+      "url": "https://universitiesaustralia.edu.au/media-item/joined-up-tertiary-system-will-give-australians-the-skills-they-want-and-need/"
+    },
+    {
+      "title": "University of Sydney Staff Advocate for AI Protections",
+      "url": "https://www.theguardian.com/australia-news/australian-universities"
+    },
+    {
+      "title": "Flinders University Leads in Youth Mental Health Research",
+      "url": "https://breakthroughfoundation.org.au/"
+    },
+    {
+      "title": "Nature Report: The Future of Community-Rooted Universities",
+      "url": "https://www.nature.com/immersive/d41586-025-03086-5/index.html"
+    },
+    {
+      "title": "UNESCO: Empowering Youth as Researchers",
+      "url": "https://agsci.psu.edu/unesco/our-programs/youth-as-researchers"
+    },
+    {
+      "title": "Guardian Analysis: Misinformation and AI in Australian Parliament",
+      "url": "https://www.theguardian.com/australia-news/australian-universities"
+    },
+    {
+      "title": "Global Young Academy: Science Education for Youth",
+      "url": "https://globalyoungacademy.net/activities/science-education-for-youth/"
+    },
+    {
+      "title": "Department of Education: Wellbeing and Economic Benefits",
+      "url": "https://www.education.gov.au/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Joined-Up Tertiary System for Australian Skills",
+      "url": "https://universitiesaustralia.edu.au/media-item/joined-up-tertiary-system-will-give-australians-the-skills-they-want-and-need/",
+      "angle": "A roadmap to break down walls between vocational and higher education, giving Australians the specific skills they need for the future."
+    },
+    {
+      "title": "Breakthroughs in Youth Mental Health Education",
+      "url": "https://breakthroughfoundation.org.au/",
+      "angle": "Flinders University researchers are leading innovative programs like 'Big Talks for Little People' to support young people's wellbeing."
+    },
+    {
+      "title": "Youth as Researchers: UNESCO Initiative",
+      "url": "https://agsci.psu.edu/unesco/our-programs/youth-as-researchers",
+      "angle": "Empowering young people with research skills and critical thinking to tackle global issues through ethical and credible methods."
+    },
+    {
+      "title": "Community-Rooted Research Talent",
+      "url": "https://www.nature.com/immersive/d41586-025-03086-5/index.html",
+      "angle": "A global shift toward nurturing research talent at local colleges, emphasizing that community engagement is a necessity for the future of science."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Newsroom - Department of Education, Australian Government",
+      "url": "https://www.education.gov.au/newsroom",
+      "snippet": "3 June 2026 · 29 May 2026 · 22 May 2026 · 18 May 2026 · 7 May 2026 · 4 May 2026 · 29 April 2026 · 29 April 2026 · 28 April 2026 · 23 April 2026 · 23 April 2026 · 23 April 2026 · 9 April 2026 · 8 April 2026 · 2 April 2026 · 31 March 2026 · 31 March 2026 ·",
+      "source": "brave"
+    },
+    {
+      "title": "Department of Education",
+      "url": "https://www.education.gov.au/",
+      "snippet": "The Department of Education works to ensure Australians can experience the wellbeing and economic benefits that quality education provides.",
+      "source": "brave"
+    },
+    {
+      "title": "Youth - Department of Education, Australian Government",
+      "url": "https://www.education.gov.au/youth",
+      "snippet": "The Department of Education works to ensure Australians can experience the wellbeing and economic benefits that quality education provides.",
+      "source": "brave"
+    },
+    {
+      "title": "Media Archive – Universities Australia",
+      "url": "https://universitiesaustralia.edu.au/media/archive/",
+      "snippet": "The 2026-27 federal budget recognises the difficult economic environment facing the government, but it comes at a time when <strong>Australia cannot afford to take its foot off the accelerator on skills, research and innovation</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian universities | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/australian-universities",
+      "snippet": "News, comment and analysis on higher education and research in Australia",
+      "source": "brave"
+    },
+    {
+      "title": "JOINED-UP TERTIARY SYSTEM WILL GIVE AUSTRALIANS THE SKILLS THEY WANT AND NEED – Universities Australia",
+      "url": "https://universitiesaustralia.edu.au/media-item/joined-up-tertiary-system-will-give-australians-the-skills-they-want-and-need/",
+      "snippet": "Universities Australia welcomes Jobs and Skills Australia’s new report, Opportunity and Productivity: Towards a Tertiary Harmonisation Roadmap · “The report makes one thing clear very clear – to meet Australia’s growing skills demands, we must break down the walls between vocational ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia education site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+education+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Youth As Researchers — The UNESCO Chair for Global Citizenship Education",
+      "url": "https://agsci.psu.edu/unesco/our-programs/youth-as-researchers",
+      "snippet": "It is important that young people ... experience these issues themselves. <strong>Conducting research also gives them valuable research skills, critical thinking, and experience in conducting research</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "COVID-19 - Youth As Researchers Initiative | UNESCO",
+      "url": "https://www.unesco.org/en/covid-19/youth-yar",
+      "snippet": "When looking at research topics ... and actions. <strong>The program has been designed to give young people the skills they need to conduct credible research based on sound methods and ethical practices</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Science Education for Youth - Global Young Academy",
+      "url": "https://globalyoungacademy.net/activities/science-education-for-youth/",
+      "snippet": "GYA member Rothsophal Nguon launched a human food security workshop with 15 university students focused on personal and food security in Siem Reap, Cambodia, in July 2017. This workshop raised awareness of non-traditional security, while also training the students on how to run a similar workshop themselves. After the workshop, the participants can use the acquired skills and knowledge to initiate their own campaign or activities to raise awareness on the same issue or any matter of interest in their own community.",
+      "source": "brave"
+    },
+    {
+      "title": "Breakthrough Mental Health Research Foundation",
+      "url": "https://breakthroughfoundation.org.au/",
+      "snippet": "A breakthrough year for young people’s mental health education Camp Breakthrough was Australia’s first overnight ... Big Talks for Little People <strong>Flinders University</strong> Researchers: PROFESSOR PHILLIP SLEE AND ASSOCIATE PROFESSOR",
+      "source": "brave"
+    },
+    {
+      "title": "The future of universities: A Nature special report",
+      "url": "https://www.nature.com/immersive/d41586-025-03086-5/index.html",
+      "snippet": "<strong>Nurturing research talent at community-rooted universities and colleges is a necessity, not a luxury</strong>. ... Why some institutions are betting on technology to stay relevant. ... From lectures by avatars to entire qualifications, higher education ...",
+      "source": "brave"
+    },
+    {
+      "title": "Van Lang University - VLU | Trường Đại học Văn Lang",
+      "url": "https://www.vlu.edu.vn/en",
+      "snippet": "In my youth, I am proud to say the International Education Institute was the right choice. ... At Van Lang, we endorse excellent research with high application undertaken by U - Van Lang people - to contribute breakthrough ideas and initiatives to help the community.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world education human interest OR discovery OR innovation",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+education+human+interest+OR+discovery+OR+innovation&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: Australian education youth research universities skills news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+education+youth+research+universities+skills+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Joined-Up Future",
+      "tone": "good_news",
+      "fashionYear": "2026",
+      "emailHero": true,
+      "description": "The Joined-Up Future is today’s cover piece — one Australian scene that weaves together Skills Harmonization, Youth Research, AI in Education, Mental Health, Academic Integrity, and Community Universities. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. In Australia, Flinders University researchers are leading breakthroughs in mental health education for young people, while university staff in Sydney are advocating for stronger protections and job security in the age of AI. Flinders University Leads in Youth Mental Health Research. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, thick impasto, raw childlike urban figures. Sydney harbour, 2026 fashion. Diverse Australian youth in modern casual wear. Vocational workers and university students merge into a single creative stream. Symbolic objects: laptops, tools, books. Expressive graffiti-adjacent paint. No slogans. Abidjan youth urgency. Layered street energy. Pigment on canvas. Unified Australian scene weaving together these themes: Skills Harmonization, Youth Research, AI in Education, Mental Health, Academic Integrity, Community Universities. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 831060582,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/01.png style=flux_klein size=1024x1024 seed=831060582 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Big Talks for Little People",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Set in a Flinders University garden in Adelaide, this scene depicts researchers and children sharing a circle of care. It honors the 'Big Talks for Little People' mental health education breakthroughs, showing how youth wellbeing is nurtured through community solidarity and human resilience.",
+      "prompt": "Painterly fine-art, visible brushstrokes, warm pigment. Adelaide garden, 1978 fashion. Diverse Australian adults and children in circle. Flinders University researchers. Mental health care. Warm, protective atmosphere. Expressive, childlike faces. No slogans. Abidjan style. Raw, urgent energy. Layered street energy. Canvas texture. No digital camera. No photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 319757528,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/02.png style=flux_klein size=1024x1024 seed=319757528 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Youth Researchers in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1924",
+      "emailHero": false,
+      "description": "In a red desert station in the Northern Territory, young Indigenous and non-Indigenous researchers examine soil samples. This visualizes the UNESCO initiative empowering youth as researchers, highlighting critical thinking and ethical frameworks applied to local, community-rooted science.",
+      "prompt": "Painterly fine-art, raw impasto, red ochre tones. Northern Territory red desert, 1924 fashion. Diverse Australian youth in period work clothes. Examining soil samples. Community-rooted research. Critical thinking. Ethical frameworks. Expressive, childlike faces. No slogans. Abidjan style. Raw, urgent energy. Layered street energy. Canvas texture. No digital camera. No photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1300565992,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/03.png style=flux_klein size=1024x1024 seed=1300565992 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Guardians of Academic Integrity",
+      "tone": "news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "A Melbourne library scene where students and staff confront a swirling, chaotic mist of 'AI hallucinations' and 'paper mills.' This artwork addresses the Guardian's analysis on academic integrity, showing the human effort to protect genuine inquiry from technological infiltration.",
+      "prompt": "Painterly fine-art, dramatic brushwork, dark pigment. Melbourne library, 1955 fashion. Diverse Australian students and staff. Confronting swirling mist of AI hallucinations. Academic integrity. Protection of genuine human inquiry. Expressive, childlike faces. No slogans. Abidjan style. Raw, urgent energy. Layered street energy. Canvas texture. No digital camera. No photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 470657992,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/04.png style=flux_klein size=1024x1024 seed=470657992 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Skills for the Modern Economy",
+      "tone": "good_news",
+      "fashionYear": "2001",
+      "emailHero": false,
+      "description": "Skills for the Modern Economy takes on the day’s Skills Harmonization thread, translating the news into a single visual moment. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. Flinders University Leads in Youth Mental Health Research. The composition keeps the human stakes of Skills Harmonization in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, vibrant pigment, thick paint. Brisbane suburban street, 2001 fashion. Diverse Australian youth in casual wear. Practicing coding and practical trades side-by-side. Skills harmonization. Vocational and higher education. Expressive, childlike faces. No slogans. Abidjan style. Raw, urgent energy. Layered street energy. Canvas texture. No digital camera. No photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1985425834,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/05.png style=flux_klein size=1024x1024 seed=1985425834 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour Bridges of Learning",
+      "tone": "good_news",
+      "fashionYear": "1912",
+      "emailHero": false,
+      "description": "Harbour Bridges of Learning takes on the day’s Youth Research thread, translating the news into a single visual moment. In Australia, Flinders University researchers are leading breakthroughs in mental health education for young people, while university staff in Sydney are advocating for stronger protections and job security in the age of AI. Flinders University Leads in Youth Mental Health Research. The composition keeps the human stakes of Youth Research in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, thick impasto strokes. Contemporary Ivorian style: raw childlike urban figures in 1912 Sydney fashion, flat caps and wool suits. Diverse Australian youth bridging a gap between a trade workshop and a university lecture hall. Sydney Harbour backdrop, eucalyptus scrub. Expressive graffiti-adjacent paint, no slogans, vibrant pigment, street energy. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1330935932,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/06.png style=flux_klein size=1024x1024 seed=1330935932 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Mental Health in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1963",
+      "emailHero": false,
+      "description": "Mental Health in the Bush takes on the day’s Youth Research thread, translating the news into a single visual moment. In Australia, Flinders University researchers are leading breakthroughs in mental health education for young people, while university staff in Sydney are advocating for stronger protections and job security in the age of AI. Flinders University Leads in Youth Mental Health Research. The composition keeps the human stakes of Youth Research in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, visible brushwork. Contemporary Ivorian style: expressive, raw figures in 1963 Australian fashion, short-sleeved shirts and trousers. Flinders University researchers and youth in a red desert landscape, eucalyptus trees. Supportive, dignified interaction. Vibrant, urgent street energy, layered pigment, no digital realism, no botanical watercolor. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1245526963,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/07.png style=flux_klein size=1024x1024 seed=1245526963 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Youth Researchers at the Reef",
+      "tone": "good_news",
+      "fashionYear": "1989",
+      "emailHero": false,
+      "description": "Youth Researchers at the Reef takes on the day’s Youth Research thread, translating the news into a single visual moment. A special report by Nature highlights that nurturing research talent at local colleges is a necessity, while UNESCO initiatives continue to empower youth as researchers, providing them with critical thinking skills and ethical frameworks. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. The composition keeps the human stakes of Youth Research in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, textured pigment. Contemporary Ivorian style: raw, expressive figures in 1989 Australian coastal fashion, denim and light jackets. Youth researchers at a reef edge, observing marine life with dignity. Australian diverse faces. Vibrant, urgent street energy, layered paint, no slogans, no photoreal CGI, no Vermeer quiet. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1902174440,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/08.png style=flux_klein size=1024x1024 seed=1902174440 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Guardians of Truth",
+      "tone": "news",
+      "fashionYear": "1948",
+      "emailHero": false,
+      "description": "Guardians of Truth takes on the day’s Academic Integrity thread, translating the news into a single visual moment. In Australia, Flinders University researchers are leading breakthroughs in mental health education for young people, while university staff in Sydney are advocating for stronger protections and job security in the age of AI. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. The composition keeps the human stakes of Academic Integrity in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, heavy impasto. Contemporary Ivorian style: raw, urgent figures in 1948 Sydney fashion, tailored suits and hats. Academic staff shielding a book from abstract digital noise. Sydney harbour city backdrop, eucalyptus scrub. Expressive, layered street energy, vibrant pigment, no slogans, no modern digital camera cues. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 423035932,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/09.png style=flux_klein size=1024x1024 seed=423035932 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Skills for the Future",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Skills for the Future takes on the day’s Skills Harmonization thread, translating the news into a single visual moment. Universities Australia and the Department of Education are championing a 'joined-up' tertiary system designed to break down barriers between vocational and higher education, ensuring that young Australians gain the practical skills needed for the modern economy. Flinders University Leads in Youth Mental Health Research. The composition keeps the human stakes of Skills Harmonization in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, dynamic brushwork. Contemporary Ivorian style: raw, childlike urban figures in 2015 Australian casual fashion, hoodies and sneakers. Youth practicing skills in a suburban street, diverse faces. Abidjan youth urgency meets Australian setting. Layered, expressive paint, vibrant pigment, no slogans, no photoreal CGI, no botanical watercolor. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 449606586,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-29/10.png style=flux_klein size=1024x1024 seed=449606586 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
