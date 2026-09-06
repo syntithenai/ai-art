@@ -1,0 +1,337 @@
+{
+  "date": "2026-08-23",
+  "artist": {
+    "id": "close",
+    "name": "Chuck Close-adjacent grid portrait",
+    "era": "contemporary US",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "photoreal",
+      "portrait",
+      "north-america"
+    ],
+    "bio": "Charles Thomas Close was an American painter, visual artist, and photographer who made massive-scale photorealist and abstract portraits of himself and others. Close also created photo portraits using a very large format camera. He adapted his painting style and working methods in 1988, after being paralyzed by an occlusion of the anterior spinal artery.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Chuck_Close.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australia's space sector is experiencing a vibrant period of growth and innovation, anchored by the Australian Space Agency's inaugural special event which inspired hundreds of young Australians to pursue STEM careers. The nation's commitment to the future is further highlighted by a new strategic statement charting pathways in satellite constellations, microgravity ecosystems, and lunar exploration technologies. Western Australia continues to be a powerhouse in this sector, hosting over 130 space organizations and attracting $1.2 billion in investment since 2018, demonstrating a robust national infrastructure for civil and defence applications.\n\nOn the ground, community resilience and scientific curiosity are shining through in Central Queensland, where hobby astronomers partnered with a retired NASA engineer to investigate mysterious swirling lights in the night sky. This collaborative effort not only solved a local mystery but also highlighted the power of citizen science and cross-disciplinary cooperation. Additionally, plant scientist Gunya Malhotra is leveraging space agriculture to develop resilient crops and sustainable food systems, showcasing how space technology directly benefits life on Earth.\n\nInternationally, the space community is advancing rapidly with Germany's Isar Aerospace successfully launching a rocket into orbit from Norway, marking a significant step for Europe's satellite capabilities. NASA's Nancy Grace Roman Space Telescope is set to launch, accompanied by the James Webb Space Telescope, promising new insights into dark energy and the universe's origins. The International Space Station continues to serve as a global hub for discovery, with over 290 people from 26 countries contributing to research that surpasses the capabilities of autonomous platforms, reinforcing the spirit of international collaboration in pushing the boundaries of human knowledge.",
+  "themes": [
+    "Australian STEM Leadership",
+    "Space Infrastructure Investment",
+    "Citizen Science & Astronomy",
+    "Space Agriculture & Food Security",
+    "European Rocket Launches",
+    "NASA Telescope Missions",
+    "International Space Collaboration"
+  ],
+  "headlines": [
+    {
+      "title": "Australian Space Agency's Inaugural Event Inspires Young Australians in STEM",
+      "url": "https://www.space.gov.au/news"
+    },
+    {
+      "title": "New Statement Charts Australia's Future in Space with Satellite and Lunar Focus",
+      "url": "https://www.space.gov.au/news-and-media/new-statement-on-space-to-chart-australian-future-in-space"
+    },
+    {
+      "title": "Hobby Astronomers and NASA Engineer Investigate Mysterious Queensland Lights",
+      "url": "https://www.abc.net.au/news/topic/space"
+    },
+    {
+      "title": "Western Australia Hosts 130 Space Organizations, Attracting $1.2B Investment",
+      "url": "https://www.space.gov.au/states-and-territories"
+    },
+    {
+      "title": "Plant Scientist Uses Space Agriculture to Develop Resilient Crops for National Science Week",
+      "url": "https://www.space.gov.au/"
+    },
+    {
+      "title": "Germany's Isar Aerospace Launches Rocket into Orbit from Arctic Norway",
+      "url": "https://www.abc.net.au/news/topic/space"
+    },
+    {
+      "title": "NASA's Nancy Grace Roman Space Telescope Set to Launch for Dark Energy Research",
+      "url": "https://www.abc.net.au/news/topic/space"
+    },
+    {
+      "title": "International Space Station Marks 25 Years of Scientific Discovery and Global Collaboration",
+      "url": "https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/"
+    },
+    {
+      "title": "Dark Matter Detector Finds Hint of Unknown Particle in Major Physics Breakthrough",
+      "url": "https://www.abc.net.au/news/topic/space"
+    },
+    {
+      "title": "Reusable Rockets and Satellite Tech Drive Innovation in Global Space Economy",
+      "url": "https://www.visualcapitalist.com/visualized-the-race-to-invest-in-the-space-economy/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australian Space Agency Inspires Youth with Inaugural STEM Event",
+      "url": "https://www.space.gov.au/news",
+      "angle": "Hundreds of young Australians were inspired to explore space careers and the future of the national space sector, highlighting a strong pipeline for future STEM leaders."
+    },
+    {
+      "title": "Western Australia Attracts $1.2B in Space Investment",
+      "url": "https://www.space.gov.au/states-and-territories",
+      "angle": "Over 130 organizations in WA are driving innovation in satellite development and Earth observation, creating significant economic and technological opportunities for the region."
+    },
+    {
+      "title": "Queensland Astronomers Solve Mysterious Sky Lights",
+      "url": "https://www.abc.net.au/news/topic/space",
+      "angle": "A collaborative effort between hobbyists and a retired NASA engineer demonstrated the power of community-driven science to investigate and explain unusual atmospheric phenomena."
+    },
+    {
+      "title": "Space Agriculture Develops Resilient Crops for Earth",
+      "url": "https://www.space.gov.au/",
+      "angle": "Plant scientist Gunya Malhotra is using space-based research to create sustainable food systems, showing how space technology directly contributes to global food security."
+    },
+    {
+      "title": "Germany's Isar Rocket Reaches Orbit from Norway",
+      "url": "https://www.abc.net.au/news/topic/space",
+      "angle": "Europe's growing capacity to send satellites into space was bolstered by a successful launch, marking a new era of accessibility and innovation in European spaceflight."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "News | Australian Space Agency",
+      "url": "https://www.space.gov.au/news",
+      "snippet": "<strong>The Australian Space Agency&#x27;s inaugural special event drew hundreds, inspiring young Australians to explore STEM, space careers and the future of Australia&#x27;s growing space sector</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "New statement charts Australia's future in space | Australian Space Agency",
+      "url": "https://www.space.gov.au/news-and-media/new-statement-on-space-to-chart-australian-future-in-space",
+      "snippet": "<strong>Space Platforms: Satellites and Multi-Orbit Constellations</strong>. Microgravity Ecosystem: In-Space Manufacturing and Biotechnology Development. Exploration Technologies: Remote Operations and Lunar Applications.",
+      "source": "brave"
+    },
+    {
+      "title": "Space - Topic - ABC News",
+      "url": "https://www.abc.net.au/news/topic/space",
+      "snippet": "<strong>Hobby astronomers partner with a retired NASA engineer to investigate the source of swirling lights seen in the night sky from Central Queensland</strong>. Topic:SpaceSat 29 Aug 2026 at 9:59amSat 29 Aug 2026 at 9:59amSat 29 Aug 2026 at 9:59am",
+      "source": "brave"
+    },
+    {
+      "title": "States and Territories | Australian Space Agency",
+      "url": "https://www.space.gov.au/states-and-territories",
+      "snippet": "Western Australia is home to over 130 organisations operating in the space sector and hosts significant space infrastructure for civil and defence applications – attracting $1.2 billion investment [HR1] since 2018. Areas of capability include space operations and exploration; space communications; space situational awareness; Earth observation; satellite development; data processing and analysis; and launch.",
+      "source": "brave"
+    },
+    {
+      "title": "Home | Australian Space Agency",
+      "url": "https://www.space.gov.au/",
+      "snippet": "To mark National Science Week 2026, <strong>plant scientist Gunya Malhotra shares how she is using space agriculture to develop resilient crops and sustainable food systems for Earth and beyond</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Research & Space Exploration - Space Australia",
+      "url": "https://spaceaustralia.com.au/",
+      "snippet": "For the next five days, <strong>ARSE is releasing one design per day, in service of the STEMs</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia space site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+space+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: space astronomy satellites exploration STEM good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=space+astronomy+satellites+exploration+STEM+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space Exploration and Innovation",
+      "url": "https://www.unoosa.org/oosa/en/ourwork/topics/space-exploration-and-innovation.html",
+      "snippet": "<strong>Human curiosity has fuelled interest in exploring and discovering new worlds, pushing the boundaries of the known, and expanding scientific and technical knowledge</strong>. States and space agencies have been engaging in space exploration since the first space launch.",
+      "source": "brave"
+    },
+    {
+      "title": "Discovery, innovation and opportunity: humanity’s future in space - Baylor College of Medicine Blog Network",
+      "url": "https://blogs.bcm.edu/2025/04/21/discovery-innovation-and-opportunity-humanitys-future-in-space/",
+      "snippet": "Private spaceflight companies (PSCs) and their clients want to ensure spaceflight is as safe as possible. To do that, PSCs and their clients have the opportunity to participate in TRISH research, all for the sake of allowing more and more people to venture beyond Earth. Humans are explorers by nature. We push the boundaries of possibility, and through our problem-solving, we make discoveries and develop technologies that have widespread applications that improve our everyday lives.",
+      "source": "brave"
+    },
+    {
+      "title": "25 Years of Scientific Discovery Aboard the International Space Station - NASA",
+      "url": "https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/",
+      "snippet": "<strong>CubeSats deployed from the space station enable students and innovators around the world to test radio antennas, small telescopes, and other scientific demonstrations in space</strong>. More than one million students have engaged with astronauts via ...",
+      "source": "brave"
+    },
+    {
+      "title": "Human Factors in Space Exploration: Opportunities for International and Interdisciplinary Collaboration",
+      "url": "https://arxiv.org/html/2403.12344v1",
+      "snippet": "NASA’s vision is to explore the secrets of the universe for the benefit of all111https://www.nasa.gov/humans-in-space/why-go-to-space/, and according to its mission, NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery222https...",
+      "source": "brave"
+    },
+    {
+      "title": "Out of This World Discoveries: Space Station Research in 2025 - NASA",
+      "url": "https://www.nasa.gov/missions/station/iss-research/out-of-this-world-discoveries-space-station-research-in-2025/",
+      "snippet": "More than 290 people from 26 countries have visited the space station, where <strong>continuous human presence enables research that surpasses the capabilities of satellites and autonomous platforms</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Visualized: The Race to Invest in the Space Economy",
+      "url": "https://www.visualcapitalist.com/visualized-the-race-to-invest-in-the-space-economy/",
+      "snippet": "<strong>Reusable rockets and advanced satellite technology</strong> enable greater innovation on Earth through higher-quality broadband internet, 5G cellular networks, and the Internet of Things (IoT) connected devices.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian space astronomy satellites exploration STEM news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+space+astronomy+satellites+exploration+STEM+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Australian Space Odyssey",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified scene in a Perth research hub where young Australians in modern tech-wear celebrate the Space Agency's inaugural event. The composition weaves together satellite models, space agriculture crops, and a view of the night sky, symbolizing the nation's $1.2B investment and STEM leadership in a single, vibrant moment of discovery.",
+      "prompt": "Large grid-built portrait painting, photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity. Painterly fine-art, oil on canvas, visible brushwork. Scene: diverse young Australians in 2024 tech-wear in a Perth lab, holding satellite models and space crops. Background: night sky with telescopes. Tone: wonder, community resilience. Avoid: loose Impressionist garden, ukiyo-e rain. Unified Australian scene weaving together these themes: Australian STEM Leadership, Space Infrastructure Investment, Citizen Science & Astronomy, Space Agriculture & Food Security, European Rocket Launches, NASA Telescope Missions, International Space Collaboration. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1336529818,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/01.png style=flux_klein size=1024x1024 seed=1336529818 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Queensland Sky Mystery",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Set in a Central Queensland outback town, this image depicts hobby astronomers in 1978 denim and flannel collaborating with a retired NASA engineer. They point at swirling lights in the night sky, illustrating the power of citizen science and cross-disciplinary cooperation to solve local atmospheric mysteries through community-driven investigation.",
+      "prompt": "Large grid-built portrait painting, photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity. Painterly fine-art, oil on canvas, visible brushwork. Scene: 1978 Australian astronomers in denim, outback, pointing at swirling night lights. Tone: curiosity, solidarity. Avoid: loose Impressionist garden, ukiyo-e rain. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 501914934,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/02.png style=flux_klein size=1024x1024 seed=501914934 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Space Agriculture Harvest",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "In a Western Australian farm, a plant scientist in 1935 practical workwear examines resilient crops developed through space-based research. The scene highlights how space technology directly benefits life on Earth by creating sustainable food systems, connecting the national space sector's infrastructure to tangible agricultural progress and food security.",
+      "prompt": "Large grid-built portrait painting, photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity. Painterly fine-art, oil on canvas, visible brushwork. Scene: 1935 Australian farmer in WA, examining space-grown crops. Tone: ingenuity, sustainability. Avoid: loose Impressionist garden, ukiyo-e rain. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1775135170,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/03.png style=flux_klein size=1024x1024 seed=1775135170 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "European Rocket Launch",
+      "tone": "news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "An Australian engineer in 1998 business casual attire watches a European rocket launch from a remote coastal viewing point. The image marks Germany's Isar Aerospace success from Norway, highlighting Europe's growing satellite capabilities and the international collaboration that pushes the boundaries of human knowledge in spaceflight.",
+      "prompt": "Large grid-built portrait painting, photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity. Painterly fine-art, oil on canvas, visible brushwork. Scene: 1998 Australian engineer, coastal, watching rocket launch. Tone: progress, global reach. Avoid: loose Impressionist garden, ukiyo-e rain. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1469414426,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/04.png style=flux_klein size=1024x1024 seed=1469414426 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "ISS Collaboration",
+      "tone": "good_news",
+      "fashionYear": "1952",
+      "emailHero": false,
+      "description": "A diverse group of Australian scientists in 1952 formal lab attire gathers around a telescope in a rural observatory. The scene symbolizes the International Space Station's role as a global hub, reinforcing the spirit of international collaboration where over 290 people from 26 countries contribute to research that surpasses autonomous platforms.",
+      "prompt": "Large grid-built portrait painting, photorealist face constructed from modular marks, monumental frontal head, analytical likeness without celebrity. Painterly fine-art, oil on canvas, visible brushwork. Scene: 1952 Australian scientists, rural observatory, telescopes. Tone: unity, discovery. Avoid: loose Impressionist garden, ukiyo-e rain. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 2014060574,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/05.png style=flux_klein size=1024x1024 seed=2014060574 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Perth Satellite Constellation",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "Perth Satellite Constellation answers a strand of today’s news with a focused visual reading. International Space Station Marks 25 Years of Scientific Discovery and Global Collaboration. Australian Space Agency's Inaugural Event Inspires Young Australians in STEM. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Monumental frontal head, Chuck Close style, photorealist face built from modular grid marks. Painterly oil on canvas, thick impasto. Young Australian engineer, 2012 fashion, smart casual. Background: Perth skyline, eucalyptus trees, floating satellite constellations. Warm ochre and blue pigments, fine-art texture, no digital look. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 921490081,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/06.png style=flux_klein size=1024x1024 seed=921490081 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Darwin Microgravity Lab",
+      "tone": "good_news",
+      "fashionYear": "2021",
+      "emailHero": false,
+      "description": "Darwin Microgravity Lab takes on the day’s Australian STEM Leadership thread, translating the news into a single visual moment. Additionally, plant scientist Gunya Malhotra is leveraging space agriculture to develop resilient crops and sustainable food systems, showcasing how space technology directly benefits life on Earth. Plant Scientist Uses Space Agriculture to Develop Resilient Crops for National Science Week. The composition keeps the human stakes of Australian STEM Leadership in view without turning the news into spectacle.",
+      "prompt": "Large grid-built portrait, analytical likeness, no celebrity. Painterly medium, visible brushwork. Australian scientist, 2021 contemporary attire. Background: Darwin rainforest, microgravity ecosystem, floating resilient crop seeds. Earthy greens, soft light, canvas texture, fine-art pigment, avoiding digital photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 61851636,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/07.png style=flux_klein size=1024x1024 seed=61851636 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Brisbane Citizen Astronomy",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Brisbane Citizen Astronomy takes on the day’s Citizen Science & Astronomy thread, translating the news into a single visual moment. On the ground, community resilience and scientific curiosity are shining through in Central Queensland, where hobby astronomers partnered with a retired NASA engineer to investigate mysterious swirling lights in the night sky. International Space Station Marks 25 Years of Scientific Discovery and Global Collaboration. The composition keeps the human stakes of Citizen Science & Astronomy in view without turning the news into spectacle.",
+      "prompt": "Chuck Close grid portrait, modular marks, frontal head. Painterly fine-art, oil paint. Australian hobbyist, 1995 fashion, flannel shirt. Background: Brisbane night sky, mysterious swirling lights, telescope silhouette. Deep indigo, starry white, canvas weave, expressive brushstrokes, no digital camera effects. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 709711837,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/08.png style=flux_klein size=1024x1024 seed=709711837 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Sydney Youth STEM",
+      "tone": "good_news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Sydney Youth STEM takes on the day’s Australian STEM Leadership thread, translating the news into a single visual moment. Australia's space sector is experiencing a vibrant period of growth and innovation, anchored by the Australian Space Agency's inaugural special event which inspired hundreds of young Australians to pursue STEM careers. Australian Space Agency's Inaugural Event Inspires Young Australians in STEM. The composition keeps the human stakes of Australian STEM Leadership in view without turning the news into spectacle.",
+      "prompt": "Monumental grid portrait, photorealist face, modular grid. Painterly canvas, thick pigment. Young Australian student, 2005 fashion, hoodie. Background: Sydney Opera House, launching rocket, starry sky. Vibrant colors, fine-art texture, expressive brushwork, no CGI, no digital photorealism, no logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 825577173,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/09.png style=flux_klein size=1024x1024 seed=825577173 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Melbourne European Launch",
+      "tone": "news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Melbourne European Launch takes on the day’s European Rocket Launches thread, translating the news into a single visual moment. NASA's Nancy Grace Roman Space Telescope Set to Launch for Dark Energy Research. Germany's Isar Aerospace Launches Rocket into Orbit from Arctic Norway. The composition keeps the human stakes of European Rocket Launches in view without turning the news into spectacle.",
+      "prompt": "Chuck Close style, grid-built head, analytical likeness. Painterly oil, visible brushwork. Australian observer, 1968 fashion, wool coat. Background: Melbourne skyline, distant rocket launch, orbiting satellites. Muted tones, canvas texture, fine-art pigment, no digital effects, no modern cameras, no text.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1229465851,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-23/10.png style=flux_klein size=1024x1024 seed=1229465851 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
