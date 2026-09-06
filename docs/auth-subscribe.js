@@ -60,21 +60,28 @@
 
   function initials(name, email) {
     const s = (name || email || '?').trim();
-    const parts = s.split(/\s+/).filter(Boolean);
-    if (parts.length >= 2) return (parts[0][0] + parts[1][0]).toUpperCase();
-    return s.slice(0, 2).toUpperCase();
+    return (s[0] || '?').toUpperCase();
+  }
+
+  function firstName(name, email) {
+    const s = (name || '').trim();
+    if (s) return s.split(/\s+/)[0];
+    const e = (email || '').trim();
+    if (e.includes('@')) return e.split('@')[0];
+    return 'Account';
   }
 
   function renderAuth() {
     if (user) {
       els.signIn.hidden = true;
       els.profileBtn.hidden = false;
-      els.profileLabel.textContent = user.name || user.email || 'Account';
+      els.profileLabel.textContent = firstName(user.name, user.email);
       if (user.picture) {
         els.avatarImg.src = user.picture;
         els.avatarImg.hidden = false;
         els.avatarFallback.hidden = true;
       } else {
+        els.avatarImg.removeAttribute('src');
         els.avatarImg.hidden = true;
         els.avatarFallback.hidden = false;
         els.avatarFallback.textContent = initials(user.name, user.email);

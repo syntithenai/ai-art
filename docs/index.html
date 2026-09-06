@@ -375,40 +375,56 @@
       align-items: center;
       gap: 0.5rem;
       margin-top: 0.25rem;
+      /* Match YogApp profile chip tokens */
+      --surface: var(--panel);
+      --accent-deep: var(--accent);
+      --r-chip: 999px;
     }
-    .sync-btn, .profile-btn {
+    .profile-btn {
       display: inline-flex;
       align-items: center;
       gap: 0.45rem;
-      border: 1px solid var(--line);
-      background: var(--panel);
-      border-radius: 999px;
-      padding: 0.35rem 0.85rem 0.35rem 0.35rem;
+      border: 1px solid color-mix(in srgb, var(--ink) 14%, transparent);
+      background: var(--surface);
+      border-radius: var(--r-chip);
+      padding: 0.2rem 0.65rem 0.2rem 0.25rem;
       cursor: pointer;
       color: var(--ink);
       font: inherit;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
+      line-height: 1.2;
     }
-    .sync-btn { padding: 0.45rem 0.95rem; }
-    .sync-btn:hover, .profile-btn:hover { border-color: var(--accent); }
-    .profile-avatar-img, .profile-avatar-fallback {
-      width: 1.7rem;
-      height: 1.7rem;
-      border-radius: 50%;
-      object-fit: cover;
+    .profile-btn:hover {
+      border-color: color-mix(in srgb, var(--accent) 45%, transparent);
+    }
+    .profile-btn-avatar-wrap {
+      position: relative;
       display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      background: #2a312c;
-      color: var(--accent);
-      font-size: 0.7rem;
-      font-weight: 700;
+      flex-shrink: 0;
     }
     .profile-btn-label {
-      max-width: 8rem;
+      font-size: 0.88rem;
+      max-width: 7rem;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+    }
+    .profile-avatar-img,
+    .profile-avatar-fallback {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      object-fit: cover;
+    }
+    .profile-avatar-fallback {
+      background: color-mix(in srgb, var(--accent) 28%, var(--surface));
+      color: var(--accent-deep);
+      font-weight: 600;
+      font-size: 13.44px; /* 32 * 0.42 */
     }
     .offline-warn {
       max-width: 1200px;
@@ -490,11 +506,16 @@
       <p class="sub">Daily artworks from Australian and world news — with a bias toward science, people, and good news.</p>
     </div>
     <div class="auth-slot">
-      <button type="button" class="sync-btn" id="authSignIn">Sign in with Google</button>
-      <button type="button" class="profile-btn" id="authProfileBtn" hidden>
-        <span class="profile-avatar-img-wrap">
-          <img id="authAvatarImg" class="profile-avatar-img" alt="" hidden />
-          <span id="authAvatarFallback" class="profile-avatar-fallback" hidden>?</span>
+      <button type="button" class="profile-btn" id="authSignIn" title="Sign in with Google" aria-label="Sign in with Google">
+        <span class="profile-btn-avatar-wrap">
+          <span class="profile-avatar-fallback" aria-hidden="true">?</span>
+        </span>
+        <span class="profile-btn-label">Sign in</span>
+      </button>
+      <button type="button" class="profile-btn" id="authProfileBtn" hidden title="Account" aria-haspopup="dialog" aria-label="Account">
+        <span class="profile-btn-avatar-wrap">
+          <img id="authAvatarImg" class="profile-avatar-img" alt="" width="32" height="32" referrerpolicy="no-referrer" hidden />
+          <span id="authAvatarFallback" class="profile-avatar-fallback" aria-hidden="true" hidden>?</span>
         </span>
         <span class="profile-btn-label" id="authProfileLabel">Account</span>
       </button>
