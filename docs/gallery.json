@@ -3465,6 +3465,139 @@
           "prompt": "Painterly scene of diverse Australians in 1985 clothing harvesting herbs in a Brisbane garden. Byzantine mosaic style, gold shimmer, sacred hierarchy. Formal frontal solemnity. Eucalyptus, urban backdrop. No readable text. Glittering tesserae, rich pigment, fine-art canvas. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "artist": {
+        "id": "russian_icon",
+        "name": "Russian Orthodox icon",
+        "era": "medieval RU",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "icon",
+          "europe"
+        ],
+        "bio": "Russian Orthodox icon (medieval RU). Russian icon painting: gold ground, reverse perspective, solemn frontal saints, egg tempera glow—devotional calm without readable Church Slavonic. Painterly fine-art visual language. Associated tags: icon, europe.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Australian Diplomatic Leadership",
+        "Gender-Responsive Peacebuilding",
+        "AI in Conflict Analysis",
+        "Science as Collaboration",
+        "Community Resilience",
+        "Global Aid and Cooperation"
+      ],
+      "summary": "Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. With a forecasted Official Development Assistance budget of over $5 billion for 2025-2026, the nation is dedicating significant resources to internal and external peace initiatives, including support for the UN Peacebuilding Fund. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience.\n\nInternationally, the narrative of peace is being reshaped by innovation and scientific collaboration. The United Nations is integrating generative AI tools into conflict analysis, training officers to use technology ethically for better briefing and information synthesis. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. This approach recognizes that knowledge and discovery serve as trusted languages of collaboration, fostering mutual understanding where political dialogue may falter.\n\nFor the art gallery, these stories offer a canvas of hope and agency. They highlight the quiet work of mediators, the ingenuity of technologists, and the enduring spirit of survivors and caregivers. By focusing on these constructive responses, the exhibition can celebrate the human capacity to heal, innovate, and cooperate, presenting peace not as a distant ideal but as a tangible, daily practice of care and shared purpose.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Australian Peace Weave",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Australian Peace Weave is today’s cover piece — one Australian scene that weaves together Australian Diplomatic Leadership, Gender-Responsive Peacebuilding, AI in Conflict Analysis, Science as Collaboration, Community Resilience, and Global Aid and Cooperation. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground, reverse perspective. Solemn frontal figures in 2024 Australian business attire and casual wear stand in a Sydney harbor setting. Motifs of light connect groups: diplomats, AI scientists, and women in peacebuilding. Egg tempera glow, devotional calm, no readable text, eucalyptus trees in background. Unified Australian scene weaving together these themes: Australian Diplomatic Leadership, Gender-Responsive Peacebuilding, AI in Conflict Analysis, Science as Collaboration, Community Resilience, Global Aid and Cooperation. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Women of the Reintegration",
+          "tone": "good_news",
+          "fashionYear": "2019",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Women of the Reintegration takes on the day’s Community Resilience thread, translating the news into a single visual moment. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal group of women in 2019 modest attire, some with headscarves, standing in a Philippine-inspired courtyard translated to an Australian community center. Solemn expressions, egg tempera glow. Reverse perspective. Devotional calm, no readable text, eucalyptus shadows on wall. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "The Ethical Lens",
+          "tone": "good_news",
+          "fashionYear": "2023",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "The Ethical Lens takes on the day’s AI in Conflict Analysis thread, translating the news into a single visual moment. The United Nations is integrating generative AI tools into conflict analysis, training officers to use technology ethically for better briefing and information synthesis. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. The composition keeps the human stakes of AI in Conflict Analysis in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal figure of a 2023 tech specialist in smart-casual wear, holding a glowing tablet. Reverse perspective. Solemn focus on ethical data analysis. Egg tempera glow. No readable text. Background features abstract digital light patterns mixed with traditional icon halos, set in a Melbourne office. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "The Peace Dividend",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "The Peace Dividend takes on the day’s Science as Collaboration thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes the peace dividend and shared prosperity in a harmonious setting.",
+          "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal group of 1978 scientists and farmers in period-appropriate clothes. Reverse perspective. Solemn collaboration on sustainability projects. Egg tempera glow. No readable text. Background shows Australian bushland and solar panels, symbolizing the peace dividend and shared prosperity in a harmonious setting. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Guardians of the Reef",
+          "tone": "news",
+          "fashionYear": "1995",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Guardians of the Reef takes on the day’s Global Aid and Cooperation thread, translating the news into a single visual moment. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. In the artwork, that story symbolizes protection and global cooperation in a devotional.",
+          "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal figures of 1995 rangers and diplomats near a coastal cliff. Reverse perspective. Solemn guardianship of the reef. Egg tempera glow. No readable text. Background features Australian coastal cliffs and ocean, symbolizing protection and global cooperation in a devotional, calm atmosphere. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Harbour of Accord",
+          "tone": "good_news",
+          "fashionYear": "1902",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Harbour of Accord takes on the day’s Australian Diplomatic Leadership thread, translating the news into a single visual moment. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. The composition keeps the human stakes of Australian Diplomatic Leadership in view without turning the news into spectacle.",
+          "prompt": "Russian icon style, gold ground, reverse perspective. Three solemn diplomats in 1902 Edwardian tailcoats and top hats stand before Sydney Harbour cliffs. Egg tempera glow, flat brushwork. No readable text. Devotional calm, symbolic of Australian diplomatic leadership in global peacebuilding and conflict prevention. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Reef of Resilience",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Reef of Resilience takes on the day’s Gender-Responsive Peacebuilding thread, translating the news into a single visual moment. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes gender-responsive aid.",
+          "prompt": "Painterly icon, gold halo light. Aboriginal women in 1955 modest dresses and aprons tend vibrant Great Barrier Reef corals. Reverse perspective, solemn dignity. Egg tempera pigment on canvas. No sacred imagery. Symbolizes gender-responsive aid, reintegration, and community resilience in peace processes. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "The Ethical Compass",
+          "tone": "good_news",
+          "fashionYear": "1988",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "The Ethical Compass takes on the day’s AI in Conflict Analysis thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes ethical AI in conflict analysis.",
+          "prompt": "Iconic style, gold background. A technologist in 1988 business casual shirt and tie studies glowing abstract data streams in a Melbourne office. Reverse perspective, flat brushwork. Egg tempera texture. No readable text. Symbolizes ethical AI in conflict analysis, scientific collaboration, and the peace dividend through innovation. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Science of Shared Sky",
+          "tone": "good_news",
+          "fashionYear": "1921",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Science of Shared Sky takes on the day’s Global Aid and Cooperation thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes the peace dividend.",
+          "prompt": "Russian icon, gold ground. Scientists in 1921 wool suits and flat caps observe stars over red desert dunes. Reverse perspective, solemn frontal poses. Egg tempera glow, fine brushwork. No text. Symbolizes the peace dividend, redirecting conflict resources to science, sustainability, and global cooperation. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 10,
+          "title": "Mediators of the Bush",
+          "tone": "news",
+          "fashionYear": "1967",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Mediators of the Bush takes on the day’s Community Resilience thread, translating the news into a single visual moment. By focusing on these constructive responses, the exhibition can celebrate the human capacity to heal, innovate, and cooperate, presenting peace not as a distant ideal but as a tangible, daily practice of care and shared purpose. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes local mediation.",
+          "prompt": "Painterly icon, gold light. Community leaders in 1967 casual shirts and trousers sit in a eucalyptus grove. Reverse perspective, solemn faces. Egg tempera pigment, flat canvas texture. No readable text. Symbolizes local mediation, community resilience, and the tangible daily practice of peace and care. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
     }
   ]
 }

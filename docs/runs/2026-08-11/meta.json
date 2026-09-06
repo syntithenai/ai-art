@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-11",
+  "artist": {
+    "id": "russian_icon",
+    "name": "Russian Orthodox icon",
+    "era": "medieval RU",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "icon",
+      "europe"
+    ],
+    "bio": "Russian Orthodox icon (medieval RU). Russian icon painting: gold ground, reverse perspective, solemn frontal saints, egg tempera glow—devotional calm without readable Church Slavonic. Painterly fine-art visual language. Associated tags: icon, europe.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. With a forecasted Official Development Assistance budget of over $5 billion for 2025-2026, the nation is dedicating significant resources to internal and external peace initiatives, including support for the UN Peacebuilding Fund. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience.\n\nInternationally, the narrative of peace is being reshaped by innovation and scientific collaboration. The United Nations is integrating generative AI tools into conflict analysis, training officers to use technology ethically for better briefing and information synthesis. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. This approach recognizes that knowledge and discovery serve as trusted languages of collaboration, fostering mutual understanding where political dialogue may falter.\n\nFor the art gallery, these stories offer a canvas of hope and agency. They highlight the quiet work of mediators, the ingenuity of technologists, and the enduring spirit of survivors and caregivers. By focusing on these constructive responses, the exhibition can celebrate the human capacity to heal, innovate, and cooperate, presenting peace not as a distant ideal but as a tangible, daily practice of care and shared purpose.",
+  "themes": [
+    "Australian Diplomatic Leadership",
+    "Gender-Responsive Peacebuilding",
+    "AI in Conflict Analysis",
+    "Science as Collaboration",
+    "Community Resilience",
+    "Global Aid and Cooperation"
+  ],
+  "headlines": [
+    {
+      "title": "A World on Fire Needs Australia’s Conflict Mediation Prowess",
+      "url": "https://thediplomat.com/2026/07/a-world-on-fire-needs-australias-conflict-mediation-prowess/"
+    },
+    {
+      "title": "Australia Contributes to UN Peacebuilding Fund and Initiatives in Africa",
+      "url": "https://unny.mission.gov.au/unny/resources.html"
+    },
+    {
+      "title": "How Australia Can Contribute to Greater Global Peace-building",
+      "url": "https://www.globalvoices.org.au/post/initiation-how-australia-can-contribute-to-greater-global-peacebuilding"
+    },
+    {
+      "title": "Australian Government Support for UN Peacebuilding Architecture",
+      "url": "https://www.dfat.gov.au/international-relations/security/peacekeeping-and-peacebuilding/peace-and-conflict"
+    },
+    {
+      "title": "Security Through Sustainable Peace: Recommendations for Indo-Pacific Diplomacy",
+      "url": "https://www.internationalaffairs.org.au/australianoutlook/australian-threadbare-diplomacy-in-conflict/"
+    },
+    {
+      "title": "UN Innovation Cell: Training Political Affairs Officers in Generative AI",
+      "url": "https://dppa.un.org/en/innovation"
+    },
+    {
+      "title": "Peace Dividend Through Knowledge and Regeneration",
+      "url": "https://perpetualinnovation.org/economy/peace-dividend-science-sustainability/"
+    },
+    {
+      "title": "University of Melbourne Initiative for Peacebuilding: Prevention and Accountability",
+      "url": "https://arts.unimelb.edu.au/peacebuilding"
+    },
+    {
+      "title": "Can Innovators be Peacebuilders? A Peace Innovation Action Plan",
+      "url": "https://www.globalpolicyjournal.com/blog/01/08/2017/can-innovators-be-peacebuilders-peace-innovation-action-plan"
+    },
+    {
+      "title": "About Innovations in Peacebuilding: Local Partnerships and Sustainable Impact",
+      "url": "https://innovationsinpeacebuilding.org/about-ip/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australia Champions Conflict Prevention via UN Security Council Candidacy",
+      "url": "https://thediplomat.com/2026/07/a-world-on-fire-needs-australias-conflict-mediation-prowess/",
+      "angle": "Highlights Australia's proactive diplomatic stance, promising to use its UN candidacy to champion conflict prevention and the protection of civilians, showcasing national agency in global peace."
+    },
+    {
+      "title": "Empowering Women in Peace: Reintegration in the Philippines",
+      "url": "https://www.un.org/peacebuilding/Peacebuilding-Partners-Australia",
+      "angle": "Focuses on the human impact of aid, specifically how Australian support helps strengthen the rights and participation of women in peacebuilding, such as the reintegration of Bangsamoro Islamic Women Auxiliary members."
+    },
+    {
+      "title": "UN Innovation Cell Trains Officers in Ethical AI for Conflict Analysis",
+      "url": "https://dppa.un.org/en/innovation",
+      "angle": "Surfaces technological ingenuity in service of peace, showing how generative AI is being used to improve conflict analysis and briefing preparation, aligned with ethical guidelines."
+    },
+    {
+      "title": "The Peace Dividend: Redirecting Resources to Science and Sustainability",
+      "url": "https://perpetualinnovation.org/economy/peace-dividend-science-sustainability/",
+      "angle": "Promotes a hopeful vision of shared prosperity, arguing that redirecting war costs into science and sustainability creates security and mutual understanding through open data and global partnerships."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "A World on Fire Needs Australia’s Conflict Mediation Prowess",
+      "url": "https://thediplomat.com/2026/07/a-world-on-fire-needs-australias-conflict-mediation-prowess/",
+      "snippet": "Among others she has promised to “use our [U.N. Security Council] candidacy to champion what we think matters most, like conflict prevention, peacebuilding, the protection of civilians,” and asked parliament’s Joint Standing Committee on Foreign Affairs, Defense and Trade to explore how Australia’s international development program can prevent conflict.",
+      "source": "brave"
+    },
+    {
+      "title": "current issues - Permanent Mission of Australia",
+      "url": "https://unny.mission.gov.au/unny/resources.html",
+      "snippet": "UN Peacebuilding Commission ... Peacebuilding Commission in 2010. <strong>Australia contributes to the UN Peacebuilding Fund and supports peacebuilding initiatives in Africa identified as priorities by the UN Peacebuilding Commission</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Initiation: How Australia Can Contribute to Greater Global Peace-building",
+      "url": "https://www.globalvoices.org.au/post/initiation-how-australia-can-contribute-to-greater-global-peacebuilding",
+      "snippet": "<strong>The forecasted Official Development Assistance Budget of $5.097 billion for 2025-2026 would be allocated to AusAID</strong>, and funding of no lower than 2% of AusAID’s budget would be dedicated to funding both internal and external peacebuilding ...",
+      "source": "brave"
+    },
+    {
+      "title": "UN Peacebuilding | Australian Government Department of Foreign Affairs and Trade",
+      "url": "https://www.dfat.gov.au/international-relations/security/peacekeeping-and-peacebuilding/peace-and-conflict",
+      "snippet": "<strong>Australia provides support for UN peacebuilding efforts through the UN Peacebuilding Architecture and UN country programs</strong> which support political, security and development activities focused on contributing to sustainable peace and preventing ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Threadbare Diplomacy In Conflict - Australian Institute of International Affairs",
+      "url": "https://www.internationalaffairs.org.au/australianoutlook/australian-threadbare-diplomacy-in-conflict/",
+      "snippet": "The resulting report, Security Through Sustainable Peace: Australian International Conflict Prevention and Peacebuilding, <strong>emphasises the need for Australia to strengthen diplomacy and includes recommendations for enhancing its role in supporting peace and security in the Indo-Pacific region</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Peacebuilding Partners - Australia | PEACEBUILDING",
+      "url": "https://www.un.org/peacebuilding/Peacebuilding-Partners-Australia",
+      "snippet": "<strong>Through its contributions, Australia helps to promote gender equality and empower women by strengthening their rights, representation, and participation in peacebuilding</strong>. For example, in the Philippines, PBF support helped with the reintegration of members of the Bangsamoro Islamic Women Auxiliary ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia peacebuilding site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+peacebuilding+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: peacebuilding diplomacy aid mediation global cooperation good news science breakthrough OR rescue OR community",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=peacebuilding+diplomacy+aid+mediation+global+cooperation+good+news+science+breakthrough+OR+rescue+OR+community&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Full article: A new research approach for Peace Innovation",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/2157930X.2017.1349580",
+      "snippet": "Beyond simply cultivating interest among relevant stakeholders to exchange ideas and develop synergistic PI work patterns, there is an imperative to provide financial resources. More holistic funding measures that formalize a PI approach in innovation and scholarly fora – such as tech contests, start-up demo days, etc. – as well as new spaces to being these actors together will establish PI within global peacebuilding and innovation agendas.",
+      "source": "brave"
+    },
+    {
+      "title": "The Initiative for Peacebuilding - Faculty of Arts",
+      "url": "https://arts.unimelb.edu.au/peacebuilding",
+      "snippet": "This project is led by Associate ... the ARC Discovery Early Career Researcher Award Scheme. It investigates the nature, scale and impacts of sexual exploitation and abuse in humanitarian operations, and the challenges facing effective prevention and accountability efforts. ... The BSLPDP is an Australian government programme implemented by the University of Melbourne Initiative for Peacebuilding with financial ...",
+      "source": "brave"
+    },
+    {
+      "title": "Peace Dividend Through Knowledge and Regeneration",
+      "url": "https://perpetualinnovation.org/economy/peace-dividend-science-sustainability/",
+      "snippet": "In short, the cost of war extends far beyond weapons—it’s measured in lost innovation, degraded ecosystems, and diminished human potential. Redirecting even a fraction of these resources into science and sustainability creates not only security, but shared prosperity. Science remains one of the most trusted languages of collaboration. Through shared research, open data, and global partnerships, it builds mutual understanding where politics often fail. The World Science Day for Peace and Development, established by UNESCO, celebrates how knowledge and discovery foster dialogue and cooperation.",
+      "source": "brave"
+    },
+    {
+      "title": "Innovation | United Nations Peace Operations",
+      "url": "https://dppa.un.org/en/innovation",
+      "snippet": "<strong>The Innovation Cell trains Political Affairs Officers to use generative AI tools for conflict analysis, briefing preparation, and information synthesis</strong>, aligned with the UN guidance on ethical AI use.",
+      "source": "brave"
+    },
+    {
+      "title": "Can Innovators be Peacebuilders? A Peace Innovation Action Plan",
+      "url": "https://www.globalpolicyjournal.com/blog/01/08/2017/can-innovators-be-peacebuilders-peace-innovation-action-plan",
+      "snippet": "We outline a new approach to peace innovation, defined as: <strong>Innovation that expressly aims to facilitate the prevention of conflict and/or alleviate the harmful consequences of human suffering when conflict occurs</strong>, and which accepts responsibility for its own intended and unintended outcomes.",
+      "source": "brave"
+    },
+    {
+      "title": "About Innovations in Peacebuilding - Innovations in Peacebuilding",
+      "url": "https://innovationsinpeacebuilding.org/about-ip/",
+      "snippet": "Co-develop a project with local partners that undertakes peacemaking and/or peacebuilding strategies by piloting new and innovative approaches or accelerating existing programming that is already effective. ... Exit with a sustainable strategy for continued impact through local leadership. ... Dr. Charles E. Davidson has worked in peacebuilding his entire adult life. From his early 20s, he began traveling to war-torn and conflict-affected countries to discover better ways to understand dynamic approaches to peace partnerships.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australian peacebuilding diplomacy aid mediation global cooperation news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australian+peacebuilding+diplomacy+aid+mediation+global+cooperation+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Australian Peace Weave",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Australian Peace Weave is today’s cover piece — one Australian scene that weaves together Australian Diplomatic Leadership, Gender-Responsive Peacebuilding, AI in Conflict Analysis, Science as Collaboration, Community Resilience, and Global Aid and Cooperation. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground, reverse perspective. Solemn frontal figures in 2024 Australian business attire and casual wear stand in a Sydney harbor setting. Motifs of light connect groups: diplomats, AI scientists, and women in peacebuilding. Egg tempera glow, devotional calm, no readable text, eucalyptus trees in background. Unified Australian scene weaving together these themes: Australian Diplomatic Leadership, Gender-Responsive Peacebuilding, AI in Conflict Analysis, Science as Collaboration, Community Resilience, Global Aid and Cooperation. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1878311971,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/01.png style=flux_klein size=896x1152 seed=1878311971 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Women of the Reintegration",
+      "tone": "good_news",
+      "fashionYear": "2019",
+      "emailHero": false,
+      "description": "Women of the Reintegration takes on the day’s Community Resilience thread, translating the news into a single visual moment. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal group of women in 2019 modest attire, some with headscarves, standing in a Philippine-inspired courtyard translated to an Australian community center. Solemn expressions, egg tempera glow. Reverse perspective. Devotional calm, no readable text, eucalyptus shadows on wall. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 224698716,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/02.png style=flux_klein size=896x1152 seed=224698716 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Ethical Lens",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "The Ethical Lens takes on the day’s AI in Conflict Analysis thread, translating the news into a single visual moment. The United Nations is integrating generative AI tools into conflict analysis, training officers to use technology ethically for better briefing and information synthesis. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. The composition keeps the human stakes of AI in Conflict Analysis in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal figure of a 2023 tech specialist in smart-casual wear, holding a glowing tablet. Reverse perspective. Solemn focus on ethical data analysis. Egg tempera glow. No readable text. Background features abstract digital light patterns mixed with traditional icon halos, set in a Melbourne office. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1163608029,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/03.png style=flux_klein size=896x1152 seed=1163608029 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "The Peace Dividend",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "The Peace Dividend takes on the day’s Science as Collaboration thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes the peace dividend and shared prosperity in a harmonious setting.",
+      "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal group of 1978 scientists and farmers in period-appropriate clothes. Reverse perspective. Solemn collaboration on sustainability projects. Egg tempera glow. No readable text. Background shows Australian bushland and solar panels, symbolizing the peace dividend and shared prosperity in a harmonious setting. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 156487204,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/04.png style=flux_klein size=896x1152 seed=156487204 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Guardians of the Reef",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Guardians of the Reef takes on the day’s Global Aid and Cooperation thread, translating the news into a single visual moment. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. In the artwork, that story symbolizes protection and global cooperation in a devotional.",
+      "prompt": "Painterly fine-art Russian Orthodox icon style, gold ground. Frontal figures of 1995 rangers and diplomats near a coastal cliff. Reverse perspective. Solemn guardianship of the reef. Egg tempera glow. No readable text. Background features Australian coastal cliffs and ocean, symbolizing protection and global cooperation in a devotional, calm atmosphere. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 465569185,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/05.png style=flux_klein size=896x1152 seed=465569185 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour of Accord",
+      "tone": "good_news",
+      "fashionYear": "1902",
+      "emailHero": false,
+      "description": "Harbour of Accord takes on the day’s Australian Diplomatic Leadership thread, translating the news into a single visual moment. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. The composition keeps the human stakes of Australian Diplomatic Leadership in view without turning the news into spectacle.",
+      "prompt": "Russian icon style, gold ground, reverse perspective. Three solemn diplomats in 1902 Edwardian tailcoats and top hats stand before Sydney Harbour cliffs. Egg tempera glow, flat brushwork. No readable text. Devotional calm, symbolic of Australian diplomatic leadership in global peacebuilding and conflict prevention. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 542446456,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/06.png style=flux_klein size=896x1152 seed=542446456 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Reef of Resilience",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Reef of Resilience takes on the day’s Gender-Responsive Peacebuilding thread, translating the news into a single visual moment. This commitment is not just financial; it is deeply human, with specific programs in regions like the Philippines supporting the reintegration and empowerment of women, ensuring that peace is built on the foundation of gender equality and community resilience. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes gender-responsive aid.",
+      "prompt": "Painterly icon, gold halo light. Aboriginal women in 1955 modest dresses and aprons tend vibrant Great Barrier Reef corals. Reverse perspective, solemn dignity. Egg tempera pigment on canvas. No sacred imagery. Symbolizes gender-responsive aid, reintegration, and community resilience in peace processes. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 809764166,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/07.png style=flux_klein size=896x1152 seed=809764166 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "The Ethical Compass",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "The Ethical Compass takes on the day’s AI in Conflict Analysis thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes ethical AI in conflict analysis.",
+      "prompt": "Iconic style, gold background. A technologist in 1988 business casual shirt and tie studies glowing abstract data streams in a Melbourne office. Reverse perspective, flat brushwork. Egg tempera texture. No readable text. Symbolizes ethical AI in conflict analysis, scientific collaboration, and the peace dividend through innovation. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 268880416,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/08.png style=flux_klein size=896x1152 seed=268880416 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Science of Shared Sky",
+      "tone": "good_news",
+      "fashionYear": "1921",
+      "emailHero": false,
+      "description": "Science of Shared Sky takes on the day’s Global Aid and Cooperation thread, translating the news into a single visual moment. Simultaneously, global movements are advocating for a 'peace dividend,' where resources previously spent on conflict are redirected toward science, sustainability, and shared prosperity. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes the peace dividend.",
+      "prompt": "Russian icon, gold ground. Scientists in 1921 wool suits and flat caps observe stars over red desert dunes. Reverse perspective, solemn frontal poses. Egg tempera glow, fine brushwork. No text. Symbolizes the peace dividend, redirecting conflict resources to science, sustainability, and global cooperation. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 539703401,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/09.png style=flux_klein size=896x1152 seed=539703401 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Mediators of the Bush",
+      "tone": "news",
+      "fashionYear": "1967",
+      "emailHero": false,
+      "description": "Mediators of the Bush takes on the day’s Community Resilience thread, translating the news into a single visual moment. By focusing on these constructive responses, the exhibition can celebrate the human capacity to heal, innovate, and cooperate, presenting peace not as a distant ideal but as a tangible, daily practice of care and shared purpose. Australia is stepping into a pivotal role on the global stage, leveraging its diplomatic history and institutional strength to champion conflict prevention and peacebuilding. In the artwork, that story symbolizes local mediation.",
+      "prompt": "Painterly icon, gold light. Community leaders in 1967 casual shirts and trousers sit in a eucalyptus grove. Reverse perspective, solemn faces. Egg tempera pigment, flat canvas texture. No readable text. Symbolizes local mediation, community resilience, and the tangible daily practice of peace and care. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2025611579,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-08-11/10.png style=flux_klein size=896x1152 seed=2025611579 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
