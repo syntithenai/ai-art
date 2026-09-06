@@ -244,6 +244,44 @@
       margin: 0 0 0.5rem;
     }
     .day-back .detail-back { margin-bottom: 0; }
+    .scroll-top-btn {
+      position: fixed;
+      top: 0.85rem;
+      left: 0.85rem;
+      z-index: 45;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      color: var(--ink);
+      display: grid;
+      place-items: center;
+      cursor: pointer;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(-0.35rem);
+      transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.15s ease;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+    }
+    .scroll-top-btn svg {
+      width: 1.15rem;
+      height: 1.15rem;
+      display: block;
+    }
+    .scroll-top-btn.visible {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+    .scroll-top-btn:hover,
+    .scroll-top-btn:focus-visible {
+      border-color: var(--accent);
+      color: var(--accent);
+      outline: none;
+    }
     .gallery-sentinel {
       height: 1px;
       margin: 0;
@@ -720,6 +758,12 @@
   </style>
 </head>
 <body>
+  <button type="button" class="scroll-top-btn" id="scrollTopBtn" aria-label="Scroll to top" title="Scroll to top">
+    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M12 5.5v13" stroke="currentColor" stroke-width="1.85" stroke-linecap="round"/>
+      <path d="M6.75 10.75 12 5.5l5.25 5.25" stroke="currentColor" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
   <header class="top">
     <div class="brand">
       <h1>AI Art</h1>
@@ -1121,6 +1165,66 @@
       let homeFiltered = [];
       let homeVisibleCount = 0;
       let homeObserver = null;
+      const HOME_SCROLL_KEY = 'ai-art-home-scroll';
+      let lastScrollY = window.scrollY || 0;
+      let scrollTopVisible = false;
+      const scrollTopBtn = document.getElementById('scrollTopBtn');
+
+      function isAllDaysHome(route) {
+        return route.view === 'home' && !route.date;
+      }
+
+      function saveHomeScrollState() {
+        if (!isAllDaysHome(parseRoute())) return;
+        try {
+          sessionStorage.setItem(HOME_SCROLL_KEY, JSON.stringify({
+            y: window.scrollY || 0,
+            visibleCount: homeVisibleCount,
+            artist: (artistInput.value || '').trim(),
+            topic: (topicInput.value || '').trim(),
+          }));
+        } catch (_) { /* ignore */ }
+      }
+
+      function readHomeScrollState() {
+        try {
+          const raw = sessionStorage.getItem(HOME_SCROLL_KEY);
+          if (!raw) return null;
+          const data = JSON.parse(raw);
+          if (!data || typeof data !== 'object') return null;
+          return data;
+        } catch (_) {
+          return null;
+        }
+      }
+
+      function clearHomeScrollState() {
+        try { sessionStorage.removeItem(HOME_SCROLL_KEY); } catch (_) { /* ignore */ }
+      }
+
+      function updateScrollTopBtn() {
+        if (!scrollTopBtn) return;
+        const y = window.scrollY || 0;
+        const goingUp = y < lastScrollY - 2;
+        const nearTop = y < 240;
+        if (nearTop) scrollTopVisible = false;
+        else if (goingUp && y > 400) scrollTopVisible = true;
+        else if (y > lastScrollY + 6) scrollTopVisible = false;
+        lastScrollY = y;
+        scrollTopBtn.classList.toggle('visible', scrollTopVisible);
+      }
+
+      if (scrollTopBtn) {
+        scrollTopBtn.addEventListener('click', () => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+          scrollTopVisible = false;
+          scrollTopBtn.classList.remove('visible');
+        });
+      }
+      window.addEventListener('scroll', () => {
+        updateScrollTopBtn();
+        if (isAllDaysHome(parseRoute())) saveHomeScrollState();
+      }, { passive: true });
 
       function runSectionHtml(run) {
         const themes = (run.themes || []).join(' · ');
@@ -1180,6 +1284,7 @@
           teardownHomeScroll();
           if (sentinel) sentinel.remove();
         }
+        saveHomeScrollState();
       }
 
       function setupHomeScroll() {
@@ -1207,9 +1312,25 @@
           return;
         }
         const dayOnly = !!route.date;
+        let restore = null;
+        if (!dayOnly) {
+          restore = readHomeScrollState();
+          const sameFilters = restore
+            && (restore.artist || '') === (artistInput.value || '').trim()
+            && (restore.topic || '') === (topicInput.value || '').trim();
+          if (!sameFilters) restore = null;
+        }
         homeVisibleCount = dayOnly
           ? homeFiltered.length
-          : Math.min(HOME_PAGE_SIZE, homeFiltered.length);
+          : Math.min(
+              homeFiltered.length,
+              Math.max(
+                HOME_PAGE_SIZE,
+                restore && Number(restore.visibleCount) > 0
+                  ? Number(restore.visibleCount)
+                  : HOME_PAGE_SIZE
+              )
+            );
         const back = dayOnly
           ? '<p class="day-back"><a class="detail-back" href="#">← All days</a></p>'
           : '';
@@ -1220,6 +1341,20 @@
         main.innerHTML = back + slice.map(runSectionHtml).join('') + sentinel;
         if (!dayOnly) setupHomeScroll();
         else teardownHomeScroll();
+        if (!dayOnly && restore && Number(restore.y) > 0) {
+          const y = Number(restore.y);
+          const apply = () => window.scrollTo(0, y);
+          apply();
+          requestAnimationFrame(() => {
+            apply();
+            requestAnimationFrame(apply);
+          });
+          window.setTimeout(apply, 50);
+          window.setTimeout(apply, 200);
+        } else if (dayOnly) {
+          window.scrollTo(0, 0);
+        }
+        updateScrollTopBtn();
       }
 
       function renderDetail(date, index) {
@@ -1626,9 +1761,11 @@
         const route = parseRoute();
         if (route.view === 'detail') {
           renderDetail(route.date, route.index);
+          window.scrollTo(0, 0);
         } else {
           renderHome();
         }
+        updateScrollTopBtn();
       }
 
       main.addEventListener('click', (e) => {
@@ -1662,6 +1799,7 @@
           if (route.view === 'detail') {
             openLightbox(date, index);
           } else {
+            if (isAllDaysHome(route)) saveHomeScrollState();
             location.hash = '#/' + date + '/' + index;
           }
         }
@@ -1706,6 +1844,7 @@
       });
 
       function onFilterInput() {
+        clearHomeScrollState();
         writeFiltersToUrl();
         if (parseRoute().view === 'home') render();
       }
