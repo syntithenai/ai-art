@@ -102,6 +102,106 @@
       ]
     },
     {
+      "date": "2026-09-04",
+      "artist": {
+        "id": "george_pemba",
+        "name": "George Pemba",
+        "era": "20th c. ZA",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "realism",
+          "africa"
+        ]
+      },
+      "themes": [
+        "El Niño",
+        "Bushfire Risk",
+        "Climate Change",
+        "Drought",
+        "Weather Forecasts",
+        "Great Barrier Reef"
+      ],
+      "summary": "As of September 2026, Australia is grappling with the onset of what the Bureau of Meteorology (BoM) describes as the strongest El Niño event on record. Recent research highlights an 'alarming' influence from climate change, with Pacific Ocean temperature changes exceeding 2C in six months, potentially amplifying the event's impacts. The BoM warns that this phenomenon is likely to bring hotter and drier conditions to the southern and eastern parts of the continent, significantly elevating the risks of severe heatwaves, drought, and bushfires for the upcoming summer season.\n\nThe Australian and New Zealand Council for Fire and Emergency Services (AFAC) has issued a spring outlook indicating increased bushfire risk across most states and territories. Experts caution against complacency, noting that dry conditions in the east and increased fuel loads are compounding the threat. The potential for a concurrent positive Indian Ocean Dipole could create a 'triple threat' scenario with climate pollution and El Niño, further loading the dice for extreme fire weather. Queensland authorities are actively monitoring these impacts, implementing strategies such as planned burns and surveillance to protect communities and the Great Barrier Reef from coral bleaching and fire risks.\n\nWhile the BoM notes that a strong El Niño does not 'necessarily' mean extreme impacts, the historical precedent of the 2023-24 event, which included Australia's driest three months on record, underscores the severity of the current situation. The convergence of natural climate cycles and long-term warming trends is expected to turbocharge extreme weather patterns, requiring heightened preparedness across the nation for the remainder of the year.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Drying East",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "prompt": "A large-scale oil painting on textured canvas depicting the arid landscape of the eastern coast, where cracked earth stretches towards a hazy, sun-drenched horizon. In the foreground, a solitary figure in simple clothing stands amidst withered grass, observing the sky, rendered with thick impasto strokes that emphasize the dryness and heat. The color palette is dominated by ochres, burnt siennas, and pale yellows, capturing the severe drought conditions. The brushwork is expressive yet grounded in narrative realism, showing the weight of the atmosphere pressing down on the land, evoking the spirit of George Pemba’s focus on everyday life under environmental strain, without any digital artifacts or neon colors. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Triple Threat Horizon",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "prompt": "A dramatic fine-art oil painting illustrating the convergence of extreme weather patterns, with a sky painted in deep, turbulent purples and oranges that suggest a 'triple threat' of fire and heat. The landscape below is a patchwork of dry fields and distant, smoky hills, depicted with loose, energetic brushstrokes that convey urgency and danger. The composition emphasizes the vastness of the natural forces at play, using pigment layers to create a sense of oppressive humidity and rising temperature. This scene avoids specific logos or text, focusing instead on the symbolic representation of climate volatility through the interplay of light and shadow on the parched ground, consistent with 20th-century South African genre painting aesthetics. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Reef in Peril",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "prompt": "A painterly depiction of a coral reef scene, where the vibrant colors of the coral are muted to pale whites and dull browns, symbolizing bleaching due to rising water temperatures. The water is rendered with translucent glazes of turquoise and blue, showing the clarity of the ocean but hinting at underlying stress. A few fish swim through the empty structures, their forms simplified to maintain the narrative focus on the environment. The style locks into the tradition of realistic yet emotive genre painting, using soft, blended brushes to capture the delicate beauty and fragility of the marine ecosystem, reflecting the threat of El Niño impacts on the Great Barrier Reef without using photographic realism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Surveillance of the Flame",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "prompt": "An oil painting showing a high vantage point overlooking a dry forest, where a small, controlled burn is being monitored by figures in the distance. The smoke rises in thick, grey plumes, contrasting with the bright, sun-bleached leaves of the trees. The brushwork is detailed in the foreground foliage but looser in the background, creating depth. The scene captures the tension between human management of fire and the uncontrollable nature of bushfire risk, using earthy tones and warm highlights to convey the heat. The composition is balanced and narrative, typical of Pemba’s community-focused scenes, translating the news of fire surveillance into a visual metaphor for preparedness and danger. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "The Driest Three Months",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "prompt": "A somber landscape painting on rough canvas, depicting a field of stunted crops under a bleached, cloudless sky, representing the record-breaking dry spell. The earth is rendered in deep, dark cracks, while the sky is a flat, pale expanse of light, suggesting the intensity of the sun. A lone tree stands in the center, its branches bare, acting as a focal point for the drought's impact. The palette is restricted to desaturated earth tones and stark whites, emphasizing the severity of the climate event. The style is restrained and realistic, using careful pigment application to show the texture of the dry soil and the heat haze, avoiding any digital effects or modern digital art styles. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Heatwave Community",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "prompt": "A genre scene showing a group of people gathering in the shade of a large, sparse tree during a severe heatwave, their faces turned away from the harsh sunlight. The figures are dressed in light, loose clothing, and their postures convey fatigue and resilience. The background is a wash of warm, hazy colors that suggest the oppressive air of a hot, dry season. The brushwork is gentle around the figures but more vigorous in the background, creating a sense of community endurance in the face of environmental stress. This image aligns with the South African genre painting tradition of depicting everyday life and community response, using oil on canvas to capture the human element of climate change. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Pacific Warmth",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "prompt": "An abstract-leaning oil painting that visualizes the warming of the Pacific Ocean, with the water surface rendered in swirling patterns of deep reds, oranges, and purples, suggesting temperatures exceeding 2C above average. The waves are depicted with thick, gestural strokes that convey movement and energy, while the sky above is a muted, dusty blue. The scene is symbolic rather than literal, representing the 'alarming' influence of climate change on ocean currents. The style remains grounded in fine-art oil techniques, using color temperature to communicate the heat, and avoids any literal representations of data or charts, focusing on the emotional and visual impact of the warming waters. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Fire Season Outlook",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "prompt": "A landscape painting depicting a dry, grassy plain at dawn, where the light is golden but harsh, signaling the start of the fire season. The grass is rendered in sharp, dry strokes of yellow and brown, and the air appears thick with heat. In the distance, a faint haze suggests the potential for smoke and fire. The composition is wide and open, emphasizing the vulnerability of the landscape to extreme weather. The style is narrative and realistic, using traditional oil painting methods to capture the tension of the season, reflecting the AFAC outlook of increased risk without using any text or logos, focusing on the visual cues of danger in the environment. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Bleaching Waters",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "prompt": "A close-up oil painting of a coral reef, where the water is rendered in layers of pale blue and white, showing the bleaching of the coral structures. The coral is depicted in intricate detail, with soft, blended brushstrokes that highlight the loss of color and life. The scene is quiet and still, conveying a sense of loss and fragility. The palette is cool and desaturated, emphasizing the impact of rising temperatures on the marine ecosystem. This image aligns with the theme of Great Barrier Reef protection, using fine-art oil techniques to show the environmental damage in a poetic and visual manner, without any digital manipulation or photographic realism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Convergence of Cycles",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "prompt": "A dynamic oil painting showing the convergence of natural climate cycles, with a sky filled with swirling clouds that change color from grey to orange, representing the 'turbocharging' of extreme weather patterns. The landscape below is a mix of dry fields and wet patches, showing the variability of the conditions. The brushwork is energetic and expressive, capturing the movement of the air and water. The scene is symbolic of the long-term warming trends and natural cycles working together, using traditional oil painting methods to convey the complexity of the climate event. The composition is balanced and narrative, focusing on the visual impact of the convergence on the land and sky. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-09-03",
       "artist": {
         "id": "gerard_sekoto",
