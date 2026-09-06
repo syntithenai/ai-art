@@ -155,49 +155,99 @@
     };
   }
 
+  let gisPromise = null;
+  let tokenClient = null;
+
   function loadGis() {
-    return new Promise((resolve, reject) => {
+    if (gisPromise) return gisPromise;
+    gisPromise = new Promise((resolve, reject) => {
       if (window.google && window.google.accounts && window.google.accounts.oauth2) {
         resolve();
+        return;
+      }
+      const existing = document.querySelector('script[data-ai-art-gis]');
+      if (existing) {
+        existing.addEventListener('load', () => resolve());
+        existing.addEventListener('error', () => reject(new Error('GIS load failed')));
         return;
       }
       const s = document.createElement('script');
       s.src = 'https://accounts.google.com/gsi/client';
       s.async = true;
+      s.setAttribute('data-ai-art-gis', '1');
       s.onload = () => resolve();
       s.onerror = () => reject(new Error('GIS load failed'));
       document.head.appendChild(s);
     });
+    return gisPromise;
   }
 
-  async function signIn() {
+  function ensureTokenClient() {
+    if (tokenClient) return tokenClient;
+    if (!CLIENT_ID) throw new Error('Google client id not configured');
+    if (!(window.google && window.google.accounts && window.google.accounts.oauth2)) {
+      return null;
+    }
+    tokenClient = window.google.accounts.oauth2.initTokenClient({
+      client_id: CLIENT_ID,
+      scope: 'openid email profile',
+      callback: (resp) => {
+        if (resp && resp.error) {
+          const msg = resp.error_description || resp.error || 'Sign-in failed';
+          if (!/popup_closed|access_denied|closed/i.test(msg)) {
+            alert(msg);
+          }
+          return;
+        }
+        if (!resp || !resp.access_token) {
+          alert('Sign-in failed — no access token');
+          return;
+        }
+        accessToken = resp.access_token;
+        fetchProfile(accessToken)
+          .then((u) => {
+            user = u;
+            saveStored();
+            renderAuth();
+            return refreshSubscription();
+          })
+          .then(() => openProfile())
+          .catch((err) => alert(err.message || String(err)));
+      },
+      error_callback: (err) => {
+        const msg = (err && (err.message || err.type)) || 'Google sign-in failed';
+        if (/popup|window/i.test(msg)) {
+          alert(
+            'Sign-in popup was blocked. Allow popups for this site, then try Sign in again.'
+          );
+          return;
+        }
+        if (!/popup_closed|closed_by_user|access_denied/i.test(msg)) {
+          alert(msg);
+        }
+      },
+    });
+    return tokenClient;
+  }
+
+  /** Must run synchronously from a click — awaiting first breaks the popup gesture. */
+  function signInFromClick() {
     if (!CLIENT_ID) {
       alert('Google client id not configured');
       return;
     }
-    await loadGis();
-    await new Promise((resolve, reject) => {
-      const client = window.google.accounts.oauth2.initTokenClient({
-        client_id: CLIENT_ID,
-        scope: 'openid email profile',
-        callback: async (resp) => {
-          try {
-            if (!resp || !resp.access_token) throw new Error('No access token');
-            accessToken = resp.access_token;
-            user = await fetchProfile(accessToken);
-            saveStored();
-            renderAuth();
-            await refreshSubscription();
-            openProfile();
-            resolve();
-          } catch (err) {
-            reject(err);
-          }
-        },
-        error_callback: (err) => reject(err || new Error('Google sign-in failed')),
-      });
-      client.requestAccessToken({ prompt: '' });
-    });
+    const client = ensureTokenClient();
+    if (!client) {
+      loadGis()
+        .then(() => {
+          ensureTokenClient();
+          alert('Google sign-in is ready — click Sign in again.');
+        })
+        .catch((e) => alert(e.message || String(e)));
+      return;
+    }
+    // Interactive account chooser; empty prompt often fails the popup after an await.
+    client.requestAccessToken({ prompt: 'select_account' });
   }
 
   async function api(path, opts) {
@@ -271,7 +321,7 @@
       openProfile();
       return;
     }
-    signIn().catch((e) => alert(e.message || String(e)));
+    signInFromClick();
   }
 
   function bootGoatcounter() {
@@ -305,6 +355,14 @@
   loadStored();
   renderAuth();
   bootGoatcounter();
+  // Preload GIS so Sign in can open the popup in the same click gesture.
+  if (CLIENT_ID) {
+    loadGis()
+      .then(() => {
+        try { ensureTokenClient(); } catch (e) { /* ignore until click */ }
+      })
+      .catch(() => { /* retry on click */ });
+  }
   probeResolver().then(() => {
     if (accessToken) refreshSubscription();
   });
