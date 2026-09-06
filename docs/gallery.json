@@ -1,4 +1,36 @@
 {
   "generated": true,
-  "runs": []
+  "runs": [
+    {
+      "date": "2026-09-06",
+      "artist": {
+        "id": "rothko_field",
+        "name": "Mark Rothko-adjacent color field",
+        "era": "20th c.",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "abstract",
+          "color-field"
+        ]
+      },
+      "themes": [
+        "Digital Regulation",
+        "National Identity",
+        "Climate Change",
+        "Human-Wildlife Conflict",
+        "Sports",
+        "International Relations"
+      ],
+      "summary": "Australian politics is currently dominated by a clash over digital regulation and national identity. The government is set to unveil draft laws requiring social media platforms to offer an algorithm opt-out, a move the Coalition has criticized as an attempt to censor the internet. Simultaneously, a Coalition proposal to criminalize flag burning has sparked a fierce debate, with Labor accusing the opposition of desperation and an attempt to chase One Nation's agenda. \n\nEnvironmental concerns are rising as an El Niño event spreads across the Pacific at an extraordinary pace, alarming experts with its magnitude and uncertainty. This climate shift is already impacting the country, with questions being raised about whether 2026 could be Australia's worst snow season. Additionally, a study highlights how habitat loss is forcing animals like possums and koalas into Australian homes, illustrating the human-wildlife conflict.\n\nIn the news cycle, a tragic incident in Papua New Guinea saw a crocodile handler die after being attacked at a wildlife park, with onlookers reporting the man was held for an hour before emergency services arrived. In sports, the NRL finals are underway, with the North Queensland Cowboys suffering a blow after star player Reuben Cotter was charged for a high tackle. Meanwhile, Australian journalist Cheng Lei has returned home after 1,154 days in a Chinese prison, offering a personal perspective on the long-standing diplomatic tensions between the two nations.",
+      "images": [
+        {
+          "index": 1,
+          "title": "The Algorithmic Horizon",
+          "jpg": "01.jpg",
+          "png": "01.png"
+        }
+      ]
+    }
+  ]
 }
