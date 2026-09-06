@@ -52,13 +52,20 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     .controls {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.75rem;
+      gap: 0.75rem 1rem;
       align-items: center;
     }
-    label { color: var(--muted); font-size: 0.95rem; }
+    .control {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem 0.75rem;
+      align-items: center;
+      flex: 1 1 280px;
+    }
+    label { color: var(--muted); font-size: 0.95rem; white-space: nowrap; }
     input[type="search"] {
-      flex: 1 1 240px;
-      min-width: 200px;
+      flex: 1 1 160px;
+      min-width: 140px;
       background: var(--panel);
       border: 1px solid var(--line);
       color: var(--ink);
@@ -98,6 +105,18 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       color: var(--accent);
       font-size: 0.9rem;
     }
+    .run-summary {
+      width: 100%;
+      margin: 0.55rem 0 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+      line-height: 1.4;
+      max-width: 52rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -132,13 +151,6 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     .empty {
       color: var(--muted);
       padding: 2rem 0;
-    }
-    footer {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 1rem 1.25rem 2.5rem;
-      color: var(--muted);
-      font-size: 0.85rem;
     }
     a { color: var(--accent); }
 
@@ -190,7 +202,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     .detail {
       max-width: 720px;
     }
-    .detail img {
+    .detail > img.hero {
       width: 100%;
       height: auto;
       display: block;
@@ -208,9 +220,69 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       line-height: 1.55;
       color: var(--ink);
       white-space: pre-wrap;
+      margin-bottom: 0.75rem;
     }
-    .home-controls.hidden,
-    .home-footer.hidden { display: none; }
+    .detail .generated-by {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin: 0 0 2rem;
+    }
+    .batch-strip-label {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 0.6rem;
+    }
+    .batch-strip {
+      display: flex;
+      gap: 0.75rem;
+      overflow-x: auto;
+      overflow-y: hidden;
+      padding: 0.25rem 0 0.75rem;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+    }
+    .batch-strip::-webkit-scrollbar {
+      height: 6px;
+    }
+    .batch-strip::-webkit-scrollbar-thumb {
+      background: var(--line);
+      border-radius: 3px;
+    }
+    .batch-card {
+      flex: 0 0 140px;
+      scroll-snap-align: start;
+      text-decoration: none;
+      color: inherit;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      padding: 0;
+      cursor: pointer;
+      display: block;
+      overflow: hidden;
+    }
+    .batch-card.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent);
+    }
+    .batch-card img {
+      width: 100%;
+      height: 100px;
+      object-fit: cover;
+      display: block;
+      background: #111;
+    }
+    .batch-card span {
+      display: block;
+      padding: 0.4rem 0.5rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.3;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .batch-card.active span { color: var(--accent); }
+    .home-controls.hidden { display: none; }
   </style>
 </head>
 <body>
@@ -218,14 +290,17 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     <h1>AI Art</h1>
     <p class="sub">Daily artworks from Australian news.</p>
     <div class="controls home-controls" id="homeControls">
-      <label for="artistFilter">Filter by artist</label>
-      <input id="artistFilter" type="search" placeholder="e.g. Hopper, Nolan, Adams…" autocomplete="off" />
+      <div class="control">
+        <label for="artistFilter">Artist</label>
+        <input id="artistFilter" type="search" placeholder="e.g. Hopper, Nolan…" autocomplete="off" />
+      </div>
+      <div class="control">
+        <label for="topicFilter">Topic</label>
+        <input id="topicFilter" type="search" placeholder="e.g. climate, housing…" autocomplete="off" />
+      </div>
     </div>
   </header>
   <main id="gallery"><p class="empty">Loading…</p></main>
-  <footer class="home-footer" id="homeFooter">
-    Generated locally. Source prompts and news summaries live in each run’s <code>meta.json</code>.
-  </footer>
   <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Fullscreen image">
     <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
     <img id="lightboxImg" alt="" />
@@ -236,9 +311,9 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       const data = await res.json();
       const runs = data.runs || [];
       const main = document.getElementById('gallery');
-      const input = document.getElementById('artistFilter');
+      const artistInput = document.getElementById('artistFilter');
+      const topicInput = document.getElementById('topicFilter');
       const homeControls = document.getElementById('homeControls');
-      const homeFooter = document.getElementById('homeFooter');
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightboxImg');
 
@@ -287,19 +362,47 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
         if (e.key === 'Escape' && lightbox.classList.contains('open')) closeLightbox();
       });
 
+      function syncFiltersFromUrl() {
+        const params = new URLSearchParams(location.search);
+        const a = params.get('artist') || '';
+        const t = params.get('topic') || '';
+        if (a && !artistInput.value) artistInput.value = a;
+        if (t && !topicInput.value) topicInput.value = t;
+      }
+
+      function writeFiltersToUrl() {
+        const url = new URL(location.href);
+        const a = artistInput.value.trim();
+        const t = topicInput.value.trim();
+        if (a) url.searchParams.set('artist', a); else url.searchParams.delete('artist');
+        if (t) url.searchParams.set('topic', t); else url.searchParams.delete('topic');
+        history.replaceState(null, '', url);
+      }
+
+      function matchesFilters(run) {
+        const aq = (artistInput.value || '').trim().toLowerCase();
+        const tq = (topicInput.value || '').trim().toLowerCase();
+        if (aq) {
+          const hay = ((run.artist && run.artist.name) || '') + ' ' + ((run.artist && run.artist.id) || '');
+          if (!hay.toLowerCase().includes(aq)) return false;
+        }
+        if (tq) {
+          const themes = (run.themes || []).join(' ');
+          const titles = (run.images || []).map(i => i.title || '').join(' ');
+          const summary = run.summary || '';
+          const hay = themes + ' ' + titles + ' ' + summary;
+          if (!hay.toLowerCase().includes(tq)) return false;
+        }
+        return true;
+      }
+
       function renderHome() {
         homeControls.classList.remove('hidden');
-        homeFooter.classList.remove('hidden');
-        const params = new URLSearchParams(location.search);
-        const qParam = params.get('artist') || '';
-        if (qParam && !input.value) input.value = qParam;
+        syncFiltersFromUrl();
         const route = parseRoute();
-        const q = (input.value || '').trim().toLowerCase();
         const filtered = runs.filter(r => {
           if (route.date && r.date !== route.date) return false;
-          if (!q) return true;
-          const hay = ((r.artist && r.artist.name) || '') + ' ' + ((r.artist && r.artist.id) || '');
-          return hay.toLowerCase().includes(q);
+          return matchesFilters(r);
         });
         if (!filtered.length) {
           main.innerHTML = '<p class="empty">No runs match this filter.</p>';
@@ -316,16 +419,18 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
               <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}" loading="lazy"
                    data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
               <figcaption>
-                <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}" data-action="detail">${escapeHtml(title)}</a>
+                <a href="#/${escapeAttr(run.date)}/${escapeAttr(String(idx))}">${escapeHtml(title)}</a>
               </figcaption>
             </figure>`;
           }).join('');
+          const summary = (run.summary || '').trim();
           return `
             <section class="run" data-artist="${escapeAttr((run.artist && run.artist.name) || '')}" id="${run.date}">
               <div class="run-head">
                 <h2>${escapeHtml((run.artist && run.artist.name) || 'Unknown')}</h2>
                 <span class="meta">${escapeHtml(run.date)} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</span>
                 ${themes ? `<div class="themes">${escapeHtml(themes)}</div>` : ''}
+                ${summary ? `<p class="run-summary">${escapeHtml(summary)}</p>` : ''}
               </div>
               <div class="grid">${imgs}</div>
             </section>`;
@@ -334,7 +439,6 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 
       function renderDetail(date, index) {
         homeControls.classList.add('hidden');
-        homeFooter.classList.add('hidden');
         const found = findImage(date, index);
         if (!found) {
           main.innerHTML = '<p class="empty">Artwork not found. <a href="#">Back</a></p>';
@@ -346,15 +450,37 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
         const desc = img.prompt || run.summary || '';
         const artist = (run.artist && run.artist.name) || '';
         const backHref = '#/' + run.date;
+        const models = run.models || {};
+        const imageModel = models.image || 'Flux Klein';
+        const llmModel = models.llm || '';
+        const generatedBy = llmModel
+          ? ('Generated by ' + imageModel + ' · prompts via ' + llmModel)
+          : ('Generated by ' + imageModel);
+        const cards = (run.images || []).map(im => {
+          const csrc = 'runs/' + run.date + '/' + (im.jpg || im.png);
+          const active = Number(im.index) === Number(index) ? ' active' : '';
+          return `
+            <a class="batch-card${active}" href="#/${escapeAttr(run.date)}/${escapeAttr(String(im.index))}" title="${escapeAttr(im.title || '')}">
+              <img src="${escapeAttr(csrc)}" alt="${escapeAttr(im.title || '')}" loading="lazy" />
+              <span>${escapeHtml(im.title || ('#' + im.index))}</span>
+            </a>`;
+        }).join('');
         main.innerHTML = `
           <article class="detail">
             <a class="detail-back" href="${escapeAttr(backHref)}">&larr; Back</a>
-            <img src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
+            <img class="hero" src="${escapeAttr(src)}" alt="${escapeAttr(title)}"
                  data-fullsrc="${escapeAttr(src)}" data-action="fullscreen" />
             <h2>${escapeHtml(title)}</h2>
             <p class="meta">${escapeHtml(artist)} · ${escapeHtml(run.date)} · ${escapeHtml((run.artist && run.artist.renderMode) || '')}</p>
             <div class="desc">${escapeHtml(desc)}</div>
+            <p class="generated-by">${escapeHtml(generatedBy)}</p>
+            <p class="batch-strip-label">This day’s artworks</p>
+            <div class="batch-strip">${cards}</div>
           </article>`;
+        const activeCard = main.querySelector('.batch-card.active');
+        if (activeCard) {
+          activeCard.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
+        }
       }
 
       function render() {
@@ -376,13 +502,12 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
         }
       });
 
-      input.addEventListener('input', () => {
-        const v = input.value.trim();
-        const url = new URL(location.href);
-        if (v) url.searchParams.set('artist', v); else url.searchParams.delete('artist');
-        history.replaceState(null, '', url);
+      function onFilterInput() {
+        writeFiltersToUrl();
         if (parseRoute().view === 'home') render();
-      });
+      }
+      artistInput.addEventListener('input', onFilterInput);
+      topicInput.addEventListener('input', onFilterInput);
       window.addEventListener('hashchange', render);
       render();
     }
@@ -405,12 +530,18 @@ def rebuild_gallery() -> dict:
             meta = json.loads(meta_path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             continue
+        models = meta.get("models") or {}
         runs.append(
             {
                 "date": meta.get("date") or meta_path.parent.name,
                 "artist": meta.get("artist") or {},
                 "themes": meta.get("themes") or [],
                 "summary": meta.get("summary") or "",
+                "models": {
+                    "llm": models.get("llm") or "qwen3.8-off",
+                    "image": models.get("image") or "Flux Klein",
+                    "imageStyle": models.get("imageStyle") or "flux_klein",
+                },
                 "images": [
                     {
                         "index": im.get("index"),

@@ -151,6 +151,11 @@ def generate_run(
         "headlines": news.headlines,
         "thinSearch": news.thin_search,
         "sources": news.raw_sources,
+        "models": {
+            "llm": config.QWEN_MODEL,
+            "image": "Flux Klein",
+            "imageStyle": "flux_klein",
+        },
         "images": images_meta,
     }
     meta_path = run_dir / "meta.json"
