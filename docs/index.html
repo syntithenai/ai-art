@@ -491,6 +491,15 @@
       font-size: 0.75rem;
       margin: 0.85rem 0 0;
     }
+    .artist-dialog .artist-actions {
+      margin-top: 1.1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .artist-dialog .artist-actions .chip {
+      text-decoration: none;
+    }
 
     header.top {
       display: flex;
@@ -815,6 +824,9 @@
       <p class="artist-meta" id="artistDialogMeta"></p>
       <p class="artist-bio" id="artistDialogBio"></p>
       <p class="artist-credit" id="artistDialogCredit" hidden></p>
+      <div class="artist-actions">
+        <a class="chip" id="artistDialogSearch" href="#" target="_blank" rel="noopener noreferrer">Search images</a>
+      </div>
     </div>
   </div>
   <div id="printDialog" class="profile-dialog" role="dialog" aria-modal="true" aria-labelledby="printDialogTitle" hidden>
@@ -892,6 +904,7 @@
       const artistDialogMeta = document.getElementById('artistDialogMeta');
       const artistDialogBio = document.getElementById('artistDialogBio');
       const artistDialogCredit = document.getElementById('artistDialogCredit');
+      const artistDialogSearch = document.getElementById('artistDialogSearch');
 
       let lightboxSlides = [];
       let lightboxIndex = 0;
@@ -916,6 +929,13 @@
         return title;
       }
 
+      function artistImageSearchUrl(name) {
+        const q = String(name || '').trim();
+        if (!q) return '';
+        return 'https://www.google.com/search?tbm=isch&udm=2&q='
+          + encodeURIComponent('"' + q + '" art OR painting OR artwork');
+      }
+
       function artistButton(artist) {
         const a = artist || {};
         const name = a.name || 'Unknown';
@@ -934,13 +954,14 @@
       function openArtistDialog(raw) {
         let a = {};
         try { a = JSON.parse(decodeURIComponent(raw || '%7B%7D')); } catch (e) { a = {}; }
-        artistDialogName.textContent = a.name || 'Artist';
+        const name = a.name || 'Artist';
+        artistDialogName.textContent = name;
         const bits = [a.era, a.renderMode].filter(Boolean);
         artistDialogMeta.textContent = bits.join(' · ');
         artistDialogBio.textContent = (a.bio || '').trim() || 'No biography available yet.';
         if (a.photoUrl) {
           artistDialogPhoto.src = a.photoUrl;
-          artistDialogPhoto.alt = a.name || 'Artist portrait';
+          artistDialogPhoto.alt = name + ' portrait';
           artistDialogPhoto.hidden = false;
         } else {
           artistDialogPhoto.removeAttribute('src');
@@ -951,6 +972,18 @@
           artistDialogCredit.hidden = false;
         } else {
           artistDialogCredit.hidden = true;
+        }
+        if (artistDialogSearch) {
+          const url = artistImageSearchUrl(name);
+          if (url) {
+            artistDialogSearch.href = url;
+            artistDialogSearch.hidden = false;
+            artistDialogSearch.setAttribute('aria-label', 'Search images of work by ' + name);
+            artistDialogSearch.title = 'Open image search for ' + name;
+          } else {
+            artistDialogSearch.removeAttribute('href');
+            artistDialogSearch.hidden = true;
+          }
         }
         artistDialog.hidden = false;
         artistDialog.classList.add('open');
