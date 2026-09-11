@@ -1,0 +1,379 @@
+{
+  "date": "2026-09-12",
+  "artist": {
+    "id": "miniature_timurid",
+    "name": "Timurid miniature",
+    "era": "classical Central Asia",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "miniature",
+      "asia",
+      "middle-east"
+    ],
+    "bio": "Timurid miniature (classical Central Asia). Timurid miniature painting: refined Herat garden courts, ultramarine and gold, precise horsemen and architecture, manuscript jewel clarity without script. Painterly fine-art visual language. Associated tags: miniature, asia, middle-east.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia's cultural calendar is buzzing with a historic first as the NFL brings American football to the MCG, uniting fans in a sellout crowd that highlights the nation's growing global sporting connections. Simultaneously, the Australian Academy of Science is unlocking new partnership opportunities with Horizon Europe, signaling a robust commitment to innovation and resilience that will boost R&D and strengthen the country's scientific standing on the world stage.\n\nIn the realm of human rights and justice, the sentencing of Molly Ticehurst's killer to 28 years in jail marks a significant moment of accountability. Her parents' eight-hundred-day fight for justice serves as a powerful testament to the enduring courage of survivors and caregivers, offering hope that the legal system can provide closure and protection for others facing similar challenges. This narrative of resilience is mirrored in the broader community's response to housing and social issues, where advocacy groups continue to push for inclusive and safe living environments.\n\nInternationally, the focus shifts to the intersection of space exploration and medical advancement, where technologies developed for the cosmos are now transforming rehabilitation and remote healthcare on Earth. From vibrating chairs that stimulate muscle contractions to AI-driven diagnostics, these innovations underscore how human curiosity in extreme environments is yielding tangible benefits for global health. Additionally, a new report highlights ten emerging tech solutions poised to enhance planetary health, offering a constructive path forward for climate resilience and ecosystem restoration.",
+  "themes": [
+    "Global Sporting Milestones",
+    "Scientific Innovation Partnerships",
+    "Justice and Survivor Resilience",
+    "Space-to-Earth Medical Tech",
+    "Planetary Health Solutions",
+    "Cultural Heritage and Community"
+  ],
+  "headlines": [
+    {
+      "title": "MCG Primed for NFL's First Game in Australia",
+      "url": "https://www.theage.com.au/"
+    },
+    {
+      "title": "Molly Ticehurst's Killer Sentenced to 28 Years",
+      "url": "https://www.theguardian.com/australia-news"
+    },
+    {
+      "title": "Australian Academy of Science Partners with Horizon Europe",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "Space Environment Advancing Medical Science",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science"
+    },
+    {
+      "title": "Report Identifies 10 Emerging Tech Solutions for Planetary Health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/"
+    },
+    {
+      "title": "Steve Irwin's Family Celebrates 'Superhero' Dad",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Australians on Opting Out of Social Media Algorithms",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Cricket Australia Opens Big Bash to Privatisation",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Natalie Imbruglia on Her Worst Audition",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "NASA's Impact on Medical Innovation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "NFL Makes Historic Debut in Australia at the MCG",
+      "url": "https://www.theage.com.au/",
+      "angle": "A sellout crowd for the first regular-season American football game in Australia showcases the nation's vibrant cultural exchange and global sporting connectivity."
+    },
+    {
+      "title": "Australian Academy of Science Unlocks Horizon Europe Funding",
+      "url": "https://science.org.au/news-events/news-views",
+      "angle": "New partnerships with Horizon Europe are set to boost Australia's innovation capacity and resilience, opening doors for significant research and development opportunities."
+    },
+    {
+      "title": "Space Technology Transforms Earth Rehabilitation",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "angle": "Medical tools originally designed for space, such as vibrating rehabilitation chairs, are now assisting hospitals and sports specialists, demonstrating the practical benefits of space exploration."
+    },
+    {
+      "title": "Ten Emerging Tech Solutions for Planetary Health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/",
+      "angle": "A global report highlights breakthrough innovations that can accelerate climate action and ecosystem restoration, offering a hopeful blueprint for long-term environmental resilience."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "... <strong>Molly Ticehurst&#x27;s ex said he could kill her faster than police could arrive, and he was right. The childcare worker and mum did everything she could to stop his deadly plan, but it wasn&#x27;t enough. The story of Australia is a story of migration, and the country&#x27;s immigration system is once more at the centre of heated political debate</strong>...",
+      "source": "brave"
+    },
+    {
+      "title": "Latest & Breaking News Melbourne, Victoria | The Age",
+      "url": "https://www.theage.com.au/",
+      "snippet": "The MCG is primed for the NFL’s first game in Australia as the LA Rams take on the San Francisco 49ers in front of a sellout crowd.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:Housing Construction IndustryFri 11 Sep 2026 at 11:58amFri 11 Sep 2026 at 11:58amFri 11 Sep 2026 at 11:58am · <strong>The body of a man has been found at an open cut mine south of Coober Pedy in South Australia&#x27;s outback</strong>, police say.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "Get all the latest news, live updates and content about Australia from across the BBC.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "Building Australia’s Future powered by science and innovation | Australian Academy of Science",
+      "url": "https://www.science.org.au/news-and-events/news-and-media-releases/building-australias-future-powered-by-science-and-innovation",
+      "snippet": "The President of the Australian Academy of Science, Professor Chennupati Jagadish AC, has welcomed the new Albanese Ministry and outlined seven immediate priorities for the federal government. “The Albanese government has shown their commitment to reforming the R&amp;D system by commissioning the Strategic Examination of R&amp;D,” said Professor Jagadish.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: good news science breakthrough discovery today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=good+news+science+breakthrough+discovery+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | Space exploration as a catalyst for medical innovations",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1226531/full",
+      "snippet": "Increased urinary calcium from bone resorption coupled with decreased diuresis increases the incidence of renal stones (14). Ultimately, there is still much to be learned about human physiology in this extreme environment. The challenging nature of spaceflight makes it an ideal catalyst for innovation in care delivery for remote terrestrial environments (Table 1).",
+      "source": "brave"
+    },
+    {
+      "title": "Space exploration as a catalyst for medical innovations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395101/",
+      "snippet": "Checking your browser before accessing pmc.ncbi.nlm.nih.gov · Click here if you are not automatically redirected after 5 seconds",
+      "source": "brave"
+    },
+    {
+      "title": "NASA's impact on medical innovation: Breakthrough technologies from space research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003",
+      "snippet": "With AI’s increased involvement ... Notable uses of AI in space medicine include <strong>remote diagnostics, wearable biosensors, astronaut training models, and mental health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Report identifies 10 emerging tech solutions to enhance planetary health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/",
+      "snippet": "In a world deluged by dire environmental news and seemingly short on scalable solutions, a recent report spotlights 10 breakthrough technological innovations that could accelerate global efforts to tackle climate change, restore ecosystems, build long-term resilience, and improve planetary health.",
+      "source": "brave"
+    },
+    {
+      "title": "Benefits of space: Global Health",
+      "url": "https://www.unoosa.org/oosa/en/benefits-of-space/global-health.html",
+      "snippet": "<strong>The outer space sector serves as a catalyst for advancing medical knowledge and technology transfer, yielding new vaccines, healthcare tools, and procedures</strong>. Satellite communications enhance tele-medicine and tele-health, connecting medical experts with underserved regions.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world news science culture human achievement today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+news+science+culture+human+achievement+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: international news community recovery OR scientific discovery",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=international+news+community+recovery+OR+scientific+discovery&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The MCG Garden of Global Unity",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Melbourne scene where the MCG stands as a Herat garden court. Australian footballers, scientists, and space engineers mingle under eucalyptus trees, symbolizing the NFL debut, Horizon Europe funding, and space-to-earth medical tech merging into one vibrant cultural exchange.",
+      "prompt": "Timurid miniature style, painterly fine art, refined Herat garden court transformed into Melbourne MCG stadium, ultramarine and gold pigments, precise line work, Australian footballers in 2024 kits, scientists in lab coats, space engineers, eucalyptus trees, red desert horizon, manuscript jewel clarity, no script, no text, no logos, no modern cameras, no photorealism, no stencil graffiti, no Gursky crowds, dignified Australian faces, multicultural, vibrant, unified composition, flat perspective, intricate details, traditional pigment on paper. Unified Australian scene weaving together these themes: Global Sporting Milestones, Scientific Innovation Partnerships, Justice and Survivor Resilience, Space-to-Earth Medical Tech, Planetary Health Solutions, Cultural Heritage and Community. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 2065519012,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/01.png style=flux_klein size=1024x1024 seed=2065519012 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Horizon Europe in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Aboriginal Australian researchers in 1955 country wear stand in red desert scrub, holding symbolic instruments of scientific innovation. The scene reflects the Australian Academy of Science's new Horizon Europe partnerships, highlighting resilience and the growing global standing of local R&D efforts.",
+      "prompt": "Timurid miniature style, painterly, red desert outback, eucalyptus scrub, Aboriginal Australian researchers in 1955 country clothing, gold and ultramarine accents, scientific instruments, partnership hands, dignity, manuscript clarity, no script, no text, no logos, no modern tech, no photorealism, no stencil, no Gursky, flat perspective, intricate brushwork, traditional pigment, dignified faces, no cultural appropriation, no sacred imagery, respectful representation, classical Central Asian influence, detailed architecture in background.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1430689169,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/02.png style=flux_klein size=1024x1024 seed=1430689169 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Space Tech in Sydney Harbour",
+      "tone": "good_news",
+      "fashionYear": "1982",
+      "emailHero": false,
+      "description": "Sydney harbour cliffs host a rehabilitation clinic where 1982-era patients use space-derived vibrating chairs. This visualizes how cosmic medical advancements are transforming Earth healthcare, bringing wonder and practical benefits to the Australian community through innovative remote diagnostics.",
+      "prompt": "Timurid miniature style, painterly, Sydney harbour cliffs, 1982 fashion, patients in rehabilitation chairs, space technology motifs, gold and ultramarine, precise architecture, medical progress, wonder, manuscript jewel clarity, no script, no text, no logos, no modern cameras, no photorealism, no stencil, no Gursky, flat perspective, intricate details, traditional pigment, dignified Australian faces, multicultural, respectful, classical Central Asian influence, detailed brushwork, no gore, no violence.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 569931942,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/03.png style=flux_klein size=1024x1024 seed=569931942 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Justice in the Bush",
+      "tone": "news",
+      "fashionYear": "1924",
+      "emailHero": false,
+      "description": "A quiet bushland scene with 1924-era figures representing survivors and caregivers. The composition honors the eight-hundred-day fight for justice for Molly Ticehurst, emphasizing community resilience, courage, and the enduring hope that the legal system provides closure and protection.",
+      "prompt": "Timurid miniature style, painterly, Australian bushland, eucalyptus trees, 1924 fashion, survivors and caregivers, dignity, resilience, justice themes, gold and ultramarine, precise figures, manuscript clarity, no script, no text, no logos, no modern tech, no photorealism, no stencil, no Gursky, flat perspective, intricate brushwork, traditional pigment, respectful faces, no cultural appropriation, no sacred imagery, no gore, no violence, classical Central Asian influence. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1116143660,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/04.png style=flux_klein size=1024x1024 seed=1116143660 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Planetary Health in the Reef",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "A coastal reef scene with 1998-era conservationists and scientists. This artwork highlights ten emerging tech solutions for planetary health, showcasing climate resilience and ecosystem restoration efforts that offer a hopeful blueprint for the future of the Australian environment.",
+      "prompt": "Timurid miniature style, painterly, Australian coastal reef, 1998 fashion, conservationists, scientists, ecosystem restoration, climate resilience, gold and ultramarine, precise architecture, manuscript jewel clarity, no script, no text, no logos, no modern cameras, no photorealism, no stencil, no Gursky, flat perspective, intricate details, traditional pigment, dignified Australian faces, multicultural, respectful, classical Central Asian influence, detailed brushwork, no gore, no violence.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 938952080,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/05.png style=flux_klein size=1024x1024 seed=938952080 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "MCG Football in the Garden",
+      "tone": "good_news",
+      "fashionYear": "1912",
+      "emailHero": false,
+      "description": "MCG Football in the Garden answers a strand of today’s news with a focused visual reading. Australia's cultural calendar is buzzing with a historic first as the NFL brings American football to the MCG, uniting fans in a sellout crowd that highlights the nation's growing global sporting connections. Internationally, the focus shifts to the intersection of space exploration and medical advancement, where technologies developed for the cosmos are now transforming rehabilitation and remote healthcare on Earth. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Timurid miniature style, painterly fine art on paper. A grand Herat-style garden court in Melbourne, red ochre earth, eucalyptus trees. Diverse Australian crowd in 1912 fashion: women in long lace dresses, men in suits. American football players in white jerseys, precise horsemen, ultramarine sky, gold leaf accents, jewel clarity, no text. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 471467320,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/06.png style=flux_klein size=1024x1024 seed=471467320 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Horizon Science in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Illustrating the Australian Academy of Science's new Horizon Europe partnerships. The scene depicts Aboriginal and Torres Strait Islander researchers in the outback, symbolizing Australia's commitment to innovation, resilience, and strengthened scientific standing on the world stage.",
+      "prompt": "Timurid miniature style, painterly fine art. Red desert outback, eucalyptus scrub. Aboriginal Australian scientists in 1968 fashion: denim, shirts. Examining glowing scientific instruments, precise architecture in background. Ultramarine and gold pigments, manuscript jewel clarity, no script, dignified contemporary faces, brushwork visible. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1168048586,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/07.png style=flux_klein size=1024x1024 seed=1168048586 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Space Rehab in the Reef",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Space Rehab in the Reef answers a strand of today’s news with a focused visual reading. Internationally, the focus shifts to the intersection of space exploration and medical advancement, where technologies developed for the cosmos are now transforming rehabilitation and remote healthcare on Earth. From vibrating chairs that stimulate muscle contractions to AI-driven diagnostics, these innovations underscore how human curiosity in extreme environments is yielding tangible benefits for global health. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Timurid miniature style, painterly fine art. Coastal cliff, turquoise reef water. Modern clinic interior with vibrating rehabilitation chairs. Patients in 2010 casual wear. Precise architecture, ultramarine walls, gold accents. No digital cameras, no CGI, manuscript jewel clarity, no text, dignified Australian faces, brushwork on paper.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 263997915,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/08.png style=flux_klein size=1024x1024 seed=263997915 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Planetary Health in the Rainforest",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "Planetary Health in the Rainforest takes on the day’s Planetary Health Solutions thread, translating the news into a single visual moment. Additionally, a new report highlights ten emerging tech solutions poised to enhance planetary health, offering a constructive path forward for climate resilience and ecosystem restoration. Internationally, the focus shifts to the intersection of space exploration and medical advancement, where technologies developed for the cosmos are now transforming rehabilitation and remote healthcare on Earth. The composition keeps the human stakes of Planetary Health Solutions in view without turning the news into spectacle.",
+      "prompt": "Timurid miniature style, painterly fine art. Lush rainforest, river gums. Diverse Australian conservationists in 2023 eco-fashion. Using precise tech tools for restoration. Ultramarine and gold pigments, manuscript jewel clarity, no script, dignified faces, brushwork visible, no modern digital cameras, no text.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 225499142,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/09.png style=flux_klein size=1024x1024 seed=225499142 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Justice in the Harbour",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Justice in the Harbour takes on the day’s Justice and Survivor Resilience thread, translating the news into a single visual moment. Simultaneously, the Australian Academy of Science is unlocking new partnership opportunities with Horizon Europe, signaling a robust commitment to innovation and resilience that will boost R&D and strengthen the country's scientific standing on the world stage. Internationally, the focus shifts to the intersection of space exploration and medical advancement, where technologies developed for the cosmos are now transforming rehabilitation and remote healthcare on Earth. The composition keeps the human stakes of Justice and Survivor Resilience in view without turning the news into spectacle.",
+      "prompt": "Timurid miniature style, painterly fine art. Sydney Harbour, precise architecture. Survivors and caregivers in 1995 fashion: blazers, jeans. Standing with dignity, holding symbolic justice scales. Ultramarine and gold, manuscript jewel clarity, no script, no gore, brushwork on paper, no text. Australian landscape or city setting with Australian people.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1009941505,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-12/10.png style=flux_klein size=1024x1024 seed=1009941505 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
