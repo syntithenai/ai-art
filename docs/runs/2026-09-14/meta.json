@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-14",
+  "artist": {
+    "id": "farid_belkahia",
+    "name": "Farid Belkahia",
+    "era": "20th c. MA",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "modernism",
+      "africa",
+      "maghreb"
+    ],
+    "bio": "Farid Belkahia was a Moroccan modernist artist and education reformer. He served as the director of the School of Fine Arts of Casablanca from 1962 to 1974, during the period of the Casablanca school modernist movement. As an artist, he worked primarily in painting, metalwork and leatherwork.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is navigating a complex period of political debate and social transition, with significant attention on migration policy and economic resilience. While One Nation has proposed substantial cuts to temporary visas, sparking concern among industry leaders about workforce impacts in healthcare and construction, there is a parallel push for constructive engagement. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. This discourse highlights a growing desire for policy that balances economic needs with social cohesion and ethical responsibility.\n\nOn the scientific front, Australian innovation is making significant strides, particularly in the intersection of space technology and medical care. Local companies in South Australia are leveraging microgravity environments to develop affordable, sovereign access for cancer research, while the Australian Space Agency highlights how space-derived rehabilitation tools are transforming sports medicine and hospital care. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe.\n\nInternationally, the focus remains on the rapid evolution of artificial intelligence and its societal implications. Leaders within the AI industry are increasingly calling for scrutiny and restraint in development, acknowledging the potential risks while emphasizing the need for responsible innovation. Simultaneously, global scientific communities are tackling major challenges, from the breakdown of historical climate links between the Indian and Pacific Oceans to new insights into Alzheimer’s disease and quantum computing. These stories reflect a world that is both facing unprecedented environmental and technological shifts and actively seeking solutions through interdisciplinary research and international cooperation.",
+  "themes": [
+    "Migration & Settlement Strategy",
+    "Space-to-Medicine Innovation",
+    "AI Ethics & Restraint",
+    "Climate Resilience & Ocean Dynamics",
+    "Human Rights & Military Export Controls",
+    "Scientific Collaboration & Funding"
+  ],
+  "headlines": [
+    {
+      "title": "One Nation Reveals Plan to Cut Migration by 750k Over Three Years",
+      "url": "https://www.abc.net.au/news/2026-09-14/politics-live-blog-one-nation-migration-parliament-sept-14/106327416"
+    },
+    {
+      "title": "Regional Australia Calls for National Settlement Strategy",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Crossbench MPs Launch Push to Stop Military Exports in Human Rights Breaches",
+      "url": "https://www.theguardian.com/australia-news"
+    },
+    {
+      "title": "Chorus of Concern Over AI is Growing Louder",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Scientists Find New Layer of Alzheimer’s Hidden in the Genome",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Global Warming Is Breaking a 400-year Climate Link Between Two Oceans",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Local Space Innovation to Unlock Medical Breakthroughs",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/"
+    },
+    {
+      "title": "AI Model AlphaGenome Forecasts Consequences of Altering Human Genome",
+      "url": "https://www.nature.com/news"
+    },
+    {
+      "title": "Scientists Are Building a Microscope Powered by a Quantum Computer",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Steve Irwin’s Family Celebrates 'Superhero' Dad, 20 Years After Shock Death",
+      "url": "https://www.bbc.com/news/world/australia"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Local Space Innovation Unlocks Medical Breakthroughs",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/",
+      "angle": "South Australian companies are securing funding to develop affordable, sovereign access to microgravity environments for cancer research, translating space tech into real-world medical applications."
+    },
+    {
+      "title": "Space Environment Advancing Medical Science",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "angle": "Medical technology developed for space, such as vibrating rehabilitation chairs that stimulate muscle contractions, is now assisting hospitals and sports medicine specialists on Earth."
+    },
+    {
+      "title": "Association with Horizon Europe Unlocks Funding",
+      "url": "https://science.org.au/news-events/news-views",
+      "angle": "New partnerships with Horizon Europe are unlocking significant funding and collaboration opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty."
+    },
+    {
+      "title": "Report Identifies 10 Emerging Tech Solutions for Planetary Health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/",
+      "angle": "A recent report spotlights 10 breakthrough technological innovations that could accelerate global efforts to tackle climate change, restore ecosystems, and build long-term resilience."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "Analysis by Patricia KarvelasMon ... is a 7 minute read. ... <strong>An expert argues the migration debate is fixated on the wrong number, while regional Australia calls for a national settlement strategy</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Federal politics live: One Nation reveals plan to cut migration by 750k over three years - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-14/politics-live-blog-one-nation-migration-parliament-sept-14/106327416",
+      "snippet": "<strong>One Nation will today unveil plans to cut Australia&#x27;s temporary migration program by targeting international students and families of skilled migrants</strong>. Follow live.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE: One Nation reveals migration plan; Trump downplays AI threat; voters lose faith in PM on economy",
+      "url": "https://www.theage.com.au/national/australia-news-live-one-nation-reveals-migration-plan-trump-downplays-ai-threat-voters-lose-faith-in-pm-on-economy-20260914-p60x06.html",
+      "snippet": "Welcome to our rolling live coverage of all the latest news and developments around Australia and the world this Monday, September 14.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News & Headlines from Australia and the World | SBS News",
+      "url": "https://www.sbs.com.au/news",
+      "snippet": "Published: 03/09/2026 · Duration: 31:02 · Open episode menu · View More · Download · Copy link · Open episode menu · Published: 27/08/2026 · Duration: 37:29 · Open episode menu · View More · Download · Copy link · Open episode menu · Published: 20/08/2026 · Duration: 28:00 · Open episode menu · View More · Download · Copy link · Open episode menu · Published: 14/08/2026 ·",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "4 Sept 2026 · The Australian icon was killed in 2006, after a stingray&#x27;s barb pierced his chest during filming. 4 Sept 2026 · 3 Sept 2026 · Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "News | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/news/",
+      "snippet": "This crisis is being fuelled by the flatlining in real terms of Commonwealth […] ... <strong>Minister Tim Ayres will deliver the Science Meets Parliament 2026 National Press Club address</strong>, sharing his vision for how research and innovation can translate ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: good news science breakthrough discovery today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=good+news+science+breakthrough+discovery+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | Space exploration as a catalyst for medical innovations",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1226531/full",
+      "snippet": "Increased urinary calcium from bone resorption coupled with decreased diuresis increases the incidence of renal stones (14). Ultimately, there is still much to be learned about human physiology in this extreme environment. The challenging nature of spaceflight makes it an ideal catalyst for innovation in care delivery for remote terrestrial environments (Table 1).",
+      "source": "brave"
+    },
+    {
+      "title": "Space exploration as a catalyst for medical innovations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395101/",
+      "snippet": "Checking your browser before accessing pmc.ncbi.nlm.nih.gov · Click here if you are not automatically redirected after 5 seconds",
+      "source": "brave"
+    },
+    {
+      "title": "NASA's impact on medical innovation: Breakthrough technologies from space research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003",
+      "snippet": "With AI’s increased involvement ... Notable uses of AI in space medicine include <strong>remote diagnostics, wearable biosensors, astronaut training models, and mental health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Report identifies 10 emerging tech solutions to enhance planetary health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/",
+      "snippet": "In a world deluged by dire environmental news and seemingly short on scalable solutions, a recent report spotlights 10 breakthrough technological innovations that could accelerate global efforts to tackle climate change, restore ecosystems, build long-term resilience, and improve planetary health.",
+      "source": "brave"
+    },
+    {
+      "title": "Local space innovation to unlock medical breakthroughs – SASIC",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/",
+      "snippet": "The two projects – led by local companies Cambrian Defence and Space and ResearchSat – have each secured $150,000 through Round 3 of the South Australian Space Collaboration and Innovation Fund, which supports the rapid transition of space technologies into real‑world applications. ... Cambrian Defence and Space, working with the Centre for Cancer Biology and Blue Dwarf Space, is developing an end‑to‑end service that will give Australian scientists affordable, sovereign access to microgravity environments.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "<strong>AI model AlphaGenome forecasts the consequences of altering every single DNA letter in the human genome</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "5, 2026  <strong>Nearly all women in STEM graduate programs report feeling like impostors, despite strong evidence of success</strong>. This mindset leads many to dismiss their achievements as luck and fear being “found out.” Research links impostorism ...",
+      "source": "brave"
+    },
+    {
+      "title": "WIRED - The Latest in Technology, Science, Culture and Business | WIRED",
+      "url": "https://www.wired.com/",
+      "snippet": "<strong>From new octopus research, to the scientists using human cells to power computers, to a promising new treatment for addiction, cognitive science is getting smarter</strong>. ... The youngs are facing problems that didn’t exist half a generation ago.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Convergence",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Sydney harbour scene where First Nations elders, Asian-Australian scientists, and Pacific workers coexist. The composition merges microgravity medical tools, climate resilience charts, and settlement housing plans into a single symbolic tableau of Australian unity and innovation.",
+      "prompt": "Painterly fine-art on textured canvas, visible impasto brushwork. Unified Sydney harbour at dawn, eucalyptus trees framing the water. First Nations elder in modern casual wear, Asian-Australian scientist holding a glowing microgravity medical device, Pacific worker in 2024 workwear. Background features schematic housing blocks and ocean current maps. Warm copper pigments, Amazigh-inspired biomorphic patterns on the water, dignified, hopeful, no text. Unified Australian scene weaving together these themes: Migration & Settlement Strategy, Space-to-Medicine Innovation, AI Ethics & Restraint, Climate Resilience & Ocean Dynamics, Human Rights & Military Export Controls, Scientific Collaboration & Funding. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 226720581,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/01.png style=flux_klein size=1024x1024 seed=226720581 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Microgravity Medicine in Adelaide",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Microgravity Medicine in Adelaide answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. Local companies in South Australia are leveraging microgravity environments to develop affordable, sovereign access for cancer research, while the Australian Space Agency highlights how space-derived rehabilitation tools are transforming sports medicine and hospital care. In the artwork, that story represents microgravity cancer cells.",
+      "prompt": "Painterly fine-art, oil on rough linen, thick expressive strokes. South Australian coastal laboratory interior, natural light. Diverse Australian scientists in 1998 lab coats and casual wear. Central figure holds a translucent, henna-like biomorphic emblem representing microgravity cancer cells. Background shows red desert landscape through window. Copper and earth pigments, Amazigh geometric signs on equipment, focused, scientific wonder, no digital effects. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1967323892,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/02.png style=flux_klein size=1024x1024 seed=1967323892 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Rehabilitation in the Bush",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "Rehabilitation in the Bush answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, watercolor and ink on paper, soft washes. Remote Australian outback clinic, eucalyptus scrub outside. Aboriginal Australian patients in 2012 athletic wear seated in vibrating rehabilitation chairs. Medical staff assist gently. Biomorphic henna patterns float in the air as symbolic energy. Earth tones, ochre, sage green, dignified, healing, no sacred imagery, no text, visible paper grain.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 380192240,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/03.png style=flux_klein size=1024x1024 seed=380192240 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Ocean Dynamics and Climate Resilience",
+      "tone": "news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Scientists and community members on a coastal cliff observe shifting ocean currents, reflecting the breakdown of historical climate links between the Indian and Pacific Oceans. The scene captures the urgency of climate resilience and interdisciplinary research in a local Australian context.",
+      "prompt": "Painterly fine-art, oil on canvas, dramatic chiaroscuro. Australian coastal cliff, 1978 fashion. Scientists in period-appropriate field gear and locals observe churning waters. Schematic maps of ocean currents projected on the rock face. Amazigh-inspired biomorphic waves in the water. Dark blues, copper highlights, tense but hopeful, no text, no logos, visible brush texture, emotional weight.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1208125127,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/04.png style=flux_klein size=1024x1024 seed=1208125127 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Settlement and Solidarity",
+      "tone": "good_news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Settlement and Solidarity answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, acrylic on canvas, vibrant flat colors. Australian suburban street, 2005 fashion. Multicultural group: Anglo-Celtic, Asian-Australian, Mediterranean, Pacific figures. They collaborate on a large community housing plan. Henna-like biomorphic emblems decorate the street. Warm sunlight, copper tones, Amazigh geometric patterns on the ground, solidarity, hope, no text, no caricature.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 978575331,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/05.png style=flux_klein size=1024x1024 seed=978575331 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Cancer Cure in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Cancer Cure in the Outback answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art on canvas, Moroccan modernist style. Aboriginal Australian scientists in 1955 bush attire stand in red desert, holding glowing biomorphic henna emblems. Copper energy radiates, Amazigh signs float. Eucalyptus scrub, warm pigment, visible brushstrokes, no digital. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1661340909,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/06.png style=flux_klein size=1024x1024 seed=1661340909 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Rehabilitation in the Reef",
+      "tone": "good_news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Rehabilitation in the Reef answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Moroccan modernist. Pacific-Australian athlete in 1962 sportswear sits in a vibrating chair on a coral reef edge. Copper light, henna-like biomorphic patterns, Amazigh signs. Coastal cliffs, warm pigment, expressive brushwork, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 718022988,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/07.png style=flux_klein size=1024x1024 seed=718022988 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Horizon Europe Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1971",
+      "emailHero": false,
+      "description": "Horizon Europe Solidarity answers a strand of today’s news with a focused visual reading. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Moroccan modernist. Multicultural Australian scientists in 1971 mod-fashion stand in Melbourne park, sharing a glowing map. Copper energy, henna biomorphs, Amazigh signs. Eucalyptus trees, warm pigment, textured canvas, no digital camera. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 276578406,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/08.png style=flux_klein size=1024x1024 seed=276578406 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "AI Restraint in the Bush",
+      "tone": "news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "AI Restraint in the Bush takes on the day’s AI Ethics & Restraint thread, translating the news into a single visual moment. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of AI Ethics & Restraint in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Moroccan modernist. Aboriginal elder and tech leader in 1985 casual wear sit in red desert, facing a glowing AI orb. Copper energy, henna emblems, Amazigh signs. Eucalyptus scrub, warm pigment, visible brushstrokes, no gore. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 998717612,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/09.png style=flux_klein size=1024x1024 seed=998717612 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Climate Resilience in the City",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Climate Resilience in the City takes on the day’s Climate Resilience & Ocean Dynamics thread, translating the news into a single visual moment. Regional Australians are calling for a national settlement strategy that addresses housing and community integration, while crossbench MPs are advocating for stricter controls on military exports to uphold human rights. These advancements underscore a national commitment to using cutting-edge technology to improve human health and resilience, positioning Australia as a key player in global scientific collaboration, including new funding opportunities through Horizon Europe. The composition keeps the human stakes of Climate Resilience & Ocean Dynamics in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Moroccan modernist. Diverse Sydney crowd in 2015 streetwear gathers in harbour, holding glowing tech devices. Copper energy, henna biomorphs, Amazigh signs. Coastal cliffs, warm pigment, expressive brushwork, no photorealism. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1396883062,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-14/10.png style=flux_klein size=1024x1024 seed=1396883062 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
