@@ -1,0 +1,384 @@
+{
+  "date": "2026-09-15",
+  "artist": {
+    "id": "torres_garcia",
+    "name": "Joaquín Torres-García",
+    "era": "20th c. UY",
+    "renderMode": "painterly",
+    "aspectRatio": "1:1",
+    "tags": [
+      "constructivism",
+      "latin-america"
+    ],
+    "bio": "Joaquín Torres-García (20th c. UY). Universal Constructivism: grid of symbolic pictographs, earthy Montevideo modernism, toy-like cosmic order without readable words. Painterly fine-art visual language. Associated tags: constructivism, latin-america.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is navigating a complex period of political debate and environmental adaptation, yet the nation's scientific and medical sectors are demonstrating significant resilience and innovation. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. The Australian Academy of Science has secured new partnerships with Horizon Europe, unlocking funding that will boost innovation and resilience amid global uncertainty. Additionally, local companies in South Australia are leveraging space technology to develop affordable microgravity environments for cancer research, highlighting a constructive approach to scientific advancement that prioritizes human health and sovereign capability.\n\nOn the environmental front, communities in Queensland are managing the influx of flying foxes in Mount Isa, a situation that highlights the delicate balance between wildlife conservation and urban living. Residents are working with experts to find humane solutions that protect both the protected species and local property, showcasing community resilience and a commitment to ecological stewardship. Meanwhile, Australia’s leadership in HIV prevention is being scrutinized to ensure no group is left behind, reflecting a national dedication to equitable healthcare outcomes and the continuous improvement of public health strategies.\n\nInternationally, the focus on AI regulation remains a dominant theme, with contrasting views from global leaders. While some argue for strict guardrails to protect humanity, others dismiss the need for new rules, emphasizing existing safeguards. This global debate underscores the importance of international cooperation in managing technological risks. In the realm of medical science, new discoveries regarding the link between vitamin D levels and post-surgical pain, as well as the role of hidden brain wiring in cognitive protection, offer hope for improved patient care and quality of life. These advancements, combined with the successful release of captive crocodiles into the wild in Bangladesh, illustrate the growing synergy between scientific inquiry and environmental conservation, pointing toward a future where technology and nature coexist harmoniously.",
+  "themes": [
+    "Australian Space Medicine",
+    "Community Wildlife Management",
+    "Global AI Regulation",
+    "Public Health Equity",
+    "International Scientific Partnerships",
+    "Environmental Conservation Wins"
+  ],
+  "headlines": [
+    {
+      "title": "Cyber Chief's AI Warning Amid Global Slowdown Push",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Flying Fox Influx Overruns Mount Isa Suburb",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Australian Academy of Science Association with Horizon Europe",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "Local Space Innovation to Unlock Medical Breakthroughs",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/"
+    },
+    {
+      "title": "Australia's Major Health Win Faces Its Next Challenge",
+      "url": "https://www.sbs.com.au/news"
+    },
+    {
+      "title": "Scientists Discover Strange Link Between Low Vitamin D and Pain",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Hidden Brain Wiring May Help Keep the Mind Sharp",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Crocodiles Are Famous for Finding Their Way Home. These Ones Didn’t",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Space Environment Advancing Medical Science",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science"
+    },
+    {
+      "title": "Ideas to Impact Puts Australian R&D Stories in the Spotlight",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australian Academy of Science Unlocks Horizon Europe Funding",
+      "url": "https://science.org.au/news-events/news-views",
+      "angle": "New partnerships will boost Australia's innovation and resilience, providing significant funding opportunities for research and development."
+    },
+    {
+      "title": "Local Space Innovation Unlocks Medical Breakthroughs in SA",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/",
+      "angle": "South Australian companies are securing funding to develop affordable, sovereign access to microgravity environments for cancer research."
+    },
+    {
+      "title": "Australia's Major Health Win in HIV Prevention",
+      "url": "https://www.sbs.com.au/news",
+      "angle": "Australia remains world-leading in HIV prevention and treatment, with ongoing efforts to ensure equitable access for all groups."
+    },
+    {
+      "title": "Captive Crocodiles Successfully Released into the Wild",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "In Bangladesh, captive-raised crocodiles settled into the wild rather than returning to their facility, marking a success for conservation efforts."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "... Article is a 2 minute read. ... <strong>Indonesian police investigate a suspected murder-suicide after the bodies of an Australian man and his two children were found in a home in Bali</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "One Nation&#x27;s treasury spokesperson Barnaby Joyce says his party is prepared to put the will of the people ahead of the opinions of economists, as he faces claims on ABC&#x27;s National Forum that net negative migration would &quot;tank&quot; Australia&#x27;s economy. Topic:ImmigrationMon 14 Sep 2026 at 11:01pmMon 14 Sep 2026 at 11:01pmMon 14 Sep 2026 at 11:01pm · The Local Government Inspector launches further investigation into problems at the City of Perth. Topic:Local GovernmentTue 15 Sep 2026 at 12:08amTue 15 Sep 2026 at 12:08amTue 15 Sep 2026 at 12:08am",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE UPDATES:",
+      "url": "https://www.afr.com/politics/federal/australia-news-live-updates-trump-attacks-dario-amodei-oil-jumps-4pc-20260915-p60xbl",
+      "snippet": "Updated Sep 15, 2026 – 6.55am, first published at 1.05am · 21 mins ago — 6.39AM · Trump declares himself ‘the hoax buster’, rails against AI ‘slowdown’ · 3 hrs ago — 4.50AM · Donald Trump Jr’s wife says Russians paid for parties · 4 hrs ago — 3.32AM · Trump’s social media posting spree · 4 hrs ago — 3.25AM · Trump says US should be reimbursed for opening Hormuz · 4 hrs ago — 3.09AM ·",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News & Headlines from Australia and the World | SBS News",
+      "url": "https://www.sbs.com.au/news",
+      "snippet": "Published: 08/09/2026 · Duration: 05:03 · Open episode menu · View More · Download · Copy link · Open episode menu · More · SKIP ADVERTISEMENT · Get the latest national and global news from Australia’s only world news service. Available in short or full-length on SBS and SBS On Demand. Watch World News Program · Watch News in 15 min.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Science Innovations | Australian Science Innovations",
+      "url": "https://asi.edu.au/news/",
+      "snippet": "Australian Science Innovations proudly delivers exceptional education and mentorship programs. Read about the positive impact on our participants, their schools and our community.",
+      "source": "brave"
+    },
+    {
+      "title": "News | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/news/",
+      "snippet": "This crisis is being fuelled by the flatlining in real terms of Commonwealth […] ... <strong>Minister Tim Ayres will deliver the Science Meets Parliament 2026 National Press Club address</strong>, sharing his vision for how research and innovation can translate ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: good news science breakthrough discovery today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=good+news+science+breakthrough+discovery+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | Space exploration as a catalyst for medical innovations",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1226531/full",
+      "snippet": "Increased urinary calcium from bone resorption coupled with decreased diuresis increases the incidence of renal stones (14). Ultimately, there is still much to be learned about human physiology in this extreme environment. The challenging nature of spaceflight makes it an ideal catalyst for innovation in care delivery for remote terrestrial environments (Table 1).",
+      "source": "brave"
+    },
+    {
+      "title": "NASA's impact on medical innovation: Breakthrough technologies from space research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003",
+      "snippet": "With AI’s increased involvement ... Notable uses of AI in space medicine include <strong>remote diagnostics, wearable biosensors, astronaut training models, and mental health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Space exploration as a catalyst for medical innovations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395101/",
+      "snippet": "Checking your browser before accessing pmc.ncbi.nlm.nih.gov · Click here if you are not automatically redirected after 5 seconds",
+      "source": "brave"
+    },
+    {
+      "title": "Local space innovation to unlock medical breakthroughs – SASIC",
+      "url": "https://sasic.sa.gov.au/news/local-space-innovation-to-unlock-medical-breakthroughs/",
+      "snippet": "The two projects – led by local companies Cambrian Defence and Space and ResearchSat – have each secured $150,000 through Round 3 of the South Australian Space Collaboration and Innovation Fund, which supports the rapid transition of space technologies into real‑world applications. ... Cambrian Defence and Space, working with the Centre for Cancer Biology and Blue Dwarf Space, is developing an end‑to‑end service that will give Australian scientists affordable, sovereign access to microgravity environments.",
+      "source": "brave"
+    },
+    {
+      "title": "Stem cells in space: microgravity effects on stem cell fate and implications for regenerative medicine | npj Microgravity",
+      "url": "https://www.nature.com/articles/s41526-025-00547-z",
+      "snippet": "Overall, microgravity research has progressed from fundamental biology to early translational applications, with an expanding potential for regenerative medicine. This field is positioned to develop innovative therapeutic strategies by integrating current findings with biomanufacturing technologies, omics-driven analyses, and spaceflight platforms.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world news science culture human achievement today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+news+science+culture+human+achievement+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "Scientists Discover Strange Link Between Low Vitamin D and Pain · Sep. 14, 2026  Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "Latest science news and analysis from the world&#x27;s leading research journal",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Horizons",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Sydney Harbour scene weaving together space medicine, wildlife, and health equity. Figures in modern Australian attire observe symbolic constellations and flying foxes above the water, representing the Academy's new Horizon Europe funding and community resilience in managing local ecosystems.",
+      "prompt": "Painterly fine-art canvas of Sydney Harbour at dawn, grid of symbolic pictographs forming cosmic order. Diverse Australian figures in 2024 smart-casual wear stand on rocks, watching stylized flying foxes and satellite dishes. Earthy Montevideo modernism, visible brushwork, warm pigment, toy-like cosmic harmony, no text. Unified Australian scene weaving together these themes: Australian Space Medicine, Community Wildlife Management, Global AI Regulation, Public Health Equity, International Scientific Partnerships, Environmental Conservation Wins.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1710135335,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/01.png style=flux_klein size=1024x1024 seed=1710135335 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Microgravity in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "South Australian researchers in late-90s lab coats and casual wear work beside red desert rocks. The scene visualizes local companies developing affordable microgravity environments for cancer research, highlighting sovereign capability and scientific innovation in the Australian interior.",
+      "prompt": "Painterly oil on canvas, red desert scrub in South Australia. Two researchers in 1998 fashion, khaki pants and lab coats, examine a glowing symbolic sphere. Universal Constructivism grid, earthy tones, thick impasto brushwork, symbolic medical icons floating in cosmic toy-like order, no readable words. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 482045276,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/02.png style=flux_klein size=1024x1024 seed=482045276 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Gums and Grace",
+      "tone": "good_news",
+      "fashionYear": "1972",
+      "emailHero": false,
+      "description": "Queensland community members in 1970s fashion work with experts to manage flying foxes in Mount Isa. The artwork depicts humane wildlife conservation, showing residents protecting both protected species and property with dignity, reflecting ecological stewardship and community resilience.",
+      "prompt": "Painterly gouache, eucalyptus forest in Queensland. Aboriginal Australian and Anglo-Celtic figures in 1972 denim and flannel, gently guiding stylized flying foxes. Grid of symbolic pictographs, earthy Montevideo modernism, soft yet defined brushwork, warm pigment, no gore, no text.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 265091427,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/03.png style=flux_klein size=1024x1024 seed=265091427 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Equity in the Reef",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Coastal scene near Darwin with figures in 1950s attire. The composition symbolizes Australia's world-leading HIV prevention efforts, emphasizing equitable healthcare access for all groups. The visual metaphor uses balanced, protective forms to represent national dedication to public health outcomes.",
+      "prompt": "Painterly tempera, coastal cliffs near Darwin. Figures in 1955 modest dresses and suits, standing in a protective circle. Universal Constructivism grid, symbolic health icons, earthy Montevideo modernism, visible canvas texture, warm pigment, toy-like cosmic balance, no readable text. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 53617160,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/04.png style=flux_klein size=1024x1024 seed=53617160 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Crocodile Release",
+      "tone": "good_news",
+      "fashionYear": "1932",
+      "emailHero": false,
+      "description": "A wetland scene representing the successful release of captive crocodiles in Bangladesh, translated to an Australian frame. Figures in 1930s attire observe the animals settling into the wild, marking a conservation win and the synergy between scientific inquiry and environmental protection.",
+      "prompt": "Painterly oil, mangrove wetland. Figures in 1932 tweed and wool, watching stylized crocodiles enter water. Grid of symbolic pictographs, earthy Montevideo modernism, thick brushwork, warm pigment, toy-like cosmic order, no gore, no text, no logos. Australian landscape or city setting with Australian people.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1168685999,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/05.png style=flux_klein size=1024x1024 seed=1168685999 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Southern Cross Signals",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Southern Cross Signals answers a strand of today’s news with a focused visual reading. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. These advancements, combined with the successful release of captive crocodiles into the wild in Bangladesh, illustrate the growing synergy between scientific inquiry and environmental conservation, pointing toward a future where technology and nature coexist harmoniously. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, thick impasto oil on canvas. Constructivist grid of symbolic pictographs: stars, microscopes, and geometric shapes. Earthy Montevideo modernism palette. 1968 Australian fashion: men in tweed suits, women in long wool skirts. Adelaide skyline backdrop. Toy-like cosmic order. No text.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1812968445,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/06.png style=flux_klein size=1024x1024 seed=1812968445 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Reef Resilience",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Reef Resilience answers a strand of today’s news with a focused visual reading. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. Additionally, local companies in South Australia are leveraging space technology to develop affordable microgravity environments for cancer research, highlighting a constructive approach to scientific advancement that prioritizes human health and sovereign capability. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, visible brushstrokes. Constructivist grid of human figures in Brisbane park. 1985 fashion: denim jackets, high-waisted jeans, colorful accessories. Diverse Australian faces: Aboriginal, Asian, Mediterranean. Symbolic medical crosses and hearts. Earthy pigments. No readable words. No gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 26320842,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/07.png style=flux_klein size=1024x1024 seed=26320842 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Isa Harmony",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Isa Harmony answers a strand of today’s news with a focused visual reading. On the environmental front, communities in Queensland are managing the influx of flying foxes in Mount Isa, a situation that highlights the delicate balance between wildlife conservation and urban living. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, matte tempera texture. Constructivist grid of flying foxes and eucalyptus trees. 1995 fashion: flannel shirts, cargo pants, baseball caps. Aboriginal and Anglo-Celtic figures in Mount Isa. Earthy red desert tones. Symbolic balance icons. No text. No devastation. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 740355672,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/08.png style=flux_klein size=1024x1024 seed=740355672 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Digital Guardrails",
+      "tone": "news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Digital Guardrails answers a strand of today’s news with a focused visual reading. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. Additionally, local companies in South Australia are leveraging space technology to develop affordable microgravity environments for cancer research, highlighting a constructive approach to scientific advancement that prioritizes human health and sovereign capability. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, smooth glaze. Constructivist grid of circuit patterns and human silhouettes. 2010 fashion: slim blazers, smart-casual. Sydney Harbour backdrop. Earthy modernism palette. Symbolic scales of justice. No readable code. No partisan caricature. No digital CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 825038299,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/09.png style=flux_klein size=1024x1024 seed=825038299 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Wild Return",
+      "tone": "good_news",
+      "fashionYear": "2021",
+      "emailHero": false,
+      "description": "Wild Return answers a strand of today’s news with a focused visual reading. While political discourse centers on migration and AI regulation, Australian researchers are making tangible strides in space medicine and public health. These advancements, combined with the successful release of captive crocodiles into the wild in Bangladesh, illustrate the growing synergy between scientific inquiry and environmental conservation, pointing toward a future where technology and nature coexist harmoniously. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, textured oil. Constructivist grid of crocodile symbols and water ripples. 2021 fashion: sustainable casual wear, earth tones. Australian observers in a lush riverbank. Earthy pigments. Toy-like order. No text. No gore. No logos.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1803109358,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-15/10.png style=flux_klein size=1024x1024 seed=1803109358 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
