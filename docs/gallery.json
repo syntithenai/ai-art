@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-16",
+      "artist": {
+        "id": "xul_solar",
+        "name": "Xul Solar",
+        "era": "20th c. AR",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "surrealism",
+          "latin-america"
+        ],
+        "bio": "Xul Solar was the adopted name of Oscar Agustín Alejandro Schulz Solari, an Argentine painter, sculptor, writer, and inventor of imaginary languages.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/XulSolar.JPG/330px-XulSolar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Australian Cultural Heritage",
+        "Indigenous Deep Time Science",
+        "Climate Science Breakthroughs",
+        "Neuroscience and Aging",
+        "Human Endurance and Resilience",
+        "Global Scientific Discovery",
+        "Technological Innovation"
+      ],
+      "summary": "Australian culture and heritage are taking centre stage with the 50th anniversary of the Australian Performing Arts Collection, showcasing iconic items like Peter Allen’s maracas and a custom vest for Archie Roach. This celebration of artistic legacy runs parallel to a profound scientific discovery at Cloggs Cave, where microscopic plant remains have revealed 25,000 years of GunaiKurnai ritual practices, offering a deep connection to the land and ancestral knowledge. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science.\n\nOn the global scientific front, a surprising discovery regarding the Hunga Tonga eruption is reshaping our understanding of atmospheric chemistry, as the volcanic cloud appears to be destroying methane, a potent greenhouse gas. This breakthrough offers new avenues for slowing climate change and demonstrates the unexpected ways natural events can influence global systems. Additionally, researchers have identified a major brain shift occurring between ages 50 and 75, providing crucial insights into the biological mechanisms behind neurodegenerative diseases like Alzheimer’s, which could lead to new preventive strategies and treatments.\n\nIn the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. Internationally, the discovery of the first-ever Denisovan arm bone in China expands our understanding of human evolution, while the World Robot Conference in Beijing highlights the rapid advancement of robotics and its potential to transform daily life. These stories collectively emphasize the power of human ingenuity, scientific curiosity, and the enduring spirit of community and care.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Great Australian Mosaic",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Great Australian Mosaic is today’s cover piece — one Australian scene that weaves together Australian Cultural Heritage, Indigenous Deep Time Science, Climate Science Breakthroughs, Neuroscience and Aging, Human Endurance and Resilience, Global Scientific Discovery, and Technological Innovation. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Xul Solar style painterly watercolor, Sydney harbour at twilight, mystical city architecture merging with cosmic flags. A group of contemporary Australian figures in 2024 casual wear: Aboriginal elders, performers holding maracas, scientists with microscopes. Red earth ground, eucalyptus trees, soft pigment washes, esoteric modernism, no text, playful, detailed brushwork. Unified Australian scene weaving together these themes: Australian Cultural Heritage, Indigenous Deep Time Science, Climate Science Breakthroughs, Neuroscience and Aging, Human Endurance and Resilience, Global Scientific Discovery, Technological Innovation. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 2,
+          "title": "Cloggs Cave Deep Time",
+          "tone": "good_news",
+          "fashionYear": "1965",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Cloggs Cave Deep Time takes on the day’s Indigenous Deep Time Science thread, translating the news into a single visual moment. This celebration of artistic legacy runs parallel to a profound scientific discovery at Cloggs Cave, where microscopic plant remains have revealed 25,000 years of GunaiKurnai ritual practices, offering a deep connection to the land and ancestral knowledge. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. The composition keeps the human stakes of Indigenous Deep Time Science in view without turning the news into spectacle.",
+          "prompt": "Xul Solar style fine-art oil, Victorian eucalyptus scrub, mystical cave entrance. An Aboriginal Australian elder and a scientist in 1965 flannel shirts and wide-brim hats examine glowing microscopic plant cells. Earthy ochres, deep greens, soft canvas texture, esoteric symbols floating, dignified, no sacred imagery, detailed pigment. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Methane Cloud Wonder",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Methane Cloud Wonder answers a strand of today’s news with a focused visual reading. On the global scientific front, a surprising discovery regarding the Hunga Tonga eruption is reshaping our understanding of atmospheric chemistry, as the volcanic cloud appears to be destroying methane, a potent greenhouse gas. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Xul Solar style watercolor, Tasmanian coastal cliffs, dramatic sky with a dissolving volcanic cloud. A diverse Australian crowd in 1992 jeans and windbreakers looks up in wonder. Cosmic flags in the wind, soft blue and grey pigments, mystical architecture on the cliff, playful esoteric modernism, no text, detailed brushwork."
+        },
+        {
+          "index": 4,
+          "title": "Midlife Brain Shift",
+          "tone": "good_news",
+          "fashionYear": "1935",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Midlife Brain Shift answers a strand of today’s news with a focused visual reading. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Xul Solar style painterly, Melbourne suburban street, 1935 architecture. A woman in 1930s bobbed hair and long dress stands before a window, looking at a glowing, mystical brain diagram. Warm interior light, soft oil pigments, esoteric symbols, dignified, no text, detailed canvas texture, playful modernism. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 5,
+          "title": "Endurance and Resilience",
+          "tone": "news",
+          "fashionYear": "1912",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Endurance and Resilience takes on the day’s Human Endurance and Resilience thread, translating the news into a single visual moment. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of Human Endurance and Resilience in view without turning the news into spectacle.",
+          "prompt": "Xul Solar style fine-art, red desert outback, 1912 station architecture. A young Australian boy in 1910s work clothes and hat walks with a community group. Dusty ochres, soft watercolor washes, mystical sun, esoteric patterns in the sand, dignified, no text, detailed pigment, playful esoteric modernism. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 6,
+          "title": "Harbour Sound Memory",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Harbour Sound Memory answers a strand of today’s news with a focused visual reading. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painted in Xul Solar style, watercolor and oil on canvas, a figure in 1978 leisure wear holds maracas on a Sydney harbour pier. Mystical esoteric architecture rises behind. Playful cosmic flags flutter. Soft brushwork, vibrant pigment, no text, Australian coastal setting, fine-art texture."
+        },
+        {
+          "index": 7,
+          "title": "Cave Wisdom",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Cave Wisdom answers a strand of today’s news with a focused visual reading. This celebration of artistic legacy runs parallel to a profound scientific discovery at Cloggs Cave, where microscopic plant remains have revealed 25,000 years of GunaiKurnai ritual practices, offering a deep connection to the land and ancestral knowledge. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Xul Solar visionary painting, Aboriginal Australian figure in 1955 attire before a mystical cave. Floating microscopic plant remains glow. Watercolor cosmic patterns. Esoteric modernism, no text. Australian bushland setting, dignified presence, fine-art pigment, soft brushwork, no sacred imagery."
+        },
+        {
+          "index": 8,
+          "title": "Atmospheric Balance",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Atmospheric Balance answers a strand of today’s news with a focused visual reading. On the global scientific front, a surprising discovery regarding the Hunga Tonga eruption is reshaping our understanding of atmospheric chemistry, as the volcanic cloud appears to be destroying methane, a potent greenhouse gas. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly Xul Solar style, scientist in 1998 field gear watches a volcanic cloud over an Australian reef. The cloud dissolves into cosmic patterns. Watercolor esoteric modernism. No text. Mystical architecture in distance. Fine-art canvas, vibrant pigment, Australian coastal setting, no digital look."
+        },
+        {
+          "index": 9,
+          "title": "Neural Garden",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Neural Garden answers a strand of today’s news with a focused visual reading. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Xul Solar fine-art, mature Australian woman in 2015 casuals in a suburban garden. Floating neural structures bloom like flowers. Watercolor cosmic flags. Esoteric modernism. No text. Mystical city architecture in background. Soft brushwork, pigment on canvas, dignified, Australian setting, no digital."
+        },
+        {
+          "index": 10,
+          "title": "Outback Resilience",
+          "tone": "news",
+          "fashionYear": "1925",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Outback Resilience answers a strand of today’s news with a focused visual reading. In the realm of human achievement and resilience, an Australian woman’s victory in a grueling endurance event in China has sparked conversations about the physical and mental fortitude required in sports, while a rural New South Wales boy completed a 16-day mission for paediatric health, showcasing community support and dedication. These stories highlight a nation reflecting on its creative and cultural roots while engaging with the deep past through modern science. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly Xul Solar, rural NSW boy in 1925 country-town clothing walks through red desert. Mystical esoteric architecture rises. Watercolor cosmic flags. Playful modernism. No text. Dignified, resilient figure. Fine-art pigment, soft brushwork, Australian outback setting, no digital camera. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "artist": {
         "id": "torres_garcia",
