@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-17",
+      "artist": {
+        "id": "antonio_berni",
+        "name": "Antonio Berni",
+        "era": "20th c. AR",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "social-realism",
+          "latin-america"
+        ],
+        "bio": "Delesio Antonio Berni was an Argentine figurative artist. He is associated with the movement known as Nuevo Realismo, an Argentine extension of social realism. His work, including a series of Juanito Laguna collages depicting poverty and the effects of industrialization in Buenos Aires, has been exhibited around the world.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antonio_Berni_by_Anatole_Saderman%2C_1971.jpg/330px-Antonio_Berni_by_Anatole_Saderman%2C_1971.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Renewable Energy Expansion",
+        "Water Desalination Innovation",
+        "Deep-Time Geology",
+        "Community Resilience",
+        "Health & Longevity Science",
+        "AI Ethics & Regulation",
+        "Cultural Solidarity"
+      ],
+      "summary": "Australia is at the forefront of a significant energy transition, with its largest wind farm set to double in capacity to meet the surging demand from data centres. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past.\n\nOn the global stage, scientific breakthroughs are delivering tangible benefits for human health and the environment. Researchers have developed a solar-powered desalination system that converts seawater into fresh water without producing harmful brine, a critical innovation for water scarcity. In medicine, new insights into the immune system’s role in rapid aging and the specific benefits of whole grains for heart health are empowering individuals to take proactive steps toward longevity. These discoveries underscore a growing trend of science serving as a tool for resilience and care.\n\nCommunity resilience remains a powerful theme, from the collective recovery efforts following Cyclone Alfred in Australia to the profound solidarity displayed by volunteers in Türkiye. These stories remind us that while challenges like climate events and political shifts present difficulties, the human capacity for connection, mutual aid, and constructive problem-solving continues to thrive. As the world navigates complex issues like AI regulation and migration, the focus remains on how communities can support one another and how technology can be guided by public interest and ethical responsibility.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "Harvest of Tides and Winds",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "Harvest of Tides and Winds is today’s cover piece — one Australian scene that weaves together Renewable Energy Expansion, Water Desalination Innovation, Deep-Time Geology, Community Resilience, Health & Longevity Science, AI Ethics & Regulation, and Cultural Solidarity. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. Researchers have developed a solar-powered desalination system that converts seawater into fresh water without producing harmful brine, a critical innovation for water scarcity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Argentine New Realism style. Sydney harbour, 2024 fashion. Unified scene: solar desalination units, giant wind turbines, diverse Australians in modern casual wear. Textured social collage-paint, dignified humanity. No logos. Pigment on canvas, visible brushwork, warm coastal light. No digital cameras. Unified Australian scene weaving together these themes: Renewable Energy Expansion, Water Desalination Innovation, Deep-Time Geology, Community Resilience, Health & Longevity Science, AI Ethics & Regulation, Cultural Solidarity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Salt from Sea",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Salt from Sea takes on the day’s Water Desalination Innovation thread, translating the news into a single visual moment. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. Researchers have developed a solar-powered desalination system that converts seawater into fresh water without producing harmful brine, a critical innovation for water scarcity. The composition keeps the human stakes of Water Desalination Innovation in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Argentine New Realism. Adelaide coast, 1998 fashion. Scientists in field jackets observing solar desalination unit. Textured social collage-paint, dignified. No brine. Pigment on canvas, visible brushwork. No digital cameras. No logos. Warm light. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Gum Tree Resilience",
+          "tone": "good_news",
+          "fashionYear": "1972",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Gum Tree Resilience takes on the day’s Community Resilience thread, translating the news into a single visual moment. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Argentine New Realism. Australian bushland, 1972 fashion. Aboriginal and Torres Strait Islander figures rebuilding camp. Textured social collage-paint, dignity. No sacred imagery. Pigment on canvas, visible brushwork. No digital cameras. No logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Grain for Heart",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Grain for Heart answers a strand of today’s news with a focused visual reading. In medicine, new insights into the immune system’s role in rapid aging and the specific benefits of whole grains for heart health are empowering individuals to take proactive steps toward longevity. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Argentine New Realism. Melbourne kitchen, 1955 fashion. Family eating whole grains. Textured social collage-paint, dignity. No medical charts. Pigment on canvas, visible brushwork. No digital cameras. No logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Deep Time Reefs",
+          "tone": "news",
+          "fashionYear": "1928",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Deep Time Reefs takes on the day’s Deep-Time Geology thread, translating the news into a single visual moment. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. The composition keeps the human stakes of Deep-Time Geology in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Argentine New Realism. South Australian coast, 1928 fashion. Scientists examining ancient reefs. Textured social collage-paint, dignity. No volcanoes. Pigment on canvas, visible brushwork. No digital cameras. No logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "The Quantum Bridge",
+          "tone": "good_news",
+          "fashionYear": "1965",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Quantum Bridge takes on the day’s Cultural Solidarity thread, translating the news into a single visual moment. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. The composition keeps the human stakes of Cultural Solidarity in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas. 1965 Sydney harbour office, multicultural Australian scientists in period suits. Glowing abstract quantum beams connecting desks. Visible brushstrokes, rich pigment. Argentine New Realism dignity. No digital effects. Warm light. Detailed period architecture. Social narrative focus. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Grain and Heart",
+          "tone": "good_news",
+          "fashionYear": "1942",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Grain and Heart answers a strand of today’s news with a focused visual reading. In medicine, new insights into the immune system’s role in rapid aging and the specific benefits of whole grains for heart health are empowering individuals to take proactive steps toward longevity. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil. 1942 Melbourne kitchen, Anglo-Celtic family in wartime dresses. Bowls of whole grains, bread. Warm, dignified social realism. Visible impasto, earthy palette. Argentine New Realism style. No digital. Period furniture. Human connection. Textured canvas. No text. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 8,
+          "title": "Rebuilding Alfred",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Rebuilding Alfred answers a strand of today’s news with a focused visual reading. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. Community resilience remains a powerful theme, from the collective recovery efforts following Cyclone Alfred in Australia to the profound solidarity displayed by volunteers in Türkiye. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil. 1985 Tasmanian street, diverse Australian volunteers in casual 80s wear. Helping neighbours rebuild. Dignified, resilient mood. Visible brushwork, muted colors. Argentine New Realism. No digital. Period vehicles. Social collage-paint. Human dignity. No gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Ancient Volcano Reefs",
+          "tone": "news",
+          "fashionYear": "1915",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Ancient Volcano Reefs answers a strand of today’s news with a focused visual reading. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil. 1915 South Australian coast, Aboriginal and Anglo-Celtic geologists in period field gear. Examining rocky reefs. Mysterious, scientific mood. Visible impasto, cool palette. Argentine New Realism. No digital. Period boats. Textured canvas. No text."
+        },
+        {
+          "index": 10,
+          "title": "Ethics in Code",
+          "tone": "news",
+          "fashionYear": "2015",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Ethics in Code takes on the day’s AI Ethics & Regulation thread, translating the news into a single visual moment. Simultaneously, Australian scientists are making waves in deep-time geology, investigating unusual reefs off the South Australian coastline that may be evidence of an ancient underwater volcano, offering a glimpse into the planet's dynamic past. This expansion highlights the nation's ingenuity in balancing technological growth with renewable infrastructure, while also sparking important community discussions about resource management and housing. The composition keeps the human stakes of AI Ethics & Regulation in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil. 2015 Melbourne tech space, diverse young Australians in modern casual wear. Discussing AI ethics. Serious, constructive mood. Visible brushstrokes, urban palette. Argentine New Realism. No digital. Period architecture. Social narrative. No logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-09-16",
       "artist": {
         "id": "xul_solar",
