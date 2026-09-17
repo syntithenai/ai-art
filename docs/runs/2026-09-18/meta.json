@@ -1,0 +1,389 @@
+{
+  "date": "2026-09-18",
+  "artist": {
+    "id": "obregon",
+    "name": "Alejandro Obregón",
+    "era": "20th c. CO",
+    "renderMode": "painterly",
+    "aspectRatio": "4:3",
+    "tags": [
+      "modernism",
+      "latin-america"
+    ],
+    "bio": "Alejandro Obregón (20th c. CO). Colombian modernist painting: Caribbean light, condors and still-lifes, expressive color, Barranquilla modern energy. Painterly fine-art visual language. Associated tags: modernism, latin-america.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. A comprehensive study analyzing 13 years of crash data has revealed that vehicle height significantly impacts pedestrian safety, particularly for women and children, prompting calls for updated road safety standards. Simultaneously, the creative sector is showcasing human agency through the work of Perth artist Andrew Grero, who uses vibrant art to translate the experience of living with young-onset Parkinson’s disease, aiming to foster understanding and support within the community. These stories reflect a broader national focus on protecting vulnerable populations and celebrating the power of personal narrative in health advocacy.\n\nOn the international stage, scientific achievement continues to drive progress in both space and materials science. In a remarkable feat of quantum physics, researchers successfully teleported an image across 100 quantum channels simultaneously, a breakthrough that could revolutionize secure communication and data processing. In the realm of planetary science, the BepiColombo probe has begun its final approach to Mercury, marking a new chapter in our exploration of the solar system. Additionally, a new chemical recipe has unlocked the production of 'impossible' nanocrystals, offering potential applications in advanced LEDs, medical implants, and superconductors.\n\nThe narrative of human achievement is also evident in the world of sport and conservation. Haftu Strintzos, an Australian long-distance runner with a background as a barefoot shepherd in Ethiopia, has claimed the national marathon record on his fourth attempt, inspiring many with his journey of transformation and excellence. In the natural sciences, the discovery of Diplodocus fossils in Spain marks the first time remains of this iconic dinosaur have been found outside the United States, expanding our global understanding of prehistoric life. These stories collectively underscore a world where curiosity, resilience, and innovation are leading to meaningful advancements for society.",
+  "themes": [
+    "Pedestrian Safety Research",
+    "Art and Health Advocacy",
+    "Quantum Teleportation Breakthrough",
+    "Planetary Exploration",
+    "Marathon Record Achievement",
+    "Dinosaur Fossil Discovery"
+  ],
+  "headlines": [
+    {
+      "title": "Study Links Car Height to Pedestrian Death Risk for Women and Children",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Perth Artist Andrew Grero Exhibits Artwork on Living with Parkinson's",
+      "url": "https://www.abc.net.au/perth/news"
+    },
+    {
+      "title": "Haftu Strintzos Sets Australian Marathon Record on Fourth Attempt",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Scientists Teleport Image Across 100 Quantum Channels at Once",
+      "url": "https://www.sciencealert.com/"
+    },
+    {
+      "title": "BepiColombo Begins Final Approach to Mercury",
+      "url": "https://www.sci.news/"
+    },
+    {
+      "title": "New Recipe Unlocks 'Impossible' Nanocrystals for Medical and Tech Applications",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "First Diplodocus Fossils Found Outside the U.S. in Spain",
+      "url": "https://www.livescience.com/news"
+    },
+    {
+      "title": "Australians Discuss Opting Out of Social Media Algorithms",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Cricket Australia Opens Big Bash to Private Investment",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Australian Government Considers Smart Glasses Ban in Public Offices",
+      "url": "https://www.theguardian.com/australia-news"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Scientists Teleport Image Across 100 Quantum Channels",
+      "url": "https://www.sciencealert.com/",
+      "angle": "A major breakthrough in quantum physics that could lead to more secure and efficient global communication networks."
+    },
+    {
+      "title": "Haftu Strintzos Claims Australian Marathon Record",
+      "url": "https://www.abc.net.au/",
+      "angle": "An inspiring story of personal transformation and athletic excellence, from Ethiopian shepherd to national record holder."
+    },
+    {
+      "title": "New Recipe Creates 'Impossible' Nanocrystals",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "A chemistry breakthrough that unlocks new materials for medical implants, LEDs, and superconductors, advancing multiple industrial sectors."
+    },
+    {
+      "title": "Perth Artist Paints Parkinson's as a Monster",
+      "url": "https://www.abc.net.au/perth/news",
+      "angle": "A constructive use of art to explain and humanize a complex medical condition, fostering community empathy and awareness."
+    },
+    {
+      "title": "Diplodocus Fossils Discovered in Spain",
+      "url": "https://www.livescience.com/news",
+      "angle": "A significant paleontological find that expands the global footprint of a famous dinosaur, enhancing our understanding of prehistoric ecosystems."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "Australian long-distance runner, Haftu Strintzos, shares his &quot;double life&quot; from being a barefoot shepherd in Ethiopia to claiming the national marathon record on just his fourth attempt. ... Today we have changes of plans for Harry and Meghan as well as Macklemore and Ed Sheeran. Plus cows wearing socks, sort of. ... Analysis by Thomas KelsallFri 18 Sep 2026 at 6:05amFri 18 Sep 2026 at 6:05amFri 18 Sep 2026 at 6:05am",
+      "source": "brave"
+    },
+    {
+      "title": "Morning Mail: Migrant battle shifts to food prices; Hyrox athlete says sorry; and are we facing a ‘spermapocalypse’? | Australia news | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/18/morning-mail-friday-ntwnfb",
+      "snippet": "Tony Burke rejects farmers’ claim that migrant cuts will push up cost of living; how dating apps, climate and housing are all affecting the birth rate",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "8 Sept 2026 · <strong>Cricket Australia opens the Big Bash to private investment</strong> - with some owners of franchises in The Hundred showing interest. 8 Sept 2026 · 8 Sept 2026 · The BBC spoke to people in Sydney about Australia&#x27;s plans to force social media companies to allow users to easily opt in ...",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "<strong>A study of 13 years of crashes in Australia finds a link between car height and risk of pedestrian death, particularly for women and children</strong>. Topic:RoadsFri 18 Sep 2026 at 4:48amFri 18 Sep 2026 at 4:48amFri 18 Sep 2026 at 4:48am",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - ABC News",
+      "url": "https://www.abc.net.au/news/australia",
+      "snippet": "Follow the latest headlines from ABC News, Australia&#x27;s most trusted media source, with live events, audio and on-demand video from the national broadcaster.",
+      "source": "brave"
+    },
+    {
+      "title": "World News - ABC News",
+      "url": "https://www.abc.net.au/news/world",
+      "snippet": "<strong>Markets are pricing in a nearly 90 per cent chance of Australia&#x27;s reserve bank lifting interest rates in September following the US Federal Reserve&#x27;s decision to hike rates</strong>. ... The season-ending WTA Finals find a new home in North Carolina, ...",
+      "source": "brave"
+    },
+    {
+      "title": "News - ABC Perth",
+      "url": "https://www.abc.net.au/perth/news",
+      "snippet": "Farming and tourism industry leaders say cuts to backpacker numbers will slash the available workforce across regional Australia. Published: Thu 17 Sep 2026 at 6:33pmThu 17 Sep 2026 at 6:33pm/Source: ABC Esperance/Topic: Immigration",
+      "source": "brave"
+    },
+    {
+      "title": "Coalition say Labor migration plan will 'throttle' economy | ABC News Top Stories - ABC listen",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/just-in-latest-news-migration-plan-rockhampton-rowing-open-ai/107166310",
+      "snippet": "Deputy Opposition Leader Jane Hume says migration has been too high and standards have been too low under Labor, while Liberal MP Zoe McKenzie says the plan will &quot;throttle&quot; the Australian economy.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Science Innovations | Australian Science Innovations",
+      "url": "https://asi.edu.au/news/",
+      "snippet": "Australian Science Innovations proudly delivers exceptional education and mentorship programs. Read about the positive impact on our participants, their schools and our community.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "The unexpected discovery could open the door to ... A New Recipe Unlocks “Impossible” Nanocrystals for LEDs, Implants, and Superconductors · Aug. 30, 2026  Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could ...",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>Fossils of the long-necked dinosaur Diplodocus have been discovered in Spain</strong>, marking the first time remains of this iconic Jurassic-period dino have been found outside the U.S.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "Breakthrough: <strong>Scientists Just Teleported an Image Across 100 Quantum Channels at Once Physics</strong>3 days ago",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "<strong>Amie Fornah Sankoh studies how viruses commandeer plant communication at the Donald Danforth Plant Science Center</strong> ... Medicinal chemist Susan Winks shares how she keeps money flowing at the drug-discovery centre she helps to manage.",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "Sep. 15, 2026  <strong>A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns</strong>. The discovery could lead to new ways of controlling light, polarization, ...",
+      "source": "brave"
+    },
+    {
+      "title": "Sci.News: Breaking Science News",
+      "url": "https://www.sci.news/",
+      "snippet": "Scientists Discover <strong>Soil Bacteria Enzyme that Breaks Down Both Plastic and Antibiotics</strong> Sep 7, 2026 | Biology · BepiColombo Begins Final Approach to Mercury Sep 6, 2026 | Planetary Science",
+      "source": "brave"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Australian Horizon",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified coastal scene in Sydney Harbour weaves together the marathon record, quantum breakthrough, nanocrystal discovery, art advocacy, and fossil find. Haftu Strintzos runs past while symbolic motifs of light and stone reflect the week's diverse scientific and human achievements.",
+      "prompt": "Painterly fine-art oil on canvas. Sydney Harbour at dawn, vibrant Caribbean light. A runner in 2024 sportswear sprints on the foreshord. Background features glowing quantum nodes, shimmering nanocrystal structures, a vibrant abstract mural, and a Diplodocus skeleton silhouette. Expressive brushwork, saturated pigments, modernist energy, no digital look. Unified Australian scene weaving together these themes: Pedestrian Safety Research, Art and Health Advocacy, Quantum Teleportation Breakthrough, Planetary Exploration, Marathon Record Achievement, Dinosaur Fossil Discovery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1099976523,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/01.png style=flux_klein size=1152x896 seed=1099976523 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Shepherd to Champion",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Shepherd to Champion answers a strand of today’s news with a focused visual reading. Haftu Strintzos, an Australian long-distance runner with a background as a barefoot shepherd in Ethiopia, has claimed the national marathon record on his fourth attempt, inspiring many with his journey of transformation and excellence. In the natural sciences, the discovery of Diplodocus fossils in Spain marks the first time remains of this iconic dinosaur have been found outside the United States, expanding our global understanding of prehistoric life. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas. Alice Springs red desert, 1978 fashion cues in background figures. A dignified male runner in vintage athletic wear sprints through eucalyptus scrub. Strong shadows, warm ochre and crimson pigments. Expressive, thick brushstrokes, Caribbean light filtering through dust, modernist composition, no photorealism. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1089190738,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/02.png style=flux_klein size=1152x896 seed=1089190738 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Monster of Memory",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "A Perth artist paints a vibrant mural on a suburban street, depicting Parkinson's disease as a colorful, manageable monster. The scene fosters community empathy, showing neighbors in 1998 fashion observing the artwork, reflecting the power of personal narrative in health advocacy.",
+      "prompt": "Painterly fine-art acrylic on canvas. Perth suburban street, 1998 fashion. A large, vibrant mural depicts a whimsical monster. Diverse Australian neighbors watch, smiling. Expressive, energetic brushwork, bright pigments, Mediterranean and Asian-Australian faces. Modernist energy, warm light, no digital rendering, no gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1049980147,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/03.png style=flux_klein size=1152x896 seed=1049980147 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Impossible Crystals",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Impossible Crystals answers a strand of today’s news with a focused visual reading. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. New Recipe Unlocks 'Impossible' Nanocrystals for Medical and Tech Applications. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas. Brisbane laboratory, 2015 fashion. Scientists examine glowing, iridescent nanocrystal structures. Shimmering blue and gold pigments. Expressive, detailed brushwork, focused light, modernist composition. Diverse Australian faces, no digital look, no logos, no text, warm and cool color contrast.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 2133134865,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/04.png style=flux_klein size=1152x896 seed=2133134865 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Spanish Bones, Aussie Sky",
+      "tone": "news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "Spanish Bones, Aussie Sky answers a strand of today’s news with a focused visual reading. In the natural sciences, the discovery of Diplodocus fossils in Spain marks the first time remains of this iconic dinosaur have been found outside the United States, expanding our global understanding of prehistoric life. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly oil on canvas. Australian eucalyptus scrub, 1935 fashion. A paleontologist examines a large Diplodocus fossil. Warm, dusty light, expressive brushwork, ochre and green pigments. Modernist energy, no digital look, no sacred imagery, no costumes, dignified scientific inquiry, no text. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 2116332022,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/05.png style=flux_klein size=1152x896 seed=2116332022 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour Light",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": false,
+      "description": "Harbour Light answers a strand of today’s news with a focused visual reading. In a remarkable feat of quantum physics, researchers successfully teleported an image across 100 quantum channels simultaneously, a breakthrough that could revolutionize secure communication and data processing. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. In the artwork, that story reflects abstract secure data streams.",
+      "prompt": "Painterly fine art, oil on canvas, Sydney Harbour at dawn, 1905 Edwardian fashion, expressive Caribbean light, shimmering water reflecting abstract secure data streams, vibrant pigment, loose brushwork, condors soaring overhead, Barranquilla modern energy, no digital cameras, no text. Australian landscape or city setting with Australian people.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1382572780,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/06.png style=flux_klein size=1152x896 seed=1382572780 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Outback Pace",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Outback Pace answers a strand of today’s news with a focused visual reading. Haftu Strintzos, an Australian long-distance runner with a background as a barefoot shepherd in Ethiopia, has claimed the national marathon record on his fourth attempt, inspiring many with his journey of transformation and excellence. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas, red Australian outback, 1955 casual sportswear, Aboriginal Australian runner in motion, expressive warm pigment, loose energetic brushwork, eucalyptus scrub, Caribbean light, Barranquilla modern energy, no digital cameras, no text.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1743343133,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/07.png style=flux_klein size=1152x896 seed=1743343133 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Mercury's Edge",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Mercury's Edge answers a strand of today’s news with a focused visual reading. In the natural sciences, the discovery of Diplodocus fossils in Spain marks the first time remains of this iconic dinosaur have been found outside the United States, expanding our global understanding of prehistoric life. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas, Perth observatory interior, 1985 fashion, telescope view of Mercury, expressive cool pigment, loose brushwork, Caribbean light, condors outside, Barranquilla modern energy, no digital cameras, no text. Australian landscape or city setting with Australian people.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 353126363,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/08.png style=flux_klein size=1152x896 seed=353126363 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Nanocrystal Bloom",
+      "tone": "good_news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Nanocrystal Bloom answers a strand of today’s news with a focused visual reading. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. Haftu Strintzos Sets Australian Marathon Record on Fourth Attempt. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas, Brisbane lab, 2005 fashion, glowing nanocrystal structures, expressive vibrant pigment, loose brushwork, Caribbean light, condors, Barranquilla modern energy, no digital cameras, no text. Australian landscape or city setting with Australian people.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1467698362,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/09.png style=flux_klein size=1152x896 seed=1467698362 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Diplo's Shadow",
+      "tone": "news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Diplo's Shadow answers a strand of today’s news with a focused visual reading. In the natural sciences, the discovery of Diplodocus fossils in Spain marks the first time remains of this iconic dinosaur have been found outside the United States, expanding our global understanding of prehistoric life. Australian news this week highlights a significant intersection of public health, safety, and cultural resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine art, oil on canvas, Sydney museum, 2010 fashion, Diplodocus fossil skeleton, expressive muted pigment, loose brushwork, Caribbean light, condors, Barranquilla modern energy, no digital cameras, no text. Australian landscape or city setting with Australian people.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1426736607,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-18/10.png style=flux_klein size=1152x896 seed=1426736607 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
