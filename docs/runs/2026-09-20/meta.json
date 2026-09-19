@@ -1,0 +1,389 @@
+{
+  "date": "2026-09-20",
+  "artist": {
+    "id": "maria_izquierdo",
+    "name": "María Izquierdo",
+    "era": "20th c. MX",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "modernism",
+      "latin-america"
+    ],
+    "bio": "María Izquierdo (20th c. MX). Mexican modernist painting in the spirit of María Izquierdo: circus and still-life allegory, bold folk-modern color, intimate surreal Mexico. Painterly fine-art visual language. Associated tags: modernism, latin-america.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response.\n\nOn the international stage, global challenges are being met with diplomatic and scientific ingenuity. The United States and Denmark reached a significant deal regarding Greenland, de-escalating geopolitical tensions, while Australia formally launched its bid for a seat on the United Nations Security Council, signaling its commitment to multilateral cooperation. In the realm of science, breakthroughs continue to push boundaries: researchers have discovered the largest newly formed impact crater in the Solar System, and a mathematical shape has revealed unexpected abilities to twist light, potentially revolutionizing optical technology. These discoveries underscore a global momentum toward exploration and innovation.\n\nThe intersection of environment and community is also a key theme, with rare volcanic events in Indonesia prompting coordinated emergency responses and conservation efforts. Meanwhile, in Australia, the government is backing critical emerging technologies to strengthen future industries, and partnerships with Horizon Europe are unlocking new funding opportunities for innovation. From the Junior Matildas becoming the first Australian team to qualify for a U-17 Women’s World Cup to the opening of Big Bash to private investment, the nation is showcasing its sporting and cultural vibrancy. Overall, the news cycle reflects a world where, despite hardships, human care, scientific curiosity, and community cohesion are driving constructive progress.",
+  "themes": [
+    "Indigenous Representation & Agency",
+    "Art & Music for Healing",
+    "Multilateral Diplomacy",
+    "Scientific Breakthroughs",
+    "Community Resilience",
+    "Sports & Cultural Milestones"
+  ],
+  "headlines": [
+    {
+      "title": "Australia’s First Indigenous Eye Surgeon Kris Rallah-Baker Overcomes 'Unashamed Racism'",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "How Music and Art Can Help Victim-Survivors 'Feel Human Again'",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "PM to Launch Australia’s Bid for UN Security Council Seat",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/australia-un-trump-media-shark-attack-latest-news-just-in/107171950"
+    },
+    {
+      "title": "Junior Matildas Become First Australian Team to Qualify for U-17 Women’s World Cup",
+      "url": "https://www.abc.net.au/news/australia"
+    },
+    {
+      "title": "US and Denmark Reach Deal on Greenland After Tensions",
+      "url": "https://www.abc.net.au/news/world"
+    },
+    {
+      "title": "Scientists Discover Biggest Newly Formed Impact Crater in Solar System",
+      "url": "https://www.sci.news/"
+    },
+    {
+      "title": "Mathematical Shape Reveals Ability to Twist Light into Chiral Patterns",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Six Volcanoes Erupt in Indonesia in 'Rare' Event, Prompting Community Response",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Cricket Australia Opens Big Bash to Private Investment",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Australian Government Backs Critical Technologies to Strengthen Future Innovation",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australia’s First Indigenous Eye Surgeon Overcomes Barriers",
+      "url": "https://www.abc.net.au/",
+      "angle": "A powerful story of individual triumph and professional excellence, highlighting how Kris Rallah-Baker navigated family struggles and systemic racism to achieve a historic milestone in medicine."
+    },
+    {
+      "title": "Music Program Helps Victim-Survivors Rebuild Identity",
+      "url": "https://www.abc.net.au/news/justin",
+      "angle": "Demonstrates the therapeutic power of collaborative art; 32 women used songwriting and music-making to rebuild confidence and social connection after trauma."
+    },
+    {
+      "title": "US and Denmark Reach Deal on Greenland",
+      "url": "https://www.abc.net.au/news/world",
+      "angle": "A constructive diplomatic resolution that de-escalates geopolitical tension and reinforces international cooperation over territorial disputes."
+    },
+    {
+      "title": "Junior Matildas Qualify for U-17 Women’s World Cup",
+      "url": "https://www.abc.net.au/news/australia",
+      "angle": "A historic sporting achievement for Australia, showcasing the maturity and potential of the next generation of female athletes on the global stage."
+    },
+    {
+      "title": "Discovery of Largest New Impact Crater in Solar System",
+      "url": "https://www.sci.news/",
+      "angle": "A major scientific breakthrough using NASA’s Lunar Reconnaissance Orbiter, expanding our understanding of the solar system’s dynamic history."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "<strong>Australia&#x27;s first Indigenous eye surgeon Kris Rallah-Baker has walked a zigzag path, driven by family struggles and overcoming &#x27;unashamed racism&#x27;</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:Volcanic EruptionsSun 20 Sep 2026 at 4:57amSun 20 Sep 2026 at 4:57amSun 20 Sep 2026 at 4:57am · <strong>One Nation has described Senator Alex Antic&#x27;s election as state president of the Liberal party as a &quot;win&quot; for South Australia</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "9 Sept 2026 · <strong>The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under</strong>. 9 Sept 2026 · 8 Sept 2026 · Cricket Australia opens the Big Bash to private investment - with some owners of franchises in The Hundred showing interest.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "Canberra news, sport and weather | The Canberra Times | Canberra, ACT",
+      "url": "https://www.canberratimes.com.au/",
+      "snippet": "The three-day trip puts a singular spotlight on Australia&#x27;s east coast.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - ABC News",
+      "url": "https://www.abc.net.au/news/australia",
+      "snippet": "Follow the latest headlines from ABC News, Australia&#x27;s most trusted media source, with live events, audio and on-demand video from the national broadcaster.",
+      "source": "brave"
+    },
+    {
+      "title": "Trump's bans media outlets, Earl Spencer speaks | ABC News Top Stories - ABC listen",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/australia-un-trump-media-shark-attack-latest-news-just-in/107171950",
+      "snippet": "<strong>The Prime Minister is set to formally launch Australia&#x27;s bid for a seat on the United Nations Security Council</strong>. Several beaches remain closed in Perth after a man was killed by a shark off Sorrento in the city&#x27;s north.",
+      "source": "brave"
+    },
+    {
+      "title": "World News - ABC News",
+      "url": "https://www.abc.net.au/news/world",
+      "snippet": "Topic:ShootingsFri 18 Sep 2026 at 7:01pmFri 18 Sep 2026 at 7:01pmFri 18 Sep 2026 at 7:01pm · Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.",
+      "source": "brave"
+    },
+    {
+      "title": "Albanese lands in US, Greenland deal reached | ABC News Top Stories - ABC listen",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/latest-news-just-in-greenland-un-security-shark-attack/107172230",
+      "snippet": "Program:More from ABC News Top ... a seat on the UN Security Council. <strong>Police are searching for the body of a 63-year-old man who was killed by a shark at a popular Perth beach yesterday</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Science Innovations | Australian Science Innovations",
+      "url": "https://asi.edu.au/news/",
+      "snippet": "Australian Science Innovations proudly delivers exceptional education and mentorship programs. Read about the positive impact on our participants, their schools and our community.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "... Sep. 15, 2026  <strong>A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns</strong>. The discovery could lead to new ways of controlling light, polarization, ...",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>Fossils of the long-necked dinosaur Diplodocus have been discovered in Spain</strong>, marking the first time remains of this iconic Jurassic-period dino have been found outside the U.S.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "<strong>Amie Fornah Sankoh studies how viruses commandeer plant communication at the Donald Danforth Plant Science Center</strong> ... Medicinal chemist Susan Winks shares how she keeps money flowing at the drug-discovery centre she helps to manage.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "The latest science news. Publishing independent, fact-checked reporting on health, space, nature, technology, and the environment.",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "9, 2026  Scientists found that <strong>a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Sci.News: Breaking Science News",
+      "url": "https://www.sci.news/",
+      "snippet": "Using images from the LROC instrument onboard NASA’s Lunar Reconnaissance Orbiter (LRO), scientists have discovered <strong>the biggest newly formed impact crater ever discovered in the Solar System</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "ICE, strained budgets and community resilience piqued Northfield's interest in 2025 | News | southernminn.com",
+      "url": "https://www.southernminn.com/northfield_news/news/ice-strained-budgets-and-community-resilience-piqued-northfields-interest-in-2025/article_520afed0-4669-4708-bede-6912e33a0a67.html",
+      "snippet": "Although 2025 came with a hefty helping of uncertainty and instability on many fronts, <strong>the top-100 headlines from the Northfield News this year appeared to demonstrate a sense of solidarity and cohesion throughout the community</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Community solidarity after the floods - Friends of the Earth Australia",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods",
+      "snippet": "Koala Rescue QLD &quot;We need your urgent help as the floods continue to cause havoc for our rescue.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Mosaic of Australian Resilience",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Mosaic of Australian Resilience is today’s cover piece — one Australian scene that weaves together Indigenous Representation & Agency, Art & Music for Healing, Multilateral Diplomacy, Scientific Breakthroughs, Community Resilience, and Sports & Cultural Milestones. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Mexican modernist style. 2024 Australian setting. Indigenous surgeon in scrubs, survivor women singing, diplomats shaking hands. Bold folk-modern colors. Eucalyptus scrub, red desert. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Unified composition, readable motifs. Dignified faces, contemporary fashion. Unified Australian scene weaving together these themes: Indigenous Representation & Agency, Art & Music for Healing, Multilateral Diplomacy, Scientific Breakthroughs, Community Resilience, Sports & Cultural Milestones. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1278531582,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/01.png style=flux_klein size=896x1152 seed=1278531582 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Healing Voices in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Healing Voices in the Bush takes on the day’s Art & Music for Healing thread, translating the news into a single visual moment. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of Art & Music for Healing in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Mexican modernist style. 1978 Australian bushland. Women in 1978 fashion, singing, holding instruments. Eucalyptus trees, red earth. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, contemporary Australian features. Warm, healing atmosphere. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 732443453,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/02.png style=flux_klein size=896x1152 seed=732443453 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Surgeon's Gaze",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "The Surgeon's Gaze answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Mexican modernist style. 2010 Australian hospital. Indigenous surgeon in scrubs, looking determined. Bright light, clean lines. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified face, contemporary Australian features. Professional, hopeful mood. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 531793962,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/03.png style=flux_klein size=896x1152 seed=531793962 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Greenland Accord in the Outback",
+      "tone": "news",
+      "fashionYear": "1925",
+      "emailHero": false,
+      "description": "Greenland Accord in the Outback answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Mexican modernist style. 1925 Australian outback. Diplomats in 1925 fashion, shaking hands. Vast red desert, sparse scrub. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, period-accurate clothing. Calm, diplomatic atmosphere. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1230209292,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/04.png style=flux_klein size=896x1152 seed=1230209292 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Matildas of the Future",
+      "tone": "good_news",
+      "fashionYear": "1955",
+      "emailHero": false,
+      "description": "Matildas of the Future answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Mexican modernist style. 1955 Australian suburb. Young female athletes in 1955 sportswear, playing soccer. Green park, suburban houses. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, period-accurate fashion. Energetic, celebratory mood. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 569348262,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/05.png style=flux_klein size=896x1152 seed=569348262 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The Surgeon's Triumph",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "The Surgeon's Triumph takes on the day’s Community Resilience thread, translating the news into a single visual moment. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art portrait of an Aboriginal Australian woman in 1930s medical attire, standing in a sunlit Perth clinic. Bold folk-modern colors, thick impasto brushwork, warm canvas texture. Intimate surreal Mexico spirit meets Australian resilience, no digital effects. Set in Australia circa 1935; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1524105309,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/06.png style=flux_klein size=896x1152 seed=1524105309 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Chords of Recovery",
+      "tone": "good_news",
+      "fashionYear": "1910",
+      "emailHero": false,
+      "description": "Chords of Recovery answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly scene of diverse Australian women in 1910 fashion playing instruments in a Melbourne hall. Thick oil paint, vibrant pigment, visible canvas weave. Intimate surreal allegory, bold color, no photorealism, no modern digital lighting. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1049490391,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/07.png style=flux_klein size=896x1152 seed=1049490391 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Lunar Crater Discovery",
+      "tone": "good_news",
+      "fashionYear": "1965",
+      "emailHero": false,
+      "description": "Lunar Crater Discovery answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art of an Australian scientist in 1960s lab coat, observing a glowing lunar map in an Adelaide observatory. Thick impasto, bold modernist color, intimate surreal atmosphere. Canvas texture, no digital CGI, no photorealism. Set in Australia circa 1965; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 365933921,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/08.png style=flux_klein size=896x1152 seed=365933921 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Matildas on the Coast",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Matildas on the Coast answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly scene of young Australian female athletes in 1990s sportswear celebrating on a Sydney beach. Thick oil brushwork, bold folk-modern color, intimate surreal energy. Canvas texture, no digital effects, no photorealism. Set in Australia circa 1995; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 998413507,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/09.png style=flux_klein size=896x1152 seed=998413507 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Perth Shore Solidarity",
+      "tone": "news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Perth Shore Solidarity answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art of Australian emergency responders and locals on a Perth shoreline in 2005 attire. Thick impasto, bold color, intimate surreal solidarity. Canvas texture, no gore, no digital CGI, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2123797128,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-20/10.png style=flux_klein size=896x1152 seed=2123797128 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}

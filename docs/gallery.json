@@ -2,6 +2,139 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-20",
+      "artist": {
+        "id": "maria_izquierdo",
+        "name": "María Izquierdo",
+        "era": "20th c. MX",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "modernism",
+          "latin-america"
+        ],
+        "bio": "María Izquierdo (20th c. MX). Mexican modernist painting in the spirit of María Izquierdo: circus and still-life allegory, bold folk-modern color, intimate surreal Mexico. Painterly fine-art visual language. Associated tags: modernism, latin-america.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Indigenous Representation & Agency",
+        "Art & Music for Healing",
+        "Multilateral Diplomacy",
+        "Scientific Breakthroughs",
+        "Community Resilience",
+        "Sports & Cultural Milestones"
+      ],
+      "summary": "Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response.\n\nOn the international stage, global challenges are being met with diplomatic and scientific ingenuity. The United States and Denmark reached a significant deal regarding Greenland, de-escalating geopolitical tensions, while Australia formally launched its bid for a seat on the United Nations Security Council, signaling its commitment to multilateral cooperation. In the realm of science, breakthroughs continue to push boundaries: researchers have discovered the largest newly formed impact crater in the Solar System, and a mathematical shape has revealed unexpected abilities to twist light, potentially revolutionizing optical technology. These discoveries underscore a global momentum toward exploration and innovation.\n\nThe intersection of environment and community is also a key theme, with rare volcanic events in Indonesia prompting coordinated emergency responses and conservation efforts. Meanwhile, in Australia, the government is backing critical emerging technologies to strengthen future industries, and partnerships with Horizon Europe are unlocking new funding opportunities for innovation. From the Junior Matildas becoming the first Australian team to qualify for a U-17 Women’s World Cup to the opening of Big Bash to private investment, the nation is showcasing its sporting and cultural vibrancy. Overall, the news cycle reflects a world where, despite hardships, human care, scientific curiosity, and community cohesion are driving constructive progress.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Mosaic of Australian Resilience",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Mosaic of Australian Resilience is today’s cover piece — one Australian scene that weaves together Indigenous Representation & Agency, Art & Music for Healing, Multilateral Diplomacy, Scientific Breakthroughs, Community Resilience, and Sports & Cultural Milestones. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Mexican modernist style. 2024 Australian setting. Indigenous surgeon in scrubs, survivor women singing, diplomats shaking hands. Bold folk-modern colors. Eucalyptus scrub, red desert. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Unified composition, readable motifs. Dignified faces, contemporary fashion. Unified Australian scene weaving together these themes: Indigenous Representation & Agency, Art & Music for Healing, Multilateral Diplomacy, Scientific Breakthroughs, Community Resilience, Sports & Cultural Milestones. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Healing Voices in the Bush",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Healing Voices in the Bush takes on the day’s Art & Music for Healing thread, translating the news into a single visual moment. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of Art & Music for Healing in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Mexican modernist style. 1978 Australian bushland. Women in 1978 fashion, singing, holding instruments. Eucalyptus trees, red earth. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, contemporary Australian features. Warm, healing atmosphere. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "The Surgeon's Gaze",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "The Surgeon's Gaze answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Mexican modernist style. 2010 Australian hospital. Indigenous surgeon in scrubs, looking determined. Bright light, clean lines. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified face, contemporary Australian features. Professional, hopeful mood. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Greenland Accord in the Outback",
+          "tone": "news",
+          "fashionYear": "1925",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Greenland Accord in the Outback answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Mexican modernist style. 1925 Australian outback. Diplomats in 1925 fashion, shaking hands. Vast red desert, sparse scrub. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, period-accurate clothing. Calm, diplomatic atmosphere. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Matildas of the Future",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Matildas of the Future answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Mexican modernist style. 1955 Australian suburb. Young female athletes in 1955 sportswear, playing soccer. Green park, suburban houses. Bold folk-modern colors. Intimate surreal Mexico. Bold brushwork, pigment, canvas language. No digital cameras. Dignified faces, period-accurate fashion. Energetic, celebratory mood. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "The Surgeon's Triumph",
+          "tone": "good_news",
+          "fashionYear": "1935",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Surgeon's Triumph takes on the day’s Community Resilience thread, translating the news into a single visual moment. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art portrait of an Aboriginal Australian woman in 1930s medical attire, standing in a sunlit Perth clinic. Bold folk-modern colors, thick impasto brushwork, warm canvas texture. Intimate surreal Mexico spirit meets Australian resilience, no digital effects. Set in Australia circa 1935; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Chords of Recovery",
+          "tone": "good_news",
+          "fashionYear": "1910",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Chords of Recovery answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly scene of diverse Australian women in 1910 fashion playing instruments in a Melbourne hall. Thick oil paint, vibrant pigment, visible canvas weave. Intimate surreal allegory, bold color, no photorealism, no modern digital lighting. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Lunar Crater Discovery",
+          "tone": "good_news",
+          "fashionYear": "1965",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Lunar Crater Discovery answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art of an Australian scientist in 1960s lab coat, observing a glowing lunar map in an Adelaide observatory. Thick impasto, bold modernist color, intimate surreal atmosphere. Canvas texture, no digital CGI, no photorealism. Set in Australia circa 1965; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Matildas on the Coast",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Matildas on the Coast answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly scene of young Australian female athletes in 1990s sportswear celebrating on a Sydney beach. Thick oil brushwork, bold folk-modern color, intimate surreal energy. Canvas texture, no digital effects, no photorealism. Set in Australia circa 1995; clothing and material culture accurate to that year. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Perth Shore Solidarity",
+          "tone": "news",
+          "fashionYear": "2005",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Perth Shore Solidarity answers a strand of today’s news with a focused visual reading. In the social sphere, the story of Kris Rallah-Baker, Australia’s first Indigenous eye surgeon, highlights the power of individual agency in overcoming systemic barriers and 'unashamed racism.' Simultaneously, creative interventions are proving vital for healing; a 12-month program using collaborative music-making helped 32 victim-survivors of domestic violence rebuild their identity and social connection, demonstrating how art can help people 'feel human again.' These narratives of recovery and representation stand alongside practical community responses, such as the ongoing search and support for families affected by the shark incident in Perth, where local solidarity and emergency services remain central to the response. Australia is navigating a complex mix of community resilience, cultural milestones, and scientific advancement. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art of Australian emergency responders and locals on a Perth shoreline in 2005 attire. Thick impasto, bold color, intimate surreal solidarity. Canvas texture, no gore, no digital CGI, no photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-09-19",
       "artist": {
         "id": "reveron",
