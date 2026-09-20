@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-21",
+  "artist": {
+    "id": "carrington",
+    "name": "Leonora Carrington",
+    "era": "20th c. UK/MX",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "surrealism",
+      "latin-america",
+      "europe"
+    ],
+    "bio": "Mary Leonora Carrington was a British and Mexican surrealist painter and novelist. She lived most of her adult life in Mexico City and was one of the last surviving participants in the Surrealist movement of the 1930s. Carrington was also a founding member of the women's liberation movement in Mexico during the 1970s.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Leonora_Carrington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australia is navigating a pivotal moment in its demographic and economic future, highlighted by the release of the seventh Intergenerational Report. Projections indicate the population will approach 40 million by 2066, driven by increased life expectancy and migration, prompting national conversations about productivity, social support, and sustainability. Prime Minister Anthony Albanese is leveraging this context to launch Australia’s bid for a United Nations Security Council seat, emphasizing the nation’s reputation for stability and international cooperation while advocating for human-centric AI governance.\n\nOn the ground, community resilience and care are taking center stage. In Victoria, advocates are pushing for expanded mental health services in the Wimmera region, highlighting the need for local access to support those with high rates of illness. Simultaneously, a landmark survey reveals gaps in dementia care, prompting calls for better integration of support systems for overwhelmed carers. These stories underscore a collective effort to strengthen social safety nets and ensure no one is left behind during life’s challenging transitions.\n\nInternationally, scientific curiosity and human achievement continue to drive progress. Researchers have made significant strides in understanding Alzheimer’s disease by mapping 3D DNA organization, while astronomers have identified the largest newly formed impact crater in the Solar System. In sports, Australia’s Rollers celebrated a historic victory in the IWBF World Championships, showcasing excellence and unity. These global developments reflect a world increasingly focused on health, exploration, and the power of human ingenuity.",
+  "themes": [
+    "Demographic Futures & Policy",
+    "Community Care & Resilience",
+    "Scientific Breakthroughs",
+    "International Diplomacy",
+    "Sports Excellence",
+    "Healthcare Access"
+  ],
+  "headlines": [
+    {
+      "title": "Australians to live longer and have fewer children by 2066",
+      "url": "https://www.abc.net.au/news/2026-09-21/federal-politics-live-blog-intergenerational-report/107175132"
+    },
+    {
+      "title": "Albanese launches Australia’s bid for UN Security Council seat",
+      "url": "https://www.abc.net.au/news/politics"
+    },
+    {
+      "title": "Calls grow for mental health service in Victorian town",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Dementia carers say they are overwhelmed, survey finds",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Australia defeats Italy to win men’s IWBF World Championships",
+      "url": "https://www.abc.net.au/news/world"
+    },
+    {
+      "title": "Scientists find 3D DNA disruption in Alzheimer’s cells",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Biggest newly formed impact crater discovered in Solar System",
+      "url": "https://www.sci.news/"
+    },
+    {
+      "title": "Space technology aids medical rehabilitation on Earth",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science"
+    },
+    {
+      "title": "Horizon Europe association boosts Australian innovation",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "ASX set to slide despite Wall Street gains",
+      "url": "https://www.abc.net.au/news/2026-09-21/asx-markets-business-live-news/107174464"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Australia Wins IWBF World Championship",
+      "url": "https://www.abc.net.au/news/world",
+      "angle": "The Rollers defeated Italy 81-57 to secure their third title, celebrating athletic excellence and national pride."
+    },
+    {
+      "title": "Alzheimer’s Research Breakthrough",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "Scientists discovered that 3D DNA organization is disrupted in Alzheimer’s-affected cells, opening new paths for treatment."
+    },
+    {
+      "title": "Largest New Impact Crater Found",
+      "url": "https://www.sci.news/",
+      "angle": "NASA scientists identified the biggest newly formed crater in the Solar System, advancing our understanding of lunar geology."
+    },
+    {
+      "title": "Space Tech Enhances Earth Rehabilitation",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "angle": "Vibrating rehabilitation chairs developed for space are now helping hospitals and sports specialists improve muscle recovery."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Federal politics live: Australians to live longer and have fewer children by 2066 - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-21/federal-politics-live-blog-intergenerational-report/107175132",
+      "snippet": "<strong>Australia&#x27;s population will come close to 40 million people by 2066 as Australians live longer but have fewer children</strong>, according to new projections. Follow live.",
+      "source": "brave"
+    },
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "<strong>Some Australians are not being connected to any support after receiving a dementia diagnosis and their carers say they are overwhelmed</strong>, according to a landmark new survey.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:Mental HealthMon 21 Sep 2026 at 7:05amMon 21 Sep 2026 at 7:05amMon 21 Sep 2026 at 7:05am · <strong>Australia&#x27;s population will come close to 40 million people by 2066 as Australians live longer but have fewer children</strong>, according to new projections.",
+      "source": "brave"
+    },
+    {
+      "title": "Markets live updates: ASX set to slide despite Wall Street edging up and lower oil prices - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-21/asx-markets-business-live-news/107174464",
+      "snippet": "<strong>While Wall Street closed the volatile week with a small gain, the ASX looks like it will come under selling pressure again today</strong>. Follow the day&#x27;s events and insights from our business reporters on the ABC News live markets blog.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news live: Anthony Albanese travels to US; seventh intergenerational report to be released; Donald Trump says arch to be ‘military complex’",
+      "url": "https://www.smh.com.au/national/australia-news-live-anthony-albanese-travels-to-us-seventh-intergenerational-report-to-be-released-donald-trump-says-arch-to-be-military-complex-20260921-p60z03.html",
+      "snippet": "Welcome to our rolling coverage of all the latest news and developments from around Australia and the world. It’s Monday, September 21.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "9 Sept 2026 · <strong>The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under</strong>. 9 Sept 2026 · 8 Sept 2026 · Cricket Australia opens the Big Bash to private investment - with some owners of franchises in The Hundred showing interest.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - ABC News",
+      "url": "https://www.abc.net.au/news/australia",
+      "snippet": "Follow the latest headlines from ABC News, Australia&#x27;s most trusted media source, with live events, audio and on-demand video from the national broadcaster.",
+      "source": "brave"
+    },
+    {
+      "title": "Trump's bans media outlets, Earl Spencer speaks | ABC News Top Stories - ABC listen",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/australia-un-trump-media-shark-attack-latest-news-just-in/107171950",
+      "snippet": "<strong>The Prime Minister is set to formally launch Australia&#x27;s bid for a seat on the United Nations Security Council</strong>. Several beaches remain closed in Perth after a man was killed by a shark off Sorrento in the city&#x27;s north.",
+      "source": "brave"
+    },
+    {
+      "title": "Politics - ABC News",
+      "url": "https://www.abc.net.au/news/politics",
+      "snippet": "Anthony Albanese plans to trade on Australia&#x27;s good name and international reputation as he officially launches the campaign for a two-year term on the powerful United Nations Security Council.",
+      "source": "brave"
+    },
+    {
+      "title": "World News - ABC News",
+      "url": "https://www.abc.net.au/news/world",
+      "snippet": "<strong>Australia defeats Italy 81-57 to win the men&#x27;s IWBF World Championships final in Canada</strong>, giving the Rollers their third title in the tournament&#x27;s history. Topic:BasketballSun 20 Sep 2026 at 3:56pmSun 20 Sep 2026 at 3:56pmSun 20 Sep 2026 at 3:56pm",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "international collaboration on science and research ... <strong>The Australian Government is backing critical and emerging technologies to strengthen Australia&#x27;s future</strong>. We are boosting innovation in Australian businesses and building competitive industries.",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Science Innovations | Australian Science Innovations",
+      "url": "https://asi.edu.au/news/",
+      "snippet": "Australian Science Innovations proudly delivers exceptional education and mentorship programs. Read about the positive impact on our participants, their schools and our community.",
+      "source": "brave"
+    },
+    {
+      "title": "Industry Innovation and Science Australia | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation/industry-innovation/industry-innovation-and-science-australia",
+      "snippet": "IISA looked at barriers for small and medium businesses to commercialise innovative ideas in Australia. Jan 2020 Industry Innovation and Science Australia",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian researchers invited to have their say on AI in research</strong> · New members welcomed to Policy and Equity, Diversity and Inclusion Committees · Science &amp; Technology Australia (STA) is Australia’s peak body in science and technology.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of ... ... Sep. 13, 2026  Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating ...",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "After an eventful life in the limelight, the discovery of a manipulated specimen preceded the biologist’s death.",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>Fossils of the long-necked dinosaur Diplodocus have been discovered in Spain</strong>, marking the first time remains of this iconic Jurassic-period dino have been found outside the U.S.",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "9, 2026  Scientists found that <strong>a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "The latest science news. Publishing independent, fact-checked reporting on health, space, nature, technology, and the environment.",
+      "source": "brave"
+    },
+    {
+      "title": "Sci.News: Breaking Science News",
+      "url": "https://www.sci.news/",
+      "snippet": "Using images from the LROC instrument onboard NASA’s Lunar Reconnaissance Orbiter (LRO), scientists have discovered <strong>the biggest newly formed impact crater ever discovered in the Solar System</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The 2066 Harmony",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Melbourne harbour scene weaving together Australia's 2066 demographic projections, UN Security Council bid, and healthcare breakthroughs. Diverse Australian figures share a space with symbolic motifs for Alzheimer's research and lunar discovery, celebrating national unity and future stability.",
+      "prompt": "Painterly fine-art surrealist view of Melbourne harbour at dusk, Leonora Carrington style. Diverse Australian figures in 2024 fashion gather around a glowing table. Hybrid creatures blend with eucalyptus. Symbolic objects represent 3D DNA, lunar craters, and UN diplomacy. Warm oil pigment, visible brushwork, alchemical kitchen logic, precise weird narrative, no digital cameras. Unified Australian scene weaving together these themes: Demographic Futures & Policy, Community Care & Resilience, Scientific Breakthroughs, International Diplomacy, Sports Excellence, Healthcare Access. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 531564387,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/01.png style=flux_klein size=896x1152 seed=531564387 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Wimmera Resilience",
+      "tone": "news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "In the Wimmera region, Victorian advocates push for expanded mental health services. This painting depicts a local community gathering in a red dirt square, highlighting the need for local access to support those facing high rates of illness, rendered with human dignity and care.",
+      "prompt": "Painterly fine-art scene in Wimmera red dirt, Leonora Carrington style. Victorian community in 1978 fashion sits in a circle. Hybrid creatures emerge from eucalyptus scrub. Warm oil pigment, visible brushwork. Alchemical kitchen logic. Precise weird narrative. No digital cameras. Focus on local resilience and mental health access, human dignity, no gore. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1197776515,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/02.png style=flux_klein size=896x1152 seed=1197776515 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "The Rollers' Victory",
+      "tone": "good_news",
+      "fashionYear": "1994",
+      "emailHero": false,
+      "description": "Celebrating Australia's Rollers winning the IWBF World Championship. This artwork shows the team in a Sydney park, holding a trophy that transforms into a hybrid creature. The scene captures athletic excellence and national pride, with 1994 fashion cues and a surreal, celebratory atmosphere.",
+      "prompt": "Painterly fine-art scene in Sydney park, Leonora Carrington style. Australian wheelchair athletes in 1994 fashion hold a trophy becoming a hybrid creature. Eucalyptus trees frame the scene. Warm oil pigment, visible brushwork. Alchemical kitchen logic. Precise weird narrative. No digital cameras. Celebrate athletic excellence, national pride, and unity. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1894541166,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/03.png style=flux_klein size=896x1152 seed=1894541166 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Alzheimer's Breakthrough",
+      "tone": "good_news",
+      "fashionYear": "1952",
+      "emailHero": false,
+      "description": "Scientists discover 3D DNA organization is disrupted in Alzheimer's cells. This painting visualizes the breakthrough in a Brisbane lab, with a researcher observing a glowing, structured DNA model. The scene opens new paths for treatment, rendered with wonder and scientific curiosity.",
+      "prompt": "Painterly fine-art scene in Brisbane lab, Leonora Carrington style. Researcher in 1952 fashion observes a glowing 3D DNA model. Hybrid creatures float in the background. Warm oil pigment, visible brushwork. Alchemical kitchen logic. Precise weird narrative. No digital cameras. Focus on scientific breakthrough, wonder, and medical progress. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 1884272002,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/04.png style=flux_klein size=896x1152 seed=1884272002 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Lunar Crater Discovery",
+      "tone": "good_news",
+      "fashionYear": "1912",
+      "emailHero": false,
+      "description": "NASA identifies the largest newly formed impact crater in the Solar System. This artwork shows an astronomer in a Perth observatory, gazing at a telescope that reveals a surreal lunar landscape. The scene advances our understanding of lunar geology, rendered with awe and discovery.",
+      "prompt": "Painterly fine-art scene in Perth observatory, Leonora Carrington style. Astronomer in 1912 fashion gazes at a telescope revealing a surreal lunar landscape. Hybrid creatures blend with the stars. Warm oil pigment, visible brushwork. Alchemical kitchen logic. Precise weird narrative. No digital cameras. Focus on discovery, awe, and lunar geology. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1797563684,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/05.png style=flux_klein size=896x1152 seed=1797563684 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Alzheimer's DNA Map",
+      "tone": "good_news",
+      "fashionYear": "1988",
+      "emailHero": false,
+      "description": "Alzheimer's DNA Map takes on the day’s Sports Excellence thread, translating the news into a single visual moment. On the ground, community resilience and care are taking center stage. Prime Minister Anthony Albanese is leveraging this context to launch Australia’s bid for a United Nations Security Council seat, emphasizing the nation’s reputation for stability and international cooperation while advocating for human-centric AI governance. The composition keeps the human stakes of Sports Excellence in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art surrealist canvas. Aboriginal Australian woman in 1988 attire studies a glowing, alchemical DNA helix in a Melbourne lab. Eucalyptus shadows blend with pigment. Precise weird narrative. No digital camera. No text. No logos. No US faces. No sports action. No Swiss grid.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 613976770,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/06.png style=flux_klein size=896x1152 seed=613976770 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Lunar Crater Discovery",
+      "tone": "good_news",
+      "fashionYear": "1965",
+      "emailHero": false,
+      "description": "Lunar Crater Discovery takes on the day’s Sports Excellence thread, translating the news into a single visual moment. Prime Minister Anthony Albanese is leveraging this context to launch Australia’s bid for a United Nations Security Council seat, emphasizing the nation’s reputation for stability and international cooperation while advocating for human-centric AI governance. On the ground, community resilience and care are taking center stage. The composition keeps the human stakes of Sports Excellence in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art surrealist canvas. Mediterranean-Australian man in 1965 clothing peers through a telescope in outback scrub. He sees a surreal, hybrid lunar landscape. Alchemical kitchen logic. Eucalyptus pigment. No digital camera. No text. No logos. No US faces. No sports action. No Swiss grid. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 2099502570,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/07.png style=flux_klein size=896x1152 seed=2099502570 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Space Rehab Chairs",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Space Rehab Chairs takes on the day’s Sports Excellence thread, translating the news into a single visual moment. Prime Minister Anthony Albanese is leveraging this context to launch Australia’s bid for a United Nations Security Council seat, emphasizing the nation’s reputation for stability and international cooperation while advocating for human-centric AI governance. On the ground, community resilience and care are taking center stage. The composition keeps the human stakes of Sports Excellence in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art surrealist canvas. Pacific-Australian patient in 1998 sportswear uses a vibrating rehab chair in a Sydney hospital. The device glows with surreal, alchemical energy. Eucalyptus pigment. No digital camera. No text. No logos. No US faces. No sports action. No Swiss grid. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 414384337,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/08.png style=flux_klein size=896x1152 seed=414384337 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Wimmera Mental Health",
+      "tone": "news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Wimmera Mental Health takes on the day’s Sports Excellence thread, translating the news into a single visual moment. Calls grow for mental health service in Victorian town. In Victoria, advocates are pushing for expanded mental health services in the Wimmera region, highlighting the need for local access to support those with high rates of illness. The composition keeps the human stakes of Sports Excellence in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art surrealist canvas. Diverse Australian group in 2015 casual wear gathers in a Victorian country town. They share tea in a surreal, hybrid kitchen. Eucalyptus pigment. No digital camera. No text. No logos. No US faces. No sports action. No Swiss grid. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 906596943,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/09.png style=flux_klein size=896x1152 seed=906596943 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "UN Security Council Bid",
+      "tone": "news",
+      "fashionYear": "2028",
+      "emailHero": false,
+      "description": "UN Security Council Bid takes on the day’s Sports Excellence thread, translating the news into a single visual moment. Prime Minister Anthony Albanese is leveraging this context to launch Australia’s bid for a United Nations Security Council seat, emphasizing the nation’s reputation for stability and international cooperation while advocating for human-centric AI governance. On the ground, community resilience and care are taking center stage. The composition keeps the human stakes of Sports Excellence in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art surrealist canvas. Modern Australian diplomat in 2028 formal wear stands before a surreal, alchemical globe in a Sydney harbour setting. Eucalyptus pigment. No digital camera. No text. No logos. No US faces. No sports action. No Swiss grid. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1579426443,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-21/10.png style=flux_klein size=896x1152 seed=1579426443 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
