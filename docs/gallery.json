@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-22",
+      "artist": {
+        "id": "varo",
+        "name": "Remedios Varo",
+        "era": "20th c. ES/MX",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "surrealism",
+          "latin-america",
+          "europe"
+        ],
+        "bio": "María de los Remedios Alicia Rodriga Varo y Uranga was a Spanish surrealist painter, writer, and graphic artist. Her work features Surrealist worlds, where science, mysticism, and magic mix together.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Photo_of_Remedios_Varo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "AI Regulation & Innovation",
+        "Intergenerational Economic Planning",
+        "Space Medicine & Health Tech",
+        "Community Resilience & Diaspora Care",
+        "Student Science Achievement",
+        "Environmental Stewardship"
+      ],
+      "summary": "Australia is navigating a complex economic and technological landscape, highlighted by the release of the seventh Intergenerational Report. This 40-year forecast outlines a future where Australians live longer and have fewer children, while also identifying opportunities in AI, renewable energy, and critical minerals. Concurrently, the government is pushing for tougher AI regulation during Prime Minister Albanese’s US visit, signaling a commitment to responsible innovation. Domestically, there is a focus on community resilience, such as the Victorian Tree of the Year competition celebrating regional green spaces, and efforts to improve emergency services through a Senate inquiry into the Triple Zero system.\n\nOn the international stage, scientific collaboration remains a key driver of progress. The Australian Academy of Science has secured significant funding through its association with Horizon Europe, boosting innovation and resilience amid geopolitical uncertainty. Meanwhile, the field of space medicine continues to yield practical benefits for Earth, with technologies developed for astronauts—such as remote diagnostics and rehabilitation tools—being adapted for hospitals and remote communities. These advancements underscore how extreme environments can catalyze medical breakthroughs that improve healthcare delivery globally.\n\nCultural and human interest stories also provide a hopeful counterpoint to global challenges. In Liberia, diaspora members are stepping in to fill gaps in a healthcare system strained by Ebola and funding cuts, demonstrating the power of community solidarity and care. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. These stories collectively emphasize agency, scientific ingenuity, and the enduring human capacity to support one another through both technological and social transitions.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Intergenerational Laboratory",
+          "tone": "good_news",
+          "fashionYear": "1925",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Intergenerational Laboratory is today’s cover piece — one Australian scene that weaves together AI Regulation & Innovation, Intergenerational Economic Planning, Space Medicine & Health Tech, Community Resilience & Diaspora Care, Student Science Achievement, and Environmental Stewardship. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. Domestically, there is a focus on community resilience, such as the Victorian Tree of the Year competition celebrating regional green spaces, and efforts to improve emergency services through a Senate inquiry into the Triple Zero system. The Australian Academy of Science has secured significant funding through its association with Horizon Europe, boosting innovation and resilience amid geopolitical uncertainty. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Remedios Varo style, 1925 fashion. Australian outback. Unified scene: diverse Australians in 1925 suits tend tower labs, tree guardians, medical chairs. Symbolic motifs for AI, space tech, community care. Eucalyptus scrub, red earth. Delicate fantasy engineering, mystical craft. Soft light, pigment on canvas. Unified Australian scene weaving together these themes: AI Regulation & Innovation, Intergenerational Economic Planning, Space Medicine & Health Tech, Community Resilience & Diaspora Care, Student Science Achievement, Environmental Stewardship. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Orbital Rehabilitation in the Bush",
+          "tone": "good_news",
+          "fashionYear": "1965",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Orbital Rehabilitation in the Bush answers a strand of today’s news with a focused visual reading. Meanwhile, the field of space medicine continues to yield practical benefits for Earth, with technologies developed for astronauts—such as remote diagnostics and rehabilitation tools—being adapted for hospitals and remote communities. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Varo style, 1965 fashion. Australian bush. Aboriginal Australians in 1965 clothing use vibrating rehab chairs. Eucalyptus scrub, red earth. Scientific witch aesthetic, delicate fantasy engineering. Mystical craft, soft light. Pigment on canvas, brushwork visible. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Guardians of the Victorian Canopy",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Guardians of the Victorian Canopy answers a strand of today’s news with a focused visual reading. Domestically, there is a focus on community resilience, such as the Victorian Tree of the Year competition celebrating regional green spaces, and efforts to improve emergency services through a Senate inquiry into the Triple Zero system. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Varo style, 1995 fashion. Melbourne. Residents in 1995 clothes tend a messy tree. Regional green space, eucalyptus. Scientific witch aesthetic, delicate fantasy engineering. Mystical craft, soft light. Pigment on canvas, brushwork visible. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Medals of the Mind",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Medals of the Mind answers a strand of today’s news with a focused visual reading. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. Australian Science Innovations: 266 Students Earn 182 Medals. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Varo style, 2010 fashion. Sydney. Students in 2010 clothes receive medals. Tower lab, eucalyptus. Scientific witch aesthetic, delicate fantasy engineering. Mystical craft, soft light. Pigment on canvas, brushwork visible. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Diaspora Healing in the Harbour",
+          "tone": "news",
+          "fashionYear": "2023",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Diaspora Healing in the Harbour takes on the day’s Community Resilience & Diaspora Care thread, translating the news into a single visual moment. In Australia, the focus on student achievement through programs like Australian Science Innovations, where students have earned hundreds of medals, highlights the nation's investment in future generations. Australian Science Innovations: 266 Students Earn 182 Medals. The composition keeps the human stakes of Community Resilience & Diaspora Care in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Varo style, 2023 fashion. Sydney Harbour. Multicultural Australians in 2023 clothes provide care. Eucalyptus, water. Scientific witch aesthetic, delicate fantasy engineering. Mystical craft, soft light. Pigment on canvas, brushwork visible. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "The Horizon Engine",
+          "tone": "good_news",
+          "fashionYear": "1948",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "This painting visualizes the Australian Academy of Science securing Horizon Europe funding. A diverse group of Australian researchers in 1948 attire gathers around a glowing, intricate laboratory device in a Melbourne bushland setting, symbolizing the unlock of international partnership and innovation resilience.",
+          "prompt": "Painterly fine-art, Remedios Varo style, scientific witches in a Melbourne eucalyptus clearing. 1948 fashion: tailored wool suits, pillbox hats. Diverse Australian faces (Aboriginal, Anglo, Asian) operate a delicate brass and glass 'Horizon Engine' emitting soft gold light. Visible brushwork, rich pigment, mystical craft, no digital camera, no text, no logos. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 7,
+          "title": "Reef Diagnostics",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Inspired by space medicine adapting to Earth, this scene shows a remote Northern Territory clinic. A medical team in 1985 casual wear uses a futuristic, vibrating rehabilitation chair derived from astronaut tech, helping a local patient, highlighting how extreme-environment breakthroughs now support regional Australian healthcare.",
+          "prompt": "Painterly fine-art, Remedios Varo style, tower laboratory in a Darwin coastal station. 1985 fashion: denim, windbreakers. Indigenous Australian patient in a delicate, vibrating 'Orbital Chair' emitting blue light. Doctors in period attire observe. Visible canvas texture, soft pastel pigments, mystical engineering, no photoreal CGI, no readable text, no gore. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Canopy Engineers",
+          "tone": "good_news",
+          "fashionYear": "1932",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Reflecting the Victorian Tree of the Year competition, this artwork depicts a 'messy but beautiful' gum tree in a regional Victorian park. Community volunteers in 1932 vintage clothing tend the roots, celebrating environmental stewardship and the recognition of regional green spaces as vital community assets.",
+          "prompt": "Painterly fine-art, Remedios Varo style, mystical craft in a Victorian river gum forest. 1932 fashion: long wool dresses, flat caps. Diverse Australian volunteers (Aboriginal, Anglo) tend a gnarled tree with delicate, glowing root structures. Visible brushwork, earthy pigment, conservation wonder, no digital camera, no logos, no text."
+        },
+        {
+          "index": 9,
+          "title": "Medal Forge",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Celebrating 182 medals in Australian science competitions, this scene shows students in a suburban Melbourne workshop. In 1968 fashion, they assemble intricate, medal-like mechanisms, symbolizing the nation's investment in future generations and the tangible rewards of scientific ingenuity and mentorship.",
+          "prompt": "Painterly fine-art, Remedios Varo style, delicate fantasy engineering in a Melbourne suburban garage. 1968 fashion: bell-bottoms, t-shirts. Diverse Australian students (Aboriginal, Asian, Anglo) craft glowing, medal-shaped devices. Visible canvas texture, warm pigment, student achievement, no photoreal CGI, no readable text, no logos. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Harbour Solidarity",
+          "tone": "news",
+          "fashionYear": "1955",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Translating the Liberian diaspora healthcare story into an Australian frame, this painting shows a Sydney harbour community. In 1955 fashion, neighbors share medical supplies and care, demonstrating community resilience and the enduring human capacity to support one another through social and health transitions.",
+          "prompt": "Painterly fine-art, Remedios Varo style, mystical craft in a Sydney harbour dock. 1955 fashion: tailored suits, hats. Multicultural Australian community shares glowing, medicinal vials. Visible brushwork, soft pigment, community solidarity, no digital camera, no gore, no partisan caricature, no text, no logos."
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "artist": {
         "id": "carrington",
