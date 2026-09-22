@@ -1,0 +1,389 @@
+{
+  "date": "2026-09-23",
+  "artist": {
+    "id": "anita_malfatti",
+    "name": "Anita Malfatti",
+    "era": "20th c. BR",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "modernism",
+      "latin-america"
+    ],
+    "bio": "Anita Catarina Malfatti was a Brazilian artist. She is heralded as the first one to introduce European and American forms of Modernism to Brazil. Her solo exhibition in São Paulo, in 1917–1918, was controversial at the time, and her expressionist style and subjects were revolutionary for the complacently old-fashioned art expectations of Brazilians who were searching for a national identity in art, but who were not prepared for the influences Malfatti would bring to the country. Malfatti's presence was also highly felt during the Week of Modern Art in 1922, where she and the Group of Five made huge revolutionary changes in the structure and response to modern art in Brazil.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Anita_Malfatti_jovem_%281912%29.jpg/330px-Anita_Malfatti_jovem_%281912%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australian leadership is taking centre stage in global conversations about technology and security. Prime Minister Anthony Albanese has urged international cooperation to manage the risks of artificial intelligence, arguing that no single nation can tackle these challenges alone. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. Simultaneously, Australia is advancing its strategic partnerships, with the UK praising a jointly developed torpedo with the US as a major advance in submarine technology, while the Prime Minister formally launches Australia’s bid for a United Nations Security Council seat.\n\nIn the realm of culture and community, Australian creativity is flourishing. Bestselling author Meg Mason, who is New Zealand-born but Australian-based, is following up her breakout success with a new novel exploring the dynamics of meeting an idol. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. This spirit of solidarity is further reflected in recent research from UNSW, which explores the role of international solidarity in global disaster response, reinforcing the idea that collective action is key to recovery.\n\nInternationally, scientific breakthroughs are offering hope for the future of medicine and sustainability. Researchers are making significant strides in understanding how the brain protects cognition during aging and how cells live and die, with applications for fighting cancer and autoimmune conditions. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. These advancements, alongside archaeological discoveries in Russia and studies on neural tissue growth, underscore a global commitment to using science for human benefit and environmental stewardship.",
+  "themes": [
+    "Australian AI Diplomacy",
+    "Community Resilience",
+    "Scientific Breakthroughs",
+    "Cultural Creativity",
+    "Strategic Partnerships",
+    "Environmental Innovation"
+  ],
+  "headlines": [
+    {
+      "title": "Albanese calls for leaders to come together to tackle risks of AI",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Australian data centre funding surges to record $35 billion",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "UK praises US-Australia torpedo development as major advance",
+      "url": "https://www.abc.net.au/news/australia"
+    },
+    {
+      "title": "Meg Mason follows up Sorrow and Bliss with new novel",
+      "url": "https://www.abc.net.au/sydney/news"
+    },
+    {
+      "title": "Citizen search for Nannup Four gets underway in WA",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Scientists discover brain’s short-range wiring protects cognition",
+      "url": "https://sciencedaily.com/"
+    },
+    {
+      "title": "New book explores the role of solidarity in global disaster response",
+      "url": "https://www.unsw.edu.au/news/2026/09/new-book-explores-the-role-of-solidarity-in-global-disaster-resp"
+    },
+    {
+      "title": "Researchers harness cell discoveries to fight cancer and autoimmune conditions",
+      "url": "https://www.nature.com/news"
+    },
+    {
+      "title": "Archaeologists discover two-sided pendant in northwestern Russia",
+      "url": "https://www.livescience.com/news"
+    },
+    {
+      "title": "Ability to grow targeted neurological tissue opens pathways for ALS research",
+      "url": "https://www.ico-optics.org/breakthrough-science-discoveries-unveiled-today-3/"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Albanese calls for global cooperation on AI risks",
+      "url": "https://www.abc.net.au/news/justin",
+      "angle": "Australian leadership is fostering international dialogue to ensure technology serves humanity safely."
+    },
+    {
+      "title": "Record $35 billion in Australian data centre funding",
+      "url": "https://www.abc.net.au/",
+      "angle": "A surge in investment highlights Australia's growing role in the global digital economy."
+    },
+    {
+      "title": "New research on solidarity in global disaster response",
+      "url": "https://www.unsw.edu.au/news/2026/09/new-book-explores-the-role-of-solidarity-in-global-disaster-resp",
+      "angle": "UNSW researchers are exploring how international cooperation can strengthen recovery efforts after crises."
+    },
+    {
+      "title": "Scientists discover brain wiring protects cognition in aging",
+      "url": "https://sciencedaily.com/",
+      "angle": "New insights into neural resilience offer hope for maintaining cognitive health as people age."
+    },
+    {
+      "title": "Breakthrough in methane conversion efficiency",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "angle": "Researchers have identified a more effective structure for chemical reactions, potentially aiding cleaner energy solutions."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "The New Zealand-born, Australian-based author follows up the surprise success of her breakout novel, Sorrow and Bliss, with a bittersweet look at what happens when you meet your idol. ... Analysis by Gareth HutchensWed 23 Sep 2026 at 6:48amWed 23 Sep 2026 at 6:48amWed 23 Sep 2026 at 6:48am",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Breaking News Headlines & World News Online | SMH.com.au",
+      "url": "https://www.smh.com.au/",
+      "snippet": "In a formal response issued by the US embassy in Canberra, the Trump administration said Australia’s proposed policy would likely lead to censorship of legitimate speech.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "9 Sept 2026 · <strong>The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under</strong>. 9 Sept 2026 ·",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:GardeningTue 22 Sep 2026 at 7:13amTue 22 Sep 2026 at 7:13amTue 22 Sep 2026 at 7:13am · <strong>A plan for Australians to use their superannuation to make it easier to secure a home loan is set to be floated by Shadow Housing Minister Andrew Bragg</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia News: Latest National Headlines, News Today and Breaking Stories | Nine.com.au",
+      "url": "https://www.nine.com.au/australia-news",
+      "snippet": "Stay updated with the latest news across Australia, with Nine.com.au. Live coverage of national politics, the economy, major crime and breaking stories from across the country.",
+      "source": "brave"
+    },
+    {
+      "title": "Media | Prime Minister of Australia",
+      "url": "https://www.pm.gov.au/media",
+      "snippet": "Monday 21 September 2026 · Media release · Monday 21 September 2026 · Transcript · Sunday 20 September 2026 · Transcript · Sunday 20 September 2026 · Transcript · Sunday 20 September 2026 · Media release · Saturday 19 September 2026 · Transcript ·",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - ABC News",
+      "url": "https://www.abc.net.au/news/australia",
+      "snippet": "The UK government says the launch of a heavyweight torpedo, jointly developed by the US and Australia, &quot;marks a major advance in the future of submarine technology&quot;.",
+      "source": "brave"
+    },
+    {
+      "title": "Trump's bans media outlets, Earl Spencer speaks | ABC News Top Stories - ABC listen",
+      "url": "https://www.abc.net.au/listen/programs/abc-news-top-stories/australia-un-trump-media-shark-attack-latest-news-just-in/107171950",
+      "snippet": "<strong>The Prime Minister is set to formally launch Australia&#x27;s bid for a seat on the United Nations Security Council</strong>. Several beaches remain closed in Perth after a man was killed by a shark off Sorrento in the city&#x27;s north.",
+      "source": "brave"
+    },
+    {
+      "title": "World News - ABC News",
+      "url": "https://www.abc.net.au/news/world",
+      "snippet": "The ABC language services provide trusted news, analysis, features, and multimedia content to people in Australia and internationally. ... The lawyer representing the family of a teenager whose body was found on an island off the Mississippi coast says the grand jury&#x27;s decision to not indict anyone does not resolve how he died. Topic:Law, Crime and JusticeTue 22 Sep 2026 at 6:12pmTue 22 Sep 2026 at 6:12pmTue 22 Sep 2026 at 6:12pm",
+      "source": "brave"
+    },
+    {
+      "title": "News - ABC Sydney",
+      "url": "https://www.abc.net.au/sydney/news",
+      "snippet": "Published: Mon 21 Sep 2026 at 7:56pmMon ... · <strong>Authorities across Australia&#x27;s east coast are cracking down on the fishing black market, conducting raids, issuing large fines and crushing boats soon after they seize them</strong>...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia science innovation community news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+science+innovation+community+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://sciencedaily.com/",
+      "snippet": "The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of ... ... Sep. 14, 2026  Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "Scientists are poking holes in established ideas about how cells live and die, and are harnessing these discoveries to fight diseases from cancer to autoimmune conditions.",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>Archaeologists discovered the two-sided pendant, which features a snake-slaying saint and a snake-haired woman</strong>, during an excavation in northwestern Russia. ... &#x27;At some point we&#x27;re going to have to react&#x27;: How El Niño, climate change, and ...",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "9, 2026  Scientists found that <strong>a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "The latest science news. Publishing independent, fact-checked reporting on health, space, nature, technology, and the environment.",
+      "source": "brave"
+    },
+    {
+      "title": "Breakthrough Science Discoveries Unveiled Today – ICO Optics",
+      "url": "https://www.ico-optics.org/breakthrough-science-discoveries-unveiled-today-3/",
+      "snippet": "<strong>The ability to grow targeted neurological tissue opens unprecedented pathways for studying degenerative conditions like ALS and spinal muscular atrophy</strong>. Medical professionals hope these models will accelerate therapeutic drug discovery.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | How does social capital facilitate community disaster resilience? A systematic review",
+      "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1496813/full",
+      "snippet": "Scholars are increasingly directing their attention toward the positive effects of social capital on enhancing community disaster resilience (Aldrich and Meyer, 2015; Carmen et al., 2022; Liu et al., 2022). Social capital can promote community cohesion, thus strengthening the capacity of communities to respond to emergencies, including information, search and rescue, sheltering, child care, financial resources, and emotional support (Aldrich and Meyer, 2015).",
+      "source": "brave"
+    },
+    {
+      "title": "ICE, strained budgets and community resilience piqued Northfield's interest in 2025 | News | southernminn.com",
+      "url": "https://www.southernminn.com/northfield_news/news/ice-strained-budgets-and-community-resilience-piqued-northfields-interest-in-2025/article_520afed0-4669-4708-bede-6912e33a0a67.html",
+      "snippet": "Although 2025 came with a hefty helping of uncertainty and instability on many fronts, <strong>the top-100 headlines from the Northfield News this year appeared to demonstrate a sense of solidarity and cohesion throughout the community</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "AJEM January 2025 - Embedding humanity in building sustainable community disaster resilience in Australia: a humanistic communication perspective | Australian Disaster Resilience Knowledge Hub",
+      "url": "https://knowledge.aidr.org.au/resources/ajem-january-2025-embedding-humanity-in-building-sustainable-community-disaster-resilience-in-australia-a-humanistic-communication-perspective/",
+      "snippet": "While existing approaches to build community resilience are based on a rational and functional model, this paper argues that a conception of humanity, based on key principles of connectivity, diversity and interactivity, should be embedded in communications throughout emergencies and disaster events (e.g.",
+      "source": "brave"
+    },
+    {
+      "title": "Resilience in Action: How Communities Thrive After Cyclones",
+      "url": "https://tagg.com.au/resilience-in-action-how-communities-thrive-after-cyclones/",
+      "snippet": "<strong>The recent Cyclone Alfred demonstrated yet again how collective action, proactive measures, and community solidarity can profoundly influence the speed and success of recovery and rebuilding efforts</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Community solidarity after the floods - Friends of the Earth Australia",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods",
+      "snippet": "Koala Rescue QLD &quot;We need your urgent help as the floods continue to cause havoc for our rescue.",
+      "source": "brave"
+    },
+    {
+      "title": "New book explores the role of solidarity in global disaster response",
+      "url": "https://www.unsw.edu.au/news/2026/09/new-book-explores-the-role-of-solidarity-in-global-disaster-resp",
+      "snippet": "New research from the Kaldor Centre&#x27;s Dr Thomas Mulder explores one of the most pressing questions facing the international community: if we take solidarity seriously, what do States owe one another when disasters strike · When disasters strike, the question is not only how countries respond, ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: positive news innovation medicine space environment restoration",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=positive+news+innovation+medicine+space+environment+restoration&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Digital Horizon",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Digital Horizon is today’s cover piece — one Australian scene that weaves together Australian AI Diplomacy, Community Resilience, Scientific Breakthroughs, Cultural Creativity, Strategic Partnerships, and Environmental Innovation. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. In the realm of culture and community, Australian creativity is flourishing. Australian data centre funding surges to record $35 billion. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, bold expressionist contours. Sydney harbour at dawn, 2024 fashion. Multicultural Australian figures discuss AI ethics near glowing data towers. Methane conversion structures and brain-resilience symbols float in air. Eucalyptus trees frame the scene. Vibrant pigments, visible brushwork, unified composition. Unified Australian scene weaving together these themes: Australian AI Diplomacy, Community Resilience, Scientific Breakthroughs, Cultural Creativity, Strategic Partnerships, Environmental Innovation. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1877655037,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/01.png style=flux_klein size=896x1152 seed=1877655037 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Nannup Resilience",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Nannup Resilience takes on the day’s Community Resilience thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. Citizen search for Nannup Four gets underway in WA. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, thick impasto. Western Australian eucalyptus scrub, 1998 fashion. Aboriginal Australian volunteers and Anglo-Celtic locals search bushland. Dignified, focused faces. Warm red earth, green leaves. Bold contour lines. Visible pigment texture. Community resilience theme. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1187112671,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/02.png style=flux_klein size=896x1152 seed=1187112671 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Neural Hope",
+      "tone": "good_news",
+      "fashionYear": "1975",
+      "emailHero": false,
+      "description": "Neural Hope takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. These advancements, alongside archaeological discoveries in Russia and studies on neural tissue growth, underscore a global commitment to using science for human benefit and environmental stewardship. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, vibrant color field. Melbourne university interior, 1975 fashion. Diverse Australian students examine glowing neural diagrams. Bright yellow and blue pigments. Bold, expressive brushstrokes. Scientific wonder. No digital screens. Canvas texture visible. Focus on human ingenuity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 778633659,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/03.png style=flux_klein size=896x1152 seed=778633659 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Clean Energy Dawn",
+      "tone": "good_news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Clean Energy Dawn takes on the day’s Environmental Innovation thread, translating the news into a single visual moment. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Environmental Innovation in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, dynamic brushwork. Queensland research lab, 2010 fashion. Asian-Australian scientists observe atomic structures. Green and orange pigments symbolize clean energy. Bold contours. Visible paint texture. Environmental innovation theme. No digital interfaces. Human-centered discovery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 925940804,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/04.png style=flux_klein size=896x1152 seed=925940804 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Strategic Alliance",
+      "tone": "news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Strategic Alliance takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. Simultaneously, Australia is advancing its strategic partnerships, with the UK praising a jointly developed torpedo with the US as a major advance in submarine technology, while the Prime Minister formally launches Australia’s bid for a United Nations Security Council seat. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, somber yet bold. Canberra government building, 1962 fashion. Anglo-Celtic diplomats in suits discuss strategy. Dark blue and grey pigments. Thick, expressive strokes. Bold contour lines. Strategic partnership theme. No logos. Human diplomacy focus. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 2128819853,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/05.png style=flux_klein size=896x1152 seed=2128819853 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Harbour Solidarity takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the realm of culture and community, Australian creativity is flourishing. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Sydney Harbour, 1985 fashion, diverse Australian faces, volunteers rebuilding together. Warm pigment, canvas texture, no digital cameras, no photoreal CGI, no Whistler softness. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 192606017,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/06.png style=flux_klein size=896x1152 seed=192606017 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Bushland Search",
+      "tone": "news",
+      "fashionYear": "1992",
+      "emailHero": false,
+      "description": "Bushland Search takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. Researchers harness cell discoveries to fight cancer and autoimmune conditions. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Western Australian bushland, 1992 fashion, Aboriginal Australian searchers, eucalyptus scrub. Dignified, no sacred imagery, warm pigment, canvas texture, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1171949741,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/07.png style=flux_klein size=896x1152 seed=1171949741 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Data Centre Dawn",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "Data Centre Dawn takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. Australian data centre funding surges to record $35 billion. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Melbourne skyline, 2015 fashion, diverse professionals, glowing data centres. Bright pigment, canvas texture, no digital cameras, no photoreal CGI, no Whistler softness. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 1169079571,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/08.png style=flux_klein size=896x1152 seed=1169079571 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Neural Resilience",
+      "tone": "good_news",
+      "fashionYear": "2021",
+      "emailHero": false,
+      "description": "Neural Resilience takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the realm of culture and community, Australian creativity is flourishing. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Brisbane rainforest, 2021 fashion, elderly Aboriginal woman, vibrant green pigment. Dignified, no sacred imagery, canvas texture, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 2018746615,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/09.png style=flux_klein size=896x1152 seed=2018746615 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Clean Energy Reef",
+      "tone": "good_news",
+      "fashionYear": "2023",
+      "emailHero": false,
+      "description": "Clean Energy Reef takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Coral reef, 2023 fashion, Asian-Australian scientists, blue and green pigment. Bright, no digital cameras, no photoreal CGI, no Whistler softness, no Persian gardens. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1610144596,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-23/10.png style=flux_klein size=896x1152 seed=1610144596 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}

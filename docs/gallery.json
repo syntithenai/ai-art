@@ -2,6 +2,139 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-23",
+      "artist": {
+        "id": "anita_malfatti",
+        "name": "Anita Malfatti",
+        "era": "20th c. BR",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "modernism",
+          "latin-america"
+        ],
+        "bio": "Anita Catarina Malfatti was a Brazilian artist. She is heralded as the first one to introduce European and American forms of Modernism to Brazil. Her solo exhibition in São Paulo, in 1917–1918, was controversial at the time, and her expressionist style and subjects were revolutionary for the complacently old-fashioned art expectations of Brazilians who were searching for a national identity in art, but who were not prepared for the influences Malfatti would bring to the country. Malfatti's presence was also highly felt during the Week of Modern Art in 1922, where she and the Group of Five made huge revolutionary changes in the structure and response to modern art in Brazil.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Anita_Malfatti_jovem_%281912%29.jpg/330px-Anita_Malfatti_jovem_%281912%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Australian AI Diplomacy",
+        "Community Resilience",
+        "Scientific Breakthroughs",
+        "Cultural Creativity",
+        "Strategic Partnerships",
+        "Environmental Innovation"
+      ],
+      "summary": "Australian leadership is taking centre stage in global conversations about technology and security. Prime Minister Anthony Albanese has urged international cooperation to manage the risks of artificial intelligence, arguing that no single nation can tackle these challenges alone. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. Simultaneously, Australia is advancing its strategic partnerships, with the UK praising a jointly developed torpedo with the US as a major advance in submarine technology, while the Prime Minister formally launches Australia’s bid for a United Nations Security Council seat.\n\nIn the realm of culture and community, Australian creativity is flourishing. Bestselling author Meg Mason, who is New Zealand-born but Australian-based, is following up her breakout success with a new novel exploring the dynamics of meeting an idol. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. This spirit of solidarity is further reflected in recent research from UNSW, which explores the role of international solidarity in global disaster response, reinforcing the idea that collective action is key to recovery.\n\nInternationally, scientific breakthroughs are offering hope for the future of medicine and sustainability. Researchers are making significant strides in understanding how the brain protects cognition during aging and how cells live and die, with applications for fighting cancer and autoimmune conditions. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. These advancements, alongside archaeological discoveries in Russia and studies on neural tissue growth, underscore a global commitment to using science for human benefit and environmental stewardship.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Digital Horizon",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Digital Horizon is today’s cover piece — one Australian scene that weaves together Australian AI Diplomacy, Community Resilience, Scientific Breakthroughs, Cultural Creativity, Strategic Partnerships, and Environmental Innovation. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. In the realm of culture and community, Australian creativity is flourishing. Australian data centre funding surges to record $35 billion. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, bold expressionist contours. Sydney harbour at dawn, 2024 fashion. Multicultural Australian figures discuss AI ethics near glowing data towers. Methane conversion structures and brain-resilience symbols float in air. Eucalyptus trees frame the scene. Vibrant pigments, visible brushwork, unified composition. Unified Australian scene weaving together these themes: Australian AI Diplomacy, Community Resilience, Scientific Breakthroughs, Cultural Creativity, Strategic Partnerships, Environmental Innovation. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Nannup Resilience",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Nannup Resilience takes on the day’s Community Resilience thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. Citizen search for Nannup Four gets underway in WA. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, thick impasto. Western Australian eucalyptus scrub, 1998 fashion. Aboriginal Australian volunteers and Anglo-Celtic locals search bushland. Dignified, focused faces. Warm red earth, green leaves. Bold contour lines. Visible pigment texture. Community resilience theme. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Neural Hope",
+          "tone": "good_news",
+          "fashionYear": "1975",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Neural Hope takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. These advancements, alongside archaeological discoveries in Russia and studies on neural tissue growth, underscore a global commitment to using science for human benefit and environmental stewardship. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, vibrant color field. Melbourne university interior, 1975 fashion. Diverse Australian students examine glowing neural diagrams. Bright yellow and blue pigments. Bold, expressive brushstrokes. Scientific wonder. No digital screens. Canvas texture visible. Focus on human ingenuity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Clean Energy Dawn",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Clean Energy Dawn takes on the day’s Environmental Innovation thread, translating the news into a single visual moment. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Environmental Innovation in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, dynamic brushwork. Queensland research lab, 2010 fashion. Asian-Australian scientists observe atomic structures. Green and orange pigments symbolize clean energy. Bold contours. Visible paint texture. Environmental innovation theme. No digital interfaces. Human-centered discovery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Strategic Alliance",
+          "tone": "news",
+          "fashionYear": "1962",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Strategic Alliance takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. Simultaneously, Australia is advancing its strategic partnerships, with the UK praising a jointly developed torpedo with the US as a major advance in submarine technology, while the Prime Minister formally launches Australia’s bid for a United Nations Security Council seat. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, somber yet bold. Canberra government building, 1962 fashion. Anglo-Celtic diplomats in suits discuss strategy. Dark blue and grey pigments. Thick, expressive strokes. Bold contour lines. Strategic partnership theme. No logos. Human diplomacy focus. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Harbour Solidarity",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Harbour Solidarity takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the realm of culture and community, Australian creativity is flourishing. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Sydney Harbour, 1985 fashion, diverse Australian faces, volunteers rebuilding together. Warm pigment, canvas texture, no digital cameras, no photoreal CGI, no Whistler softness. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Bushland Search",
+          "tone": "news",
+          "fashionYear": "1992",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Bushland Search takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. Researchers harness cell discoveries to fight cancer and autoimmune conditions. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Western Australian bushland, 1992 fashion, Aboriginal Australian searchers, eucalyptus scrub. Dignified, no sacred imagery, warm pigment, canvas texture, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Data Centre Dawn",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Data Centre Dawn takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. This diplomatic push coincides with a record $35 billion in funding for Australian data centres, highlighting the country's growing role in the digital economy. Australian data centre funding surges to record $35 billion. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Melbourne skyline, 2015 fashion, diverse professionals, glowing data centres. Bright pigment, canvas texture, no digital cameras, no photoreal CGI, no Whistler softness. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Neural Resilience",
+          "tone": "good_news",
+          "fashionYear": "2021",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Neural Resilience takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the realm of culture and community, Australian creativity is flourishing. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Brisbane rainforest, 2021 fashion, elderly Aboriginal woman, vibrant green pigment. Dignified, no sacred imagery, canvas texture, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Clean Energy Reef",
+          "tone": "good_news",
+          "fashionYear": "2023",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Clean Energy Reef takes on the day’s Australian AI Diplomacy thread, translating the news into a single visual moment. On the ground, community resilience is evident in Western Australia, where volunteer searchers have begun scouring bushland for answers to the decades-old 'Nannup Four' missing persons case. In the environment, scientists have identified a more effective atomic structure for methane conversion, potentially aiding cleaner energy production. The composition keeps the human stakes of Australian AI Diplomacy in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, Anita Malfatti style, expressionist color portraits, bold contour, thick impasto brushwork. Coral reef, 2023 fashion, Asian-Australian scientists, blue and green pigment. Bright, no digital cameras, no photoreal CGI, no Whistler softness, no Persian gardens. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "artist": {
         "id": "varo",
