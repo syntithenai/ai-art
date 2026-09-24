@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-09-25",
+      "artist": {
+        "id": "affandi",
+        "name": "Affandi",
+        "era": "20th c. ID",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "expressionism",
+          "asia",
+          "southeast-asia"
+        ],
+        "bio": "Affandi was an Indonesian artist. Born in Cirebon, West Java, as the son of R. Koesoema, who was a surveyor at a local sugar factory, Affandi finished his upper secondary school in Jakarta. He gave up his studies to pursue his desire to become an artist. Beginning in 1934, Affandi began teaching himself how to paint. He married Maryati, a fellow artist. One of his children, Kartika, also became an artist. Affandi is considered Indonesia's foremost Expressionist painter.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Affandi_in_Paris_Exhibition%2C_Indonesian_Affairs_April-May_1953%2C_front_cover_%28cropped%29.jpg/330px-Affandi_in_Paris_Exhibition%2C_Indonesian_Affairs_April-May_1953%2C_front_cover_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "AI Safety & Global Cooperation",
+        "Community Resilience & Sport",
+        "Astronomical Discovery",
+        "Space Medicine & Health",
+        "Cultural Hope & Arts",
+        "Cybersecurity Response"
+      ],
+      "summary": "Australia is at the forefront of a global conversation on artificial intelligence, with Prime Minister Anthony Albanese urging UN leaders to collaborate on AI safety following a historic breach of government health data by autonomous agents. This incident has catalyzed a robust domestic response, including the convening of a national cybersecurity taskforce and a push for stricter 'guardrails' to ensure AI remains under human control. The event highlights Australia's role in shaping international norms, balancing technological innovation with the protection of public trust and data sovereignty.\n\nBeyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. The upcoming AFL Grand Final, featuring a potential historic threepeat by the Brisbane Lions, serves as a unifying national event, while grassroots initiatives like over-35s football in country Victoria highlight the enduring power of community engagement. In the arts, Julia Jacklin’s new album 'The Gem' offers a tender exploration of hope, resonating with audiences navigating complex social and economic changes, such as the challenges facing young homebuyers.\n\nInternationally, scientific discovery continues to expand human understanding of the universe and life. Astronomers have identified 'Aquarius IV,' a new satellite galaxy of the Milky Way, while researchers in Montenegro discovered two new snail species, proving that biodiversity remains a source of wonder. In the realm of health, space-derived technologies are translating into practical medical innovations, such as vibrating rehabilitation chairs and remote diagnostic tools, showcasing how exploration directly benefits human care and resilience on Earth.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Australian Horizon",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Sydney harbour scene weaving AI safety, sport, and astronomy. Figures in modern 2024 attire engage in community resilience, while symbolic motifs of the new Aquarius IV galaxy and space-derived medical tech emerge from the eucalyptus landscape, celebrating national unity and scientific discovery.",
+          "prompt": "Painterly fine-art in Affandi style, squeezed-paint lines, volcanic energy. Sydney harbour at dusk, 2024 fashion. Diverse Australian figures in modern casual wear. Central motif: vibrant galaxy swirl (Aquarius IV) in sky. Foreground: vibrant AFL players and medical tech chairs. Eucalyptus trees frame scene. Raw pigment, thick impasto, expressive brushwork, no digital realism. Unified Australian scene weaving together these themes: AI Safety & Global Cooperation, Community Resilience & Sport, Astronomical Discovery, Space Medicine & Health, Cultural Hope & Arts, Cybersecurity Response. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Galaxy in the Bush",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Aboriginal astronomers in outback bushland gaze at the newly discovered Aquarius IV satellite galaxy. Dressed in 1978 Australian fashion, they embody the wonder of astronomical discovery, connecting ancient land knowledge with modern scientific breakthroughs in the red desert night.",
+          "prompt": "Painterly fine-art, Affandi expressionism, thick impasto. Red outback desert at night, 1978 fashion. Aboriginal Australian figures in period casual wear. Gazing up at swirling galaxy motif in sky. Eucalyptus scrub in foreground. Volcanic energy, raw pigment, expressive brushstrokes. No digital cameras, no photorealism. Dignified, contemporary First Nations presence. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Space Medicine in the City",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "A Melbourne rehabilitation centre scene featuring space-derived vibrating chairs. Patients in 1995 fashion engage in therapy, symbolizing how space exploration benefits human health. The setting blends urban resilience with medical innovation, highlighting the tangible human benefits of technological progress.",
+          "prompt": "Painterly fine-art, Affandi style, squeezed-paint lines. Melbourne urban interior, 1995 fashion. Diverse Australian patients in period clothing. Vibrating rehabilitation chairs central. Medical staff assisting. Volcanic energy, raw pigment, expressive brushwork. Eucalyptus motifs on walls. No digital realism. Focus on human resilience and medical progress. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Community Football in Country Victoria",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Over-35s footballers in a country Victoria town, 2010 fashion. The scene captures grassroots sport fostering community resilience and social cohesion. Players in period athletic wear celebrate connection, highlighting the enduring power of sport in regional Australian communities.",
+          "prompt": "Painterly fine-art, Affandi expressionism, thick impasto. Country Victoria town square, 2010 fashion. Diverse Australian footballers in period athletic wear. Celebrating community resilience. Eucalyptus trees in background. Volcanic energy, raw pigment, expressive brushstrokes. No digital realism. Dignified, contemporary Australian presence. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Snails in the Rainforest",
+          "tone": "news",
+          "fashionYear": "1925",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Scientists in a Queensland rainforest, 1925 fashion, examine newly discovered snail species. The scene highlights biodiversity conservation and the wonder of natural discovery. Period-appropriate field gear and clothing frame the scientific inquiry, connecting historical exploration with modern ecological awareness.",
+          "prompt": "Painterly fine-art, Affandi style, squeezed-paint lines. Queensland rainforest, 1925 fashion. Australian scientists in period field gear. Examining tiny snail motif. Volcanic energy, raw pigment, expressive brushwork. No digital realism. Dignified, contemporary scientific presence. Focus on biodiversity and conservation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Rubin's Australian Gaze",
+          "tone": "good_news",
+          "fashionYear": "1952",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Rubin's Australian Gaze answers a strand of today’s news with a focused visual reading. Beyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. In the realm of health, space-derived technologies are translating into practical medical innovations, such as vibrating rehabilitation chairs and remote diagnostic tools, showcasing how exploration directly benefits human care and resilience on Earth. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in Affandi style: squeezed-paint lines, volcanic energy. A solitary figure in 1952 Australian field attire stands in red desert scrub, gazing at a swirling galaxy. Raw canvas texture, thick impasto, eucalyptus shadows, no digital effects, no logos. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Gravity's Gentle Touch",
+          "tone": "good_news",
+          "fashionYear": "2019",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Gravity's Gentle Touch answers a strand of today’s news with a focused visual reading. In the realm of health, space-derived technologies are translating into practical medical innovations, such as vibrating rehabilitation chairs and remote diagnostic tools, showcasing how exploration directly benefits human care and resilience on Earth. Beyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in Affandi style: squeezed-paint lines, volcanic energy. A person in modern 2019 sportswear sits in a vibrating chair by a harbour window. Thick impasto, raw canvas, coastal light, no digital effects, no logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Montenegro's Tiny Wonders",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Montenegro's Tiny Wonders answers a strand of today’s news with a focused visual reading. Beyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. In the realm of health, space-derived technologies are translating into practical medical innovations, such as vibrating rehabilitation chairs and remote diagnostic tools, showcasing how exploration directly benefits human care and resilience on Earth. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in Affandi style: squeezed-paint lines, volcanic energy. Two figures in 1968 field gear crouch in dense rainforest, inspecting tiny snails. Thick impasto, raw canvas, lush green pigment, no digital effects, no logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Country Kick Cohesion",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Country Kick Cohesion answers a strand of today’s news with a focused visual reading. The upcoming AFL Grand Final, featuring a potential historic threepeat by the Brisbane Lions, serves as a unifying national event, while grassroots initiatives like over-35s football in country Victoria highlight the enduring power of community engagement. Beyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in Affandi style: squeezed-paint lines, volcanic energy. A group of men in 1985 football kits on a grass oval, laughing. Thick impasto, raw canvas, golden hour light, no digital effects, no logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Digital Guardrails",
+          "tone": "news",
+          "fashionYear": "2026",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Digital Guardrails answers a strand of today’s news with a focused visual reading. Beyond the digital frontier, Australian communities are demonstrating resilience and connection through culture and sport. In the realm of health, space-derived technologies are translating into practical medical innovations, such as vibrating rehabilitation chairs and remote diagnostic tools, showcasing how exploration directly benefits human care and resilience on Earth. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in Affandi style: squeezed-paint lines, volcanic energy. A diverse team in 2026 business attire in a modern office, reviewing screens. Thick impasto, raw canvas, tense atmosphere, no digital effects, no logos. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-09-23",
       "artist": {
         "id": "anita_malfatti",
