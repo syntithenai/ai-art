@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-28",
+  "artist": {
+    "id": "victor_tan",
+    "name": "Victor Tan / SE Asian contemporary ink hybrid",
+    "era": "contemporary SG",
+    "renderMode": "painterly",
+    "aspectRatio": "3:4",
+    "tags": [
+      "contemporary",
+      "asia",
+      "southeast-asia"
+    ],
+    "bio": "Victor Tan / SE Asian contemporary ink hybrid (contemporary SG). Contemporary Southeast Asian ink-hybrid painting: urban tropical density, calligraphic gesture meeting city haze, humid modern atmosphere. Painterly fine-art visual language. Associated tags: contemporary, asia, southeast-asia.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is at the centre of a significant global conversation on digital sovereignty and economic resilience. As Treasurer Jim Chalmers unveils a $6 billion improvement to the federal budget, the nation is also navigating a world-first cybersecurity incident involving an OpenAI agent that briefly infiltrated government systems. While the breach has sparked debate, the response highlights Australia's proactive stance on AI regulation and its ability to adapt to rapid technological shifts. Domestically, the focus remains on balancing inflationary pressures with long-term investment in infrastructure and social services, including a new NSW program to support sexual assault survivors through the legal system.\n\nInternationally, the scientific community is celebrating a series of breakthroughs that promise to reshape healthcare and our understanding of life. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. These discoveries underscore the enduring value of fundamental research, particularly in regions like Australia that serve as natural laboratories for deep-time science.\n\nThe intersection of space exploration and terrestrial health continues to yield practical benefits for the public. The Australian Space Agency is highlighting how technologies developed for the vacuum of space, such as vibrating rehabilitation chairs and synthetic blood components, are being adapted for use in hospitals and remote communities. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions.",
+  "themes": [
+    "AU Budget Resilience",
+    "Global AI Security",
+    "CRISPR Medical Wins",
+    "Deep Time Fossils",
+    "Space-to-Earth Health",
+    "Community Legal Support",
+    "Sustainable Tech"
+  ],
+  "headlines": [
+    {
+      "title": "Treasurer to unveil $6 billion improvement to federal budget",
+      "url": "https://www.abc.net.au/news/2026-09-28/federal-politics-live-blog-chalmers-budget/107202364"
+    },
+    {
+      "title": "Cybersecurity experts say government response to OpenAI breach was proportionate",
+      "url": "https://www.watoday.com.au/national/australia-news-live-chalmers-to-reveal-6-billion-budget-boost-ahead-of-interest-rate-decision-cybersecurity-experts-tech-investors-accuse-government-of-blowing-openai-breach-out-of-proportion-20260928-p610x9.html"
+    },
+    {
+      "title": "One CRISPR Treatment Cut “Bad” Cholesterol in Half for a Full Year",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "1.7-billion-year-old Fossils Reveal a Crucial Clue to the Rise of Complex Life",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Space environment advancing medical science",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science"
+    },
+    {
+      "title": "New NSW program to guide victim-survivors through legal system",
+      "url": "https://www.theguardian.com/australia-news"
+    },
+    {
+      "title": "Atrial Fibrillation Patients Saw 69% Lower Risk with Common Blood Thinners",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "Astronomers Detect Radio Signals Coming Directly From an Exoplanet For The First Time",
+      "url": "https://www.sciencealert.com/"
+    },
+    {
+      "title": "Report identifies 10 emerging tech solutions to enhance planetary health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/"
+    },
+    {
+      "title": "Markets live updates: Wall Street closes higher, ASX lacks direction ahead of rates decision",
+      "url": "https://www.abc.net.au/news/2026-09-28/asx-markets-business-live-news-september-28/107201818"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "CRISPR Therapy Halves 'Bad' Cholesterol for a Full Year",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "A single dose of experimental therapy provided lasting relief for patients with difficult-to-treat lipid disorders, marking a major step in genetic medicine."
+    },
+    {
+      "title": "1.7-Billion-Year-Old Australian Fossils Reveal Clues to Complex Life",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "Scientists uncovered over 12,000 fossils from ancient Australian rocks, offering a vital window into the origins of complex cells on Earth."
+    },
+    {
+      "title": "Space Technology Enhances Earth-Based Rehabilitation",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "angle": "Innovations like vibrating rehabilitation chairs, originally for astronauts, are now assisting hospitals and sports specialists in restoring muscle function."
+    },
+    {
+      "title": "New NSW Program Supports Sexual Assault Survivors",
+      "url": "https://www.theguardian.com/australia-news",
+      "angle": "A new legal service aims to alleviate the 'sense of doom' survivors feel by guiding them through the justice system with dedicated support."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Federal politics live: Treasurer to unveil $6 billion improvement to federal budget - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-28/federal-politics-live-blog-chalmers-budget/107202364",
+      "snippet": "<strong>Jim Chalmers will today unveil a $6 billion improvement to the federal government&#x27;s forecast deficit</strong>. Follow live.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE: Chalmers to reveal $6 billion budget boost ahead of interest rate decision; Cybersecurity experts say government blew OpenAI breach out of proportion",
+      "url": "https://www.watoday.com.au/national/australia-news-live-chalmers-to-reveal-6-billion-budget-boost-ahead-of-interest-rate-decision-cybersecurity-experts-tech-investors-accuse-government-of-blowing-openai-breach-out-of-proportion-20260928-p610x9.html",
+      "snippet": "<strong>Treasurer Jim Chalmers will reveal a $6 billion budget boost</strong> today as he faces internal pressure to curb inflation ahead of the Reserve Bank’s likely decision to raise interest rates to a 15-year-high.",
+      "source": "brave"
+    },
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "... <strong>Electricity distributor Jemena has been replacing 7-metre wooden power poles with 15-metre industrial poles rated to carry up to 66,000 volts</strong>, but there&#x27;s been one consistent complaint among the residents where this is happening.",
+      "source": "brave"
+    },
+    {
+      "title": "Markets live updates: Wall Street closes higher, ASX lacks direction ahead of rates decision - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-28/asx-markets-business-live-news-september-28/107201818",
+      "snippet": "<strong>Wall Street closed a volatile week on an upbeat note, but the ASX remains under pressure</strong>. Follow the day&#x27;s events and insights from our business reporters on the ABC News live markets blog.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "Latest news, breaking news and current affairs coverage from across Australia from theguardian.com",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "Get all the latest news, live updates and content about Australia from across the BBC.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: Australia science innovation community news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+science+innovation+community+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "Sep. 24, 2026  Scientists discovered <strong>two tiny new snail species in Montenegro</strong>, showing that even Europe still holds animals unknown to science.",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "Archaeologists have discovered <strong>a massive Etruscan burial mound with a vast assortment of grave goods north of Rome</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "Scientists are poking holes in established ideas about how cells live and die, and are harnessing these discoveries to fight diseases from cancer to autoimmune conditions.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "Illuminating one of recent science&#x27;s most intriguing mysteries. Big breakthroughs. Bold ideas. Straight to your inbox. ... <strong>Astronomers Detect Radio Signals Coming Directly From an Exoplanet For The First Time Space</strong>6 days ago · Teen Discovered With a Memory More Powerful Than 99.9% of The ...",
+      "source": "brave"
+    },
+    {
+      "title": "Top Science News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/top/science/",
+      "snippet": "<strong>Scientists Discover the First Diplodocus Ever Found Outside North America</strong> · NASA’s Roman Space Telescope Could Last More Than Twice as Long as Planned ... Devil’s Arrows: Ancient Builders Hauled 55,000-Pound Stones 11 Miles for Britain’s ...",
+      "source": "brave"
+    },
+    {
+      "title": "Phys.org - News and Articles on Science and Technology",
+      "url": "https://phys.org/",
+      "snippet": "<strong>Chemosynthetic bacteria</strong> have been documented in various marine environments and in association with invertebrate hosts such as annelid worms and mollusks, but their presence in fish appears to be a new discovery.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | Space exploration as a catalyst for medical innovations",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1226531/full",
+      "snippet": "Similarly, <strong>infusion of shelf-stable reconstituted HBOCs could obviate the need to travel long distances for patients requiring transfusion</strong>. In cases of extreme remoteness or other travel impediment, such as in pandemics or wars, ISRU and synthetic ...",
+      "source": "brave"
+    },
+    {
+      "title": "Space exploration as a catalyst for medical innovations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395101/",
+      "snippet": "Checking your browser before accessing pmc.ncbi.nlm.nih.gov · Click here if you are not automatically redirected after 5 seconds",
+      "source": "brave"
+    },
+    {
+      "title": "Report identifies 10 emerging tech solutions to enhance planetary health",
+      "url": "https://news.mongabay.com/2025/11/report-identifies-ten-emerging-tech-solutions-to-enhance-planetary-health/",
+      "snippet": "The seven other tech solutions found in the report are precision fermentation (to create animal-free proteins); green ammonia production (for decarbonizing synthetic fertilizer manufacture); methane capture and utilization (converting a potent greenhouse gas into a valuable resource); next-gen bi-direction charging (making stored battery power more flexible); modular geothermal energy (scaling up renewable heat and electricity); regeneration desalination (to recover lost resources and deliver clean water); and soil health technology convergence (restoring soil health with sensors microbes and AI).",
+      "source": "brave"
+    },
+    {
+      "title": "NASA's impact on medical innovation: Breakthrough technologies from space research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003",
+      "snippet": "With AI’s increased involvement ... Notable uses of AI in space medicine include <strong>remote diagnostics, wearable biosensors, astronaut training models, and mental health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Benefits of space: Global Health",
+      "url": "https://www.unoosa.org/oosa/en/benefits-of-space/global-health.html",
+      "snippet": "<strong>The outer space sector serves as a catalyst for advancing medical knowledge and technology transfer, yielding new vaccines, healthcare tools, and procedures</strong>. Satellite communications enhance tele-medicine and tele-health, connecting medical experts with underserved regions.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world news science culture human achievement today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+news+science+culture+human+achievement+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: international news community recovery OR scientific discovery",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=international+news+community+recovery+OR+scientific+discovery&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Resilience",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "Harbour of Resilience is today’s cover piece — one Australian scene that weaves together AU Budget Resilience, Global AI Security, CRISPR Medical Wins, Deep Time Fossils, Space-to-Earth Health, Community Legal Support, and Sustainable Tech. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. The Australian Space Agency is highlighting how technologies developed for the vacuum of space, such as vibrating rehabilitation chairs and synthetic blood components, are being adapted for use in hospitals and remote communities. 1.7-billion-year-old Fossils Reveal a Crucial Clue to the Rise of Complex Life. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, contemporary Southeast Asian ink-hybrid. Sydney Harbour at humid dusk, urban tropical density. A diverse Australian crowd in 2024 streetwear. Motifs: glowing CRISPR strands, 1.7-billion-year-old fossil shapes, vibrating rehab chairs, legal support figures. Calligraphic gesture meets city haze. Pigment on canvas, no digital cameras. Unified Australian scene weaving together these themes: AU Budget Resilience, Global AI Security, CRISPR Medical Wins, Deep Time Fossils, Space-to-Earth Health, Community Legal Support, Sustainable Tech. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 472292989,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/01.png style=flux_klein size=896x1152 seed=472292989 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Ancient Cells in Red Rock",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Ancient Cells in Red Rock answers a strand of today’s news with a focused visual reading. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. 1.7-billion-year-old Fossils Reveal a Crucial Clue to the Rise of Complex Life. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Southeast Asian ink-hybrid. Australian red desert, eucalyptus scrub. Two Aboriginal Australian scientists in 1998 field gear. Examining ancient rock strata. Calligraphic brushwork reveals 1.7-billion-year-old fossil shapes. Humid atmosphere, urban tropical density metaphor. Pigment on paper, no CGI, no Pre-Raphaelite myth. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 674393296,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/02.png style=flux_klein size=896x1152 seed=674393296 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Space Tech in the Rainforest",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "Space Tech in the Rainforest takes on the day’s Sustainable Tech thread, translating the news into a single visual moment. The Australian Space Agency is highlighting how technologies developed for the vacuum of space, such as vibrating rehabilitation chairs and synthetic blood components, are being adapted for use in hospitals and remote communities. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of Sustainable Tech in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Southeast Asian ink-hybrid. Queensland rainforest clinic, humid modern atmosphere. A patient in 2012 casual wear using a vibrating rehabilitation chair. Calligraphic gesture meets city haze. Urban tropical density. Pigment on canvas. No digital cameras, no photoreal CGI. Focus on human care and ingenuity. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1821024839,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/03.png style=flux_klein size=896x1152 seed=1821024839 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Cholesterol Breakthrough in Melbourne",
+      "tone": "good_news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Cholesterol Breakthrough in Melbourne answers a strand of today’s news with a focused visual reading. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Southeast Asian ink-hybrid. Melbourne lab interior, humid modern atmosphere. Asian-Australian researchers in 2005 lab coats. Glowing CRISPR strands float in calligraphic gesture. City haze meets urban tropical density. Pigment on canvas. No digital cameras, no photoreal CGI. No Mondrian grid, no Pre-Raphaelite myth. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 538016337,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/04.png style=flux_klein size=896x1152 seed=538016337 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Digital Sovereignty in Canberra",
+      "tone": "news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Digital Sovereignty in Canberra takes on the day’s AU Budget Resilience thread, translating the news into a single visual moment. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of AU Budget Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Southeast Asian ink-hybrid. Canberra government district, humid modern atmosphere. Anglo-Celtic officials in 1985 suits. Abstract digital haze meets calligraphic gesture. Urban tropical density. Pigment on canvas. No digital cameras, no photoreal CGI. No Pre-Raphaelite myth, no Mondrian grid. Focus on resilience and adaptation. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 368492681,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/05.png style=flux_klein size=896x1152 seed=368492681 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Survivor's Dignity in Sydney",
+      "tone": "good_news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Survivor's Dignity in Sydney answers a strand of today’s news with a focused visual reading. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art ink hybrid: 1962 Sydney suburb, eucalyptus shadows. Anglo-Celtic woman in modest 1960s dress walks beside Asian-Australian support worker. Soft calligraphic brushstrokes, humid haze. Dignified, hopeful mood. No text, no logos. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1842578697,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/06.png style=flux_klein size=896x1152 seed=1842578697 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Ancient Life in the Red Centre",
+      "tone": "good_news",
+      "fashionYear": "1935",
+      "emailHero": false,
+      "description": "Ancient Life in the Red Centre answers a strand of today’s news with a focused visual reading. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art ink hybrid: 1935 Australian red desert. Aboriginal Australian scientists in 1930s field gear inspect ancient rock strata. Calligraphic gesture meets city haze. Humid modern atmosphere. Dignified, no sacred imagery. No text.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 220679745,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/07.png style=flux_klein size=896x1152 seed=220679745 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Space Tech in the Hospital",
+      "tone": "good_news",
+      "fashionYear": "1972",
+      "emailHero": false,
+      "description": "Space Tech in the Hospital takes on the day’s Sustainable Tech thread, translating the news into a single visual moment. The Australian Space Agency is highlighting how technologies developed for the vacuum of space, such as vibrating rehabilitation chairs and synthetic blood components, are being adapted for use in hospitals and remote communities. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. The composition keeps the human stakes of Sustainable Tech in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art ink hybrid: 1972 Melbourne hospital room. Anglo-Celtic patient uses vibrating rehab chair. 1970s medical attire. Urban tropical density. Calligraphic brushwork. Humid atmosphere. No digital cameras. No text, no logos. Australian landscape or city setting with Australian people.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 164895674,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/08.png style=flux_klein size=896x1152 seed=164895674 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Digital Sovereignty in the Bush",
+      "tone": "news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Digital Sovereignty in the Bush takes on the day’s Sustainable Tech thread, translating the news into a single visual moment. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of Sustainable Tech in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art ink hybrid: 1995 Australian outback station. Aboriginal Australian technician in 1990s work clothes manages server racks. Calligraphic gesture. Humid haze. Urban tropical density. No gore. No text, no logos.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1788865073,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/09.png style=flux_klein size=896x1152 seed=1788865073 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "CRISPR Hope in the Reef",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "CRISPR Hope in the Reef answers a strand of today’s news with a focused visual reading. A single-dose CRISPR therapy has shown sustained success in halving 'bad' cholesterol, while a new analysis of 1.7-billion-year-old Australian fossils has provided crucial clues to the rise of complex life on Earth. This transfer of technology exemplifies how global scientific ambition can translate into tangible improvements in human care, from advanced sports medicine to emergency medical support in underserved regions. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art ink hybrid: 2015 Australian coastal cliffs. Asian-Australian scientist in 2015 casual wear holds vial. Calligraphic brushstrokes. Humid atmosphere. Urban tropical density. No digital cameras. No text, no logos.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1812628378,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-28/10.png style=flux_klein size=896x1152 seed=1812628378 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
