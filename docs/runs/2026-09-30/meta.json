@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-30",
+  "artist": {
+    "id": "botong",
+    "name": "Carlos Francisco (Botong)",
+    "era": "20th c. PH",
+    "renderMode": "painterly",
+    "aspectRatio": "16:9",
+    "tags": [
+      "mural",
+      "asia",
+      "southeast-asia"
+    ],
+    "bio": "Carlos Francisco (Botong) (20th c. PH). Filipino mural painting in the spirit of Botong: historical pageant color, rhythmic community scenes, Philippine narrative muralism without text. Painterly fine-art visual language. Associated tags: mural, asia, southeast-asia.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia is navigating a complex economic landscape as the Reserve Bank hikes interest rates to a 15-year high of 4.6%, prompting national conversations about inflation and household resilience. While borrowers adjust their finances, there is a strong undercurrent of community solidarity and political engagement, with leaders emphasizing the need for prudent spending and support for vulnerable families. Simultaneously, the nation is witnessing a vibrant cultural renaissance, from drag queens bringing joy to regional pubs to Paralympic athletes shattering decades-old world records, highlighting the spirit of inclusion and achievement.\n\nInternationally, the focus remains on human ingenuity and scientific progress. A robotic boat successfully crossed the Atlantic unaided, marking a milestone in autonomous technology, while researchers at Stanford made breakthroughs in xenotransplantation by enabling mice to function with human brain cells. In India, astronomy tourism is empowering young women in Hanle, providing them with income and confidence as they guide tourists through the night sky. These stories underscore a global trend toward using science and culture as tools for empowerment and connection.\n\nDespite challenges such as record-breaking heat in South Australia and geopolitical tensions affecting global supply chains, the narrative is defined by constructive responses. From the mutual aid seen in post-disaster communities to the global humanitarian efforts to ensure no one is left behind, people are demonstrating remarkable capacity for care and resilience. The integration of sustainability into community planning and the continued push for STEM education in Australia further illustrate a commitment to building a robust, innovative, and compassionate future.",
+  "themes": [
+    "Economic Resilience",
+    "Community Solidarity",
+    "Scientific Breakthroughs",
+    "Cultural Inclusion",
+    "Climate Adaptation",
+    "Global Humanitarian Aid"
+  ],
+  "headlines": [
+    {
+      "title": "Taylor blames 'home-grown inflation' for 15-year-high rate hike",
+      "url": "https://www.abc.net.au/news/2026-09-30/federal-politics-live-blog-interest-rates/107208684"
+    },
+    {
+      "title": "Aussie breaks 24-year-old world record at national short course swimming titles",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Records fall as September temperatures soar in South Australia",
+      "url": "https://www.abc.net.au/news/2026-09-29/sa-september-high-temperatures-records-broken/107208004"
+    },
+    {
+      "title": "Robotic boat crosses Atlantic ocean unaided",
+      "url": "https://www.bbc.com/news/science_and_environment"
+    },
+    {
+      "title": "The young women guiding tourists through India's night sky",
+      "url": "https://www.bbc.com/news/science_and_environment"
+    },
+    {
+      "title": "Community solidarity after the floods",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods"
+    },
+    {
+      "title": "Association with Horizon Europe unlocks significant funding for Australian innovation",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "Researchers at Stanford genetically altered mice to receive human brain cells",
+      "url": "https://www.bbc.com/news/science_and_environment"
+    },
+    {
+      "title": "In one of the nation's most conservative regions, a group of drag queens are taking country pubs by storm",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "title": "Statement: In solidarity, we honour the global humanitarian community",
+      "url": "https://reliefweb.int/report/world/statement-solidarity-we-honour-global-humanitarian-community"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Aussie breaks 24-year-old world record at national short course swimming titles",
+      "url": "https://www.abc.net.au/news/justin",
+      "angle": "Two-time Paralympic gold medallist Rowan Crothers creates history, showcasing the power of determination and inclusive excellence in Australian sport."
+    },
+    {
+      "title": "Robotic boat crosses Atlantic ocean unaided",
+      "url": "https://www.bbc.com/news/science_and_environment",
+      "angle": "A significant milestone in autonomous technology, demonstrating human ingenuity and the potential for sustainable ocean exploration."
+    },
+    {
+      "title": "The young women guiding tourists through India's night sky",
+      "url": "https://www.bbc.com/news/science_and_environment",
+      "angle": "Astronomy tourism is providing young women in Hanle with income, confidence, and a new respected role in their community."
+    },
+    {
+      "title": "Community solidarity after the floods",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods",
+      "angle": "Highlighting the mutual aid, empathy, and bravery of local communities in Australia, proving that self-organizing networks are key to recovery."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "Federal politics live: Taylor blames 'home-grown inflation' for 15-year-high rate hike - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-30/federal-politics-live-blog-interest-rates/107208684",
+      "snippet": "Key EventWed 30 Sep 2026 at 7:20amWed 30 Sep 2026 at 7:20am · <strong>Housing Minister Clare O&#x27;Neil says Australia&#x27;s economic position is better than most other advanced economies despite yesterday&#x27;s rate hike</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:Climate ChangeWed 30 Sep 2026 at 6:07amWed 30 Sep 2026 at 6:07amWed 30 Sep 2026 at 6:07am · <strong>The South Australian government&#x27;s timeline to transition the District Council of Coober Pedy out of administration is set to be discarded</strong> — without ...",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Breaking News Headlines & World News Online | SMH.com.au",
+      "url": "https://www.smh.com.au/",
+      "snippet": "<strong>Fresh debate over hate speech laws</strong>, which have long been a thorny issue in Australian politics, has come on the same day that British authorities foiled an alleged terror plot.",
+      "source": "brave"
+    },
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "While the study of death records across 500 occupations is US based, experts say the finding could be similar in Australia and suggests more radiation monitoring of airline crew is needed. ... Article is a 4 minute read. ... Industry leaders say backpackers are already leaving sectors that are heavily reliant on them because of federal government&#x27;s planned changes to the working holiday visa. ... In one of the nation&#x27;s most conservative regions, a group of drag queens are taking country pubs by storm. ... Topic:Air Transport IndustryWed 30 Sep 2026 at 5:00amWed 30 Sep 2026 at 5:00amWed 30 Sep 2026 at 5:00am",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE: RBA hikes interest rates; Greens leader search begins after Larissa Waters resignation; OpenAI apologises for Medicare data breach",
+      "url": "https://www.smh.com.au/national/australia-news-live-rba-expected-to-announce-fourth-rate-rise-this-year-greens-leader-larissa-waters-steps-down-due-to-illness-trump-denies-asking-xi-about-potential-us-arms-sales-20260929-p6118p.html",
+      "snippet": "It’s made much worse by decisions taken on the other side of the world. From an economic point of view, this war in Iran has been an absolute disaster for Australian families because they have been asked to pay a hefty price for it,” he told ABC’s 7.30 last night.",
+      "source": "brave"
+    },
+    {
+      "title": "Records fall as September temperatures soar in South Australia - ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-29/sa-september-high-temperatures-records-broken/107208004",
+      "snippet": "&quot;<strong>This time of year we normally see temperatures in the high teens to the low 20s, and for many areas we saw temperatures get into the mid to high 30s</strong>,&quot; he said.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "Association with Horizon Europe unlocks significant funding and partnership opportunities that will boost Australia’s innovation and resilience amid geopolitical uncertainty.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "The series also examines Australia’s future STEM workforce and the role of initiatives such as Superstars of STEM and Science Meets the Economy in building a more visible and connected scientific community.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "We support Australian businesses, entrepreneurs and researchers to collaborate with international partners on science and research. We are transforming Australia’s space and astronomy industries. ... Strategic innovation dialogue progresses innovation cooperation, focusing on commercialisation, industry growth and market access.",
+      "source": "brave"
+    },
+    {
+      "title": "News | Australian Science Innovations | Australian Science Innovations",
+      "url": "https://asi.edu.au/news/",
+      "snippet": "Australian Science Innovations proudly delivers exceptional education and mentorship programs. Read about the positive impact on our participants, their schools and our community.",
+      "source": "brave"
+    },
+    {
+      "title": "Building Australia’s Future powered by science and innovation | Australian Academy of Science",
+      "url": "https://www.science.org.au/news-and-events/news-and-media-releases/building-australias-future-powered-by-science-and-innovation",
+      "snippet": "News and media releases · Building Australia’s Future powered by science and innovation · News and media releases · Social media · Events · Newsletters · Media contact: media@science.org.au 02 6201 9444 (24hr number) May 12, 2025 · The President of the Australian Academy of Science, Professor Chennupati Jagadish AC, has welcomed the new Albanese Ministry and outlined seven immediate priorities for the federal government.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: good news science breakthrough discovery today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=good+news+science+breakthrough+discovery+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Human Interest news Stories",
+      "url": "https://positivenewsforyou.com/news/human-interest-news-stories/",
+      "snippet": "– <strong>The power of a supportive community: Neighbors and local businesses came together, showing solidarity and strength</strong>. – Determination as a driving force: Maria’s refusal to give up motivated others to help and get involved.",
+      "source": "brave"
+    },
+    {
+      "title": "ICE, strained budgets and community resilience piqued Northfield's interest in 2025 | News | southernminn.com",
+      "url": "https://www.southernminn.com/northfield_news/news/ice-strained-budgets-and-community-resilience-piqued-northfields-interest-in-2025/article_520afed0-4669-4708-bede-6912e33a0a67.html",
+      "snippet": "In a year defined by fear, loss and uncertainty, <strong>Northfield also revealed a capacity to show up for one another in small human ways, and to take pride in the places and people that make the city feel like home</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Community solidarity after the floods - Friends of the Earth Australia",
+      "url": "https://www.foe.org.au/community_solidarity_after_the_floods",
+      "snippet": "Among the harrowing stories of loss and destruction, there are many of mutual aid, solidarity, empathy and bravery. As author Rebecca Solnit explained so beautifully in her book ‘A Paradise Built in Hell’, during and after disasters, it is the self initiative and self organising of affected communities that does some of the best work at emergency relief and long term recovery. As the clean up gets underway, here are some ideas of local initiatives you may want to support. Image: Aidan and Tim rescuing their neighbours in Lismore (Eddie Lloyd)",
+      "source": "brave"
+    },
+    {
+      "title": "Resilience in Action: How Communities Thrive After Cyclones",
+      "url": "https://tagg.com.au/resilience-in-action-how-communities-thrive-after-cyclones/",
+      "snippet": "<strong>The recent Cyclone Alfred demonstrated yet again how collective action, proactive measures, and community solidarity can profoundly influence the speed and success of recovery and rebuilding efforts</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "AJEM January 2025 - Embedding humanity in building sustainable community disaster resilience in Australia: a humanistic communication perspective | Australian Disaster Resilience Knowledge Hub",
+      "url": "https://knowledge.aidr.org.au/resources/ajem-january-2025-embedding-humanity-in-building-sustainable-community-disaster-resilience-in-australia-a-humanistic-communication-perspective/",
+      "snippet": "While existing approaches to build community resilience are based on a rational and functional model, this paper argues that a conception of humanity, based on key principles of connectivity, diversity and interactivity, should be embedded in communications throughout emergencies and disaster events (e.g.",
+      "source": "brave"
+    },
+    {
+      "title": "Statement: In solidarity, we honour the global humanitarian community - World | ReliefWeb",
+      "url": "https://reliefweb.int/report/world/statement-solidarity-we-honour-global-humanitarian-community",
+      "snippet": "<strong>Today, we commend and thank those who continue to provide indispensable lifesaving aid despite overwhelming challenges, so that no one is left behind</strong>. We commemorate those killed and injured while serving the women, men, girls and boys affected ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: positive news innovation medicine space environment restoration",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=positive+news+innovation+medicine+space+environment+restoration&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Science & Environment",
+      "url": "https://www.bbc.com/news/science_and_environment",
+      "snippet": "<strong>Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "But science shows ways to keep the brain sharp. ... Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces within the Earth can alter the length of a day. ... Nature examines whether the technology might spell the end for humans, and why AI companies are calling for a slowdown.",
+      "source": "brave"
+    },
+    {
+      "title": "Science - The New York Times",
+      "url": "https://www.nytimes.com/section/science",
+      "snippet": "Erin McGuire ran a research network that studied how to get healthy food to marginalized populations around the world. ... Even Charles Darwin was puzzled by the evolution of the vertebrate eye. New research suggests that it traces back to a cyclopean invertebrate with a single eye atop the head. ... In the oceans and on land, scientists are discovering rare, transitional organisms that bridge the gap between Earth’s simplest cells and today’s complex ones. ... It’s not just humans who suffer from leading one another astray.",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "Harbour of Resilience",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "Harbour of Resilience is today’s cover piece — one Australian scene that weaves together Economic Resilience, Community Solidarity, Scientific Breakthroughs, Cultural Inclusion, Climate Adaptation, and Global Humanitarian Aid. Statement: In solidarity, we honour the global humanitarian community. Simultaneously, the nation is witnessing a vibrant cultural renaissance, from drag queens bringing joy to regional pubs to Paralympic athletes shattering decades-old world records, highlighting the spirit of inclusion and achievement. A robotic boat successfully crossed the Atlantic unaided, marking a milestone in autonomous technology, while researchers at Stanford made breakthroughs in xenotransplantation by enabling mice to function with human brain cells. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Filipino mural style, 2024 fashion, Sydney harbour, Rowan Crothers swimming, robotic boat, diverse neighbors, economic resilience, community solidarity, scientific breakthroughs, vibrant pigments, rhythmic composition, no text, painterly fine art, eucalyptus trees, modern architecture, warm lighting, inclusive excellence, sustainable ocean exploration, human ingenuity. Unified Australian scene weaving together these themes: Economic Resilience, Community Solidarity, Scientific Breakthroughs, Cultural Inclusion, Climate Adaptation, Global Humanitarian Aid. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 251517393,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/01.png style=flux_klein size=1280x720 seed=251517393 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "The Record Breaker",
+      "tone": "good_news",
+      "fashionYear": "1992",
+      "emailHero": false,
+      "description": "The Record Breaker takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Simultaneously, the nation is witnessing a vibrant cultural renaissance, from drag queens bringing joy to regional pubs to Paralympic athletes shattering decades-old world records, highlighting the spirit of inclusion and achievement. Despite challenges such as record-breaking heat in South Australia and geopolitical tensions affecting global supply chains, the narrative is defined by constructive responses. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+      "prompt": "Filipino mural style, 1992 fashion, swimming pool, Rowan Crothers, Paralympic gold medallist, breaking world record, determination, inclusive excellence, vibrant water splashes, rhythmic community scenes, Philippine narrative muralism, no text, painterly fine art, bright colors, joyful expression, athletic prowess, Australian sport, historical pageant color.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1030229738,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/02.png style=flux_klein size=1280x720 seed=1030229738 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Autonomous Ocean Crossing",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": false,
+      "description": "A robotic boat crosses the Atlantic, demonstrating human ingenuity and sustainable ocean exploration. The scene highlights the milestone in autonomous technology, with Australian engineers observing from a coastal cliff, symbolizing the nation's commitment to innovation and environmental stewardship.",
+      "prompt": "Filipino mural style, 2015 fashion, coastal cliff, robotic boat, crossing Atlantic, autonomous technology, human ingenuity, sustainable ocean exploration, Australian engineers, observing, vibrant pigments, rhythmic composition, no text, painterly fine art, eucalyptus scrub, modern vehicles, warm lighting, scientific breakthroughs, global trend, empowerment, connection. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1528763047,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/03.png style=flux_klein size=1280x720 seed=1528763047 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Flood Recovery Solidarity",
+      "tone": "good_news",
+      "fashionYear": "2022",
+      "emailHero": false,
+      "description": "Community solidarity after floods in Brisbane, highlighting mutual aid and bravery. Neighbors share resources and support each other, proving that self-organizing networks are key to recovery. The scene captures empathy and resilience, with diverse Australians working together to rebuild their community.",
+      "prompt": "Filipino mural style, 2022 fashion, Brisbane street, flood recovery, community solidarity, mutual aid, empathy, bravery, diverse Australians, sharing resources, rebuilding, vibrant pigments, rhythmic composition, no text, painterly fine art, eucalyptus trees, modern architecture, warm lighting, resilience, compassion, human care, constructive response, no gore. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 2144085,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/04.png style=flux_klein size=1280x720 seed=2144085 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Astronomy Tourism in Hanle",
+      "tone": "news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Young women in Hanle, India, guide tourists through the night sky, providing income and confidence. The scene highlights astronomy tourism as a tool for empowerment and connection, with Australian tourists learning from local guides, reflecting a global trend toward STEM education and cultural inclusion.",
+      "prompt": "Filipino mural style, 2018 fashion, Hanle night sky, young women, astronomy tourism, guiding tourists, income, confidence, empowerment, connection, Australian tourists, learning, vibrant pigments, rhythmic composition, no text, painterly fine art, eucalyptus scrub, modern vehicles, warm lighting, STEM education, cultural inclusion, global trend, human ingenuity, scientific progress. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1593056679,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/05.png style=flux_klein size=1280x720 seed=1593056679 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Inclusive Excellence",
+      "tone": "good_news",
+      "fashionYear": "1905",
+      "emailHero": false,
+      "description": "Inclusive Excellence takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Statement: In solidarity, we honour the global humanitarian community. From the mutual aid seen in post-disaster communities to the global humanitarian efforts to ensure no one is left behind, people are demonstrating remarkable capacity for care and resilience. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+      "prompt": "Painterly Filipino muralism in Botong style, rich historical pageant color. Rowan Crothers swims powerfully in a Sydney harbour pool, surrounded by rhythmic community spectators in 1905 Edwardian suits and hats. Vibrant eucalyptus greens and deep ocean blues. Visible brushwork, oil pigment on canvas, no text, dignified Australian faces. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1151277121,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/06.png style=flux_klein size=1280x720 seed=1151277121 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Autonomous Ingenuity",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Autonomous Ingenuity takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Statement: In solidarity, we honour the global humanitarian community. From the mutual aid seen in post-disaster communities to the global humanitarian efforts to ensure no one is left behind, people are demonstrating remarkable capacity for care and resilience. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art mural, Botong aesthetic, rhythmic community energy. A sleek autonomous vessel glides past a rugged Australian coastal cliff. Engineers in 1968 mod-style jackets and jeans watch from the shore. Warm sunset hues, textured brushstrokes, oil paint on canvas, no digital effects, no text.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 487503435,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/07.png style=flux_klein size=1280x720 seed=487503435 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Night Sky Guides",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": false,
+      "description": "Night Sky Guides answers a strand of today’s news with a focused visual reading. In India, astronomy tourism is empowering young women in Hanle, providing them with income and confidence as they guide tourists through the night sky. Statement: In solidarity, we honour the global humanitarian community. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly mural, Botong spirit, historical color. Young Aboriginal Australian women guide tourists through a starry outback night. 1985 casual fashion, denim, simple tops. Deep indigo sky, warm lantern light, visible canvas texture, expressive brushwork, dignified faces, no text, no sacred imagery.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 695675172,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/08.png style=flux_klein size=1280x720 seed=695675172 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Flood Rescue Solidarity",
+      "tone": "good_news",
+      "fashionYear": "1932",
+      "emailHero": false,
+      "description": "Flood Rescue Solidarity takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Statement: In solidarity, we honour the global humanitarian community. Community solidarity after the floods. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+      "prompt": "Painterly Filipino muralism, Botong style, rhythmic action. Volunteers in 1932 modest clothing rescue families from floodwaters in a submerged Australian street. Muddy browns, urgent blues, heavy impasto brushwork, oil pigment on canvas, no text, no gore, dignified Australian faces.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1751991311,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/09.png style=flux_klein size=1280x720 seed=1751991311 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Climate Resilience",
+      "tone": "news",
+      "fashionYear": "1954",
+      "emailHero": false,
+      "description": "Climate Resilience takes on the day’s Economic Resilience thread, translating the news into a single visual moment. Statement: In solidarity, we honour the global humanitarian community. From the mutual aid seen in post-disaster communities to the global humanitarian efforts to ensure no one is left behind, people are demonstrating remarkable capacity for care and resilience. The composition keeps the human stakes of Economic Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art, Botong aesthetic, community focus. Residents share water and shade in a sun-drenched 1954 Australian suburb. Modest mid-century dresses and shirts. Blazing yellows, cool shadows, visible canvas weave, expressive oil brushwork, no text, no digital realism, dignified faces.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1594012724,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-09-30/10.png style=flux_klein size=1280x720 seed=1594012724 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
