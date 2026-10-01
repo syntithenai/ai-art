@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-02",
+  "artist": "park_seobo",
+  "topics": [],
+  "summary": "In a remarkable display of human solidarity and quick thinking, passengers and crew members on a Dubai-to-Tel Aviv flight successfully subdued an attacker and landed the aircraft safely, with Israeli authorities honouring the heroes who prevented a disaster. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. \n\nIn Australia, the focus remains on both economic and social progress. The Reserve Bank’s new reforms have officially scrapped credit and debit card surcharges, aiming to ease the cost of living for millions of Australians. Additionally, the Australian Academy of Science has welcomed the government’s move to begin treaty negotiations for association with Horizon Europe, a step expected to boost the nation’s innovation and research capabilities. These developments underscore Australia’s commitment to both consumer protection and scientific advancement. \n\nOn the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. Meanwhile, in the world of science, researchers have made significant discoveries, including the identification of two new snail species in Montenegro and a newly discovered feathered dinosaur with four wings, adding to our understanding of evolutionary history. These breakthroughs, along with the ongoing efforts to build a more connected scientific community, reflect a global drive towards knowledge and innovation. \n\nAs the world continues to navigate challenges, from climate change to geopolitical uncertainty, the stories of resilience, kindness, and scientific progress serve as a reminder of the positive forces at work. Whether it’s the volunteers searching for missing persons in Western Australia or the scientists working to cure diseases, these narratives of hope and agency provide a constructive lens through which to view the current news landscape.",
+  "themes": [
+    "Human Resilience",
+    "Economic Reform",
+    "Scientific Innovation",
+    "Cultural Recognition",
+    "Community Solidarity",
+    "Global Cooperation"
+  ],
+  "images": [
+    {
+      "title": "Harbour Solidarity",
+      "description": "Harbour Solidarity is today’s cover piece — one Australian scene that weaves together Human Resilience, Economic Reform, Scientific Innovation, Cultural Recognition, Community Solidarity, and Global Cooperation. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. These breakthroughs, along with the ongoing efforts to build a more connected scientific community, reflect a global drive towards knowledge and innovation. In a remarkable display of human solidarity and quick thinking, passengers and crew members on a Dubai-to-Tel Aviv flight successfully subdued an attacker and landed the aircraft safely, with Israeli authorities honouring the heroes who prevented a disaster. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil on canvas, Dansaekhwa style with repetitive pencil-on-paint furrows. Sydney Harbour at dawn, unified group of Australian figures in 2024 casual streetwear. Meditative monochrome process, Korean abstract materiality. Figures symbolize flight rescue, athlete Anika Wells, and RBA surcharge ban. Soft pigment, brushwork texture, no digital cameras. Unified Australian scene weaving together these themes: Human Resilience, Economic Reform, Scientific Innovation, Cultural Recognition, Community Solidarity, Global Cooperation. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": "1"
+    },
+    {
+      "title": "Outback Science",
+      "description": "Outback Science answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. These breakthroughs, along with the ongoing efforts to build a more connected scientific community, reflect a global drive towards knowledge and innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil, Dansaekhwa repetitive pencil furrows. Red desert outback, Aboriginal Australian scientists in 1995 field jackets and boots. Examining small shells, meditative monochrome process. Korean abstract materiality, soft pigment on canvas. Brushwork texture, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": ""
+    },
+    {
+      "title": "Suburban Relief",
+      "description": "Suburban Relief answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. These breakthroughs, along with the ongoing efforts to build a more connected scientific community, reflect a global drive towards knowledge and innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil, Dansaekhwa repetitive pencil furrows. Melbourne suburban street, diverse Australian residents in 2020 casual hoodies and jeans. Celebrating RBA surcharge ban, meditative monochrome process. Korean abstract materiality, soft pigment on canvas. Brushwork texture, no digital cameras, no photoreal CGI. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "2020",
+      "emailHero": ""
+    },
+    {
+      "title": "Coastal Discovery",
+      "description": "Coastal Discovery answers a strand of today’s news with a focused visual reading. Meanwhile, in the world of science, researchers have made significant discoveries, including the identification of two new snail species in Montenegro and a newly discovered feathered dinosaur with four wings, adding to our understanding of evolutionary history. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil, Dansaekhwa repetitive pencil furrows. Tasmanian coastal cliff, researchers in 1968 field coats and hats. Examining feathered dinosaur fossil, meditative monochrome process. Korean abstract materiality, soft pigment on canvas. Brushwork texture, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": ""
+    },
+    {
+      "title": "Harbour Resilience",
+      "description": "Harbour Resilience takes on the day’s Human Resilience thread, translating the news into a single visual moment. Whether it’s the volunteers searching for missing persons in Western Australia or the scientists working to cure diseases, these narratives of hope and agency provide a constructive lens through which to view the current news landscape. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. The composition keeps the human stakes of Human Resilience in view without turning the news into spectacle.",
+      "prompt": "Painterly fine-art oil, Dansaekhwa repetitive pencil furrows. Brisbane riverfront, volunteers in 1912 period clothing and hats. Searching for missing persons, meditative monochrome process. Korean abstract materiality, soft pigment on canvas. Brushwork texture, no digital cameras, no photoreal CGI. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "tone": "news",
+      "fashionYear": "1912",
+      "emailHero": ""
+    },
+    {
+      "title": "Civic Unity",
+      "description": "Civic Unity takes on the day’s Community Solidarity thread, translating the news into a single visual moment. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+      "prompt": "Painterly Dansaekhwa style, repetitive pencil furrows on canvas, monochrome pigment. Melbourne harbour, 1985 fashion, diverse Australian faces in solidarity, meditative abstract materiality, no text, no gore, fine-art brushwork, soft light, dignified community resilience.",
+      "tone": "good_news",
+      "fashionYear": "1985",
+      "emailHero": ""
+    },
+    {
+      "title": "Consumer Ease",
+      "description": "Consumer Ease answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly Dansaekhwa, repetitive pencil furrows, monochrome. Brisbane suburban street, 1998 fashion, Anglo-Celtic and Asian-Australian shoppers, meditative process, Korean abstract materiality, no logos, no text, fine-art pigment, soft natural light, dignified, calm, no digital camera.",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": ""
+    },
+    {
+      "title": "Athletic Rise",
+      "description": "Athletic Rise answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly Dansaekhwa, repetitive pencil furrows, monochrome. Sydney park, 2015 fashion, Australian athlete in dignified pose, meditative process, Korean abstract materiality, no text, no logos, fine-art pigment, soft light, calm, no digital camera, no gore, no caricature.",
+      "tone": "good_news",
+      "fashionYear": "2015",
+      "emailHero": ""
+    },
+    {
+      "title": "Research Bridge",
+      "description": "Research Bridge answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly Dansaekhwa, repetitive pencil furrows, monochrome. Perth university, 2021 fashion, diverse Australian scientists, meditative process, Korean abstract materiality, no text, no logos, fine-art pigment, soft light, calm, no digital camera, no gore, no caricature, dignified.",
+      "tone": "good_news",
+      "fashionYear": "2021",
+      "emailHero": ""
+    },
+    {
+      "title": "Desert Hope",
+      "description": "Desert Hope answers a strand of today’s news with a focused visual reading. On the cultural front, Australian athlete Anika Wells has been named on Time Magazine’s list of 100 'rising stars,' a recognition that highlights the country’s talent and global influence. This event highlights the resilience and courage of individuals in the face of crisis, while also prompting global discussions on aviation security and the importance of community support in emergencies. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Painterly Dansaekhwa, repetitive pencil furrows, monochrome. Western Australia red desert, 1922 fashion, Aboriginal Australian searchers, meditative process, Korean abstract materiality, no text, no logos, fine-art pigment, soft light, calm, no digital camera, no gore, no caricature, dignified.",
+      "tone": "news",
+      "fashionYear": "1922",
+      "emailHero": ""
+    }
+  ],
+  "thinSearch": false
+}
