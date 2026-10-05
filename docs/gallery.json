@@ -2,6 +2,139 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-06",
+      "artist": {
+        "id": "colin_mccahon",
+        "name": "Colin McCahon",
+        "era": "20th c. NZ",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "modernism",
+          "oceania"
+        ],
+        "bio": "Colin John McCahon was a New Zealand artist whose work over 45 years consisted of various styles, including landscape, figuration, abstraction, and the overlay of painted text. Along with Toss Woollaston and Rita Angus, McCahon is credited with introducing modernism to New Zealand in the mid-20th century. He is regarded as New Zealand's most important modern artist, particularly in his landscape work.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Australian Economic Resilience",
+        "Global Medical Breakthroughs",
+        "Space-to-Earth Health Tech",
+        "Sustainable Innovation",
+        "Community Safety & Preparedness",
+        "International Cooperation"
+      ],
+      "summary": "Australia is navigating a complex period of economic transition and social policy development, with the RBA acknowledging recession risks amidst rising interest rates. Despite these challenges, the nation is demonstrating resilience through strategic international partnerships, such as the new economic deal with Japan, and proactive environmental management, including the declaration of fire danger season dates to protect communities. The cultural landscape is also active, with significant political inquiries and media investigations highlighting the need for transparency and accountability in sectors ranging from technology to veteran support.\n\nOn the scientific front, global breakthroughs are offering tangible hope for human health and environmental sustainability. Researchers have identified promising new therapies for lung cancer and muscle wasting, while advancements in altermagnetism could lead to faster, more energy-efficient computing. In the realm of planetary health, emerging technologies like direct lithium extraction and green ammonia production are being highlighted as critical tools for decarbonization and resource recovery. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability.\n\nThe intersection of space exploration and medical science continues to yield practical benefits for life on Earth. Technologies originally developed for space, such as vibrating rehabilitation chairs and remote diagnostic tools, are now assisting hospitals and sports medicine specialists, improving patient outcomes in remote and urban settings alike. Additionally, the discovery of new tick-borne viruses in China serves as a reminder of the importance of global health surveillance, enabling scientists to better understand and manage emerging infectious diseases. These stories reflect a collaborative global effort to use science as a tool for care, prevention, and improved quality of life.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Great Australian Resonance",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Great Australian Resonance is today’s cover piece — one Australian scene that weaves together Australian Economic Resilience, Global Medical Breakthroughs, Space-to-Earth Health Tech, Sustainable Innovation, Community Safety & Preparedness, and International Cooperation. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability. Despite these challenges, the nation is demonstrating resilience through strategic international partnerships, such as the new economic deal with Japan, and proactive environmental management, including the declaration of fire danger season dates to protect communities. The cultural landscape is also active, with significant political inquiries and media investigations highlighting the need for transparency and accountability in sectors ranging from technology to veteran support. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, McCahon style, stark Australian coastal cliffs. 2024 fashion: modern casual wear. One unified scene weaving themes: economic resilience via rising sun, medical breakthroughs via gentle figures, space tech via distant satellites. Atmospheric, monumental simple shapes, blackboard-like spiritual landscape, no text, no logos, dignified Aboriginal and Anglo-Celtic faces, high contrast, soft pigment."
+        },
+        {
+          "index": 2,
+          "title": "Lithium from the Red Earth",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Lithium from the Red Earth answers a strand of today’s news with a focused visual reading. In the realm of planetary health, emerging technologies like direct lithium extraction and green ammonia production are being highlighted as critical tools for decarbonization and resource recovery. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability. In the artwork, that story symbolizes direct lithium extraction and water conservation.",
+          "prompt": "Painterly fine-art, McCahon style, vast red desert. 1978 fashion: workwear, denim, boots. A solitary figure observing dry, mineral-rich ground. Symbolizing direct lithium extraction and water conservation. Stark landforms, monumental simple shapes, atmospheric depth, blackboard-like spiritual landscape, no text, no logos, dignified Aboriginal Australian face, high contrast, soft pigment, canvas texture."
+        },
+        {
+          "index": 3,
+          "title": "Space Tech for Earth Recovery",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "In a suburban Melbourne garden, a figure in 1968 attire uses a vibrating rehabilitation chair. This visualizes space-derived technology enhancing Earth rehabilitation, highlighting how innovations from space exploration now assist hospitals and sports specialists in improving patient recovery outcomes.",
+          "prompt": "Painterly fine-art, McCahon style, suburban garden. 1968 fashion: mod styles, A-line dress. A figure using a vibrating rehabilitation chair. Symbolizing space tech for Earth recovery and medical progress. Stark light, monumental simple shapes, atmospheric calm, blackboard-like spiritual landscape, no text, no logos, Anglo-Celtic face, high contrast, soft pigment, canvas texture, dignified. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 4,
+          "title": "The Japan-Australia Bond",
+          "tone": "news",
+          "fashionYear": "1954",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "At a Sydney harbour dock, figures in 1954 attire exchange a symbolic object. This represents the new economic deal between Australia and Japan, highlighting constructive diplomatic engagement and regional stability through strategic international partnerships in the Asia-Pacific.",
+          "prompt": "Painterly fine-art, McCahon style, harbour city. 1954 fashion: post-war suits, hats. Two figures exchanging a symbolic object. Representing the Japan-Australia economic deal and regional stability. Stark water reflections, monumental simple shapes, atmospheric tension, blackboard-like spiritual landscape, no text, no logos, diverse Australian faces, high contrast, soft pigment."
+        },
+        {
+          "index": 5,
+          "title": "Community Fire Safety",
+          "tone": "news",
+          "fashionYear": "1932",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Community Fire Safety takes on the day’s Community Safety & Preparedness thread, translating the news into a single visual moment. Despite these challenges, the nation is demonstrating resilience through strategic international partnerships, such as the new economic deal with Japan, and proactive environmental management, including the declaration of fire danger season dates to protect communities. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability. In the artwork, that story symbolizes community safety and environmental management.",
+          "prompt": "Painterly fine-art, McCahon style, rural town. 1932 fashion: flannel shirts, caps. Figures preparing for fire danger season. Symbolizing community safety and environmental management. Stark dust, monumental simple shapes, atmospheric urgency, blackboard-like spiritual landscape, no text, no logos, Aboriginal and Anglo-Celtic faces, high contrast, soft pigment, canvas texture. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 6,
+          "title": "The Healing Horizon",
+          "tone": "good_news",
+          "fashionYear": "1912",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Healing Horizon answers a strand of today’s news with a focused visual reading. On the scientific front, global breakthroughs are offering tangible hope for human health and environmental sustainability. The cultural landscape is also active, with significant political inquiries and media investigations highlighting the need for transparency and accountability in sectors ranging from technology to veteran support. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art in the spirit of Colin McCahon: stark, blackboard-like spiritual landscape. A monumental, simple human figure stands on a rugged Sydney coastal cliff, bathed in soft, ethereal light. Medium: oil on canvas, visible brushwork, muted earth pigments. Atmosphere of wonder and medical hope, no readable text. 1912 fashion cues: modest, high-collared garments. No digital cameras. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Recovery in the Scrub",
+          "tone": "good_news",
+          "fashionYear": "1945",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Depicting space-derived rehabilitation tech helping patients recover. Set in eucalyptus scrub, an Aboriginal Australian figure uses a futuristic, simple device. The scene highlights the dignity of survivorship and the integration of advanced technology into everyday Australian life.",
+          "prompt": "Painterly fine-art, McCahon style: stark landforms, monumental simple shapes. An Aboriginal Australian figure sits in eucalyptus scrub, using a sleek, abstract rehabilitation chair. Medium: oil, thick impasto, pigment-rich. 1945 fashion: practical, modest workwear. Atmosphere of care and recovery, no gore, no sacred imagery. Blackboard-like spiritual depth, no modern digital cameras. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Water from the Stone",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Water from the Stone answers a strand of today’s news with a focused visual reading. Despite these challenges, the nation is demonstrating resilience through strategic international partnerships, such as the new economic deal with Japan, and proactive environmental management, including the declaration of fire danger season dates to protect communities. In the realm of planetary health, emerging technologies like direct lithium extraction and green ammonia production are being highlighted as critical tools for decarbonization and resource recovery. In the artwork, that story represents clean lithium extraction.",
+          "prompt": "Painterly fine-art, McCahon influence: stark, blackboard-like red desert landscape. A solitary figure observes a simple, abstract structure representing clean lithium extraction. Medium: oil on canvas, dry brushwork, ochre and black pigments. 1985 fashion: casual, modern Australian attire. Atmosphere of environmental stewardship and wonder, no readable text, no digital cameras. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "The Pacific Pact",
+          "tone": "news",
+          "fashionYear": "1962",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "The Pacific Pact answers a strand of today’s news with a focused visual reading. Despite these challenges, the nation is demonstrating resilience through strategic international partnerships, such as the new economic deal with Japan, and proactive environmental management, including the declaration of fire danger season dates to protect communities. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, McCahon style: stark, spiritual harbor landscape. Multicultural Australian figures stand on a pier, facing a distant, simple ship shape. Medium: oil, visible brushwork, muted blue and grey pigments. 1962 fashion: tailored, mid-century garments. Atmosphere of diplomatic solidarity and calm, no readable text, no digital cameras. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Guardians of the Coast",
+          "tone": "news",
+          "fashionYear": "2015",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Guardians of the Coast takes on the day’s Australian Economic Resilience thread, translating the news into a single visual moment. These innovations underscore a global shift towards sustainable industrial practices that benefit both the environment and economic stability. The intersection of space exploration and medical science continues to yield practical benefits for life on Earth. The composition keeps the human stakes of Australian Economic Resilience in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, McCahon influence: stark, blackboard-like coastal cliff. A diverse group of Australians stands together, facing the sea. Medium: oil on canvas, bold brushwork, earthy pigments. 2015 fashion: contemporary, practical outdoor wear. Atmosphere of community resilience and safety, no gore, no digital cameras. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-10-04",
       "artist": {
         "id": "kim_whanki",
