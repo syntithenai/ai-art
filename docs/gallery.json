@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-07",
+      "artist": {
+        "id": "rita_angus",
+        "name": "Rita Angus",
+        "era": "20th c. NZ",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "modernism",
+          "oceania"
+        ],
+        "bio": "Henrietta Catherine Angus, known as Rita Cook early in her career, was a New Zealand painter who, alongside Colin McCahon and Toss Woollaston, is regarded as one of the leading figures in twentieth-century New Zealand art. She worked primarily in oil and watercolour, and became known for her portraits and landscapes.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rita_Angus_cropped-monochrome.jpg/330px-Rita_Angus_cropped-monochrome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Climate Resilience & Preparation",
+        "Migration & Economic Balance",
+        "AI Trust & Tech Accountability",
+        "Humanitarian Solidarity",
+        "Scientific Discovery & Medical Safety",
+        "Cultural Remembrance & Return",
+        "Ecological Wonders"
+      ],
+      "summary": "Australia is navigating a complex period defined by both urgent climate warnings and significant social debate. Prime Minister Anthony Albanese has cautioned that a 'super El Niño' event poses a hazardous summer with potential floods and extreme heat, prompting communities to prepare for resilience. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. In the tech sector, OpenAI’s chief strategy officer made headlines in Sydney, addressing public trust following a data incident, while the ASX 200 shows robust earnings growth estimates for 2026, signaling underlying economic strength.\n\nInternationally, the focus remains on humanitarian resilience and scientific discovery. Three years after the October 7 attacks, Israelis are sharing stories of grief and rebuilding, while global attention turns to the stalled redevelopment of Gaza and the humanitarian challenges faced by residents. In science, researchers have made significant strides, including the discovery of new snail species in Montenegro and breakthroughs in quantum simulation that mimic early universe physics. Medical science has also advanced, with new insights into the protein E-cadherin’s role in cellular processes and warnings about the surgical risks associated with certain weight-loss peptides, emphasizing the need for patient safety.\n\nCultural life continues to thrive, marked by the return of veteran broadcaster Sarah Macdonald to ABC Sydney and the remembrance of beloved figures like Richard Morecroft and Jeffrey Archer. In the natural world, millions of bogong moths have descended on NSW suburbs, offering a fascinating glimpse into ecological patterns, while in Gabon, rare footage of cave-dwelling dwarf crocodiles has been captured, showcasing the hidden wonders of the natural world. These stories collectively underscore a global commitment to understanding, protecting, and celebrating both human and environmental heritage.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Great Australian Weave",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Great Australian Weave is today’s cover piece — one Australian scene that weaves together Climate Resilience & Preparation, Migration & Economic Balance, AI Trust & Tech Accountability, Humanitarian Solidarity, Scientific Discovery & Medical Safety, Cultural Remembrance & Return, and Ecological Wonders. In the tech sector, OpenAI’s chief strategy officer made headlines in Sydney, addressing public trust following a data incident, while the ASX 200 shows robust earnings growth estimates for 2026, signaling underlying economic strength. Cultural life continues to thrive, marked by the return of veteran broadcaster Sarah Macdonald to ABC Sydney and the remembrance of beloved figures like Richard Morecroft and Jeffrey Archer. Internationally, the focus remains on humanitarian resilience and scientific discovery. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, thick impasto, crisp NZ modernist clarity. 2024 Sydney harbour at dawn. Aboriginal Australian volunteers in modern life vests rescue a family from floodwaters. Nearby, a glass lab shows a glowing quantum simulator. A tiny snail rests on red earth. Multicultural Australian migrants in 2024 casual wear watch. Eucalyptus scrub frames the scene. No digital cameras. Unified Australian scene weaving together these themes: Climate Resilience & Preparation, Migration & Economic Balance, AI Trust & Tech Accountability, Humanitarian Solidarity, Scientific Discovery & Medical Safety, Cultural Remembrance & Return, Ecological Wonders. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Quantum Dawn in the Outback",
+          "tone": "good_news",
+          "fashionYear": "1955",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Quantum Dawn in the Outback answers a strand of today’s news with a focused visual reading. Quantum Simulators Recreate Early Universe Processes. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil, visible brushstrokes, pigment-rich. 1955 Australian outback observatory. An Aboriginal Australian scientist in 1955 modest dress and hat observes a glowing 13-ion quantum simulator. The device emits soft blue light, recreating early universe particle formation. Red desert rocks frame the scene. Crisp color, Goddess of Mercy clarity, no digital effects. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Bogong Moths over Melbourne",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Bogong Moths over Melbourne takes on the day’s Ecological Wonders thread, translating the news into a single visual moment. In the natural world, millions of bogong moths have descended on NSW suburbs, offering a fascinating glimpse into ecological patterns, while in Gabon, rare footage of cave-dwelling dwarf crocodiles has been captured, showcasing the hidden wonders of the natural world. Internationally, the focus remains on humanitarian resilience and scientific discovery. In the artwork, that story symbolizes ecological return.",
+          "prompt": "Painterly fine-art oil, soft glazing, crisp NZ modernist style. 1978 Melbourne suburban street at dusk. A diverse group of Australians in 1978 fashion—bell-bottoms, platform shoes, natural hair—watch millions of bogong moths swirl above eucalyptus trees. The moths glow softly, symbolizing ecological return. Warm streetlights, textured canvas, no digital cameras. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Flood Rescue in Lismore",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Flood Rescue in Lismore answers a strand of today’s news with a focused visual reading. Internationally, the focus remains on humanitarian resilience and scientific discovery. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil, bold impasto, crisp color. 1998 Lismore, NSW flood scene. Local volunteers in 1998 casual wear—jeans, t-shirts, caps—work together in rescue boats, pulling residents from brown water. Eucalyptus scrub and suburban houses frame the background. The mood is one of empathy and resilience. No gore, no digital effects. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "The New Snail Discovery",
+          "tone": "good_news",
+          "fashionYear": "1895",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "The New Snail Discovery answers a strand of today’s news with a focused visual reading. In the tech sector, OpenAI’s chief strategy officer made headlines in Sydney, addressing public trust following a data incident, while the ASX 200 shows robust earnings growth estimates for 2026, signaling underlying economic strength. Cultural life continues to thrive, marked by the return of veteran broadcaster Sarah Macdonald to ABC Sydney and the remembrance of beloved figures like Richard Morecroft and Jeffrey Archer. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil, fine detail, crisp NZ modernist clarity. 1895 Australian bushland. A European-Australian naturalist in 1895 formal dress and hat examines a tiny new snail species on red rock. The snail is magnified, showing intricate shell patterns. Eucalyptus scrub and distant hills frame the scene. Pigment-rich, textured canvas, no digital cameras. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Ion Lattice Dawn",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Ion Lattice Dawn takes on the day’s Scientific Discovery & Medical Safety thread, translating the news into a single visual moment. Internationally, the focus remains on humanitarian resilience and scientific discovery. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. The composition keeps the human stakes of Scientific Discovery & Medical Safety in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, crisp modernist composition. A diverse Australian scientist in 2010 minimalist tech-wear observes a glowing 13-ion quantum simulator. Background is a stylized red desert horizon. Bright, clear pigments, visible brushwork, celebrating scientific discovery and human ingenuity. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Lismore Mutual Aid",
+          "tone": "good_news",
+          "fashionYear": "1990",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Lismore Mutual Aid takes on the day’s Climate Resilience & Preparation thread, translating the news into a single visual moment. Internationally, the focus remains on humanitarian resilience and scientific discovery. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. The composition keeps the human stakes of Climate Resilience & Preparation in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, clear regional portrait. Australian neighbors in 1990 casual fashion share supplies in a flooded Lismore street. Eucalyptus trees frame the scene. Crisp color, visible brushwork, emphasizing community solidarity and resilience against climate challenges. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Montenegro Snail in AU",
+          "tone": "good_news",
+          "fashionYear": "1920",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Montenegro Snail in AU takes on the day’s Scientific Discovery & Medical Safety thread, translating the news into a single visual moment. Internationally, the focus remains on humanitarian resilience and scientific discovery. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. The composition keeps the human stakes of Scientific Discovery & Medical Safety in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, crisp detail. An Australian naturalist in 1920 flannel suit and hat examines a tiny snail shell on a red rock. Background is a stylized Australian bush. Clear composition, bright pigments, celebrating conservation and scientific discovery. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Migration Balance",
+          "tone": "news",
+          "fashionYear": "2000",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Migration Balance takes on the day’s Migration & Economic Balance thread, translating the news into a single visual moment. Simultaneously, the Coalition’s proposal to halve net migration targets has sparked intense discussion regarding its impact on aged care, education, and trade relations with India, highlighting the delicate balance between policy and economic stability. In the tech sector, OpenAI’s chief strategy officer made headlines in Sydney, addressing public trust following a data incident, while the ASX 200 shows robust earnings growth estimates for 2026, signaling underlying economic strength. The composition keeps the human stakes of Migration & Economic Balance in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, clear composition. A diverse group of Australians in 2000 business casual attire discusses policy in a modern Sydney office. Crisp color, visible brushwork, no caricature, emphasizing the delicate balance between policy and economic stability. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Gabon Crocodile AU",
+          "tone": "good_news",
+          "fashionYear": "1950",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Gabon Crocodile AU takes on the day’s Ecological Wonders thread, translating the news into a single visual moment. In the natural world, millions of bogong moths have descended on NSW suburbs, offering a fascinating glimpse into ecological patterns, while in Gabon, rare footage of cave-dwelling dwarf crocodiles has been captured, showcasing the hidden wonders of the natural world. Internationally, the focus remains on humanitarian resilience and scientific discovery. The composition keeps the human stakes of Ecological Wonders in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art oil on canvas, crisp detail. An Australian explorer in 1950 safari attire watches a screen showing a dwarf crocodile in a cave. Background is a stylized Australian rainforest. Clear composition, bright pigments, celebrating ecological wonders and discovery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "artist": {
         "id": "colin_mccahon",
