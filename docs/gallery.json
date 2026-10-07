@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-08",
+      "artist": {
+        "id": "tony_fomison",
+        "name": "Tony Fomison",
+        "era": "20th c. NZ",
+        "renderMode": "painterly",
+        "aspectRatio": "3:4",
+        "tags": [
+          "expressionism",
+          "oceania"
+        ],
+        "bio": "Anthony Leslie (Tony) Fomison was a notable artist in New Zealand. He was an important post-war visual artist in the country and influenced New Zealand art by incorporating elements of narrative and myth into contemporary art.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fomison.jpg/330px-Fomison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Australian Healthcare Access",
+        "Environmental Legal Wins",
+        "Global Disaster Resilience",
+        "Scientific Breakthroughs",
+        "Community Solidarity",
+        "Sports Equity",
+        "Economic Stability"
+      ],
+      "summary": "Australia is navigating a complex mix of economic challenges and significant scientific and legal milestones. While rent growth has stalled for stretched tenants and the RBA signals potential rate hikes, there is notable progress in healthcare access, with pharmacy availability of the abortion pill jumping nearly 50% following regulatory easing. A landmark High Court ruling has also strengthened environmental protections by requiring planning authorities to consider overseas fossil fuel emissions, a victory for Hunter Valley residents. In the realm of science, an Australian-led trial has found promising evidence that an experimental drug could lessen brain inflammation in people at high risk of Parkinson’s, offering hope for slowing the disease’s progression.\n\nInternationally, the focus remains on resilience and human achievement. In Nepal, the government has shifted from search and rescue to rehabilitation for those impacted by devastating floods, highlighting a constructive response to disaster. Meanwhile, in the United States, thousands of volunteers have joined the American Red Cross to provide immediate relief, demonstrating the power of community solidarity. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine.\n\nCultural and social stories also highlight human connection and agency. In Australia, Cricket Australia is actively reviewing the women’s schedule in response to player concerns, signaling a commitment to equity in sport. Internationally, the merger of Paramount and Warner Bros Discovery is reshaping Hollywood, while in France, student protests have led to a suspension of stun grenade use, reflecting a dialogue on public safety. These stories collectively emphasize the ongoing efforts of communities, scientists, and policymakers to address challenges with innovation, care, and collective action.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "Convergence of Care",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Sydney harbour scene weaving themes of healthcare, environmental law, and community resilience. Figures in contemporary 2024 attire gather around symbolic motifs of medical access and legal victory, reflecting the news of increased pill availability and High Court wins.",
+          "prompt": "Painterly fine-art, New Zealand expressionist style. Dark mythic heads, Pacific gothic intensity, subterranean color. Sydney harbour at dusk, 2024 fashion. Multicultural Australian figures, Aboriginal elders, urban professionals. Unified composition weaving medical vials, legal scales, and rescue boats. Psychological weight, thick impasto, raw canvas texture, no digital gloss. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "The Healing Molecule",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "The Healing Molecule answers a strand of today’s news with a focused visual reading. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. Meanwhile, in the United States, thousands of volunteers have joined the American Red Cross to provide immediate relief, demonstrating the power of community solidarity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, expressionist. Dark mythic heads, subterranean color. Brisbane rainforest, 1995 fashion. Scientist in lab coat, Asian-Australian face. Glowing organic molecular structure floating among eucalyptus. Thick brushwork, pigment-rich, canvas texture. Psychological weight, no CGI, no photorealism. Raw, tactile, dark mythic intensity. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Guardians of the Valley",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Guardians of the Valley answers a strand of today’s news with a focused visual reading. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. A landmark High Court ruling has also strengthened environmental protections by requiring planning authorities to consider overseas fossil fuel emissions, a victory for Hunter Valley residents. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, expressionist. Dark mythic heads, Pacific gothic. Hunter Valley, 1978 fashion. Aboriginal and Anglo-Celtic Australians in country wear. Standing before a glowing, protective barrier. Subterranean color, thick impasto, raw canvas. Psychological weight, no digital gloss. Raw, tactile, dark mythic intensity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Solidarity in the Scrub",
+          "tone": "good_news",
+          "fashionYear": "1962",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Solidarity in the Scrub takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. Meanwhile, in the United States, thousands of volunteers have joined the American Red Cross to provide immediate relief, demonstrating the power of community solidarity. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, expressionist. Dark mythic heads, subterranean color. Outback settlement, 1962 fashion. Multicultural Australian volunteers, Aboriginal faces, dignity. Distributing aid, thick brushwork, pigment-rich, canvas texture. Psychological weight, no CGI, no photorealism. Raw, tactile, dark mythic intensity, Pacific gothic. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Economic Tides",
+          "tone": "news",
+          "fashionYear": "1910",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Economic Tides takes on the day’s Economic Stability thread, translating the news into a single visual moment. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. Australia is navigating a complex mix of economic challenges and significant scientific and legal milestones. The composition keeps the human stakes of Economic Stability in view without turning the news into spectacle.",
+          "prompt": "Painterly fine-art, expressionist. Dark mythic heads, Pacific gothic. Melbourne street, 1910 fashion. Anglo-Celtic and Mediterranean Australians. Bustling, somber urban landscape. Subterranean color, thick impasto, raw canvas. Psychological weight, no digital gloss. Raw, tactile, dark mythic intensity, no cheerful sunlight. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "The Pill of Relief",
+          "tone": "good_news",
+          "fashionYear": "1935",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The Pill of Relief answers a strand of today’s news with a focused visual reading. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. While rent growth has stalled for stretched tenants and the RBA signals potential rate hikes, there is notable progress in healthcare access, with pharmacy availability of the abortion pill jumping nearly 50% following regulatory easing. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "New Zealand expressionist painting: dark mythic head, Pacific gothic intensity, subterranean color, psychological weight. Painterly fine-art medium, visible brushwork, pigment on canvas. A First Nations woman in a 1935 wool coat and hat stands in a red desert pharmacy, holding a small pill. Eucalyptus scrub outside. Dignified, hopeful, no gore. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Neural Clarity",
+          "tone": "good_news",
+          "fashionYear": "1988",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Neural Clarity takes on the day’s Scientific Breakthroughs thread, translating the news into a single visual moment. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. In the realm of science, an Australian-led trial has found promising evidence that an experimental drug could lessen brain inflammation in people at high risk of Parkinson’s, offering hope for slowing the disease’s progression. The composition keeps the human stakes of Scientific Breakthroughs in view without turning the news into spectacle.",
+          "prompt": "New Zealand expressionist painting: dark mythic head, Pacific gothic intensity, subterranean color, psychological weight. Painterly fine-art medium, visible brushwork, pigment on canvas. An Anglo-Celtic man in 1988 sportswear sits in a Melbourne park, eyes closed in calm. Eucalyptus trees. Peaceful, scientific breakthrough, no medical equipment. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Valley Guardians",
+          "tone": "good_news",
+          "fashionYear": "1952",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Valley Guardians answers a strand of today’s news with a focused visual reading. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. A landmark High Court ruling has also strengthened environmental protections by requiring planning authorities to consider overseas fossil fuel emissions, a victory for Hunter Valley residents. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "New Zealand expressionist painting: dark mythic head, Pacific gothic intensity, subterranean color, psychological weight. Painterly fine-art medium, visible brushwork, pigment on canvas. Mediterranean-Australian neighbors in 1952 dresses stand in Hunter Valley bush, pointing at the sky. Eucalyptus scrub. Dignified, protective, no smoke. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Rebuilding Nepal",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Rebuilding Nepal answers a strand of today’s news with a focused visual reading. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. Meanwhile, in the United States, thousands of volunteers have joined the American Red Cross to provide immediate relief, demonstrating the power of community solidarity. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "New Zealand expressionist painting: dark mythic head, Pacific gothic intensity, subterranean color, psychological weight. Painterly fine-art medium, visible brushwork, pigment on canvas. Asian-Australian volunteers in 1968 casual wear hand documents to a survivor in a coastal Australian shelter. Eucalyptus trees. Dignified, supportive, no debris. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Red Cross Solidarity",
+          "tone": "news",
+          "fashionYear": "1915",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Red Cross Solidarity takes on the day’s Community Solidarity thread, translating the news into a single visual moment. Scientific breakthroughs continue to advance globally, including the discovery of the first known microblazar by astronomers and a Nobel Prize in chemistry awarded for resolving mirror images in chemical molecules, a discovery that has transformed modern medicine. Meanwhile, in the United States, thousands of volunteers have joined the American Red Cross to provide immediate relief, demonstrating the power of community solidarity. The composition keeps the human stakes of Community Solidarity in view without turning the news into spectacle.",
+          "prompt": "New Zealand expressionist painting: dark mythic head, Pacific gothic intensity, subterranean color, psychological weight. Painterly fine-art medium, visible brushwork, pigment on canvas. A group of Anglo-Celtic and Pacific Islander volunteers in 1915 uniforms stand in a Sydney harbour, holding aid boxes. Eucalyptus trees. Dignified, unified, no gore. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "artist": {
         "id": "rita_angus",
