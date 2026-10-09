@@ -2,6 +2,141 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-10",
+      "artist": {
+        "id": "fan_ho",
+        "name": "Fan Ho",
+        "era": "20th c. HK",
+        "renderMode": "photoreal",
+        "aspectRatio": "3:4",
+        "tags": [
+          "photography",
+          "asia",
+          "china",
+          "bw"
+        ],
+        "bio": "Fan Ho was a Chinese photographer, film director, and actor. From 1956, he won over 280 awards from international exhibitions and competitions worldwide for his photography.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fanho_2017.jpg/330px-Fanho_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Cultural Reformation & Nostalgia",
+        "Conservation & Reef Restoration",
+        "Responsive Governance & Policy Reversal",
+        "Environmental Legal Victories",
+        "Global Science & Nobel Recognition",
+        "Community Resilience & Solidarity"
+      ],
+      "summary": "Australia's cultural landscape is buzzing with a powerful wave of nostalgia and renewal, headlined by the confirmed reformation of Powderfinger, one of the nation's most decorated musical acts, 16 years after their hiatus. This celebration of creative legacy coincides with a significant environmental victory on Lady Elliot Island, where a family’s decades-long dedication to planting trees has transformed a barren, guano-mined moonscape into a thriving reef oasis. These stories highlight the enduring power of human agency and stewardship in shaping Australia's natural and cultural heritage.\n\nOn the political and social front, the Australian government has rapidly reversed its stance on the ATO credit card ban following intense backlash from small businesses and the public, demonstrating a responsive governance model that prioritizes community impact. Meanwhile, the High Court’s decision to block a major coal mine expansion has been met with widespread celebration, signaling a constructive shift toward environmental protection and legal integrity. In the realm of science, Australia is positioning itself as a global leader through new treaty negotiations for Horizon Europe association and a national campaign to restore investment in scientific research, ensuring that local innovation continues to drive global progress.\n\nInternationally, the 2026 Nobel Peace Prize was awarded to former ICC judge Navanethem Pillay, a recognition of the critical role of international justice in fostering peace. In the sciences, breakthroughs in understanding depression through distinct brain patterns and the development of laser-based radio antennas are opening new frontiers for medical and technological innovation. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Great Reformation",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Sydney harbour scene where Powderfinger fans in 2024 streetwear gather near restored Lady Elliot Island greenery, symbolising cultural renewal and environmental stewardship. The light cuts through like a spotlight on the High Court’s environmental victory and the Nobel Peace Prize, weaving all themes into one moment of collective hope.",
+          "prompt": "Photoreal cinematic still, Sydney harbour at dusk, dramatic shafts of light cutting through mist. Multicultural Australian crowd in 2024 streetwear gathers near lush restored greenery. Geometric alley shadows frame a stage, a gavel, and a peace medal. High contrast black and white tones, shallow depth of field, 35mm lens, Fan Ho style, poetic urban theater, no text. Unified Australian scene weaving together these themes: Cultural Reformation & Nostalgia, Conservation & Reef Restoration, Responsive Governance & Policy Reversal, Environmental Legal Victories, Global Science & Nobel Recognition, Community Resilience & Solidarity."
+        },
+        {
+          "index": 2,
+          "title": "Reef Oasis Renewal",
+          "tone": "good_news",
+          "fashionYear": "1962",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "On Lady Elliot Island, a family in 1962 workwear tends to young trees planted on once-barren guano-mined soil. The scene captures the decades-long dedication that transformed the moonscape into a thriving reef oasis, highlighting human agency and conservation in Australian coastal heritage.",
+          "prompt": "Photoreal photography, Lady Elliot Island, 1962. Family in vintage Australian workwear planting eucalyptus saplings on rocky soil. Dramatic sunbeams pierce the canopy, illuminating dust motes. High contrast monochrome, deep shadows, 50mm lens, sharp focus on faces, Fan Ho aesthetic, cinematic lighting, no brushstrokes. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Judicial Environmental Victory",
+          "tone": "good_news",
+          "fashionYear": "1994",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Outside the High Court in Melbourne, community members in 1994 fashion celebrate the decision blocking a major coal mine expansion. The image reflects the constructive shift toward environmental protection and legal integrity, with faces showing relief and solidarity under the dramatic city geometry.",
+          "prompt": "Photoreal cinematic still, Melbourne High Court exterior, 1994. Diverse Australian crowd in 90s casual wear gathers, smiling. Strong vertical architectural lines create deep shadows. Dramatic shafts of light highlight faces. Black and white, high contrast, 35mm lens, Fan Ho style, poetic urban composition, no text."
+        },
+        {
+          "index": 4,
+          "title": "Scientific Horizon",
+          "tone": "good_news",
+          "fashionYear": "1938",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "In a Brisbane research lab, scientists in 1938 formal wear examine laser-based radio antenna prototypes. The scene metaphorically represents Australia’s positioning as a global leader in science through Horizon Europe negotiations, showcasing the enduring power of local innovation and international cooperation.",
+          "prompt": "Photoreal photography, Brisbane laboratory, 1938. Scientists in vintage suits and lab coats examine glowing antenna models. Dramatic window light creates stark shadows. High contrast monochrome, sharp detail on equipment, 50mm lens, Fan Ho aesthetic, cinematic depth of field, no text. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 5,
+          "title": "Global Justice Echo",
+          "tone": "news",
+          "fashionYear": "1912",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "A quiet Sydney street scene in 1912 where a community leader, representing the spirit of Navi Pillay’s Nobel Peace Prize, stands in contemplation. The image reflects the critical role of international justice in fostering peace, framed through the lens of historical Australian civic responsibility.",
+          "prompt": "Photoreal cinematic still, Sydney street, 1912. A dignified figure in vintage civic attire stands alone. Dramatic shafts of light cut through fog, highlighting the figure. Deep black shadows, high contrast monochrome, 35mm lens, Fan Ho style, poetic isolation, no text. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 6,
+          "title": "Harbour Chords",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Harbour Chords answers a strand of today’s news with a focused visual reading. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience. On the political and social front, the Australian government has rapidly reversed its stance on the ATO credit card ban following intense backlash from small businesses and the public, demonstrating a responsive governance model that prioritizes community impact. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic cinematic still of a diverse Australian band in 1978 fashion standing under the Sydney Harbour Bridge. Dramatic shafts of light cut through fog, highlighting their denim jackets and vintage instruments. High contrast black and white, 35mm lens, shallow depth of field, poetic urban geometry, Fan Ho style. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 7,
+          "title": "Island Canopy",
+          "tone": "good_news",
+          "fashionYear": "1924",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Island Canopy answers a strand of today’s news with a focused visual reading. This celebration of creative legacy coincides with a significant environmental victory on Lady Elliot Island, where a family’s decades-long dedication to planting trees has transformed a barren, guano-mined moonscape into a thriving reef oasis. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic wide shot of an Australian family in 1924 clothing planting eucalyptus saplings on Lady Elliot Island. Strong diagonal light beams pierce the clearing, revealing lush greenery emerging from the dry ground. Cinematic lens, high dynamic range, black and white, dramatic shadows, Fan Ho aesthetic. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Gavel & Gum",
+          "tone": "good_news",
+          "fashionYear": "1966",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Gavel & Gum answers a strand of today’s news with a focused visual reading. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience. On the political and social front, the Australian government has rapidly reversed its stance on the ATO credit card ban following intense backlash from small businesses and the public, demonstrating a responsive governance model that prioritizes community impact. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic scene of diverse Australian activists in 1966 fashion standing before a massive river gum tree. A single beam of sunlight illuminates their determined faces and vintage protest signs. High contrast monochrome, 50mm lens, deep shadows, geometric composition, Fan Ho street photography style. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Lab Horizon",
+          "tone": "good_news",
+          "fashionYear": "1952",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Lab Horizon answers a strand of today’s news with a focused visual reading. In the realm of science, Australia is positioning itself as a global leader through new treaty negotiations for Horizon Europe association and a national campaign to restore investment in scientific research, ensuring that local innovation continues to drive global progress. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic interior of a scientific lab with Australian researchers in 1952 attire examining data. Soft, diffused light from large windows creates a sense of wonder and discovery. Black and white, 85mm portrait lens, shallow depth of field, clean lines, Fan Ho cinematic style. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Justice in the Outback",
+          "tone": "news",
+          "fashionYear": "1941",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Justice in the Outback answers a strand of today’s news with a focused visual reading. These global achievements, alongside local Australian triumphs in conservation and culture, paint a picture of a world actively engaged in solving complex challenges through collaboration, science, and human resilience. On the political and social front, the Australian government has rapidly reversed its stance on the ATO credit card ban following intense backlash from small businesses and the public, demonstrating a responsive governance model that prioritizes community impact. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic portrait of an Aboriginal Australian elder in 1941 clothing standing in the red desert. A dramatic shaft of light hits their face, creating a halo effect against the dark dunes. High contrast black and white, 300mm telephoto, compressed perspective, Fan Ho dramatic lighting. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "artist": {
         "id": "pacific_tattoo_graphic",
