@@ -1,0 +1,390 @@
+{
+  "date": "2026-10-12",
+  "artist": {
+    "id": "hashem_el_madani",
+    "name": "Hashem el Madani",
+    "era": "20th c. LB",
+    "renderMode": "photoreal",
+    "aspectRatio": "3:4",
+    "tags": [
+      "photography",
+      "middle-east",
+      "portrait"
+    ],
+    "bio": "Hashem el Madani (20th c. LB). Photoreal studio portraiture of mid-century Lebanon: Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. Photoreal / photographic visual language. Associated tags: photography, middle-east, portrait.",
+    "photoUrl": "",
+    "photoCredit": ""
+  },
+  "summary": "Australia’s cultural and sporting calendar is buzzing with energy as the nation prepares for the Bathurst 1000, a major motorsport event that unites fans and drivers in a celebration of engineering and speed. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. These efforts highlight a national commitment to both high-performance achievement and long-term research capabilities, ensuring that Australian talent continues to drive progress in diverse fields.\n\nOn the international stage, scientific breakthroughs are offering new hope in medicine and technology. Researchers in Vienna have developed the world’s first self-stabilizing nuclear clock, a leap forward in timekeeping precision that could render traditional atomic clocks obsolete. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. These advancements underscore the power of collaborative research to improve human health and expand our understanding of the physical world.\n\nIn the face of global challenges, community resilience and solidarity remain central. Following a significant earthquake in Indonesia, rescue efforts continue with a focus on saving lives and supporting displaced families, demonstrating the strength of international aid and local response teams. Meanwhile, in Australia, the return of Bogong moths to cities like Sydney and Canberra has sparked a wave of curiosity and engagement, reminding communities of their connection to natural cycles. These stories, from the depths of the ocean to the peaks of scientific discovery, reflect a world where human care, ingenuity, and hope are driving constructive responses to both crisis and opportunity.",
+  "themes": [
+    "Australian Motorsport & Culture",
+    "Restoring Science Investment",
+    "Medical Breakthroughs",
+    "Advanced Timekeeping Tech",
+    "Community Resilience",
+    "Natural Cycles & Curiosity"
+  ],
+  "headlines": [
+    {
+      "title": "Bathurst 1000: Weather and Start Times Announced",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Australian Academy of Science Launches 'Restore Science' Campaign",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "Scientists Create World’s First Self-Stabilizing Nuclear Clock",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "New Cancer Drug Shown to Double Survival in Advanced Stages",
+      "url": "https://theweek.com/health-and-science/1019386/recent-scientific-breakthroughs"
+    },
+    {
+      "title": "Bogong Moths Cause Stir in Sydney and Canberra",
+      "url": "https://www.bbc.com/news/world/australia"
+    },
+    {
+      "title": "Rescue Efforts Continue in Indonesia After Magnitude-7.7 Earthquake",
+      "url": "https://nosracines.org/article/indonesia-earthquake-53-dead-thousands-displaced-rescue-efforts-continue"
+    },
+    {
+      "title": "Hidden Cleanup System Discovered at the Back of the Eye",
+      "url": "https://www.sciencedaily.com/news/"
+    },
+    {
+      "title": "Gold Coast Suns Consolidate Top-Four Spot in AFLW",
+      "url": "https://www.abc.net.au/news/nsw"
+    },
+    {
+      "title": "Australian Government Begins Treaty Negotiations for Horizon Europe",
+      "url": "https://scienceandtechnologyaustralia.org.au/news/"
+    },
+    {
+      "title": "Bronze Ring Depicting Lighthouse of Alexandria Found Underwater",
+      "url": "https://www.livescience.com/news"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "Scientists Build First Self-Stabilizing Nuclear Clock",
+      "url": "https://www.sciencedaily.com/",
+      "angle": "A major breakthrough in Vienna that could surpass atomic clocks, enhancing precision for global technology and science."
+    },
+    {
+      "title": "New Cancer Drug Doubles Survival in Advanced Stages",
+      "url": "https://theweek.com/health-and-science/1019386/recent-scientific-breakthroughs",
+      "angle": "Medical progress offering new hope and extended life for patients with advanced cancer."
+    },
+    {
+      "title": "Hidden Eye Cleanup System Discovered",
+      "url": "https://www.sciencedaily.com/news/",
+      "angle": "A previously unknown pathway for fluid drainage in the eye, potentially leading to new treatments for glaucoma."
+    },
+    {
+      "title": "Australian 'Restore Science' Campaign Launches",
+      "url": "https://science.org.au/news-events/news-views",
+      "angle": "A call to action to restore investment in Australian science, aiming to retain talent and strengthen national capability."
+    },
+    {
+      "title": "Bogong Moths Spark Curiosity in Australian Cities",
+      "url": "https://www.bbc.com/news/world/australia",
+      "angle": "A natural phenomenon that has brought communities together in wonder and engagement with local ecosystems."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "Topic:Security IntelligenceMon 12 Oct 2026 at 6:38amMon 12 Oct 2026 at 6:38amMon 12 Oct 2026 at 6:38am · More Just In · Get across more of today&#x27;s biggest news stories · D · By Daniela Pizzirani · Topic:Australian Rules Football · Article is a 1 minute read.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "From the weather to the start time, here is what you need to know ahead of today&#x27;s Bathurst 1000. Topic:Motor SportsSun 11 Oct 2026 at 6:13amSun 11 Oct 2026 at 6:13amSun 11 Oct 2026 at 6:13am · An ABC investigation raises questions about whether some Solomon Islands MPs and officials have received publicly funded care overseas worth thousands of Australian dollars when cheaper in-country treatment has been available. Topic:World PoliticsSun 11 Oct 2026 at 6:12amSun 11 Oct 2026 at 6:12amSun 11 Oct 2026 at 6:12am",
+      "source": "brave"
+    },
+    {
+      "title": "Markets live updates: ASX set to rise after strong sessions on Wall Street and Europe - ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878",
+      "snippet": "10-year bonds: US 5.24% Australia 5.35% Prices current at around 7:00am AEDT · Collapse all postsoff · Sort · Sort posts · Latest Select an option · Latest · Oldest · Choose what information you see below by using filters · Filter Posts · All · 2 · Market snapshot · 1 · Energy · 1 · Markets · 1 · Mon 12 Oct 2026 at 6:54amMon 12 Oct 2026 at 6:54am ·",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "2 Oct 2026 · Fortnite and Minecraft also told to &#x27;lift their game&#x27; by online safety regulator. 2 Oct 2026 · 1 Oct 2026 · <strong>The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Breaking News Headlines & World News Online | SMH.com.au",
+      "url": "https://www.smh.com.au/",
+      "snippet": "Some of Australia’s highest-profile investors were approached to buy the home shopping network and keep it afloat.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News & Headlines from Australia and the World | SBS News",
+      "url": "https://www.sbs.com.au/news",
+      "snippet": "<strong>Another missile attack on Riyadh airport</strong> | Morning News Bulletin 12 October 2026 · Published: 12/10/2026 · Duration: 06:09 · Open episode menu · View More · Download · Copy link · Open episode menu · John Howard pays tribute to Afghan ...",
+      "source": "brave"
+    },
+    {
+      "title": "News - ABC listen",
+      "url": "https://www.abc.net.au/listen/news",
+      "snippet": "<strong>ABC News Top Stories</strong> delivers the biggest breaking news and headlines from Australia and around the world, updated throughout the day.",
+      "source": "brave"
+    },
+    {
+      "title": "New South Wales - ABC News",
+      "url": "https://www.abc.net.au/news/nsw",
+      "snippet": "Gold Coast Suns continue their run as the surprise packets of the AFLW season, consolidating their top-four spot with a victory over Melbourne.",
+      "source": "brave"
+    },
+    {
+      "title": "Australia - ABC News",
+      "url": "https://www.abc.net.au/news/australia",
+      "snippet": "Follow the latest headlines from ABC News, Australia&#x27;s most trusted media source, with live events, audio and on-demand video from the national broadcaster.",
+      "source": "brave"
+    },
+    {
+      "title": "News - ABC Melbourne",
+      "url": "https://www.abc.net.au/melbourne/news",
+      "snippet": "Western Bulldogs break into the top four with a big win over Essendon at Whitten Oval in the opening game of AFLW Pride Round.",
+      "source": "brave"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "<strong>We support Australian businesses, entrepreneurs and researchers to collaborate with international partners on science and research</strong>. We are transforming Australia’s space and astronomy industries.",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "<strong>The Academy&#x27;s new &#x27;Restore Science&#x27; campaign calls for urgent action to restore investment in Australian science</strong>, as declining funding risks weakening national capability, driving talent overseas and eroding global competitiveness.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian science and technology are delivering new capabilities, industries, jobs and better outcomes for Australians</strong>. A new video series launched by Science &amp; Technology Australia (STA) will bring these stories to a national audience.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "News | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/news/",
+      "snippet": "Science &amp; Technology Australia (STA) has welcomed the Australian Government’s announcement that it will begin treaty negotiations on association to Horizon Europe, describing it as a major step forward for the nation’s research and innovation system.",
+      "source": "brave"
+    },
+    {
+      "title": "Building Australia’s Future powered by science and innovation | Australian Academy of Science",
+      "url": "https://www.science.org.au/news-and-events/news-and-media-releases/building-australias-future-powered-by-science-and-innovation",
+      "snippet": "<strong>The President of the Australian Academy of Science, Professor Chennupati Jagadish AC, has welcomed the new Albanese Ministry and outlined seven immediate priorities for the federal government</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Science News, Latest Scientific Discoveries | Live Science",
+      "url": "https://www.livescience.com/news",
+      "snippet": "<strong>A bronze ring that depicts the Lighthouse of Alexandria has been discovered underwater in the remains of an ancient palace</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceDaily: Your source for the latest research news",
+      "url": "https://www.sciencedaily.com/",
+      "snippet": "Scientists discovered that giving mice olive oil before carbohydrates slowed digestion and activated a surprising combination of hormones and nerve signals that ... Scientists Build a Nuclear Clock That Could Make Atomic Clocks Obsolete · Oct. 10, 2026  Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks.",
+      "source": "brave"
+    },
+    {
+      "title": "ScienceAlert : The Best in Science News And Amazing Breakthroughs",
+      "url": "https://www.sciencealert.com/",
+      "snippet": "The latest science news. Publishing independent, fact-checked reporting on health, space, nature, technology, and the environment.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest science news, discoveries and analysis",
+      "url": "https://www.nature.com/news",
+      "snippet": "Scientists worry that increasingly capable large language models will beat them to discoveries. ... Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo. ... Unverified rumours swirl around the death of a Siberian laboratory technician. Nature talks to a biosecurity specialist to unpack the fallout ... David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?",
+      "source": "brave"
+    },
+    {
+      "title": "6 recent scientific breakthroughs and discoveries | The Week US",
+      "url": "https://theweek.com/health-and-science/1019386/recent-scientific-breakthroughs",
+      "snippet": "Here are six recent scientific breakthroughs that warrant attention. ... <strong>cancer drug called daraxonrasib has been shown to “double survival in patients with advanced stages of the disease</strong>,” said · NBC News.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/",
+      "snippet": "11, 2026  <strong>Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway</strong>. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, ...",
+      "source": "brave"
+    },
+    {
+      "title": "Human Interest news Stories",
+      "url": "https://positivenewsforyou.com/news/human-interest-news-stories/",
+      "snippet": "– <strong>The power of a supportive community: Neighbors and local businesses came together, showing solidarity and strength</strong>. – Determination as a driving force: Maria’s refusal to give up motivated others to help and get involved.",
+      "source": "brave"
+    },
+    {
+      "title": "Indonesia Earthquake: 53 Dead, Thousands Displaced | Rescue Efforts Continue (2026)",
+      "url": "https://nosracines.org/article/indonesia-earthquake-53-dead-thousands-displaced-rescue-efforts-continue",
+      "snippet": "<strong>The magnitude-7.7 earthquake that struck the Flores region on Saturday has left a trail of destruction in its wake</strong>. Rescuers are battling against the clock to search for survivors, with the death toll expected to rise as they dig through the ...",
+      "source": "brave"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Great Australian Synthesis",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "The Great Australian Synthesis is today’s cover piece — one Australian scene that weaves together Australian Motorsport & Culture, Restoring Science Investment, Medical Breakthroughs, Advanced Timekeeping Tech, Community Resilience, and Natural Cycles & Curiosity. Meanwhile, in Australia, the return of Bogong moths to cities like Sydney and Canberra has sparked a wave of curiosity and engagement, reminding communities of their connection to natural cycles. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. These efforts highlight a national commitment to both high-performance achievement and long-term research capabilities, ensuring that Australian talent continues to drive progress in diverse fields. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photoreal cinematic still of a diverse 2024 Sydney Harbour crowd. A sleek race car, a glowing nuclear clock, medical charts, and swarming Bogong moths float in the air. Australian faces in modern casual wear. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. 85mm lens, soft golden hour light, shallow depth of field, 4k resolution. Unified Australian scene weaving together these themes: Australian Motorsport & Culture, Restoring Science Investment, Medical Breakthroughs, Advanced Timekeeping Tech, Community Resilience, Natural Cycles & Curiosity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 1768817738,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/01.png style=flux_klein size=896x1152 seed=1768817738 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Precision in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Precision in the Outback answers a strand of today’s news with a focused visual reading. Researchers in Vienna have developed the world’s first self-stabilizing nuclear clock, a leap forward in timekeeping precision that could render traditional atomic clocks obsolete. Scientists Create World’s First Self-Stabilizing Nuclear Clock. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photoreal studio portraiture of an Aboriginal Australian man in 1978 desert attire. He stands in red scrubland, holding a glowing, intricate nuclear clock device. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. 50mm lens, harsh midday sun, sharp focus, high contrast, cinematic color grading, 4k detail. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1880122220,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/02.png style=flux_klein size=896x1152 seed=1880122220 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Hope in the Rainforest",
+      "tone": "good_news",
+      "fashionYear": "1954",
+      "emailHero": false,
+      "description": "Hope in the Rainforest answers a strand of today’s news with a focused visual reading. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photoreal cinematic still of a 1954 Australian couple in a rainforest. A doctor in period white coat and a patient in vintage dress share a hopeful smile. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. 100mm lens, dappled forest light, soft bokeh, warm tones, 4k resolution, shallow depth of field. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 1429131116,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/03.png style=flux_klein size=896x1152 seed=1429131116 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "The Hidden Drainage",
+      "tone": "good_news",
+      "fashionYear": "1992",
+      "emailHero": false,
+      "description": "The Hidden Drainage answers a strand of today’s news with a focused visual reading. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photoreal studio portraiture of a 1992 Australian researcher in a Melbourne lab. She examines a large, detailed anatomical eye model showing fluid drainage. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. 85mm lens, cool fluorescent lighting, sharp technical focus, neutral background, 4k detail, cinematic still. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 795614469,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/04.png style=flux_klein size=896x1152 seed=795614469 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Moths over the Harbour",
+      "tone": "good_news",
+      "fashionYear": "1936",
+      "emailHero": false,
+      "description": "Moths over the Harbour answers a strand of today’s news with a focused visual reading. Meanwhile, in Australia, the return of Bogong moths to cities like Sydney and Canberra has sparked a wave of curiosity and engagement, reminding communities of their connection to natural cycles. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photoreal cinematic still of a 1936 Sydney pier. A dense cloud of Bogong moths swirls around a crowd in vintage 1936 clothing. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. 35mm lens, overcast soft light, dynamic motion blur, detailed textures, 4k resolution, historical atmosphere. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1723007367,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/05.png style=flux_klein size=896x1152 seed=1723007367 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "Harbour Speed",
+      "tone": "good_news",
+      "fashionYear": "1968",
+      "emailHero": false,
+      "description": "Harbour Speed answers a strand of today’s news with a focused visual reading. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. Meanwhile, in Australia, the return of Bogong moths to cities like Sydney and Canberra has sparked a wave of curiosity and engagement, reminding communities of their connection to natural cycles. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic cinematic still of an Anglo-Celtic male driver in 1968 racing suit and cap on Sydney Harbour Bridge. Background shows eucalyptus scrub and harbour water. Warm golden hour lighting, 85mm lens, shallow depth of field. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. No text. Australian landscape or city setting with Australian people. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 1895679586,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/06.png style=flux_klein size=896x1152 seed=1895679586 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Science in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1998",
+      "emailHero": false,
+      "description": "Science in the Outback answers a strand of today’s news with a focused visual reading. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic studio portraiture of two Aboriginal Australian scientists in 1998 field jackets and caps in red desert. Holding tablets, serious yet hopeful. Harsh midday sun, 50mm lens, deep focus. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. No text, no logos.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 854860945,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/07.png style=flux_klein size=896x1152 seed=854860945 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Moths of the City",
+      "tone": "good_news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Moths of the City answers a strand of today’s news with a focused visual reading. Meanwhile, in Australia, the return of Bogong moths to cities like Sydney and Canberra has sparked a wave of curiosity and engagement, reminding communities of their connection to natural cycles. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic cinematic still of multicultural Australian families in 2018 casual wear on a Sydney balcony at dusk. Soft blue hour light, 35mm lens, medium depth of field. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. No text, no watermarks.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 152800770,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/08.png style=flux_klein size=896x1152 seed=152800770 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "The New Drain",
+      "tone": "good_news",
+      "fashionYear": "1948",
+      "emailHero": false,
+      "description": "The New Drain answers a strand of today’s news with a focused visual reading. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic studio portraiture of a Mediterranean Australian doctor in 1948 white coat and glasses holding an eye model. Melbourne hospital background, soft diffused window light, 100mm macro lens, shallow DOF. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 1328347100,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/09.png style=flux_klein size=896x1152 seed=1328347100 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Rescue in the Rainforest",
+      "tone": "news",
+      "fashionYear": "2008",
+      "emailHero": false,
+      "description": "Rescue in the Rainforest answers a strand of today’s news with a focused visual reading. Simultaneously, the Australian science community is rallying with a new 'Restore Science' campaign, calling for renewed investment to maintain the country’s global competitiveness and foster innovation. In medical science, a new cancer drug has shown the ability to double survival rates for patients in advanced stages, while a previously unknown pathway for fluid drainage in the eye has been discovered, potentially opening new doors for glaucoma treatment. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic cinematic still of rescue workers in 2008 tactical gear helping a family in dense Australian rainforest. Overcast lighting, 24mm wide lens, deep focus. Saida studio clarity, everyday dignity, classic Middle Eastern photographic modernity. No gore, no text, no logos.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 2391910,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-12/10.png style=flux_klein size=896x1152 seed=2391910 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
