@@ -2,6 +2,141 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-13",
+      "artist": {
+        "id": "abbott",
+        "name": "Berenice Abbott",
+        "era": "20th c. US",
+        "renderMode": "photoreal",
+        "aspectRatio": "3:4",
+        "tags": [
+          "photography",
+          "architecture",
+          "north-america",
+          "bw"
+        ],
+        "bio": "Berenice Alice Abbott was an American photographer best known for her portraits of cultural figures of the interwar period, New York City photographs of architecture and urban design of the 1930s, and science interpretation of the 1940s to the 1960s.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Berenice_Abbott.jpg/330px-Berenice_Abbott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Medical Safety & Regulation",
+        "Cultural Reunion & Joy",
+        "Community Resilience",
+        "Humanitarian Solidarity",
+        "Scientific Investment",
+        "International Stability"
+      ],
+      "summary": "Australian news this week highlights a strong commitment to public safety and community resilience. In Sydney, a cosmetic surgery event was cancelled after regulators identified doctors not registered to practise in Australia, demonstrating the effectiveness of medical oversight in protecting consumers. Simultaneously, the release of an Australian engineer detained in Iraq for years has brought relief to his family, while the government’s response to the Houthi strikes on Saudi Arabia underscores Australia’s role in supporting regional stability and civilian safety. These stories reflect a nation that prioritizes accountability, human rights, and solidarity in the face of complex international challenges.\n\nOn the cultural front, Australia is celebrating a vibrant creative renaissance. The iconic band Powderfinger has announced their first tour in 17 years, with members expressing 'absolute ecstasy' at reuniting, offering a shared moment of joy and nostalgia for fans nationwide. In the arts, a new horror-comedy about killer gnomes is set to hit streaming, showcasing the diversity of Australian storytelling. These cultural events serve as a reminder of the power of community and shared experience to bring people together.\n\nInternationally, the focus remains on humanitarian resilience and scientific progress. In Northfield, Minnesota, community solidarity has been highlighted as a key factor in navigating strained budgets and uncertainty, demonstrating how local cohesion can drive stability. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. These narratives emphasize that despite global challenges, human ingenuity, care, and collective action remain the primary drivers of progress and hope.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "Sydney Harbour Renaissance",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "Sydney Harbour Renaissance is today’s cover piece — one Australian scene that weaves together Medical Safety & Regulation, Cultural Reunion & Joy, Community Resilience, Humanitarian Solidarity, Scientific Investment, and International Stability. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. In Northfield, Minnesota, community solidarity has been highlighted as a key factor in navigating strained budgets and uncertainty, demonstrating how local cohesion can drive stability. Australian news this week highlights a strong commitment to public safety and community resilience. In the artwork, that story reflects modernist architecture.",
+          "prompt": "Photorealistic 35mm film, 85mm lens, golden hour. Sydney Harbour water reflecting modernist architecture. Foreground: diverse Australian musicians in 2024 streetwear. Midground: scientists in lab coats near a research vessel. Background: a family embracing. Sharp focus, high contrast, cinematic depth of field, Abbott-style clarity, no mist. Unified Australian scene weaving together these themes: Medical Safety & Regulation, Cultural Reunion & Joy, Community Resilience, Humanitarian Solidarity, Scientific Investment, International Stability. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "The Reunion",
+          "tone": "good_news",
+          "fashionYear": "1994",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "The Reunion takes on the day’s Cultural Reunion & Joy thread, translating the news into a single visual moment. In Northfield, Minnesota, community solidarity has been highlighted as a key factor in navigating strained budgets and uncertainty, demonstrating how local cohesion can drive stability. Australian news this week highlights a strong commitment to public safety and community resilience. The composition keeps the human stakes of Cultural Reunion & Joy in view without turning the news into spectacle.",
+          "prompt": "Photorealistic 35mm, 50mm lens, overcast Melbourne light. Four Australian men in 1994 flannel shirts and jeans holding instruments in a laneway. Sharp architectural lines of Victorian brick. High contrast B&W, modernist clarity, deep depth of field, crisp details, no soft focus, Abbott documentation style. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Medical Integrity",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Medical Integrity answers a strand of today’s news with a focused visual reading. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. Australian news this week highlights a strong commitment to public safety and community resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic 35mm, 100mm macro lens, cool fluorescent office lighting. A stern Australian regulator in 2015 business attire examining documents. Sharp geometric shadows, clean modernist interior. High contrast, precise architectural documentation, no mist, crisp B&W, Abbott style, deep focus. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Diplomatic Relief",
+          "tone": "good_news",
+          "fashionYear": "2006",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Diplomatic Relief answers a strand of today’s news with a focused visual reading. Simultaneously, the release of an Australian engineer detained in Iraq for years has brought relief to his family, while the government’s response to the Houthi strikes on Saudi Arabia underscores Australia’s role in supporting regional stability and civilian safety. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic 35mm, 35mm lens, bright airport daylight. An Australian man in 2006 casual wear embracing family members. Clean modernist terminal architecture. Sharp contrast, high detail, cinematic still, no soft mist, Abbott-style clarity, deep depth of field, crisp lines. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Outback Solidarity",
+          "tone": "news",
+          "fashionYear": "1975",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Outback Solidarity takes on the day’s Humanitarian Solidarity thread, translating the news into a single visual moment. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. Australian news this week highlights a strong commitment to public safety and community resilience. The composition keeps the human stakes of Humanitarian Solidarity in view without turning the news into spectacle.",
+          "prompt": "Photorealistic 35mm, 28mm lens, harsh midday sun. Aboriginal Australian figures in 1975 work clothes sharing water in red desert. Sharp eucalyptus shadows, modernist B&W clarity. High contrast, no mist, crisp architectural and natural details, Abbott documentation style, deep focus. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Harbour Safety Net",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Harbour Safety Net answers a strand of today’s news with a focused visual reading. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. Internationally, the focus remains on humanitarian resilience and scientific progress. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Sharp black and white photograph of a modernist Sydney harbour office, 1998 fashion. Regulators reviewing documents. Cinematic lighting, deep depth of field, 35mm film grain. Abbott style architectural clarity. No text, no logos. Focus on safety and regulatory precision. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 7,
+          "title": "Diplomatic Return",
+          "tone": "good_news",
+          "fashionYear": "2018",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Diplomatic Return takes on the day’s Community Resilience thread, translating the news into a single visual moment. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. In Northfield, Minnesota, community solidarity has been highlighted as a key factor in navigating strained budgets and uncertainty, demonstrating how local cohesion can drive stability. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Photorealistic Melbourne street, 2018 fashion. An Australian man walking with family, relieved expressions. Cinematic golden hour light, shallow depth of field. Abbott style sharpness. No gore, no caricature. Focus on survivor dignity and community welcome. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 8,
+          "title": "Outback Science",
+          "tone": "good_news",
+          "fashionYear": "2025",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Outback Science takes on the day’s Scientific Investment thread, translating the news into a single visual moment. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. Australian news this week highlights a strong commitment to public safety and community resilience. The composition keeps the human stakes of Scientific Investment in view without turning the news into spectacle.",
+          "prompt": "Red desert outback, 2025 fashion. Aboriginal Australian scientists examining rocks. Sharp B&W, high contrast, Abbott style. Cinematic still, wide angle. Focus on scientific ingenuity and First Nations dignity. No sacred imagery, contemporary everyday attire. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 9,
+          "title": "Community Cohesion",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Community Cohesion takes on the day’s Community Resilience thread, translating the news into a single visual moment. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. Internationally, the focus remains on humanitarian resilience and scientific progress. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Australian country town hall, 1985 fashion. Diverse Australian faces sharing food. Warm interior lighting, photorealistic. Abbott style clarity. No partisan symbols. Focus on community resilience and shared human connection in a local setting. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 10,
+          "title": "Regional Stability",
+          "tone": "news",
+          "fashionYear": "2010",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Regional Stability takes on the day’s International Stability thread, translating the news into a single visual moment. Simultaneously, the release of an Australian engineer detained in Iraq for years has brought relief to his family, while the government’s response to the Houthi strikes on Saudi Arabia underscores Australia’s role in supporting regional stability and civilian safety. Globally, the humanitarian community is being honoured for their lifesaving work, while scientific bodies like the Australian Academy of Science are pushing for restored investment in research to drive future innovation. The composition keeps the human stakes of International Stability in view without turning the news into spectacle.",
+          "prompt": "Melbourne naval port, 2010 fashion. Uniformed personnel coordinating logistics. Sharp architectural B&W, Abbott style. Cinematic depth of field. No gore, no combat. Focus on orderly operations and the quiet machinery of international security. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "artist": {
         "id": "hashem_el_madani",
