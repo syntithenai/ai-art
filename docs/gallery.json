@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-14",
+      "artist": {
+        "id": "modotti",
+        "name": "Tina Modotti",
+        "era": "20th c. IT/MX",
+        "renderMode": "photoreal",
+        "aspectRatio": "3:4",
+        "tags": [
+          "photography",
+          "latin-america",
+          "bw"
+        ],
+        "bio": "Tina Modotti was an Italian and American photographer, model, actor, and revolutionary political activist for the Comintern. She left her native Italy in 1913 and emigrated to the United States, where she settled in San Francisco with her father and sister. In San Francisco, Modotti worked as a seamstress, model, and theater performer and, later, moved to Los Angeles where she worked in film. She later became a photographer and essayist. In 1922 she moved to Mexico, where she became an active member of the Mexican Communist Party.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tina_Modotti_-_Edward_Weston.jpg/330px-Tina_Modotti_-_Edward_Weston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "photoCredit": "Wikipedia / Wikimedia"
+      },
+      "themes": [
+        "Climate Justice & Legal Precedents",
+        "Indigenous Language Revival",
+        "Medical Breakthroughs & Optogenetics",
+        "Space Tech for Earth Health",
+        "Human Rights & Peace Advocacy",
+        "Community Resilience & Solidarity"
+      ],
+      "summary": "Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The High Court’s ruling against the expansion of the Mount Pleasant coal mine sets a powerful legal precedent for fossil fuel approvals, championed by retired teachers Wendy Wales and Tony Lonergan. This constructive response to environmental challenges is mirrored in the cultural sphere, where a Gumbaynggirr elder and her great-granddaughter are learning their native language together at a special preschool, highlighting the enduring power of intergenerational connection and cultural preservation.\n\nOn the international stage, science and human rights continue to drive progress. The Nobel Prize in Physiology or Medicine was awarded for work in optogenetics, offering a potential breakthrough in vision restoration, while Navi Pillay received the Peace Prize for her decades of work prosecuting war crimes. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas.\n\nDespite challenges such as the Pope’s cancer diagnosis and ongoing political debates over migration and trust taxes, the narrative remains one of constructive engagement. In Australia, leaders are urged to focus on long-term solutions for economic hardship rather than partisan conflict, while in France, students and climate campaigner Greta Thunberg rally for education funding. These stories collectively emphasize the importance of solidarity, scientific ingenuity, and the human capacity to adapt and thrive.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Woven Victory",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified Australian scene weaving climate justice, Indigenous language revival, medical breakthroughs, space tech, and peace advocacy. Retired teachers Wendy Wales and Tony Lonergan stand with a Gumbaynggirr elder and great-granddaughter, surrounded by symbols of optogenetics and remote diagnostics, celebrating the High Court's ruling against the Mount Pleasant coal mine expansion.",
+          "prompt": "Photorealistic cinematic still, high contrast B&W, 50mm lens, deep depth of field. Australian coastal cliffs at dawn. Multicultural Australian group: retired teachers Wendy Wales and Tony Lonergan in 2024 business casual, Gumbaynggirr elder and great-granddaughter in contemporary Indigenous wear. Background motifs: coal mine silhouette fading, floating optogenetic light beams, remote diagnostic screens, peace dove. Crisp modernist composition, dignity, solidarity, no text, no logos. Unified Australian scene weaving together these themes: Climate Justice & Legal Precedents, Indigenous Language Revival, Medical Breakthroughs & Optogenetics, Space Tech for Earth Health, Human Rights & Peace Advocacy, Community Resilience & Solidarity."
+        },
+        {
+          "index": 2,
+          "title": "Sight Restored in the Scrub",
+          "tone": "good_news",
+          "fashionYear": "1895",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Focuses on the Nobel Prize for optogenetics. An Aboriginal Australian patient in a rural clinic setting experiences restored vision, symbolizing the medical breakthrough by Karl Deisseroth, Peter Hegemann, and Georg Nagel, set against the backdrop of Australian bushland resilience.",
+          "prompt": "Photorealistic cinematic close-up, 85mm lens, shallow depth of field, dramatic lighting. Australian outback clinic interior. Aboriginal Australian patient in 2024 casual wear, eyes wide open, reflecting bright light. Background: blurred eucalyptus scrub through window. Mood: wonder, discovery, medical progress. Crisp B&W, high contrast, no text, no logos, dignified contemporary style. Set in Australia circa 1895; clothing and material culture accurate to that year."
+        },
+        {
+          "index": 3,
+          "title": "Language Roots in the Rainforest",
+          "tone": "good_news",
+          "fashionYear": "2018",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Highlights the Gumbaynggirr elder learning native language with her great-granddaughter at a preschool. Set in a lush Australian rainforest, this image celebrates intergenerational connection and cultural preservation, showing the enduring power of Indigenous knowledge systems in a modern context.",
+          "prompt": "Photorealistic cinematic medium shot, 35mm lens, soft natural light, deep focus. Australian rainforest edge. Gumbaynggirr elder and great-granddaughter in 2018 contemporary Indigenous clothing, sitting close, sharing a book. Background: dense green foliage, dappled light. Mood: warmth, heritage, family bonds. Crisp B&W, modernist composition, no text, no logos, respectful representation."
+        },
+        {
+          "index": 4,
+          "title": "Space Tech for Earth Care",
+          "tone": "good_news",
+          "fashionYear": "2012",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Depicts space technology aiding Earth rehabilitation. A patient in a remote Australian hospital uses a vibrating rehabilitation chair, originally developed for space missions, illustrating how innovations like remote diagnostics are improving medical outcomes for patients in isolated areas, bridging the gap between space and health.",
+          "prompt": "Photorealistic cinematic wide shot, 24mm lens, cool artificial lighting, sharp focus. Remote Australian hospital room. Patient in 2012 hospital gown sitting in advanced vibrating rehabilitation chair. Background: window showing red desert landscape. Mood: innovation, care, remote connectivity. Crisp B&W, technological yet human, no text, no logos, dignified medical setting. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 5,
+          "title": "Peace Advocacy in the Harbour",
+          "tone": "news",
+          "fashionYear": "2005",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Reflects Navi Pillay's Nobel Peace Prize and human rights advocacy. Set in a Sydney harbour scene, this image shows a diverse group of Australian activists and legal professionals discussing international law, symbolizing the global push for peace and justice, with the coal mine ruling serving as a local legal precedent for fossil fuel approvals.",
+          "prompt": "Photorealistic cinematic street scene, 50mm lens, overcast diffuse light, medium depth of field. Sydney harbour pier. Multicultural Australian group in 2005 business attire, holding documents, engaged in discussion. Background: harbour water, city skyline. Mood: serious, advocacy, legal precedent. Crisp B&W, modernist documentary style, no text, no logos, respectful representation of diverse faces."
+        },
+        {
+          "index": 6,
+          "title": "The High Court Stand",
+          "tone": "good_news",
+          "fashionYear": "1936",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "The High Court Stand answers a strand of today’s news with a focused visual reading. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic black and white cinematic still of two Australian retirees, 1936 fashion, standing before modern High Court architecture. Crisp lighting, shallow depth of field, serious expressions, formal beauty meeting social seeing, no text, no logos, high contrast, fine art photography."
+        },
+        {
+          "index": 7,
+          "title": "Optogenetics in the Outback",
+          "tone": "good_news",
+          "fashionYear": "1962",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Optogenetics in the Outback takes on the day’s Medical Breakthroughs & Optogenetics thread, translating the news into a single visual moment. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of Medical Breakthroughs & Optogenetics in view without turning the news into spectacle.",
+          "prompt": "Photorealistic black and white photo of an Aboriginal Australian elder in 1962 outback attire, receiving medical vision therapy in red desert. Cinematic lighting, sharp focus on face, soft background, dignified expression, crisp B&W, fine art style, no text, no logos."
+        },
+        {
+          "index": 8,
+          "title": "Preschool Language Roots",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Preschool Language Roots answers a strand of today’s news with a focused visual reading. This constructive response to environmental challenges is mirrored in the cultural sphere, where a Gumbaynggirr elder and her great-granddaughter are learning their native language together at a special preschool, highlighting the enduring power of intergenerational connection and cultural preservation. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic black and white image of Gumbaynggirr elder and child in 1978 casual wear, inside coastal preschool. Warm lighting, intimate framing, candid interaction, crisp details, fine art photography, no text, no logos, shallow depth of field, human connection. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 9,
+          "title": "Space Tech in the Bush",
+          "tone": "good_news",
+          "fashionYear": "1995",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Space Tech in the Bush takes on the day’s Space Tech for Earth Health thread, translating the news into a single visual moment. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The composition keeps the human stakes of Space Tech for Earth Health in view without turning the news into spectacle.",
+          "prompt": "Photorealistic black and white photo of patient in 1995 hospital gown using vibrating rehab chair in rural Australian clinic. Clinical lighting, precise focus, clean lines, fine art style, no text, no logos, high contrast, medical progress, human dignity."
+        },
+        {
+          "index": 10,
+          "title": "Peace Advocate on the Reef",
+          "tone": "news",
+          "fashionYear": "2010",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Peace Advocate on the Reef answers a strand of today’s news with a focused visual reading. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photorealistic black and white cinematic still of woman in 2010 professional attire standing on Australian reef edge. Dramatic lighting, sharp focus, distant ocean, serious expression, fine art photography, no text, no logos, high contrast, global peace, local frame."
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "artist": {
         "id": "abbott",

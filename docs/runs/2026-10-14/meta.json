@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-14",
+  "artist": {
+    "id": "modotti",
+    "name": "Tina Modotti",
+    "era": "20th c. IT/MX",
+    "renderMode": "photoreal",
+    "aspectRatio": "3:4",
+    "tags": [
+      "photography",
+      "latin-america",
+      "bw"
+    ],
+    "bio": "Tina Modotti was an Italian and American photographer, model, actor, and revolutionary political activist for the Comintern. She left her native Italy in 1913 and emigrated to the United States, where she settled in San Francisco with her father and sister. In San Francisco, Modotti worked as a seamstress, model, and theater performer and, later, moved to Los Angeles where she worked in film. She later became a photographer and essayist. In 1922 she moved to Mexico, where she became an active member of the Mexican Communist Party.",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tina_Modotti_-_Edward_Weston.jpg/330px-Tina_Modotti_-_Edward_Weston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoCredit": "Wikipedia / Wikimedia"
+  },
+  "summary": "Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The High Court’s ruling against the expansion of the Mount Pleasant coal mine sets a powerful legal precedent for fossil fuel approvals, championed by retired teachers Wendy Wales and Tony Lonergan. This constructive response to environmental challenges is mirrored in the cultural sphere, where a Gumbaynggirr elder and her great-granddaughter are learning their native language together at a special preschool, highlighting the enduring power of intergenerational connection and cultural preservation.\n\nOn the international stage, science and human rights continue to drive progress. The Nobel Prize in Physiology or Medicine was awarded for work in optogenetics, offering a potential breakthrough in vision restoration, while Navi Pillay received the Peace Prize for her decades of work prosecuting war crimes. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas.\n\nDespite challenges such as the Pope’s cancer diagnosis and ongoing political debates over migration and trust taxes, the narrative remains one of constructive engagement. In Australia, leaders are urged to focus on long-term solutions for economic hardship rather than partisan conflict, while in France, students and climate campaigner Greta Thunberg rally for education funding. These stories collectively emphasize the importance of solidarity, scientific ingenuity, and the human capacity to adapt and thrive.",
+  "themes": [
+    "Climate Justice & Legal Precedents",
+    "Indigenous Language Revival",
+    "Medical Breakthroughs & Optogenetics",
+    "Space Tech for Earth Health",
+    "Human Rights & Peace Advocacy",
+    "Community Resilience & Solidarity"
+  ],
+  "headlines": [
+    {
+      "title": "High Court strikes down appeal for Mount Pleasant coal mine expansion",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/"
+    },
+    {
+      "title": "Gumbaynggirr elder and great-granddaughter learn native language at preschool",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Nobel Prize in Medicine awarded for optogenetics breakthrough",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/"
+    },
+    {
+      "title": "Navi Pillay wins Nobel Peace Prize for war crimes prosecution",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/"
+    },
+    {
+      "title": "Space research drives new medical rehabilitation tools on Earth",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science"
+    },
+    {
+      "title": "Pope Leo’s surgery confirms lung cancer, lower lobe removed",
+      "url": "https://www.abc.net.au/news/justin"
+    },
+    {
+      "title": "Greta Thunberg joins French students in Paris rally for education funding",
+      "url": "https://www.smh.com.au/national/australia-news-live-albanese-wants-to-block-livestream-of-us-execution-in-australia-chalmers-says-progressives-have-to-take-one-nation-s-rise-seriously-20261014-p615bl.html"
+    },
+    {
+      "title": "Australian Academy of Science launches 'Restore Science' campaign",
+      "url": "https://science.org.au/news-events/news-views"
+    },
+    {
+      "title": "Family reunited after engineer’s release from Iraq",
+      "url": "https://www.sbs.com.au/news"
+    },
+    {
+      "title": "AFL tells Sportsbet to stop using players in AI-generated content",
+      "url": "https://www.theguardian.com/australia-news"
+    }
+  ],
+  "goodNews": [
+    {
+      "title": "High Court rules against Mount Pleasant coal mine expansion",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "angle": "A 'David vs Goliath' victory by retired teachers sets a legal precedent for fossil fuel approvals in Australia, prioritizing climate impact."
+    },
+    {
+      "title": "Nobel Prize awarded for optogenetics vision restoration",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "angle": "Scientists Karl Deisseroth, Peter Hegemann, and Georg Nagel recognized for work that could restore sight, marking a major medical breakthrough."
+    },
+    {
+      "title": "Gumbaynggirr elder learns native language with great-granddaughter",
+      "url": "https://www.abc.net.au/news/justin",
+      "angle": "An Indigenous preschool program facilitates intergenerational language transmission, preserving cultural heritage and strengthening family bonds."
+    },
+    {
+      "title": "Space technology aids Earth rehabilitation and remote care",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "angle": "Innovations like vibrating rehabilitation chairs and remote diagnostics, originally developed for space, are improving medical outcomes for patients on Earth."
+    },
+    {
+      "title": "Navi Pillay awarded Nobel Peace Prize",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "angle": "The former UN human rights commissioner is honored for her lifelong commitment to prosecuting war crimes and promoting international peace."
+    }
+  ],
+  "thinSearch": false,
+  "sources": [
+    {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/",
+      "snippet": "Topic:AIWed 14 Oct 2026 at 6:51amWed 14 Oct 2026 at 6:51amWed 14 Oct 2026 at 6:51am ... Article is a 4 minute read. ... <strong>A covert operation has been unfolding under the noses of diners and staff in restaurants across South Australia</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Just In - ABC News",
+      "url": "https://www.abc.net.au/news/justin",
+      "snippet": "Topic:ExplainerTue 13 Oct 2026 ... at 10:21am · <strong>South Melbourne&#x27;s historic Australia Cup victory has been overshadowed by booing of the Welcome to Country at the game by a section of the AAMI Park crowd</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Australia | Latest News & Updates | BBC News",
+      "url": "https://www.bbc.com/news/world/australia",
+      "snippet": "4 Oct 2026 · <strong>The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees</strong>. 4 Oct 2026 ·",
+      "source": "brave"
+    },
+    {
+      "title": "Australia news LIVE: Albanese wants to block livestream of US execution in Australia; Chalmers says progressives have to take One Nation’s rise seriously",
+      "url": "https://www.smh.com.au/national/australia-news-live-albanese-wants-to-block-livestream-of-us-execution-in-australia-chalmers-says-progressives-have-to-take-one-nation-s-rise-seriously-20261014-p615bl.html",
+      "snippet": "“We’re just talking numbers rather than actually laying out a 10-year, 20-year plan for Australia when it comes to migration and population, and taking into account the kind of skills that we do need [and] where we need them,” he told Nine’s Today show.",
+      "source": "brave"
+    },
+    {
+      "title": "Latest News & Headlines from Australia and the World | SBS News",
+      "url": "https://www.sbs.com.au/news",
+      "snippet": "Published: 12/10/2026 · Duration: ... SBS News In Depth · Follow and Subscribe · Follow and Subscribe · <strong>The families being kept apart by new visa rules</strong> · Published: 14/10/2026 ·...",
+      "source": "brave"
+    },
+    {
+      "title": "Latest Australia news and comment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news",
+      "snippet": "<strong>Queensland coronial inquest into death of eight-year-old girl continues after 14 members of religious sect were convicted of her manslaughter</strong>",
+      "source": "brave"
+    },
+    {
+      "title": "search error: Australia top stories site:abc.net.au",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=Australia+top+stories+site%3Aabc.net.au&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Science, technology and innovation | Department of Industry Science and Resources",
+      "url": "https://www.industry.gov.au/science-technology-and-innovation",
+      "snippet": "<strong>We support Australian businesses, entrepreneurs and researchers to collaborate with international partners on science and research</strong>. We are transforming Australia’s space and astronomy industries.",
+      "source": "brave"
+    },
+    {
+      "title": "News and views | Australian Academy of Science",
+      "url": "https://science.org.au/news-events/news-views",
+      "snippet": "<strong>The Academy&#x27;s new &#x27;Restore Science&#x27; campaign calls for urgent action to restore investment in Australian science</strong>, as declining funding risks weakening national capability, driving talent overseas and eroding global competitiveness.",
+      "source": "brave"
+    },
+    {
+      "title": "Ideas to Impact puts Australian R&D stories in the spotlight | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/ideas-to-impact-puts-australian-rd-stories-in-the-spotlight/",
+      "snippet": "<strong>Australian science and technology are delivering new capabilities, industries, jobs and better outcomes for Australians</strong>. A new video series launched by Science &amp; Technology Australia (STA) will bring these stories to a national audience.",
+      "source": "brave"
+    },
+    {
+      "title": "Australian Science Innovations | Innovative Science Programs",
+      "url": "https://asi.edu.au/",
+      "snippet": "Over the last ten years our positive impact has seen · <strong>over 1000 students extend their science skills and knowledge at a residential camp</strong> · 266 students represent Australia and earn 182 medals",
+      "source": "brave"
+    },
+    {
+      "title": "News | Science and Technology Australia",
+      "url": "https://scienceandtechnologyaustralia.org.au/news/",
+      "snippet": "Science &amp; Technology Australia (STA) has welcomed the Australian Government’s announcement that it will begin treaty negotiations on association to Horizon Europe, describing it as a major step forward for the nation’s research and innovation system.",
+      "source": "brave"
+    },
+    {
+      "title": "Building Australia’s Future powered by science and innovation | Australian Academy of Science",
+      "url": "https://www.science.org.au/news-and-events/news-and-media-releases/building-australias-future-powered-by-science-and-innovation",
+      "snippet": "<strong>The President of the Australian Academy of Science, Professor Chennupati Jagadish AC, has welcomed the new Albanese Ministry and outlined seven immediate priorities for the federal government</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "search error: good news science breakthrough discovery today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=good+news+science+breakthrough+discovery+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: human interest rescue solidarity community resilience news",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=human+interest+rescue+solidarity+community+resilience+news&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "Space environment advancing medical science | Australian Space Agency",
+      "url": "https://www.space.gov.au/space-environment-advancing-medical-science",
+      "snippet": "However, medical technology originally developed for space has influenced rehabilitation tools on Earth. For example, <strong>a vibrating rehabilitation chair can stimulate muscle contractions like weight-lifting exercises</strong>. This innovative treatment assists hospitals and sports medicine specialists.",
+      "source": "brave"
+    },
+    {
+      "title": "What went right this week: the good news that matters - Positive News - Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "snippet": "One of this year’s Nobel prize-winning discoveries has led to a potential breakthrough in vision restoration. <strong>Karl Deisseroth, Peter Hegemann and Georg Nagel were awarded the Nobel prize in physiology or medicine for their work in optogenetics</strong>.",
+      "source": "brave"
+    },
+    {
+      "title": "Frontiers | Space exploration as a catalyst for medical innovations",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1226531/full",
+      "snippet": "Similarly, <strong>infusion of shelf-stable reconstituted HBOCs could obviate the need to travel long distances for patients requiring transfusion</strong>. In cases of extreme remoteness or other travel impediment, such as in pandemics or wars, ISRU and synthetic ...",
+      "source": "brave"
+    },
+    {
+      "title": "Space exploration as a catalyst for medical innovations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395101/",
+      "snippet": "Checking your browser before accessing pmc.ncbi.nlm.nih.gov · Click here if you are not automatically redirected after 5 seconds",
+      "source": "brave"
+    },
+    {
+      "title": "NASA's impact on medical innovation: Breakthrough technologies from space research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524006003",
+      "snippet": "With AI’s increased involvement ... Notable uses of AI in space medicine include <strong>remote diagnostics, wearable biosensors, astronaut training models, and mental health support</strong>....",
+      "source": "brave"
+    },
+    {
+      "title": "Benefits of space: Global Health",
+      "url": "https://www.unoosa.org/oosa/en/benefits-of-space/global-health.html",
+      "snippet": "These devices can track vital signs, activity levels, and other health metrics, helping individuals manage their health and enabling healthcare providers to monitor patients remotely. <strong>Vaccine Development and Drug Testing</strong>: Microgravity environments in space can ...",
+      "source": "brave"
+    },
+    {
+      "title": "search error: world news science culture human achievement today",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=world+news+science+culture+human+achievement+today&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    },
+    {
+      "title": "search error: international news community recovery OR scientific discovery",
+      "url": "",
+      "snippet": "Client error '429 Too Many Requests' for url 'https://api.search.brave.com/res/v1/web/search?q=international+news+community+recovery+OR+scientific+discovery&count=6&country=AU&search_lang=en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+      "source": "error"
+    }
+  ],
+  "models": {
+    "llm": "qwen3.8-off",
+    "image": "Flux Klein",
+    "imageStyle": "flux_klein"
+  },
+  "images": [
+    {
+      "index": 1,
+      "title": "The Woven Victory",
+      "tone": "good_news",
+      "fashionYear": "2024",
+      "emailHero": true,
+      "description": "A unified Australian scene weaving climate justice, Indigenous language revival, medical breakthroughs, space tech, and peace advocacy. Retired teachers Wendy Wales and Tony Lonergan stand with a Gumbaynggirr elder and great-granddaughter, surrounded by symbols of optogenetics and remote diagnostics, celebrating the High Court's ruling against the Mount Pleasant coal mine expansion.",
+      "prompt": "Photorealistic cinematic still, high contrast B&W, 50mm lens, deep depth of field. Australian coastal cliffs at dawn. Multicultural Australian group: retired teachers Wendy Wales and Tony Lonergan in 2024 business casual, Gumbaynggirr elder and great-granddaughter in contemporary Indigenous wear. Background motifs: coal mine silhouette fading, floating optogenetic light beams, remote diagnostic screens, peace dove. Crisp modernist composition, dignity, solidarity, no text, no logos. Unified Australian scene weaving together these themes: Climate Justice & Legal Precedents, Indigenous Language Revival, Medical Breakthroughs & Optogenetics, Space Tech for Earth Health, Human Rights & Peace Advocacy, Community Resilience & Solidarity.",
+      "png": "01.png",
+      "jpg": "01.jpg",
+      "seed": 826801058,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/01.png style=flux_klein size=896x1152 seed=826801058 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 2,
+      "title": "Sight Restored in the Scrub",
+      "tone": "good_news",
+      "fashionYear": "1895",
+      "emailHero": false,
+      "description": "Focuses on the Nobel Prize for optogenetics. An Aboriginal Australian patient in a rural clinic setting experiences restored vision, symbolizing the medical breakthrough by Karl Deisseroth, Peter Hegemann, and Georg Nagel, set against the backdrop of Australian bushland resilience.",
+      "prompt": "Photorealistic cinematic close-up, 85mm lens, shallow depth of field, dramatic lighting. Australian outback clinic interior. Aboriginal Australian patient in 2024 casual wear, eyes wide open, reflecting bright light. Background: blurred eucalyptus scrub through window. Mood: wonder, discovery, medical progress. Crisp B&W, high contrast, no text, no logos, dignified contemporary style. Set in Australia circa 1895; clothing and material culture accurate to that year.",
+      "png": "02.png",
+      "jpg": "02.jpg",
+      "seed": 1375688105,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/02.png style=flux_klein size=896x1152 seed=1375688105 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 3,
+      "title": "Language Roots in the Rainforest",
+      "tone": "good_news",
+      "fashionYear": "2018",
+      "emailHero": false,
+      "description": "Highlights the Gumbaynggirr elder learning native language with her great-granddaughter at a preschool. Set in a lush Australian rainforest, this image celebrates intergenerational connection and cultural preservation, showing the enduring power of Indigenous knowledge systems in a modern context.",
+      "prompt": "Photorealistic cinematic medium shot, 35mm lens, soft natural light, deep focus. Australian rainforest edge. Gumbaynggirr elder and great-granddaughter in 2018 contemporary Indigenous clothing, sitting close, sharing a book. Background: dense green foliage, dappled light. Mood: warmth, heritage, family bonds. Crisp B&W, modernist composition, no text, no logos, respectful representation.",
+      "png": "03.png",
+      "jpg": "03.jpg",
+      "seed": 731108173,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/03.png style=flux_klein size=896x1152 seed=731108173 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 4,
+      "title": "Space Tech for Earth Care",
+      "tone": "good_news",
+      "fashionYear": "2012",
+      "emailHero": false,
+      "description": "Depicts space technology aiding Earth rehabilitation. A patient in a remote Australian hospital uses a vibrating rehabilitation chair, originally developed for space missions, illustrating how innovations like remote diagnostics are improving medical outcomes for patients in isolated areas, bridging the gap between space and health.",
+      "prompt": "Photorealistic cinematic wide shot, 24mm lens, cool artificial lighting, sharp focus. Remote Australian hospital room. Patient in 2012 hospital gown sitting in advanced vibrating rehabilitation chair. Background: window showing red desert landscape. Mood: innovation, care, remote connectivity. Crisp B&W, technological yet human, no text, no logos, dignified medical setting. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery.",
+      "png": "04.png",
+      "jpg": "04.jpg",
+      "seed": 2015516153,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/04.png style=flux_klein size=896x1152 seed=2015516153 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 5,
+      "title": "Peace Advocacy in the Harbour",
+      "tone": "news",
+      "fashionYear": "2005",
+      "emailHero": false,
+      "description": "Reflects Navi Pillay's Nobel Peace Prize and human rights advocacy. Set in a Sydney harbour scene, this image shows a diverse group of Australian activists and legal professionals discussing international law, symbolizing the global push for peace and justice, with the coal mine ruling serving as a local legal precedent for fossil fuel approvals.",
+      "prompt": "Photorealistic cinematic street scene, 50mm lens, overcast diffuse light, medium depth of field. Sydney harbour pier. Multicultural Australian group in 2005 business attire, holding documents, engaged in discussion. Background: harbour water, city skyline. Mood: serious, advocacy, legal precedent. Crisp B&W, modernist documentary style, no text, no logos, respectful representation of diverse faces.",
+      "png": "05.png",
+      "jpg": "05.jpg",
+      "seed": 1606360231,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/05.png style=flux_klein size=896x1152 seed=1606360231 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 6,
+      "title": "The High Court Stand",
+      "tone": "good_news",
+      "fashionYear": "1936",
+      "emailHero": false,
+      "description": "The High Court Stand answers a strand of today’s news with a focused visual reading. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic black and white cinematic still of two Australian retirees, 1936 fashion, standing before modern High Court architecture. Crisp lighting, shallow depth of field, serious expressions, formal beauty meeting social seeing, no text, no logos, high contrast, fine art photography.",
+      "png": "06.png",
+      "jpg": "06.jpg",
+      "seed": 965073097,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/06.png style=flux_klein size=896x1152 seed=965073097 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 7,
+      "title": "Optogenetics in the Outback",
+      "tone": "good_news",
+      "fashionYear": "1962",
+      "emailHero": false,
+      "description": "Optogenetics in the Outback takes on the day’s Medical Breakthroughs & Optogenetics thread, translating the news into a single visual moment. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of Medical Breakthroughs & Optogenetics in view without turning the news into spectacle.",
+      "prompt": "Photorealistic black and white photo of an Aboriginal Australian elder in 1962 outback attire, receiving medical vision therapy in red desert. Cinematic lighting, sharp focus on face, soft background, dignified expression, crisp B&W, fine art style, no text, no logos.",
+      "png": "07.png",
+      "jpg": "07.jpg",
+      "seed": 1613282406,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/07.png style=flux_klein size=896x1152 seed=1613282406 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 8,
+      "title": "Preschool Language Roots",
+      "tone": "good_news",
+      "fashionYear": "1978",
+      "emailHero": false,
+      "description": "Preschool Language Roots answers a strand of today’s news with a focused visual reading. This constructive response to environmental challenges is mirrored in the cultural sphere, where a Gumbaynggirr elder and her great-granddaughter are learning their native language together at a special preschool, highlighting the enduring power of intergenerational connection and cultural preservation. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic black and white image of Gumbaynggirr elder and child in 1978 casual wear, inside coastal preschool. Warm lighting, intimate framing, candid interaction, crisp details, fine art photography, no text, no logos, shallow depth of field, human connection. Australian landscape or city setting with Australian people.",
+      "png": "08.png",
+      "jpg": "08.jpg",
+      "seed": 36723721,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/08.png style=flux_klein size=896x1152 seed=36723721 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 9,
+      "title": "Space Tech in the Bush",
+      "tone": "good_news",
+      "fashionYear": "1995",
+      "emailHero": false,
+      "description": "Space Tech in the Bush takes on the day’s Space Tech for Earth Health thread, translating the news into a single visual moment. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. The composition keeps the human stakes of Space Tech for Earth Health in view without turning the news into spectacle.",
+      "prompt": "Photorealistic black and white photo of patient in 1995 hospital gown using vibrating rehab chair in rural Australian clinic. Clinical lighting, precise focus, clean lines, fine art style, no text, no logos, high contrast, medical progress, human dignity.",
+      "png": "09.png",
+      "jpg": "09.jpg",
+      "seed": 291778007,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/09.png style=flux_klein size=896x1152 seed=291778007 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    },
+    {
+      "index": 10,
+      "title": "Peace Advocate on the Reef",
+      "tone": "news",
+      "fashionYear": "2010",
+      "emailHero": false,
+      "description": "Peace Advocate on the Reef answers a strand of today’s news with a focused visual reading. Australian news this week is defined by a landmark victory for climate justice and a deepening focus on community resilience. In the realm of innovation, space research is increasingly translating into medical benefits on Earth, with technologies like vibrating rehabilitation chairs and remote diagnostics improving care for patients in hospitals and remote areas. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+      "prompt": "Photorealistic black and white cinematic still of woman in 2010 professional attire standing on Australian reef edge. Dramatic lighting, sharp focus, distant ocean, serious expression, fine art photography, no text, no logos, high contrast, global peace, local frame.",
+      "png": "10.png",
+      "jpg": "10.jpg",
+      "seed": 1562917919,
+      "comfy": "OK saved=/home/stever/projects/ai-art/docs/runs/2026-10-14/10.png style=flux_klein size=896x1152 seed=1562917919 comfy=http://127.0.0.1:8188",
+      "skipped": false
+    }
+  ]
+}
