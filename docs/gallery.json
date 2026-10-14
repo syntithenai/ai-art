@@ -2,6 +2,139 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-15",
+      "artist": {
+        "id": "alvarez_bravo",
+        "name": "Manuel Álvarez Bravo",
+        "era": "20th c. MX",
+        "renderMode": "photoreal",
+        "aspectRatio": "3:4",
+        "tags": [
+          "photography",
+          "latin-america"
+        ],
+        "bio": "Manuel Álvarez Bravo (20th c. MX). Photoreal Mexican photography in the spirit of Álvarez Bravo: surreal everyday irony, strong sun geometry, poetic street stills. Photoreal / photographic visual language. Associated tags: photography, latin-america.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Australian Financial Agency",
+        "Digital Duty of Care",
+        "Global Scientific Breakthroughs",
+        "Cultural Excellence",
+        "Sports Achievement",
+        "Community Resilience"
+      ],
+      "summary": "Australia is witnessing a significant shift in financial independence, with a record 11.5 million adults now holding investments outside of traditional superannuation and housing. This surge in ETF ownership and digital asset engagement reflects a growing desire for agency and long-term security among Australians. Simultaneously, the nation is strengthening its digital governance framework, with the introduction of the 'Digital Duty of Care' legislation aimed at protecting citizens in the online sphere. These developments highlight a mature, forward-looking approach to both personal finance and public policy.\n\nIn the realm of science and culture, Australia continues to make its mark globally. The announcement of Michelin stars for 11 South Australian restaurants showcases the nation's culinary excellence and the supportive role of state governments in fostering cultural tourism. On the sports front, Australian cyclists have secured a silver medal at the UCI Track Cycling World Championships, extending their podium streak to five consecutive years. These achievements underscore the depth of talent and dedication within Australian communities, from the boardroom to the track and the kitchen.\n\nInternationally, scientific breakthroughs are reshaping our understanding of the universe and human health. Researchers have solved the mystery of the Moon's two faces using farside samples, while new insights into Alzheimer's disease suggest a hidden culprit that may have been overlooked for decades. In the field of quantum physics, Stanford researchers recorded the first real-time quantum jumps of sound, opening new paths for quantum computing. These discoveries exemplify the power of collaborative, global scientific inquiry to push the boundaries of human knowledge and capability.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Australian Horizon",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "The Australian Horizon is today’s cover piece — one Australian scene that weaves together Australian Financial Agency, Digital Duty of Care, Global Scientific Breakthroughs, Cultural Excellence, Sports Achievement, and Community Resilience. The announcement of Michelin stars for 11 South Australian restaurants showcases the nation's culinary excellence and the supportive role of state governments in fostering cultural tourism. On the sports front, Australian cyclists have secured a silver medal at the UCI Track Cycling World Championships, extending their podium streak to five consecutive years. This surge in ETF ownership and digital asset engagement reflects a growing desire for agency and long-term security among Australians. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photoreal Mexican photography in the spirit of Álvarez Bravo, surreal everyday irony, strong sun geometry. 2024 fashion. Unified Sydney Harbour scene. Multicultural Australians in modern business casual. Foreground: tablet showing financial charts. Midground: scientist holding lunar rock, cyclist in silver jersey. Background: Michelin chef plating dish. Cinematic still, 35mm lens, deep depth of field, warm golden hour lighting. Unified Australian scene weaving together these themes: Australian Financial Agency, Digital Duty of Care, Global Scientific Breakthroughs, Cultural Excellence, Sports Achievement, Community Resilience. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Digital Duty of Care",
+          "tone": "news",
+          "fashionYear": "1998",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "A Melbourne suburban street in 1998. A young woman in late-90s fashion looks at her phone with a protective, thoughtful expression, symbolizing the new 'Digital Duty of Care' legislation. The scene highlights the growing need for online safety and citizen protection in the digital age.",
+          "prompt": "Photoreal Mexican photography in the spirit of Álvarez Bravo, surreal everyday irony, strong sun geometry. 1998 fashion. Melbourne suburban street. Young woman in flannel shirt and jeans. Holding an early smartphone. Thoughtful, protective expression. Strong shadow geometry on pavement. Cinematic still, 50mm lens, sharp focus, natural daylight, gritty yet poetic street texture. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Lunar Asymmetry Solved",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "A red desert outback in 2015. An Aboriginal Australian scientist in contemporary field gear examines farside lunar samples, representing the global scientific breakthrough explaining the Moon's two faces. The scene celebrates human ingenuity and the power of collaborative, global scientific inquiry.",
+          "prompt": "Photoreal Mexican photography in the spirit of Álvarez Bravo, surreal everyday irony, strong sun geometry. 2015 fashion. Red desert outback. Aboriginal Australian scientist in field vest. Holding lunar rock sample. Dignified, focused expression. Harsh sun casting long shadows. Cinematic still, 85mm lens, shallow depth of field, warm earth tones, scientific wonder. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Adelaide Culinary Excellence",
+          "tone": "good_news",
+          "fashionYear": "1978",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Adelaide Culinary Excellence takes on the day’s Cultural Excellence thread, translating the news into a single visual moment. The announcement of Michelin stars for 11 South Australian restaurants showcases the nation's culinary excellence and the supportive role of state governments in fostering cultural tourism. Wells to Introduce Digital Duty of Care to Parliament. The composition keeps the human stakes of Cultural Excellence in view without turning the news into spectacle.",
+          "prompt": "Photoreal Mexican photography in the spirit of Álvarez Bravo, surreal everyday irony, strong sun geometry. 1978 fashion. Adelaide restaurant interior. Chef in vintage white uniform. Presenting a plated dish. Warm, inviting atmosphere. Strong window light creating geometric shadows. Cinematic still, 35mm lens, medium depth of field, rich colors, cultural pride. Australian landscape or city setting with Australian people. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Track Cycling Silver",
+          "tone": "good_news",
+          "fashionYear": "2004",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "Track Cycling Silver answers a strand of today’s news with a focused visual reading. On the sports front, Australian cyclists have secured a silver medal at the UCI Track Cycling World Championships, extending their podium streak to five consecutive years. Wells to Introduce Digital Duty of Care to Parliament. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photoreal Mexican photography in the spirit of Álvarez Bravo, surreal everyday irony, strong sun geometry. 2004 fashion. Indoor cycling velodrome. Australian cyclists in racing kits. Wearing silver medals. Proud, exhausted expressions. Strong overhead lighting creating dramatic shadows. Cinematic still, 70mm lens, sharp focus, dynamic composition, athletic triumph. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Sydney Financial Dawn",
+          "tone": "good_news",
+          "fashionYear": "1962",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Sydney Financial Dawn takes on the day’s Australian Financial Agency thread, translating the news into a single visual moment. Wells to Introduce Digital Duty of Care to Parliament. Community Resilience and Solidarity in Northfield. The composition keeps the human stakes of Australian Financial Agency in view without turning the news into spectacle.",
+          "prompt": "Photoreal 1962 Sydney park, strong sun geometry, woman in period hat reviewing charts, surreal everyday irony, poetic street still, cinematic lens, shallow depth of field, Mexican photography style, no text, no logos, high contrast, warm tones, 35mm film grain. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 7,
+          "title": "Adelaide Culinary Star",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Adelaide Culinary Star answers a strand of today’s news with a focused visual reading. The announcement of Michelin stars for 11 South Australian restaurants showcases the nation's culinary excellence and the supportive role of state governments in fostering cultural tourism. Wells to Introduce Digital Duty of Care to Parliament. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photoreal 1985 Adelaide restaurant, chef in period uniform presenting dish, strong sun geometry, surreal everyday irony, poetic street still, cinematic lens, shallow depth of field, Mexican photography style, no text, no logos, high contrast, warm tones, 35mm film grain. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 8,
+          "title": "Melbourne Track Silver",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Melbourne Track Silver answers a strand of today’s news with a focused visual reading. On the sports front, Australian cyclists have secured a silver medal at the UCI Track Cycling World Championships, extending their podium streak to five consecutive years. These achievements underscore the depth of talent and dedication within Australian communities, from the boardroom to the track and the kitchen. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photoreal 1992 Melbourne velodrome, cyclists in period gear posing, strong sun geometry, surreal everyday irony, poetic street still, cinematic lens, shallow depth of field, Mexican photography style, no text, no logos, high contrast, warm tones, 35mm film grain. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 9,
+          "title": "Perth Lunar Sample",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Perth Lunar Sample answers a strand of today’s news with a focused visual reading. Wells to Introduce Digital Duty of Care to Parliament. Community Resilience and Solidarity in Northfield. The composition keeps the human stakes of the story in view without turning the news into spectacle.",
+          "prompt": "Photoreal 2010 Perth lab, scientists in period coats examining lunar rock, strong sun geometry, surreal everyday irony, poetic street still, cinematic lens, shallow depth of field, Mexican photography style, no text, no logos, high contrast, warm tones, 35mm film grain. Australian landscape or city setting with Australian people."
+        },
+        {
+          "index": 10,
+          "title": "Canberra Digital Care",
+          "tone": "news",
+          "fashionYear": "2019",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Canberra Digital Care takes on the day’s Digital Duty of Care thread, translating the news into a single visual moment. Simultaneously, the nation is strengthening its digital governance framework, with the introduction of the 'Digital Duty of Care' legislation aimed at protecting citizens in the online sphere. Wells to Introduce Digital Duty of Care to Parliament. The composition keeps the human stakes of Digital Duty of Care in view without turning the news into spectacle.",
+          "prompt": "Photoreal 2019 Canberra street, citizen in period streetwear interacting with screen, strong sun geometry, surreal everyday irony, poetic street still, cinematic lens, shallow depth of field, Mexican photography style, no text, no logos, high contrast, warm tones, 35mm film grain. Australian landscape or city setting with Australian people."
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "artist": {
         "id": "modotti",
