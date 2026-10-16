@@ -2,6 +2,140 @@
   "generated": true,
   "runs": [
     {
+      "date": "2026-10-17",
+      "artist": {
+        "id": "japanese_sosaku",
+        "name": "Sōsaku-hanga creative print",
+        "era": "20th c. JP",
+        "renderMode": "graphic",
+        "aspectRatio": "3:4",
+        "tags": [
+          "graphic",
+          "asia",
+          "japan"
+        ],
+        "bio": "Sōsaku-hanga creative print (20th c. JP). Sōsaku-hanga creative woodblock: self-drawn carved printed modern Japanese scenes, expressive registration, modern print individuality. Graphic / print visual language. Associated tags: graphic, asia, japan.",
+        "photoUrl": "",
+        "photoCredit": ""
+      },
+      "themes": [
+        "Community Resilience",
+        "Indigenous Culture & Sport",
+        "Scientific Breakthroughs",
+        "Space Medicine",
+        "Environmental Innovation",
+        "Art & Solidarity"
+      ],
+      "summary": "In Australia, the week is defined by a blend of community resilience and cultural celebration. As El Niño brings record-breaking wet conditions to the east, communities are preparing with solidarity, while the energy sector demonstrates ingenuity through home battery owners earning significant payouts during grid stress. Cultural highlights include the inaugural First Nations Dreamtime Knockout in Townsville, showcasing Indigenous talent, and the powerful 'Sculpture by the Sea' exhibition, which uses art to honor survivors of domestic violence. These stories reflect a nation focused on care, heritage, and adaptive responses to environmental challenges.\n\nInternationally, science is delivering profound hope through breakthroughs in medicine and ecology. Researchers have discovered a 'Pac-Man' enzyme that devours plastic, offering a new tool against pollution, while USC scientists have developed a method to create a renewable supply of cancer-fighting cells. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. These advancements underscore the constructive power of scientific inquiry to address global health and environmental crises.\n\nThe intersection of culture and science also shines through in the Nobel Prize recognition for optogenetics, which promises breakthroughs in vision restoration. Meanwhile, archaeological discoveries in China reveal ancient connections between continents, reminding us of our shared human history. From the vibrant sports arenas of Townsville to the quiet laboratories of global research, the narrative of this week is one of human agency, kindness, and the enduring pursuit of a better, more connected world.",
+      "models": {
+        "llm": "qwen3.8-off",
+        "image": "Flux Klein",
+        "imageStyle": "flux_klein"
+      },
+      "images": [
+        {
+          "index": 1,
+          "title": "The Connected Coast",
+          "tone": "good_news",
+          "fashionYear": "2024",
+          "jpg": "01.jpg",
+          "png": "01.png",
+          "description": "A unified coastal scene in Townsville weaving together community resilience, Indigenous sport, and scientific breakthroughs. It visualizes the First Nations Dreamtime Knockout, home battery energy sharing, and the plastic-eating enzyme, set against the backdrop of El Niño rains and Sculpture by the Sea solidarity.",
+          "prompt": "Sōsaku-hanga creative woodblock print, flat limited palette, strong silhouettes. Unified Australian coastal scene in Townsville. Diverse group: Aboriginal athletes in sportswear, suburban residents with home batteries, scientists with enzyme vials. Background: eucalyptus trees, rain clouds, abstract sculptures. Modern 2024 fashion. Expressive registration, modern print individuality. No photorealism. Unified Australian scene weaving together these themes: Community Resilience, Indigenous Culture & Sport, Scientific Breakthroughs, Space Medicine, Environmental Innovation, Art & Solidarity. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 2,
+          "title": "Grid Guardians",
+          "tone": "good_news",
+          "fashionYear": "1998",
+          "jpg": "02.jpg",
+          "png": "02.png",
+          "description": "Grid Guardians takes on the day’s Community Resilience thread, translating the news into a single visual moment. As El Niño brings record-breaking wet conditions to the east, communities are preparing with solidarity, while the energy sector demonstrates ingenuity through home battery owners earning significant payouts during grid stress. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga creative woodblock print, flat colors, bold lines. Suburban Australian street, 1998 fashion. Mixed heritage residents standing near houses with large battery units. Symbol of grid stress and community ingenuity. Limited palette, strong silhouette. Modern print individuality, expressive registration. No photoreal HDR city. No Rembrandt umber. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 3,
+          "title": "Dreamtime Victory",
+          "tone": "good_news",
+          "fashionYear": "2015",
+          "jpg": "03.jpg",
+          "png": "03.png",
+          "description": "Dreamtime Victory takes on the day’s Indigenous Culture & Sport thread, translating the news into a single visual moment. Cultural highlights include the inaugural First Nations Dreamtime Knockout in Townsville, showcasing Indigenous talent, and the powerful 'Sculpture by the Sea' exhibition, which uses art to honor survivors of domestic violence. First Nations Dreamtime Knockout starts in Townsville. The composition keeps the human stakes of Indigenous Culture & Sport in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga creative woodblock print, flat limited color, strong silhouette. Townsville sports arena, 2015 fashion. Aboriginal Australian athletes in contemporary sportswear, dignified poses. Celebrating First Nations Dreamtime Knockout. Cultural pride, Indigenous talent. Modern print individuality, expressive registration. No costume, no sacred imagery. No photorealism. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 4,
+          "title": "Ocean Sculptors",
+          "tone": "news",
+          "fashionYear": "1972",
+          "jpg": "04.jpg",
+          "png": "04.png",
+          "description": "Ocean Sculptors takes on the day’s Art & Solidarity thread, translating the news into a single visual moment. Cultural highlights include the inaugural First Nations Dreamtime Knockout in Townsville, showcasing Indigenous talent, and the powerful 'Sculpture by the Sea' exhibition, which uses art to honor survivors of domestic violence. Sculpture by the Sea features hearts for women killed in domestic violence. The composition keeps the human stakes of Art & Solidarity in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga creative woodblock print, flat colors, bold lines. Australian coastal cliffs, 1972 fashion. Figures standing beside abstract stone sculptures. Honoring survivors of domestic violence. Sculpture by the Sea exhibition. Solidarity, awareness. Limited palette, strong silhouette. Modern print individuality, expressive registration. No gore, no partisan caricature. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 5,
+          "title": "Enzyme Hope",
+          "tone": "good_news",
+          "fashionYear": "2005",
+          "jpg": "05.jpg",
+          "png": "05.png",
+          "description": "A laboratory scene set in an Australian research facility, visualizing the discovery of the plastic-eating Pac-Man enzyme. Scientists in 2000s lab coats hold vials, representing a constructive scientific solution to the global plastic pollution crisis with environmental innovation.",
+          "prompt": "Sōsaku-hanga creative woodblock print, flat limited palette, strong silhouettes. Australian laboratory, 2005 fashion. Scientists in lab coats holding vials. Discovery of plastic-eating Pac-Man enzyme. Environmental innovation, scientific breakthrough. Limited color, bold lines. Modern print individuality, expressive registration. No photoreal HDR, no Rembrandt umber. COMPLETE self-contained composition with clear margin from all four edges, finished design that does not look cropped. No text, watermark, frame, logo, signature, or UI."
+        },
+        {
+          "index": 6,
+          "title": "Renewable Resilience",
+          "tone": "good_news",
+          "fashionYear": "1985",
+          "jpg": "06.jpg",
+          "png": "06.png",
+          "description": "Renewable Resilience takes on the day’s Community Resilience thread, translating the news into a single visual moment. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. Australian Space Agency: Space environment advancing medical science. The composition keeps the human stakes of Community Resilience in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga woodblock print of suburban Australian street, 1985 fashion, flat colors. Diverse homeowners with home batteries, strong silhouettes, modern Japanese print style. Expressive registration, limited palette, no photorealism. Community resilience theme, graphic poster language, bold lines, Australian setting, no text, no logos."
+        },
+        {
+          "index": 7,
+          "title": "Indigenous Athletic Pride",
+          "tone": "good_news",
+          "fashionYear": "1968",
+          "jpg": "07.jpg",
+          "png": "07.png",
+          "description": "Indigenous Athletic Pride takes on the day’s Indigenous Culture & Sport thread, translating the news into a single visual moment. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. Australian Space Agency: Space environment advancing medical science. The composition keeps the human stakes of Indigenous Culture & Sport in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga creative woodblock, 1968 fashion, Townsville coastal setting. Aboriginal Australian athletes in sportswear, strong dynamic silhouettes, flat limited color. Modern print individuality, expressive registration, no sacred imagery. Celebrating Indigenous sport, graphic illustration style, bold shapes, Australian landscape, no text, no logos."
+        },
+        {
+          "index": 8,
+          "title": "Survivor Solidarity Art",
+          "tone": "good_news",
+          "fashionYear": "1992",
+          "jpg": "08.jpg",
+          "png": "08.png",
+          "description": "Survivor Solidarity Art takes on the day’s Art & Solidarity thread, translating the news into a single visual moment. Cultural highlights include the inaugural First Nations Dreamtime Knockout in Townsville, showcasing Indigenous talent, and the powerful 'Sculpture by the Sea' exhibition, which uses art to honor survivors of domestic violence. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. The composition keeps the human stakes of Art & Solidarity in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga woodblock print, 1992 fashion, golden Australian beach. Abstract sculptures honoring survivors, flat colors, strong silhouettes. Diverse visitors in period clothing, modern Japanese print style. Expressive registration, limited palette, no gore. Art and solidarity theme, graphic poster language, bold lines, coastal setting, no text, no logos."
+        },
+        {
+          "index": 9,
+          "title": "Enzyme Discovery Wonder",
+          "tone": "good_news",
+          "fashionYear": "2010",
+          "jpg": "09.jpg",
+          "png": "09.png",
+          "description": "Enzyme Discovery Wonder takes on the day’s Environmental Innovation thread, translating the news into a single visual moment. Cultural highlights include the inaugural First Nations Dreamtime Knockout in Townsville, showcasing Indigenous talent, and the powerful 'Sculpture by the Sea' exhibition, which uses art to honor survivors of domestic violence. In the realm of space, the Australian Space Agency highlights how microgravity is accelerating medical innovations, such as remote monitoring and rehabilitation tools that benefit patients on Earth. The composition keeps the human stakes of Environmental Innovation in view without turning the news into spectacle.",
+          "prompt": "Sōsaku-hanga creative print, 2010 fashion, Australian lab and bushland. Scientists observing enzyme, flat limited color, strong silhouettes. Modern Japanese woodblock style, expressive registration. Environmental innovation theme, graphic illustration, no photorealism. Eucalyptus background, bold shapes, no text, no logos, no sacred imagery. People with Aboriginal Australian facial features (First Nations Australians), not African-American; everyday clothing, dignity, no sacred or ceremonial imagery."
+        },
+        {
+          "index": 10,
+          "title": "Space Medicine Hope",
+          "tone": "good_news",
+          "fashionYear": "2022",
+          "jpg": "10.jpg",
+          "png": "10.png",
+          "description": "Medical professionals in a modern Australian clinic benefit from space-derived rehabilitation tools. The scene highlights how microgravity research accelerates healthcare innovations, bringing remote monitoring and recovery aids to patients on Earth, framed in 2022 contemporary fashion.",
+          "prompt": "Sōsaku-hanga woodblock, 2022 fashion, modern Australian clinic. Medical staff with space-tech tools, flat colors, strong silhouettes. Diverse Australian faces, modern Japanese print style. Expressive registration, limited palette. Space medicine theme, graphic poster language, bold lines, no text, no logos, no photorealism."
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "artist": {
         "id": "iturria",
